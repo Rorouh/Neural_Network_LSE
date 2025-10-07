@@ -1,0 +1,33 @@
+# configs/training_rae.yaml
+model_name: t5-small
+output_dir: runs/exp_rae_t5s
+
+# dataset separado
+train_path: data/synthetic_rae/train.jsonl
+dev_path:   data/synthetic_rae/dev.jsonl
+test_path:  data/synthetic_rae/test.jsonl
+
+max_source_length: 96
+max_target_length: 64
+
+per_device_train_batch_size: 8
+per_device_eval_batch_size: 8
+
+learning_rate: 5e-4     # el que te iba bien
+num_train_epochs: 6
+
+eval_steps: 200
+save_steps: 400
+logging_steps: 50
+
+warmup_ratio: 0.05
+weight_decay: 0.01
+fp16: false      # CPU
+seed: 42
+gradient_checkpointing: true
+dataloader_num_workers: 2
+report_to: "none"
+
+strip_accents_targets: true
+upweight_hash_tokens: true
+hash_weight: 2.5

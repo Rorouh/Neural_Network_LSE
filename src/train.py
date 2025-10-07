@@ -5,6 +5,8 @@ from datasets import Dataset, DatasetDict
 from transformers import (AutoTokenizer, AutoModelForSeq2SeqLM,
                           DataCollatorForSeq2Seq, TrainingArguments, Trainer)
 from inspect import signature
+from src.util import strip_accents_keep_hash_upper
+from src.train_utils import WeightedTrainer
 
 def load_jsonl(path):
     rows = []
@@ -87,6 +89,8 @@ def main(cfg_path):
     optim_name    = cfg.get("optim", "adamw_torch")
 
     tokenizer = AutoTokenizer.from_pretrained(model_name)
+    hash_id = tokenizer.convert_tokens_to_ids("#") if "#" in tokenizer.get_vocab() else None
+
     spec_path = "configs/special_tokens.json"
     if os.path.exists(spec_path):
         spec = json.load(open(spec_path, "r", encoding="utf-8"))
@@ -96,6 +100,14 @@ def main(cfg_path):
     model.resize_token_embeddings(len(tokenizer))
 
     ds = build_hf_dataset(train_path, dev_path, test_path)
+
+    # === normalizar (opcional) los targets del dataset antes de tokenizar ===
+    def maybe_norm_targets(batch):
+        if cfg.get("strip_accents_targets", False):
+            batch["tgt"] = [strip_accents_keep_hash_upper(t) for t in batch["tgt"]]
+        return batch
+    ds = ds.map(maybe_norm_targets, batched=True)
+    # =======================================================================
 
     def preprocess(batch):
         model_inputs = tokenizer(
@@ -111,8 +123,6 @@ def main(cfg_path):
         model_inputs["labels"] = labels["input_ids"]
         return model_inputs
 
-
-
     ds_tok = ds.map(preprocess, batched=True, remove_columns=["src", "tgt"])
 
     def _filter_kwargs_for_cls(init_fn, kwargs):
@@ -123,7 +133,7 @@ def main(cfg_path):
         "output_dir": out_dir,
         "per_device_train_batch_size": per_device_train_bs,
         "per_device_eval_batch_size":  per_device_eval_bs,
-        "learning_rate": float(lr),              # asegura float
+        "learning_rate": float(lr),
         "num_train_epochs": num_epochs,
         "warmup_ratio": warmup_ratio,
         "weight_decay": weight_decay,
@@ -132,11 +142,11 @@ def main(cfg_path):
         # CPU-friendly
         "fp16": False,
         "bf16": False,
-        "gradient_checkpointing": False,         # <- desactiva en CPU
-        "remove_unused_columns": False,          # <- ¡clave!
+        "gradient_checkpointing": False,
+        "remove_unused_columns": False,
         "logging_strategy": "steps",
         "logging_steps": logging_steps,
-        "evaluation_strategy": "epoch",          # eval ligera al final de cada epoch
+        "evaluation_strategy": "epoch",
         "save_strategy": "epoch",
         "save_total_limit": 2,
         "report_to": "none",
@@ -146,13 +156,13 @@ def main(cfg_path):
     print(f"[DEBUG] learning_rate type={type(args_kwargs['learning_rate'])} value={args_kwargs['learning_rate']}")
     args = TrainingArguments(**_filter_kwargs_for_cls(TrainingArguments.__init__, args_kwargs))
 
-
     data_collator = DataCollatorForSeq2Seq(
         tokenizer=tokenizer,
         model=model,
         label_pad_token_id=-100
     )
-    # --- Sanity step: 1 batch con backward para comprobar gradientes
+
+    # --- Sanity step (moverlo aquí, tras crear ds_tok) ---
     try:
         import torch
         from torch.utils.data import DataLoader
@@ -172,15 +182,23 @@ def main(cfg_path):
         print(f"[SANITY] one-step loss={loss_val:.4f} grad_norm={total_norm:.4f}")
     except Exception as e:
         print("[SANITY] skipped:", repr(e))
+    # -----------------------------------------------------
 
+    trainer_cls = Trainer
+    trainer_kwargs = {}
+    if cfg.get("upweight_hash_tokens", False) and hash_id is not None:
+        trainer_cls = WeightedTrainer
+        trainer_kwargs.update({"hash_token_id": hash_id,
+                            "hash_weight": float(cfg.get("hash_weight", 2.0))})
 
-    trainer = Trainer(
+    trainer = trainer_cls(
         model=model,
         args=args,
         train_dataset=ds_tok["train"],
         eval_dataset=ds_tok["validation"],
         data_collator=data_collator,
-        tokenizer=tokenizer,  # el warning es normal en v4; ok
+        tokenizer=tokenizer,
+        **trainer_kwargs
     )
 
 

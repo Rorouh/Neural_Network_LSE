@@ -9,7 +9,15 @@ from .postprocess import postprocess_gloss
 def _noacc_lower(s: str) -> str:
     return unicodedata.normalize("NFKD", s).encode("ascii","ignore").decode("ascii").lower()
 
+L_PLACE_ADVS = {"aquí","alli","allí","allá","aca","acá","aqui"}
+L_DIR_PREPS = {"a","hacia"}
 
+AMBIG_IR_SER = {"fui","fuiste","fue","fuimos","fuisteis","fueron"}   # pretérito ser/ir
+AMBIG_VE = {"ve"}  # puede ser ir-imp o ver-3s
+
+MOTION_PREPS = {"a", "hacia", "hasta", "para"}
+AMBIG_IR_SER = {"fui","fuiste","fue","fuimos","fuisteis","fueron"}
+AMBIG_VE     = {"ve"}  # puede ser de VER o imperativo de IR
 # --- Configs con defaults seguros ---
 def _load_yaml_safe(path: str, default: dict) -> dict:
     try:
@@ -131,89 +139,82 @@ IMP_FALLBACK = {
     "da": "dar",
 }
 
-def _best_verb_lemma(token, base_after_split: str = None) -> str:
-    """
-    Elige el mejor lema para VERB teniendo en cuenta:
-      - overrides por forma
-      - imperativos irregulares frecuentes
-      - desambiguación 've' (ver vs ir) por morfología
-      - desambiguación 'fui/fue/...' (ser vs ir) por sintaxis: 'a + OBL' => ir
-    """
-    def _strip_acc(s: str) -> str:
-        return _strip_accents(s.lower())
 
-    form = token.text.lower()
-    form_noacc = _strip_acc(form)
 
-    # --- caso especial: 've' (3sg de 'ver' vs imperativo de 'ir')
-    if form_noacc == "ve":
-        # si spacy detecta imperativo → IR
-        if "Imp" in token.morph.get("Mood"):
-            return "ir"
-        # heurística adicional: si es inicio de frase/orden sencilla 'Ve a ...'
-        # y existe un OBL con 'a', lo tratamos como IR
-        has_obl_a = False
-        for ch in token.children:
-            if ch.dep_ == "obl":
-                if any(c.dep_ == "case" and c.text.lower() == "a" for c in ch.children):
-                    has_obl_a = True
-                    break
-        if has_obl_a:
-            return "ir"
-        # en el resto de declarativas: VER
-        return "ver"
 
-    # --- caso especial: formas 'fui/fue/fuiste/...'
-    FU_SER_IR = {"fui","fue","fuiste","fuisteis","fuimos","fueron"}
-    if form_noacc in FU_SER_IR:
-        # si hay un OBL con 'a' => IR (p.ej. "Ana fue a Madrid")
-        for ch in token.children:
-            if ch.dep_ == "obl":
-                if any(c.dep_ == "case" and c.text.lower() == "a" for c in ch.children):
-                    return "ir"
-        # si no, suele ser cópula SER (p.ej. "Ana fue doctora")
-        return "ser"
+def _is_motion_context(verb_tok, doc) -> bool:
+    # 1) Oblícuos del verbo con preposición de movimiento
+    for ch in verb_tok.children:
+        if ch.dep_ in {"obl","advmod"}:
+            for cc in ch.children:
+                if cc.dep_ == "case" and cc.text.lower() in MOTION_PREPS:
+                    return True
+    # 2) Mirada local derecha: "ve a X", "fue a X"
+    i = verb_tok.i
+    for j in range(i+1, min(i+4, len(doc))):
+        t = doc[j]
+        if t.text.lower() in MOTION_PREPS:
+            return True
+    return False
 
-    # --- overrides por forma (incluye tu CSV nuevo)
+def _best_verb_lemma(token, base_after_split: str = None, doc=None) -> str:
+    # 1) overrides por forma
     forms_to_try = []
     if base_after_split:
         forms_to_try.append(base_after_split.lower())
-        forms_to_try.append(_strip_acc(base_after_split))
-    forms_to_try.append(form)
+        forms_to_try.append(_strip_accents(base_after_split.lower()))
+    forms_to_try.append(token.text.lower())
+
+    # 2) imperativos irregulares frecuentes
+    form_noacc = _strip_accents(token.text.lower())
+    if form_noacc in IMP_FALLBACK:
+        return IMP_FALLBACK[form_noacc]
+
+    # 3) overrides CSV (si existe)
     for f in forms_to_try:
         if f in VERB_OV:
             return VERB_OV[f].lower()
 
-    # --- imperativos irregulares de fallback (ven, haz, pon, ...)
-    if form_noacc in IMP_FALLBACK:
-        return IMP_FALLBACK[form_noacc]
+    # 4) DESAMBIGUACIÓN SER↔IR y VE (ir/ver) por contexto
+    txt = token.text.lower()
+    if txt in AMBIG_IR_SER and doc is not None:
+        # si hay movimiento, forzamos IR; si no, deja SER (o el lemma de spaCy si es infinitivo)
+        if _is_motion_context(token, doc):
+            return "ir"
+        lem = token.lemma_.lower()
+        if lem.endswith(("ar","er","ir")):
+            return lem
+        return "ser"
 
-    # --- lemma spaCy si es infinitivo
+    if txt in AMBIG_VE and doc is not None:
+        # "ve a casa" → IR; "él ve la tv" → VER
+        return "ir" if _is_motion_context(token, doc) else "ver"
+
+    # 5) lemma de spaCy si parece infinitivo
     lem = token.lemma_.lower()
-    if lem.endswith(("ar", "er", "ir")):
+    if lem.endswith(("ar","er","ir")):
         return lem
 
-    # --- último recurso
-    return _strip_acc(token.text)
+    # 6) último recurso: forma superficial sin acentos
+    return _strip_accents(token.text).lower()
+
 
 def _to_gloss(token) -> str:
     def valid(g): return isinstance(g, str) and g.strip() != "" and str(g).lower() != "nan"
-
     if token.pos_ == "VERB":
-        lemma = _best_verb_lemma(token)
+        lemma = _best_verb_lemma(token, doc=token.doc)  # <<--- doc
         g = _lex_by_lemma(lemma, token.pos_)
         return g if valid(g) else lemma.upper()
 
     g = _lex_by_form(token.text.lower(), token.pos_)
-    if valid(g):
-        return g
+    if valid(g): return g
     g = _lex_by_lemma(token.lemma_.lower(), token.pos_)
-    if valid(g):
-        return g
+    if valid(g): return g
 
     if token.pos_ == "PROPN":
         return f"#{token.text.upper()}"
     return f"#{token.text.upper()}"
+
 
 # --- Clíticos ---
 def _split_enclitics(text: str) -> Tuple[str, List[str]]:
@@ -361,10 +362,12 @@ def translate_rule_based(text: str) -> str:
         base_txt, encl = _split_enclitics(verb.text)
         for p in reversed(encl):
             slots["PRED"].extend(_expand_clitic_token(p.lower()))
-        lemma = _best_verb_lemma(verb, base_txt)
+        # ¡doc aquí!
+        lemma = _best_verb_lemma(verb, base_txt, doc=doc)
         g = _lex_by_lemma(lemma, "VERB")
         verb_gloss = g if isinstance(g, str) and g else lemma.upper()
         slots["VERB"].append(verb_gloss)
+
 
     slots["PRED"].extend(_collect_predicate(doc, used_idx))
 

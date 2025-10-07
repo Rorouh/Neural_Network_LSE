@@ -28,6 +28,17 @@ def load_lexicon_csv(path):
     return {"by_lemma": by_lemma, "by_form": by_form}
 
 
+def strip_accents_keep_hash_upper(s: str) -> str:
+    # quita acentos, mantiene '#', devuelve en MAYÚSCULAS
+    out = []
+    for ch in unicodedata.normalize("NFKD", s):
+        if unicodedata.combining(ch):
+            continue
+        out.append(ch)
+    s2 = "".join(out)
+    return s2.upper()
+
+
 def _normalize_ascii_lower(s: str) -> str:
     # 'Dámelo' -> 'damelo'
     return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii").lower().strip()
