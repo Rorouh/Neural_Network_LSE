@@ -1,0 +1,14 @@
+spacy>=3.7
+es-core-news-md @ https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.7.0/es_core_news_md-3.7.0-py3-none-any.whl
+pydantic>=2.0
+pyyaml>=6.0
+pandas>=2.0
+regex>=2024.0
+tqdm>=4.66
+numpy>=1.26
+scikit-learn>=1.4
+sacrebleu>=2.4
+transformers>=4.43
+datasets>=2.20
+accelerate>=0.33
+torch   # si tienes CUDA, instala la build adecuada; mejor este: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121

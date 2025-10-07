@@ -1,0 +1,3 @@
+pytest -q
+python ./prueba.py #Para ver que tenemos bien configuradas las reglas
+python -m src.synth_generator #Generamos unos datos sinteticos para poder entrenar el modelo.

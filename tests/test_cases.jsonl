@@ -1,0 +1,5 @@
+{"src":"Ayer compré un libro en la tienda.","expect":"AYER TIENDA YO LIBRO COMPRAR"}
+{"src":"Mi casa es grande.","expect":"CASA MI GRANDE"}
+{"src":"¿Cómo te llamas?","expect":"TU NOMBRE QUE [WH]"}
+{"src":"No quiero café.","expect":"YO CAFE NO QUERER"}
+{"src":"El perro rojo duerme en casa.","expect":"CASA PERRO ROJO DORMIR"}

@@ -1,0 +1,41 @@
+time_lex:
+  - "AYER"
+  - "HOY"
+  - "MAÑANA"
+  - "A LAS"
+  - "LUEGO"
+  - "DESPUES"
+  - "PRONTO"
+  - "ANOCHE"
+  - "SIEMPRE"
+  - "A VECES"
+
+place_preps:
+  - "en"
+  - "a"
+  - "hacia"
+  - "desde"
+  - "cerca de"
+  - "delante de"
+  - "detrás de"
+
+neg_lex:
+  - "no"
+  - "ni"
+  - "tampoco"
+  - "nunca"
+
+wh_lex:
+  QUE:    ["qué", "que"]
+  QUIEN:  ["quién", "quien"]
+  COMO:   ["cómo", "como"]
+  DONDE:  ["dónde", "donde"]
+  CUANDO: ["cuándo", "cuando"]
+  PORQUE: ["por qué", "porque"]
+
+markers:
+  subjunctive: "OJALA"
+  imperative:  "DEBE"
+
+fallback:
+  fingerspell_prefix: "#"

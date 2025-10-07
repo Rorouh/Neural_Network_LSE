@@ -1,0 +1,28 @@
+# Orden principal de linearización para LSE (tu versión v.1)
+order:
+  - TIME        # CCT / adverbios de tiempo (AYER/HOY/MAÑANA, "A LAS 9")
+  - PLACE       # CCL (LUGAR)
+  - SUBJECT     # SUJETO (YO/TU/EL/ELLA/PROPN… o inferido)
+  - PRED        # PREDICADO (OBJETOS, complementos, adverbios de modo, etc.)
+  - VERB        # VERBO al final (en infinitivo)
+
+adj:
+  postpose: true           # adjetivo pospuesto (LIBRO ROJO)
+
+negation:
+  # ⚠️ Tu norma: NEGACIÓN al final, después del verbo principal
+  position: "after_verb_end"   # opciones soportadas: before_verb | after_verb_end
+
+time:
+  fronted: true           # CCT/Adverbio de tiempo va al frente
+
+place:
+  fronted: true           # CCL detrás del tiempo (puedes poner false si prefieres al final)
+
+questions:
+  wh_final: true          # WH (QUE/QUIEN/COMO/DONDE/...) al final
+  yesno_mark: ""          # no usamos [Q]; solo "?" final en postproceso
+
+punctuation:
+  question_mark_end: true
+  exclamation_mark_end: true

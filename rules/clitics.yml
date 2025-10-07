@@ -1,0 +1,29 @@
+# Manejo de clíticos (pronombres átonos) para CI/CD.
+# Los clíticos individuales también están vaciados en el CSV para no duplicar.
+
+# Objeto directo (CD) → glosas genéricas. Ajusta si quieres más finura por género/número real.
+direct_object:
+  lo:  "ESO"
+  la:  "ESO"
+  los: "ESOS"
+  las: "ESAS"
+
+# Objeto indirecto (CI) → "A MI / A TI / A EL / ..."
+indirect_object:
+  me:  "A MI"
+  te:  "A TI"
+  le:  "A EL"
+  nos: "A NOSOTROS"
+  os:  "A VOSOTROS"
+  les: "A ELLOS"
+
+# Reflexivo/leísmo (simplificado).
+# Puedes poner "A SI" si quieres marcar reflexivo; lo dejo vacío para no forzar ruido.
+reflexive:
+  se: ""
+
+# Separar enclíticos: "dámelo" → base "dá" + clíticos ["me","lo"]  (el motor los re-mapea).
+split_enclitics: true
+
+# Si aparece más de un clítico, orden de expansión CI → CD (me/te/le... primero, lo/la... después).
+expansion_order: ["indirect_object", "direct_object"]

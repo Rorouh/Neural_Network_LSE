@@ -1,0 +1,6 @@
+drop:
+  articles: true             # el/la/los/las/un/una/unos/unas
+  copula: true               # ser/estar en copulativas (se omiten)
+  auxiliaries: true          # haber/ser como auxiliares
+  other_determiners: true    # otros determinantes (este/ese/aquel...) (opcional)   other_determiners: false   # <- así no se borran los posesivos
+  keep_in_adverbials: true   # si un determinante es parte de una locución adverbial de tiempo/lugar, consérvala (p. ej. "A LAS 9")

@@ -1,0 +1,7 @@
+wh:
+  move_to_end: true
+  keep_punctuation: false
+
+yesno:
+  add_marker: true
+  marker: "[Q]"

@@ -1,0 +1,53 @@
+# Reglas de transformación específicas de LSE (solo LSE, sin lectura fácil)
+
+tense_markers:
+  # Si NO hay CCT explícito y el verbo indica tiempo:
+  past:   "PASADO"   # añadir al inicio
+  future: "FUTURO"   # o "PROXIMO" si prefieres
+  present: ""        # presente no añade marcador textual
+
+tense_detection:
+  use_morph_tense: true     # usa Tense=Past/Fut de spaCy si no hay adverbio de tiempo
+  prefer_adverbs: true      # si hay "AYER/HOY/MAÑANA/..." no añadas PASADO/FUTURO
+  fallback_present: true    # si no detecta, cae en presente
+
+mood_markers:
+  subjunctive:
+    add_at: "start"         # OJALA al inicio
+    token: "OJALA"
+  imperative:
+    add_at: "end"           # DEBE al final
+    token: "DEBE"
+
+polarity:
+  # Tu norma: la NEGACIÓN va al final, después del verbo
+  negative_position: "after_verb_end"   # opciones soportadas: after_verb_end | before_verb
+
+questions:
+  # Colocar WH al final (QUE/QUIEN/COMO/DONDE/...)
+  wh_to_end: true
+  yesno_punctuation_end: true   # preguntas sí/no: añade "?" al final (postproceso)
+
+exclamations:
+  punctuation_end: true         # exclamativas: "!" al final (postproceso)
+
+affirmative:
+  use_base_structure: true      # Adverbio/Tiempo + Sujeto + Predicado + Verbo
+
+predicate:
+  # Qué entra en el PRED (excluye tiempo, lugar, sujeto, verbo)
+  include:
+    - objects
+    - oblique
+    - adverbs_manner
+    - particles
+  exclude:
+    - time
+    - place
+    - subject
+    - main_verb
+
+# Utilidades opcionales
+cleanup:
+  deduplicate_tokens: true      # si se repite alguna glosa por accidente, deduplicar
+  strip_empty: true
