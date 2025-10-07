@@ -1,4 +1,4 @@
-# synth_engine.py
+# src/synth_engine.py
 import json, random
 from dataclasses import dataclass
 from typing import List, Tuple, Dict, Callable
@@ -20,18 +20,27 @@ NOUNS: List[Noun] = [
     Noun("libro", "m"), Noun("café", "m"),
     Noun("película", "f"), Noun("casa", "f"),
     Noun("zapatos", "m", "pl"), Noun("manzanas", "f", "pl"),
+    Noun("tarea", "f"), Noun("agua", "f"), Noun("pan", "m"),
+]
+
+# Nombres propios variados (con y sin tilde) para entrenar el copiado + '#'
+NAMES: List[str] = [
+    "Ana","Miguel","Carlos","Lucía","José","María","Raúl","Íñigo","Óscar","Sofía",
+    "Álvaro","Martín","Paula","Julián","Nuria","Camila","Noé","Irene","Ariadna","Aarón",
+    "Juan","Elena","Pérez","García","López","Rubén","Tomás","Marcos"
 ]
 
 PLACES: List[str] = [
-    "en la tienda", "en casa", "en Madrid", "en el parque", "a la escuela", "en el trabajo", ""
+    "en la tienda", "en casa", "en Madrid", "en el parque", "a la escuela", "en el trabajo","a Madrid", ""
 ]
 
 TIMES: List[str] = [
-    "Ayer", "Hoy", "Mañana", "Ahora", "Luego", "A las 9", ""
+    "Ayer", "Hoy", "Mañana", "Ahora", "Luego", "A las 9", "A las 7", "Por la noche", ""
 ]
 
 SUBJECTS_1S: List[str] = ["Yo"]
-SUBJECTS_3S: List[str] = ["Ana", "Miguel", "Lucía", "Carlos"]
+SUBJECTS_2S: List[str] = ["Tú"]
+SUBJECTS_3S: List[str] = ["Ana", "Miguel", "Lucía", "Carlos", "María", "Raúl"]
 
 # Determinantes acordados
 def det(typ: str, n: Noun) -> str:
@@ -50,21 +59,23 @@ def det(typ: str, n: Noun) -> str:
     }
     return table[(typ, n.gender, n.number)]
 
-# Verbitos con formas mínimas necesarias
+# Verbitos con formas mínimas necesarias (+ jugar / llamarse)
 VERBS: Dict[str, Dict[str, str]] = {
     "comprar": {"1s_pret":"compré","3s_pret":"compró","1s_pres":"compro","3s_pres":"compra","inf":"comprar"},
     "ver":     {"1s_pret":"vi","3s_pret":"vio","1s_pres":"veo","3s_pres":"ve","inf":"ver"},
     "querer":  {"1s_pres":"quiero","3s_pres":"quiere","1s_pret":"quise","3s_pret":"quiso","inf":"querer"},
     "ir":      {"1s_pres":"voy","3s_pres":"va","1s_pret":"fui","3s_pret":"fue","imp_2s":"ve","inf":"ir"},
-    "vivir":   {"1s_pres":"vivo","3s_pres":"vive","1s_pret":"viví","3s_pret":"vivió","inf":"vivir"},
+    "vivir":   {"1s_pres":"vivo","2s_pres":"vives","3s_pres":"vive","1s_pret":"viví","3s_pret":"vivió","inf":"vivir"},
     "dar":     {"imp_2s":"da","inf":"dar"},
-    "venir":   {"imp_2s":"ven","inf":"venir"},
+    "venir":   {"imp_2s":"ven","3s_pres":"viene","inf":"venir"},
     "hacer":   {"imp_2s":"haz","inf":"hacer"},
     "poner":   {"imp_2s":"pon","inf":"poner"},
     "decir":   {"imp_2s":"di", "inf":"decir"},
     "llover":  {"subj_3s":"llueva","inf":"llover"},
     # Reflexivo para WH de "llamarse"
     "llamar":  {"1s_pres_ref":"me llamo","2s_pres_ref":"te llamas","3s_pres_ref":"se llama","inf":"llamar"},
+    # Nuevo: jugar (formas básicas)
+    "jugar":   {"1s_pres":"juego","2s_pres":"juegas","3s_pres":"juega","inf":"jugar"},
 }
 
 WH_BANK = [
@@ -81,6 +92,8 @@ WH_BANK = [
 def _clean_spaces(s: str) -> str:
     s = s.replace(" ,", ",").replace(" .", ".")
     s = " ".join(s.split())
+    # arreglos pequeños
+    s = s.replace(" al la ", " a la ").replace(" al el ", " al ")
     return s
 
 def _maybe(p: float) -> bool:
@@ -123,14 +136,37 @@ def gen_time_place_stmt() -> str:
     pieces = []
     if time: pieces.append(time)
     pieces.append(S)
-    pieces.append(form)
-    if obj and v != "ir":  # para "ir" no siempre meter objeto
+    pieces.append(form) 
+    if obj and v not in ("ir","vivir"): # para "ir", "vivir" no siempre meter objeto
         pieces.append(obj)
     if place:
         pieces.append(place)
 
     sent = " ".join(pieces) + "."
     return _clean_spaces(sent)
+
+def gen_ir_ser_ambiguity() -> str:
+    # 50% IR con 'a + lugar', 50% SER con predicativo
+    if _maybe(0.5):
+        name = _choose(NAMES)
+        place = "a Madrid"
+        return _clean_spaces(f"Ayer {name} fue {place}.")
+    else:
+        name = _choose(NAMES)
+        pred = _choose(["doctor", "doctora", "profesor", "actriz"])
+        return _clean_spaces(f"Ayer {name} fue {pred}.")
+
+def gen_ve_ambiguity() -> str:
+    # Imperativo de IR: "Ve a casa ahora."
+    # Vs declarativa de VER: "Carlos ve la película en Madrid."
+    if _maybe(0.5):
+        return "Ve a casa ahora."
+    else:
+        name = _choose(SUBJECTS_3S)
+        obj = "la película"
+        place = "en Madrid"
+        return _clean_spaces(f"Hoy {name} ve {obj} {place}.")
+
 
 def gen_negation_stmt() -> str:
     """
@@ -176,8 +212,6 @@ def gen_imperative() -> str:
 def gen_ojala() -> str:
     """
     Oraciones desiderativas con 'Ojalá' + subjuntivo 3a pers. + (opcional) tiempo:
-    - "Ojalá llueva mañana."
-    - "Ojalá venga Ana."
     """
     choices = [
         "Ojalá llueva mañana.",
@@ -186,6 +220,46 @@ def gen_ojala() -> str:
         "Ojalá pueda venir Miguel mañana.",
     ]
     return _clean_spaces(_choose(choices))
+
+def gen_jugar_futbol() -> str:
+    """
+    Cobertura de 'jugar al fútbol' con sujetos 1s/2s/3s y lugar/tiempo opcional.
+    """
+    time = _choose(TIMES)
+    place = _choose(PLACES)
+    who_type = random.choice(["1s","2s","3s"])
+    if who_type == "1s":
+        S = "Yo"
+        vform = VERBS["jugar"]["1s_pres"]  # juego
+    elif who_type == "2s":
+        S = "Tú"
+        vform = VERBS["jugar"]["2s_pres"]  # juegas
+    else:
+        S = _choose(NAMES)
+        vform = VERBS["jugar"]["3s_pres"]  # juega
+
+    pieces = []
+    if time: pieces.append(time)
+    # 30% quitamos el sujeto explícito en 1s para variar (e.g., "Juego al fútbol.")
+    if not (who_type == "1s" and _maybe(0.3)):
+        pieces.append(S)
+    pieces.append(vform)
+    pieces.append("al fútbol")
+    if place: pieces.append(place)
+    return _clean_spaces(" ".join(pieces) + ".")
+
+def gen_llamarse() -> str:
+    """
+    Frases de 'llamarse' (afirmativa y 2a persona típica).
+    """
+    if _maybe(0.5):
+        # afirmativa
+        name = _choose(NAMES)
+        return _clean_spaces(f"Yo me llamo {name}.")
+    else:
+        # variante sin 'Yo'
+        name = _choose(NAMES)
+        return _clean_spaces(f"Me llamo {name}.")
 
 # -------------------------------
 # Bucle de generación
@@ -197,6 +271,10 @@ GENS: List[Tuple[str, Callable[[], str]]] = [
     ("wh",         gen_wh_question),
     ("imperative", gen_imperative),
     ("ojala",      gen_ojala),
+    ("jugar",      gen_jugar_futbol),
+    ("llamarse",   gen_llamarse),
+    ("ir_ser_amb", gen_ir_ser_ambiguity),   # <-- nuevo
+    ("ve_amb",     gen_ve_ambiguity),       # <-- nuevo
 ]
 
 def sanity_ok(src: str, tgt: str) -> bool:
@@ -205,7 +283,9 @@ def sanity_ok(src: str, tgt: str) -> bool:
     - Ojalá -> contiene 'OJALA'
     - Pregunta WH -> WH al final
     - Imperativo 'Ven...' -> sujeto TU y verbo VENIR
-    - Dámelo -> aparece A MI/ESO o similar por clíticos (no obligatorio, pero útil)
+    - Dámelo -> aparece A MI/ESO o similar por clíticos (si está, mejor)
+    - Jugar al fútbol -> verbo JUGAR→inf 'JUGAR' en target (reglas lo llevan a infinitivo)
+    - Llamarse -> verbo LLAMAR y (si hay nombre) #NOMBRE en target (reglas + léxico)
     """
     s = src.strip()
     t = tgt.strip()
@@ -214,7 +294,6 @@ def sanity_ok(src: str, tgt: str) -> bool:
     if "ojalá" in low and "OJALA" not in t:
         return False
     if "¿" in s or "?" in s:
-        # debe tener algún WH al final aceptable (COMO/DONDE/QUIEN/QUE/CUANDO/PORQUE)
         ok = any(t.endswith(x) for x in [" COMO", " DONDE", " QUIEN", " QUE", " CUANDO", " PORQUE", "¿", "?"])
         if not ok:
             return False
@@ -222,14 +301,17 @@ def sanity_ok(src: str, tgt: str) -> bool:
         if not ("TU" in t and "VENIR" in t):
             return False
     if "dámelo" in low:
-        # no lo hacemos obligatorio, pero si está, mejor que aparezca alguna expansión de clíticos
         if not (("A MI" in t) or ("ESO" in t)):
+            return False
+    if "fútbol" in low and "JUGAR" not in t:
+        return False
+    if "me llamo" in low or "yo me llamo" in low:
+        if "LLAMAR" not in t:
             return False
     return True
 
 def generate_split(n: int) -> List[Dict[str, str]]:
     out = []
-    # balance aproximado por tipo
     per = max(1, n // len(GENS))
     for name, fn in GENS:
         for _ in range(per):
@@ -241,7 +323,6 @@ def generate_split(n: int) -> List[Dict[str, str]]:
                 if sanity_ok(src, tgt) or tries > 5:
                     out.append({"src": src, "tgt": tgt, "tpl": name})
                     break
-    # completar si falta por redondeos
     while len(out) < n:
         name, fn = _choose(GENS)
         tries = 0

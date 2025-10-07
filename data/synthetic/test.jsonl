@@ -1,400 +1,400 @@
-{"src": "Hoy Yo veo una película en el parque.", "tgt": "HOY EN PARQUE YO PELICULA VER", "tpl": "time_place"}
-{"src": "Yo voy.", "tgt": "YO", "tpl": "time_place"}
-{"src": "A las 9 Carlos va en el parque.", "tgt": "A LAS 9 EN PARQUE #CARLOS IR", "tpl": "time_place"}
-{"src": "Ayer Carlos vivió una casa a la escuela.", "tgt": "AYER A ESCUELA #CARLOS CASA VIVIR", "tpl": "time_place"}
-{"src": "Luego Miguel va en la tienda.", "tgt": "LUEGO EN TIENDA #MIGUEL IR", "tpl": "time_place"}
-{"src": "Mañana Yo vivo película en el trabajo.", "tgt": "MAÑANA YO #VIVO PELICULA TRABAJO", "tpl": "time_place"}
-{"src": "Luego Yo compro libro a la escuela.", "tgt": "LUEGO YO LIBRO ESCUELA COMPRAR", "tpl": "time_place"}
-{"src": "Luego Lucía va en Madrid.", "tgt": "LUEGO EN #MADRID #LUCÍA IR", "tpl": "time_place"}
-{"src": "A las 9 Yo compro el libro a la escuela.", "tgt": "A LAS 9 YO LIBRO ESCUELA COMPRAR", "tpl": "time_place"}
-{"src": "Hoy Ana va a la escuela.", "tgt": "HOY A ESCUELA #ANA IR", "tpl": "time_place"}
-{"src": "Luego Yo voy en el parque.", "tgt": "LUEGO EN PARQUE YO IR", "tpl": "time_place"}
-{"src": "Lucía va en la tienda.", "tgt": "EN TIENDA #LUCÍA IR", "tpl": "time_place"}
-{"src": "Hoy Yo vivo casa.", "tgt": "HOY YO #VIVO CASA", "tpl": "time_place"}
-{"src": "Ayer Lucía vio libro en el parque.", "tgt": "AYER EN PARQUE #LUCÍA LIBRO VER", "tpl": "time_place"}
-{"src": "A las 9 Yo veo la película en el trabajo.", "tgt": "A LAS 9 EN TRABAJO YO PELICULA VER", "tpl": "time_place"}
-{"src": "Mañana Miguel ve una película en Madrid.", "tgt": "MAÑANA EN #MADRID TU PELICULA IR", "tpl": "time_place"}
-{"src": "Hoy Yo compro café a la escuela.", "tgt": "HOY YO CAFE ESCUELA COMPRAR", "tpl": "time_place"}
-{"src": "Ayer Yo fui a la escuela.", "tgt": "AYER YO ESCUELA", "tpl": "time_place"}
+{"src": "Mañana Yo veo el pan en Madrid.", "tgt": "MAÑANA EN #MADRID YO #PAN VER", "tpl": "time_place"}
+{"src": "Mañana Ana compra una tarea en el parque.", "tgt": "MAÑANA #ANA #TAREA PARQUE COMPRAR", "tpl": "time_place"}
+{"src": "Ayer María vio las manzanas a la escuela.", "tgt": "AYER #MARÍA #MANZANAS ESCUELA VER", "tpl": "time_place"}
+{"src": "Mañana Yo compro el café en la tienda.", "tgt": "MAÑANA EN TIENDA YO CAFE COMPRAR", "tpl": "time_place"}
+{"src": "Ahora Yo voy.", "tgt": "YO AHORA", "tpl": "time_place"}
+{"src": "Ahora Yo voy en la tienda.", "tgt": "EN TIENDA YO AHORA IR", "tpl": "time_place"}
+{"src": "A las 9 Yo veo una agua en el parque.", "tgt": "A LAS 9 EN PARQUE YO AGUA VER", "tpl": "time_place"}
+{"src": "A las 7 Yo vivo en Madrid.", "tgt": "A LAS 7 YO #VIVO #MADRID", "tpl": "time_place"}
+{"src": "Mañana Yo voy en casa.", "tgt": "MAÑANA EN CASA YO IR", "tpl": "time_place"}
+{"src": "Ahora Yo compro tarea en el trabajo.", "tgt": "EN TRABAJO YO AHORA #TAREA COMPRAR", "tpl": "time_place"}
+{"src": "Por la noche María va en la tienda.", "tgt": "#NOCHE EN TIENDA #MARÍA IR", "tpl": "time_place"}
+{"src": "Mañana Raúl ve los zapatos en casa.", "tgt": "MAÑANA #RAÚL #ZAPATOS CASA VER", "tpl": "time_place"}
+{"src": "Por la noche Yo voy en Madrid.", "tgt": "#NOCHE EN #MADRID YO IR", "tpl": "time_place"}
+{"src": "A las 9 Yo vivo en el trabajo.", "tgt": "A LAS 9 YO #VIVO TRABAJO", "tpl": "time_place"}
+{"src": "Luego Raúl ve el café en Madrid.", "tgt": "LUEGO EN #MADRID #RAÚL CAFE VER", "tpl": "time_place"}
+{"src": "Yo compro la casa en el trabajo.", "tgt": "EN TRABAJO YO CASA COMPRAR", "tpl": "time_place"}
+{"src": "Hoy Yo veo un pan.", "tgt": "HOY YO #PAN VER", "tpl": "time_place"}
+{"src": "Luego Lucía vive a la escuela.", "tgt": "LUEGO A ESCUELA #LUCÍA VIVIR", "tpl": "time_place"}
 {"src": "Ahora Yo voy en casa.", "tgt": "EN CASA YO AHORA IR", "tpl": "time_place"}
-{"src": "Hoy Carlos compra el café en la tienda.", "tgt": "HOY EN TIENDA #CARLOS CAFE COMPRAR", "tpl": "time_place"}
-{"src": "Hoy Carlos ve zapatos en la tienda.", "tgt": "HOY TU #ZAPATOS TIENDA IR", "tpl": "time_place"}
-{"src": "Ayer Yo compré un café en Madrid.", "tgt": "AYER EN #MADRID YO CAFE COMPRAR", "tpl": "time_place"}
-{"src": "Ayer Ana vivió café en casa.", "tgt": "AYER EN CASA #ANA CAFE VIVIR", "tpl": "time_place"}
-{"src": "Ayer Carlos compró libro en el trabajo.", "tgt": "AYER EN TRABAJO #CARLOS LIBRO COMPRAR", "tpl": "time_place"}
-{"src": "Mañana Lucía compra los zapatos en el parque.", "tgt": "MAÑANA #LUCÍA #ZAPATOS PARQUE COMPRAR", "tpl": "time_place"}
-{"src": "A las 9 Lucía ve unos zapatos a la escuela.", "tgt": "A LAS 9 TU #ZAPATOS ESCUELA IR", "tpl": "time_place"}
-{"src": "Hoy Ana ve la película.", "tgt": "HOY TU PELICULA IR", "tpl": "time_place"}
-{"src": "A las 9 Yo veo el café en Madrid.", "tgt": "A LAS 9 EN #MADRID YO CAFE VER", "tpl": "time_place"}
-{"src": "A las 9 Yo compro manzanas en la tienda.", "tgt": "A LAS 9 EN TIENDA YO #MANZANAS COMPRAR", "tpl": "time_place"}
-{"src": "Luego Yo compro película en Madrid.", "tgt": "LUEGO EN #MADRID YO PELICULA COMPRAR", "tpl": "time_place"}
-{"src": "Luego Miguel va en el trabajo.", "tgt": "LUEGO EN TRABAJO #MIGUEL IR", "tpl": "time_place"}
-{"src": "Mañana Yo voy.", "tgt": "MAÑANA YO", "tpl": "time_place"}
-{"src": "Yo voy.", "tgt": "YO", "tpl": "time_place"}
-{"src": "Yo vivo libro en casa.", "tgt": "YO #VIVO LIBRO CASA", "tpl": "time_place"}
-{"src": "Ayer Carlos vio la casa en el parque.", "tgt": "AYER EN PARQUE #CARLOS CASA VER", "tpl": "time_place"}
-{"src": "Hoy Yo compro unas manzanas en la tienda.", "tgt": "HOY EN TIENDA YO #MANZANAS COMPRAR", "tpl": "time_place"}
-{"src": "Luego Lucía vive unos zapatos en casa.", "tgt": "LUEGO #LUCÍA #ZAPATOS CASA VIVIR", "tpl": "time_place"}
-{"src": "A las 9 Yo vivo los zapatos.", "tgt": "A LAS 9 YO #ZAPATOS VIVIR", "tpl": "time_place"}
-{"src": "Yo vivo la película en el trabajo.", "tgt": "YO PELICULA TRABAJO VIVIR", "tpl": "time_place"}
-{"src": "Yo vivo unas manzanas en Madrid.", "tgt": "EN #MADRID YO #MANZANAS VIVIR", "tpl": "time_place"}
-{"src": "Ayer Yo compré la película en la tienda.", "tgt": "AYER EN TIENDA YO PELICULA COMPRAR", "tpl": "time_place"}
-{"src": "A las 9 Yo veo una película en Madrid.", "tgt": "A LAS 9 EN #MADRID YO PELICULA VER", "tpl": "time_place"}
-{"src": "Miguel vive zapatos en la tienda.", "tgt": "#MIGUEL #ZAPATOS TIENDA VIVIR", "tpl": "time_place"}
-{"src": "Hoy Miguel vive manzanas en el trabajo.", "tgt": "HOY #MIGUEL #MANZANAS TRABAJO VIVIR", "tpl": "time_place"}
-{"src": "Hoy Yo compro película en Madrid.", "tgt": "HOY EN #MADRID YO PELICULA COMPRAR", "tpl": "time_place"}
-{"src": "Ahora Yo vivo el café en la tienda.", "tgt": "EN TIENDA YO AHORA CAFE VIVIR", "tpl": "time_place"}
-{"src": "A las 9 Yo vivo la casa en el parque.", "tgt": "A LAS 9 EN PARQUE YO CASA VIVIR", "tpl": "time_place"}
-{"src": "Hoy Yo veo café en la tienda.", "tgt": "HOY EN TIENDA YO CAFE VER", "tpl": "time_place"}
-{"src": "Luego Yo veo un libro.", "tgt": "LUEGO YO LIBRO VER", "tpl": "time_place"}
-{"src": "A las 9 Yo veo los zapatos en el parque.", "tgt": "A LAS 9 YO #ZAPATOS PARQUE VER", "tpl": "time_place"}
-{"src": "Ahora Ana ve zapatos en la tienda.", "tgt": "TU AHORA #ZAPATOS TIENDA IR", "tpl": "time_place"}
-{"src": "Mañana Yo compro un café en Madrid.", "tgt": "MAÑANA EN #MADRID YO CAFE COMPRAR", "tpl": "time_place"}
-{"src": "Mañana Yo voy en la tienda.", "tgt": "MAÑANA EN TIENDA YO IR", "tpl": "time_place"}
+{"src": "A las 7 Yo compro libro en casa.", "tgt": "A LAS 7 EN CASA YO LIBRO COMPRAR", "tpl": "time_place"}
+{"src": "Miguel va a la escuela.", "tgt": "A ESCUELA #MIGUEL IR", "tpl": "time_place"}
+{"src": "Luego Yo vivo.", "tgt": "LUEGO YO #VIVO", "tpl": "time_place"}
+{"src": "A las 9 Raúl compra una película a Madrid.", "tgt": "A LAS 9 #RAÚL PELICULA #MADRID COMPRAR", "tpl": "time_place"}
+{"src": "Mañana Yo veo una agua.", "tgt": "MAÑANA YO AGUA VER", "tpl": "time_place"}
+{"src": "Luego Carlos va en la tienda.", "tgt": "LUEGO EN TIENDA #CARLOS IR", "tpl": "time_place"}
+{"src": "A las 9 Ana vive en casa.", "tgt": "A LAS 9 EN CASA #ANA VIVIR", "tpl": "time_place"}
+{"src": "A las 9 Yo voy en el parque.", "tgt": "A LAS 9 EN PARQUE YO IR", "tpl": "time_place"}
+{"src": "A las 9 Yo voy a Madrid.", "tgt": "A LAS 9 A #MADRID YO IR", "tpl": "time_place"}
+{"src": "A las 9 Miguel compra una película a la escuela.", "tgt": "A LAS 9 A ESCUELA #MIGUEL PELICULA COMPRAR", "tpl": "time_place"}
+{"src": "Ayer Yo viví en casa.", "tgt": "AYER EN CASA YO VIVIR", "tpl": "time_place"}
+{"src": "Hoy Yo voy a la escuela.", "tgt": "HOY A ESCUELA YO IR", "tpl": "time_place"}
+{"src": "Ayer Yo compré la película en el trabajo.", "tgt": "AYER EN TRABAJO YO PELICULA COMPRAR", "tpl": "time_place"}
+{"src": "Hoy Ana vive en el trabajo.", "tgt": "HOY EN TRABAJO #ANA VIVIR", "tpl": "time_place"}
 {"src": "Yo voy en el trabajo.", "tgt": "EN TRABAJO YO IR", "tpl": "time_place"}
-{"src": "Hoy Yo voy en casa.", "tgt": "HOY EN CASA YO IR", "tpl": "time_place"}
-{"src": "Hoy Yo veo los zapatos en el parque.", "tgt": "HOY YO #ZAPATOS PARQUE VER", "tpl": "time_place"}
-{"src": "Mañana Yo veo manzanas a la escuela.", "tgt": "MAÑANA A ESCUELA YO #MANZANAS VER", "tpl": "time_place"}
-{"src": "Ayer Lucía vio los zapatos en el parque.", "tgt": "AYER #LUCÍA #ZAPATOS PARQUE VER", "tpl": "time_place"}
-{"src": "A las 9 Yo compro el libro en casa.", "tgt": "A LAS 9 EN CASA YO LIBRO COMPRAR", "tpl": "time_place"}
-{"src": "Luego Yo compro la casa en Madrid.", "tgt": "LUEGO EN #MADRID YO CASA COMPRAR", "tpl": "time_place"}
-{"src": "Mañana Miguel compra película.", "tgt": "MAÑANA #MIGUEL #COMPRA PELICULA", "tpl": "time_place"}
-{"src": "Ahora Yo vivo manzanas en casa.", "tgt": "EN CASA YO AHORA #MANZANAS VIVIR", "tpl": "time_place"}
-{"src": "Luego Yo vivo la película en la tienda.", "tgt": "LUEGO YO PELICULA TIENDA VIVIR", "tpl": "time_place"}
-{"src": "Carlos vive la película a la escuela.", "tgt": "A ESCUELA #CARLOS PELICULA VIVIR", "tpl": "time_place"}
-{"src": "Hoy Yo voy en Madrid.", "tgt": "HOY EN #MADRID YO IR", "tpl": "time_place"}
-{"src": "Ahora Miguel va a la escuela.", "tgt": "A ESCUELA #MIGUEL AHORA IR", "tpl": "time_place"}
-{"src": "Ahora Yo voy en Madrid.", "tgt": "EN #MADRID YO AHORA IR", "tpl": "time_place"}
-{"src": "A las 9 Lucía vive zapatos.", "tgt": "A LAS 9 #LUCÍA #ZAPATOS VIVIR", "tpl": "time_place"}
-{"src": "Hoy Ana vive un café.", "tgt": "HOY #ANA CAFE VIVIR", "tpl": "time_place"}
-{"src": "Hoy Ana compra un café en la tienda.", "tgt": "HOY EN TIENDA #ANA CAFE COMPRAR", "tpl": "time_place"}
-{"src": "Hoy Yo voy en el trabajo.", "tgt": "HOY EN TRABAJO YO IR", "tpl": "time_place"}
-{"src": "Carlos va en Madrid.", "tgt": "EN #MADRID #CARLOS IR", "tpl": "time_place"}
-{"src": "Ayer Carlos vio zapatos en el trabajo.", "tgt": "AYER #CARLOS #ZAPATOS TRABAJO VER", "tpl": "time_place"}
-{"src": "A las 9 Yo vivo la casa en casa.", "tgt": "A LAS 9 EN CASA YO CASA VIVIR", "tpl": "time_place"}
-{"src": "Luego Miguel va en el parque.", "tgt": "LUEGO EN PARQUE #MIGUEL IR", "tpl": "time_place"}
-{"src": "Ayer Miguel vio libro en casa.", "tgt": "AYER #MIGUEL LIBRO CASA VER", "tpl": "time_place"}
-{"src": "Yo voy a la escuela.", "tgt": "A ESCUELA YO IR", "tpl": "time_place"}
-{"src": "Luego Yo vivo café en Madrid.", "tgt": "LUEGO EN #MADRID YO CAFE VIVIR", "tpl": "time_place"}
-{"src": "Ayer Yo viví un café en Madrid.", "tgt": "AYER EN #MADRID YO CAFE VIVIR", "tpl": "time_place"}
-{"src": "Mañana Miguel ve el libro en la tienda.", "tgt": "MAÑANA TU LIBRO TIENDA IR", "tpl": "time_place"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere una película.", "tgt": "#MIGUEL PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere un café.", "tgt": "#MIGUEL CAFE NO QUERER", "tpl": "negation"}
+{"src": "Por la noche Yo vivo.", "tgt": "#NOCHE YO #VIVO", "tpl": "time_place"}
+{"src": "Luego Miguel compra una película en el trabajo.", "tgt": "LUEGO EN TRABAJO #MIGUEL PELICULA COMPRAR", "tpl": "time_place"}
+{"src": "Ahora María va en el trabajo.", "tgt": "EN TRABAJO #MARÍA AHORA IR", "tpl": "time_place"}
+{"src": "Ahora Lucía ve libro en el trabajo.", "tgt": "#LUCÍA AHORA LIBRO TRABAJO VER", "tpl": "time_place"}
+{"src": "María compra pan en el parque.", "tgt": "EN PARQUE #MARÍA #PAN COMPRAR", "tpl": "time_place"}
+{"src": "Yo vivo en el trabajo.", "tgt": "YO #VIVO TRABAJO", "tpl": "time_place"}
+{"src": "Luego Yo vivo a Madrid.", "tgt": "LUEGO YO YO #MADRID VIVIR", "tpl": "time_place"}
+{"src": "A las 7 Raúl compra agua en Madrid.", "tgt": "A LAS 7 #RAÚL AGUA #MADRID COMPRAR", "tpl": "time_place"}
+{"src": "A las 9 Raúl ve la agua a la escuela.", "tgt": "A LAS 9 A ESCUELA #RAÚL AGUA IR", "tpl": "time_place"}
+{"src": "Yo veo el café en el trabajo.", "tgt": "EN TRABAJO YO CAFE VER", "tpl": "time_place"}
+{"src": "María no quiere una tarea.", "tgt": "#MARÍA #TAREA NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere un café.", "tgt": "#CARLOS CAFE NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere unas manzanas.", "tgt": "#MIGUEL #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere unas manzanas.", "tgt": "#CARLOS #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere un café.", "tgt": "#LUCÍA CAFE NO QUERER", "tpl": "negation"}
 {"src": "Carlos no quiere una casa.", "tgt": "#CARLOS CASA NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere un libro.", "tgt": "#MIGUEL LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
-{"src": "Ana no quiere una casa.", "tgt": "#ANA CASA NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere unas manzanas.", "tgt": "#LUCÍA #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Raúl no quiere unos zapatos.", "tgt": "#RAÚL #ZAPATOS NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Ana no quiere unos zapatos.", "tgt": "#ANA #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
 {"src": "Ana no quiere un libro.", "tgt": "#ANA LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una agua.", "tgt": "YO AGUA NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere un café.", "tgt": "#LUCÍA CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere un café.", "tgt": "#CARLOS CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere una casa.", "tgt": "#MIGUEL CASA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere un libro.", "tgt": "#CARLOS LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere una película.", "tgt": "#LUCÍA PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere unos zapatos.", "tgt": "#LUCÍA #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere una casa.", "tgt": "#LUCÍA CASA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere una película.", "tgt": "#LUCÍA PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere un café.", "tgt": "#MIGUEL CAFE NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere un café.", "tgt": "#CARLOS CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere una película.", "tgt": "#MIGUEL PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere un libro.", "tgt": "#CARLOS LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere un café.", "tgt": "#MIGUEL CAFE NO QUERER", "tpl": "negation"}
 {"src": "Lucía no quiere un libro.", "tgt": "#LUCÍA LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Miguel no quiere un libro.", "tgt": "#MIGUEL LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere unos zapatos.", "tgt": "#CARLOS #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
-{"src": "Lucía no quiere unos zapatos.", "tgt": "#LUCÍA #ZAPATOS NO QUERER", "tpl": "negation"}
-{"src": "Carlos no quiere un café.", "tgt": "#CARLOS CAFE NO QUERER", "tpl": "negation"}
+{"src": "Carlos no quiere un libro.", "tgt": "#CARLOS LIBRO NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
-{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Lucía no quiere una agua.", "tgt": "#LUCÍA AGUA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una tarea.", "tgt": "YO #TAREA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una agua.", "tgt": "YO AGUA NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Miguel no quiere un pan.", "tgt": "#MIGUEL #PAN NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un pan.", "tgt": "YO #PAN NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Miguel no quiere un café.", "tgt": "#MIGUEL CAFE NO QUERER", "tpl": "negation"}
+{"src": "Carlos no quiere un café.", "tgt": "#CARLOS CAFE NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una agua.", "tgt": "YO AGUA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una tarea.", "tgt": "YO #TAREA NO QUERER", "tpl": "negation"}
+{"src": "Lucía no quiere un libro.", "tgt": "#LUCÍA LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Miguel no quiere unas manzanas.", "tgt": "#MIGUEL #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Raúl no quiere una agua.", "tgt": "#RAÚL AGUA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un pan.", "tgt": "YO #PAN NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos no quiere unas manzanas.", "tgt": "#CARLOS #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Lucía no quiere una tarea.", "tgt": "#LUCÍA #TAREA NO QUERER", "tpl": "negation"}
+{"src": "Raúl no quiere un pan.", "tgt": "#RAÚL #PAN NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una tarea.", "tgt": "YO #TAREA NO QUERER", "tpl": "negation"}
+{"src": "Raúl no quiere unos zapatos.", "tgt": "#RAÚL #ZAPATOS NO QUERER", "tpl": "negation"}
 {"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
 {"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Mañana Yo juego al fútbol a la escuela.", "tgt": "MAÑANA YO #FÚTBOL ESCUELA JUGAR", "tpl": "jugar"}
+{"src": "Ahora García juega al fútbol en la tienda.", "tgt": "EN TIENDA #GARCÍA AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 7 Paula juega al fútbol a Madrid.", "tgt": "A LAS 7 A #MADRID #PAULA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Ahora Tú juegas al fútbol en Madrid.", "tgt": "EN #MADRID TU AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Mañana Yo juego al fútbol en Madrid.", "tgt": "MAÑANA YO #FÚTBOL #MADRID JUGAR", "tpl": "jugar"}
+{"src": "Ahora Tú juegas al fútbol en casa.", "tgt": "EN CASA TU AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Tú juegas al fútbol a Madrid.", "tgt": "A LAS 9 TU #FÚTBOL #MADRID JUGAR", "tpl": "jugar"}
+{"src": "Por la noche Yo juego al fútbol en la tienda.", "tgt": "#NOCHE EN TIENDA YO #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Por la noche Martín juega al fútbol en el parque.", "tgt": "#NOCHE EN PARQUE #MARTÍN #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Mañana Carlos juega al fútbol en el parque.", "tgt": "MAÑANA EN PARQUE #CARLOS #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Tú juegas al fútbol en Madrid.", "tgt": "A LAS 9 EN #MADRID TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Por la noche Yo juego al fútbol a Madrid.", "tgt": "#NOCHE YO #FÚTBOL #MADRID JUGAR", "tpl": "jugar"}
+{"src": "A las 9 García juega al fútbol.", "tgt": "A LAS 9 #GARCÍA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Luego juego al fútbol en casa.", "tgt": "LUEGO YO #FÚTBOL CASA JUGAR", "tpl": "jugar"}
+{"src": "Mañana Yo juego al fútbol en Madrid.", "tgt": "MAÑANA YO #FÚTBOL #MADRID JUGAR", "tpl": "jugar"}
+{"src": "Ahora Irene juega al fútbol a la escuela.", "tgt": "A ESCUELA #IRENE AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Luego Tú juegas al fútbol en Madrid.", "tgt": "LUEGO EN #MADRID TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Mañana Íñigo juega al fútbol en Madrid.", "tgt": "MAÑANA EN #MADRID #ÍÑIGO #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Tú juegas al fútbol en Madrid.", "tgt": "A LAS 9 EN #MADRID TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Ahora Óscar juega al fútbol en el trabajo.", "tgt": "EN TRABAJO #ÓSCAR AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Ana juega al fútbol en el trabajo.", "tgt": "A LAS 9 EN TRABAJO #ANA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Ahora María juega al fútbol.", "tgt": "#MARÍA AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Mañana López juega al fútbol en el parque.", "tgt": "MAÑANA EN PARQUE #LÓPEZ #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Luego Raúl juega al fútbol en el parque.", "tgt": "LUEGO EN PARQUE #RAÚL #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Ayer Rubén juega al fútbol en el parque.", "tgt": "AYER EN PARQUE #RUBÉN #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Luego Ariadna juega al fútbol en casa.", "tgt": "LUEGO EN CASA #ARIADNA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Ahora Ana juega al fútbol en el trabajo.", "tgt": "EN TRABAJO #ANA AHORA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Sofía juega al fútbol en el trabajo.", "tgt": "A LAS 9 EN TRABAJO #SOFÍA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Mañana Yo juego al fútbol en casa.", "tgt": "MAÑANA YO #FÚTBOL CASA JUGAR", "tpl": "jugar"}
+{"src": "Mañana Tú juegas al fútbol en Madrid.", "tgt": "MAÑANA EN #MADRID TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Por la noche Tú juegas al fútbol en casa.", "tgt": "#NOCHE EN CASA #TÚ #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Elena juega al fútbol en Madrid.", "tgt": "A LAS 9 EN #MADRID #ELENA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "A las 7 Tú juegas al fútbol a Madrid.", "tgt": "A LAS 7 TU #FÚTBOL #MADRID JUGAR", "tpl": "jugar"}
+{"src": "Ayer Tú juegas al fútbol a Madrid.", "tgt": "AYER A #MADRID TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Mañana Tú juegas al fútbol a la escuela.", "tgt": "MAÑANA A ESCUELA TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Hoy Yo juego al fútbol en el trabajo.", "tgt": "HOY YO #FÚTBOL TRABAJO JUGAR", "tpl": "jugar"}
+{"src": "A las 9 Tú juegas al fútbol.", "tgt": "A LAS 9 TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Luego Tú juegas al fútbol.", "tgt": "LUEGO #FÚTBOL TU JUGAR", "tpl": "jugar"}
+{"src": "A las 7 Juan juega al fútbol en Madrid.", "tgt": "A LAS 7 EN #MADRID #JUAN #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Ayer Sofía juega al fútbol a la escuela.", "tgt": "AYER A ESCUELA #SOFÍA #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Yo juego al fútbol a la escuela.", "tgt": "YO #FÚTBOL ESCUELA JUGAR", "tpl": "jugar"}
+{"src": "Tú juegas al fútbol a la escuela.", "tgt": "A ESCUELA TU #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Yo juego al fútbol en Madrid.", "tgt": "YO #FÚTBOL #MADRID JUGAR", "tpl": "jugar"}
+{"src": "Por la noche Óscar juega al fútbol a Madrid.", "tgt": "#NOCHE A #MADRID #ÓSCAR #FÚTBOL JUGAR", "tpl": "jugar"}
+{"src": "Yo me llamo Sofía.", "tgt": "YO #SOFÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Carlos.", "tgt": "YO #CARLOS LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Ana.", "tgt": "YO #ANA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo María.", "tgt": "YO #MARÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Álvaro.", "tgt": "YO #ÁLVARO LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo José.", "tgt": "YO #JOSÉ LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Elena.", "tgt": "YO #ELENA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Julián.", "tgt": "YO #JULIÁN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Juan.", "tgt": "YO #JUAN LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Camila.", "tgt": "YO #CAMILA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Juan.", "tgt": "#JUAN LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Óscar.", "tgt": "YO #ÓSCAR LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo José.", "tgt": "YO #JOSÉ LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Noé.", "tgt": "#NOÉ LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Aarón.", "tgt": "YO #AARÓN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Elena.", "tgt": "YO #ELENA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Tomás.", "tgt": "YO #TOMÁS LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Rubén.", "tgt": "#RUBÉN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Rubén.", "tgt": "YO #RUBÉN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo López.", "tgt": "YO #LÓPEZ LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo García.", "tgt": "YO #GARCÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo García.", "tgt": "YO #GARCÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Nuria.", "tgt": "YO #NURIA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Elena.", "tgt": "YO #ELENA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Miguel.", "tgt": "#MIGUEL LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Ariadna.", "tgt": "YO #ARIADNA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo María.", "tgt": "YO #MARÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Martín.", "tgt": "YO #MARTÍN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Irene.", "tgt": "YO #IRENE LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo López.", "tgt": "YO #LÓPEZ LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Ana.", "tgt": "YO #ANA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Elena.", "tgt": "YO #ELENA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Sofía.", "tgt": "YO #SOFÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Ana.", "tgt": "YO #ANA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Nuria.", "tgt": "YO #NURIA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Irene.", "tgt": "#IRENE LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo María.", "tgt": "YO #MARÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Juan.", "tgt": "#JUAN LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Íñigo.", "tgt": "YO #ÍÑIGO LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo López.", "tgt": "YO #LÓPEZ LLAMAR", "tpl": "llamarse"}
+{"src": "Me llamo Rubén.", "tgt": "#RUBÉN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Paula.", "tgt": "YO #PAULA LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo Aarón.", "tgt": "YO #AARÓN LLAMAR", "tpl": "llamarse"}
+{"src": "Yo me llamo María.", "tgt": "YO #MARÍA LLAMAR", "tpl": "llamarse"}
+{"src": "Ayer Juan fue profesor.", "tgt": "AYER #JUAN PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Julián fue a Madrid.", "tgt": "AYER #JULIÁN #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Lucía fue a Madrid.", "tgt": "AYER #LUCÍA #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Elena fue doctora.", "tgt": "AYER #ELENA #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer Ariadna fue profesor.", "tgt": "AYER #ARIADNA PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Camila fue profesor.", "tgt": "AYER #CAMILA PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Raúl fue actriz.", "tgt": "AYER #RAÚL #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer Julián fue doctor.", "tgt": "AYER #JULIÁN #DOCTOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Rubén fue a Madrid.", "tgt": "AYER #RUBÉN #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Marcos fue a Madrid.", "tgt": "AYER #MARCOS #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Miguel fue doctora.", "tgt": "AYER #MIGUEL #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer Carlos fue a Madrid.", "tgt": "AYER #CARLOS #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Ana fue doctor.", "tgt": "AYER #ANA #DOCTOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer María fue actriz.", "tgt": "AYER #MARÍA #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer López fue actriz.", "tgt": "AYER #LÓPEZ #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer Óscar fue doctora.", "tgt": "AYER #ÓSCAR #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer Marcos fue doctora.", "tgt": "AYER #MARCOS #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer Íñigo fue a Madrid.", "tgt": "AYER #ÍÑIGO #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer María fue a Madrid.", "tgt": "AYER #MARÍA #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Sofía fue a Madrid.", "tgt": "AYER #SOFÍA #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Ariadna fue profesor.", "tgt": "AYER #ARIADNA PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Juan fue a Madrid.", "tgt": "AYER #JUAN #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Rubén fue actriz.", "tgt": "AYER #RUBÉN #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer Carlos fue a Madrid.", "tgt": "AYER #CARLOS #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Paula fue actriz.", "tgt": "AYER #PAULA #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer Aarón fue a Madrid.", "tgt": "AYER #AARÓN #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Óscar fue a Madrid.", "tgt": "AYER #ÓSCAR #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Rubén fue profesor.", "tgt": "AYER #RUBÉN PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Ariadna fue a Madrid.", "tgt": "AYER #ARIADNA #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Raúl fue actriz.", "tgt": "AYER #RAÚL #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer María fue doctor.", "tgt": "AYER #MARÍA #DOCTOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Marcos fue actriz.", "tgt": "AYER #MARCOS #ACTRIZ", "tpl": "ir_ser_amb"}
+{"src": "Ayer María fue doctora.", "tgt": "AYER #MARÍA #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer José fue a Madrid.", "tgt": "AYER #JOSÉ #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Martín fue profesor.", "tgt": "AYER #MARTÍN PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Pérez fue profesor.", "tgt": "AYER #PÉREZ PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Pérez fue a Madrid.", "tgt": "AYER #PÉREZ #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer López fue a Madrid.", "tgt": "AYER #LÓPEZ #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Elena fue doctora.", "tgt": "AYER #ELENA #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer Martín fue doctor.", "tgt": "AYER #MARTÍN #DOCTOR", "tpl": "ir_ser_amb"}
+{"src": "Ayer Camila fue doctora.", "tgt": "AYER #CAMILA #DOCTORA", "tpl": "ir_ser_amb"}
+{"src": "Ayer Camila fue a Madrid.", "tgt": "AYER #CAMILA #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Noé fue a Madrid.", "tgt": "AYER #NOÉ #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Ayer Aarón fue profesor.", "tgt": "AYER #AARÓN PROFESOR", "tpl": "ir_ser_amb"}
+{"src": "Hoy Miguel ve la película en Madrid.", "tgt": "HOY EN #MADRID #MIGUEL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Carlos ve la película en Madrid.", "tgt": "HOY EN #MADRID #CARLOS PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Raúl ve la película en Madrid.", "tgt": "HOY EN #MADRID #RAÚL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Miguel ve la película en Madrid.", "tgt": "HOY EN #MADRID #MIGUEL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Ana ve la película en Madrid.", "tgt": "HOY EN #MADRID #ANA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Miguel ve la película en Madrid.", "tgt": "HOY EN #MADRID #MIGUEL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Raúl ve la película en Madrid.", "tgt": "HOY EN #MADRID #RAÚL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Ana ve la película en Madrid.", "tgt": "HOY EN #MADRID #ANA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Ana ve la película en Madrid.", "tgt": "HOY EN #MADRID #ANA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Lucía ve la película en Madrid.", "tgt": "HOY EN #MADRID #LUCÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy María ve la película en Madrid.", "tgt": "HOY EN #MADRID #MARÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Lucía ve la película en Madrid.", "tgt": "HOY EN #MADRID #LUCÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Ana ve la película en Madrid.", "tgt": "HOY EN #MADRID #ANA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Lucía ve la película en Madrid.", "tgt": "HOY EN #MADRID #LUCÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Ana ve la película en Madrid.", "tgt": "HOY EN #MADRID #ANA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Ana ve la película en Madrid.", "tgt": "HOY EN #MADRID #ANA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy María ve la película en Madrid.", "tgt": "HOY EN #MADRID #MARÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy Lucía ve la película en Madrid.", "tgt": "HOY EN #MADRID #LUCÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy María ve la película en Madrid.", "tgt": "HOY EN #MADRID #MARÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Raúl ve la película en Madrid.", "tgt": "HOY EN #MADRID #RAÚL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Ve a casa ahora.", "tgt": "A CASA TU AHORA IR", "tpl": "ve_amb"}
+{"src": "Hoy María ve la película en Madrid.", "tgt": "HOY EN #MADRID #MARÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Miguel ve la película en Madrid.", "tgt": "HOY EN #MADRID #MIGUEL PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy María ve la película en Madrid.", "tgt": "HOY EN #MADRID #MARÍA PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy Carlos ve la película en Madrid.", "tgt": "HOY EN #MADRID #CARLOS PELICULA VER", "tpl": "ve_amb"}
+{"src": "Hoy María ve la película en Madrid.", "tgt": "HOY EN #MADRID #MARÍA PELICULA VER", "tpl": "ve_amb"}
 {"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Cómo te llamas?", "tgt": "TU A TI LLAMAR COMO", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
-{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
-{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
-{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ayer Íñigo fue a Madrid.", "tgt": "AYER #ÍÑIGO #MADRID", "tpl": "ir_ser_amb"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}

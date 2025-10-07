@@ -1,8 +1,14 @@
 # src/rule_engine.py
 from typing import List, Tuple, Dict, Set
+import unicodedata
+
 from .util import load_yaml, load_lexicon_csv, load_verb_overrides
-from .features import parse, find_subject, find_object, find_main_verb, collect_time, collect_place
+from .features import parse, find_subject, find_object, find_main_verb
 from .postprocess import postprocess_gloss
+
+def _noacc_lower(s: str) -> str:
+    return unicodedata.normalize("NFKD", s).encode("ascii","ignore").decode("ascii").lower()
+
 
 # --- Configs con defaults seguros ---
 def _load_yaml_safe(path: str, default: dict) -> dict:
@@ -57,21 +63,26 @@ CFG_CLITICS = _load_yaml_safe(
     },
 )
 
-# --- WH map para normalizar interrogativos y evitar duplicados ---
-_WH_MAP: Dict[str, str] = {}
+# --- WH map ---
+_WH_MAP = {}
 for k, forms in CFG_LEXICAL.get("wh_lex", {}).items():
     for f in forms:
         _WH_MAP[f.lower()] = k
 
+# Léxico principal
 LEX: Dict[str, Dict] = load_lexicon_csv("data/lexicon/es_to_lse.csv")
+
+# VERB_OV: mapa forma->infinitivo con tu CSV ancho
 VERB_OV = load_verb_overrides("data/lexicon/verb_lemma_override.csv")
 
 ARTICLES = {"el", "la", "los", "las", "un", "una", "unos", "unas"}
 NEG_SET: Set[str] = {w.lower() for w in CFG_LEXICAL.get("neg_lex", [])}
 CLITIC_FORMS: Set[str] = {"me", "te", "se", "le", "les", "nos", "os", "lo", "la", "los", "las"}
 
-# ---------- Helpers básicos ----------
-def _is_article(tok): return tok.pos_ == "DET" and tok.text.lower() in ARTICLES
+# Helpers básicos
+def _strip_accents(s: str) -> str:
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii")
+
 def _is_copula(tok):  return tok.lemma_.lower() in {"ser", "estar"} and tok.pos_ == "VERB"
 def _is_aux(tok):     return tok.pos_ == "AUX" or tok.lemma_.lower() == "haber"
 
@@ -87,7 +98,6 @@ def _should_keep(tok) -> bool:
     t = tok.text.lower()
     if t in NEG_SET:
         return False
-    # lo filtramos para evitar fallback #OJALÁ; lo añadiremos estructuralmente como OJALA
     if t == "ojalá":
         return False
     if tok.pos_ == "DET":
@@ -108,11 +118,7 @@ def _lex_by_form(text_lower: str, pos: str):
 def _lex_by_lemma(lemma_lower: str, pos: str):
     return LEX["by_lemma"].get((lemma_lower, pos))
 
-def _strip_accents(s: str) -> str:
-    tr = str.maketrans("áéíóúÁÉÍÓÚ", "aeiouAEIOU")
-    return s.translate(tr)
-
-# Imperativos irregulares muy frecuentes (fallback)
+# Imperativos irregulares frecuentes (fallback adicional)
 IMP_FALLBACK = {
     "ven": "venir",
     "pon": "poner",
@@ -120,37 +126,77 @@ IMP_FALLBACK = {
     "haz": "hacer",
     "di": "decir",
     "sal": "salir",
-    "ve": "ir",   # podría ser 'ver', pero para imperativo preferimos IR
-    "se": "ser",
+    "ve": "ir",     # 've' ~ ir (resolvemos a IR por defecto)
     "sé": "ser",
     "da": "dar",
 }
 
 def _best_verb_lemma(token, base_after_split: str = None) -> str:
-    # 1) overrides por forma
+    """
+    Elige el mejor lema para VERB teniendo en cuenta:
+      - overrides por forma
+      - imperativos irregulares frecuentes
+      - desambiguación 've' (ver vs ir) por morfología
+      - desambiguación 'fui/fue/...' (ser vs ir) por sintaxis: 'a + OBL' => ir
+    """
+    def _strip_acc(s: str) -> str:
+        return _strip_accents(s.lower())
+
+    form = token.text.lower()
+    form_noacc = _strip_acc(form)
+
+    # --- caso especial: 've' (3sg de 'ver' vs imperativo de 'ir')
+    if form_noacc == "ve":
+        # si spacy detecta imperativo → IR
+        if "Imp" in token.morph.get("Mood"):
+            return "ir"
+        # heurística adicional: si es inicio de frase/orden sencilla 'Ve a ...'
+        # y existe un OBL con 'a', lo tratamos como IR
+        has_obl_a = False
+        for ch in token.children:
+            if ch.dep_ == "obl":
+                if any(c.dep_ == "case" and c.text.lower() == "a" for c in ch.children):
+                    has_obl_a = True
+                    break
+        if has_obl_a:
+            return "ir"
+        # en el resto de declarativas: VER
+        return "ver"
+
+    # --- caso especial: formas 'fui/fue/fuiste/...'
+    FU_SER_IR = {"fui","fue","fuiste","fuisteis","fuimos","fueron"}
+    if form_noacc in FU_SER_IR:
+        # si hay un OBL con 'a' => IR (p.ej. "Ana fue a Madrid")
+        for ch in token.children:
+            if ch.dep_ == "obl":
+                if any(c.dep_ == "case" and c.text.lower() == "a" for c in ch.children):
+                    return "ir"
+        # si no, suele ser cópula SER (p.ej. "Ana fue doctora")
+        return "ser"
+
+    # --- overrides por forma (incluye tu CSV nuevo)
     forms_to_try = []
     if base_after_split:
         forms_to_try.append(base_after_split.lower())
-        forms_to_try.append(_strip_accents(base_after_split.lower()))
-    forms_to_try.append(token.text.lower())
-
-    # 2) imperativos irregulares (considera también la forma del propio token)
-    form_noacc = _strip_accents(token.text.lower())
-    if form_noacc in IMP_FALLBACK:
-        return IMP_FALLBACK[form_noacc]
-
+        forms_to_try.append(_strip_acc(base_after_split))
+    forms_to_try.append(form)
     for f in forms_to_try:
         if f in VERB_OV:
             return VERB_OV[f].lower()
-    # 3) lemma de spaCy si parece infinitivo
+
+    # --- imperativos irregulares de fallback (ven, haz, pon, ...)
+    if form_noacc in IMP_FALLBACK:
+        return IMP_FALLBACK[form_noacc]
+
+    # --- lemma spaCy si es infinitivo
     lem = token.lemma_.lower()
     if lem.endswith(("ar", "er", "ir")):
         return lem
-    # 4) fallback
-    return _strip_accents(token.text).lower()
+
+    # --- último recurso
+    return _strip_acc(token.text)
 
 def _to_gloss(token) -> str:
-    """Devuelve glosa (string). Fallback: dactilología '#FORM'."""
     def valid(g): return isinstance(g, str) and g.strip() != "" and str(g).lower() != "nan"
 
     if token.pos_ == "VERB":
@@ -169,7 +215,7 @@ def _to_gloss(token) -> str:
         return f"#{token.text.upper()}"
     return f"#{token.text.upper()}"
 
-# ---------- Enclíticos ----------
+# --- Clíticos ---
 def _split_enclitics(text: str) -> Tuple[str, List[str]]:
     if not CFG_CLITICS.get("split_enclitics", False):
         return text, []
@@ -185,7 +231,7 @@ def _split_enclitics(text: str) -> Tuple[str, List[str]]:
                 found.append(p)
                 changed = True
                 break
-    return base, found  # found = derecha->izquierda
+    return base, found
 
 def _expand_clitic_token(tok_text_lower: str) -> List[str]:
     if tok_text_lower in CFG_CLITICS.get("indirect_object", {}):
@@ -194,21 +240,22 @@ def _expand_clitic_token(tok_text_lower: str) -> List[str]:
         return [CFG_CLITICS["direct_object"][tok_text_lower]]
     return []
 
-# ---------- TIME / PLACE frases ----------
+# --- TIME/PLACE ---
 def _collect_time_phrases(doc) -> Tuple[List[str], Set[int]]:
     out: List[str] = []
     used_idx: Set[int] = set()
-    # 1) expresiones simples por léxico o ent_type
     time_wordset = {w.lower() for w in CFG_LEXICAL.get("time_lex", [])}
     for t in doc:
         if t.ent_type_ in {"TIME", "DATE"} or t.text.lower() in time_wordset:
             out.append(t.text.upper())
             used_idx.add(t.i)
-    # 2) patrón 'a las <NUM>' / 'a la una'
+
+    # patrón 'a las/la <NUM>'
     for i, tok in enumerate(doc):
         if tok.pos_ == "NUM":
             j = i - 1
-            has_det, has_prep = False, False
+            has_det = False
+            has_prep = False
             while j >= 0 and j >= i - 3:
                 if doc[j].text.lower() in {"las", "la"}:
                     has_det = True
@@ -216,16 +263,15 @@ def _collect_time_phrases(doc) -> Tuple[List[str], Set[int]]:
                     has_prep = True
                 j -= 1
             if has_prep and has_det:
-                det = "LAS" if doc[i - 1].text.lower() == "las" else "LA"
-                out.append(f"A {det} {tok.text.upper()}")
-                used_idx.update({i, i - 1, i - 2})
+                phrase = f"A LAS {tok.text.upper()}" if doc[i-1].text.lower() == "las" else f"A LA {tok.text.upper()}"
+                out.append(phrase)
+                used_idx.update({i, i-1, i-2})
     return out, used_idx
 
 def _collect_place_phrases(doc) -> Tuple[List[str], Set[int]]:
     out: List[str] = []
     used_idx: Set[int] = set()
     place_preps = {p.lower() for p in CFG_LEXICAL.get("place_preps", [])}
-    # 'obl' nominal con preposición hija 'case'
     for t in doc:
         if t.dep_ == "obl" and t.head.pos_ == "VERB" and t.pos_ in {"NOUN", "PROPN"}:
             cases = [c for c in t.children if c.dep_ == "case" and c.pos_ == "ADP" and c.text.lower() in place_preps]
@@ -240,7 +286,7 @@ def _collect_place_phrases(doc) -> Tuple[List[str], Set[int]]:
                 used_idx.add(t.i)
     return out, used_idx
 
-# ---------- Predicado ----------
+# --- Predicado ---
 def _collect_predicate(doc, used_tokens_idx: Set[int]) -> List[str]:
     seq: List[str] = []
     for t in doc:
@@ -250,13 +296,12 @@ def _collect_predicate(doc, used_tokens_idx: Set[int]) -> List[str]:
             continue
         if t.is_punct:
             continue
-        # no añadir clíticos sueltos (los expandimos aparte)
         if t.pos_ in {"PRON", "DET"} and t.text.lower() in CLITIC_FORMS:
             continue
         seq.append(_to_gloss(t))
     return seq
 
-# ---------- Sujeto ----------
+# --- Sujeto inferido (imperativo) ---
 def _infer_subject(doc, verb_tok):
     if verb_tok is not None:
         if "Imp" in verb_tok.morph.get("Mood"):
@@ -265,19 +310,19 @@ def _infer_subject(doc, verb_tok):
             return "TU"
     return None
 
-# ---------- Traductor ----------
+# --- Traductor ---
 def translate_rule_based(text: str) -> str:
     doc = parse(text)
 
-    # Roles base
     subj_tok_or_str = find_subject(doc)
     verb = find_main_verb(doc)
 
-    # TIME / PLACE
+    add_ojala = "ojala" in _noacc_lower(text)
+
+
     time_glosses, used_time = _collect_time_phrases(doc)
     place_glosses, used_place = _collect_place_phrases(doc)
 
-    # ¿Pregunta? + WH (para evitar #CÓMO en predicado)
     is_question = ("?" in text) or ("¿" in text)
     wh_tok_idx = None
     wh_gloss = None
@@ -288,9 +333,6 @@ def translate_rule_based(text: str) -> str:
                 wh_tok_idx = t.i
                 wh_gloss = k
                 break
-
-    # OJALÁ presente (lo añadiremos estructuralmente)
-    has_ojala = any(t.text.lower() == "ojalá" or t.lemma_.lower() == "ojalá" for t in doc)
 
     used_idx: Set[int] = set()
     used_idx.update(used_time)
@@ -303,58 +345,30 @@ def translate_rule_based(text: str) -> str:
         used_idx.add(wh_tok_idx)
 
     slots = {"TIME": [], "PLACE": [], "SUBJECT": [], "PRED": [], "VERB": []}
-
-    # TIME / PLACE
     slots["TIME"].extend([g for g in time_glosses if g])
     slots["PLACE"].extend([g for g in place_glosses if g])
 
-    # SUBJECT (con forzado para imperativo)
-    is_imp = False
-    if verb is not None:
-        is_imp = ("Imp" in verb.morph.get("Mood")) or (_strip_accents(verb.text.lower()) in IMP_FALLBACK)
-
-    subj_gloss = None
     if isinstance(subj_tok_or_str, str):
-        subj_gloss = subj_tok_or_str
+        slots["SUBJECT"].append(subj_tok_or_str)
     elif subj_tok_or_str is not None:
-        subj_gloss = _to_gloss(subj_tok_or_str)
+        slots["SUBJECT"].append(_to_gloss(subj_tok_or_str))
     else:
-        subj_gloss = _infer_subject(doc, verb)
+        inferred = _infer_subject(doc, verb)
+        if inferred:
+            slots["SUBJECT"].append(inferred)
 
-    if is_imp and subj_gloss != "TU":
-        subj_gloss = "TU"
-
-    if subj_gloss:
-        slots["SUBJECT"].append(subj_gloss)
-
-    # VERBO + enclíticos pegados
     if verb:
         base_txt, encl = _split_enclitics(verb.text)
-        base_txt_noacc = _strip_accents(base_txt)
-        # expansiones de enclíticos del verbo (derecha->izquierda)
         for p in reversed(encl):
             slots["PRED"].extend(_expand_clitic_token(p.lower()))
-        # glosa del verbo con mejor lemma
-        lemma = _best_verb_lemma(verb, base_txt_noacc)
+        lemma = _best_verb_lemma(verb, base_txt)
         g = _lex_by_lemma(lemma, "VERB")
         verb_gloss = g if isinstance(g, str) and g else lemma.upper()
         slots["VERB"].append(verb_gloss)
 
-    # PRED (resto, sin clíticos)
     slots["PRED"].extend(_collect_predicate(doc, used_idx))
 
-    # Clíticos sueltos (ME/TE/LO/...), solo si POS = PRON (evitar DET: "la escuela")
-    for t in doc:
-        if t.i in used_idx:
-            continue
-        if t.pos_ != "PRON":
-            continue
-        low = t.text.lower()
-        if low in CLITIC_FORMS:
-            slots["PRED"].extend(_expand_clitic_token(low))
-
-
-    # Negación: NO delante del verbo si aparece
+    # Negación: NO junto al verbo si existe
     if any(t.text.lower() in NEG_SET for t in doc):
         if slots["VERB"]:
             if slots["VERB"][0] != "NO":
@@ -362,21 +376,19 @@ def translate_rule_based(text: str) -> str:
         else:
             slots["PRED"] = ["NO"] + slots["PRED"]
 
-    # Orden final
-    order = CFG_REORDER.get("order", ["TIME", "PLACE", "SUBJECT", "VERB", "PRED"])
-    seq: List[str] = []
+    # LINEARIZA
+    order = CFG_REORDER.get("order", ["TIME","PLACE","SUBJECT","VERB","PRED"])
+    seq = []
     for slot in order:
         seq.extend(slots.get(slot, []))
 
-    # OJALA al inicio si aparece
-    if has_ojala:
+    # ---- AÑADE OJALA AL INICIO SI APARECE EN LA ENTRADA
+    if add_ojala:
         seq = ["OJALA"] + seq
 
-    # WH al final si hay pregunta
     if wh_gloss:
         seq.append(wh_gloss)
 
-    # Limpieza y postproceso
     seq = [s for s in seq if s]
     out = " ".join(seq)
     out = postprocess_gloss(out)

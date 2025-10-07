@@ -2,6 +2,7 @@ import yaml
 import pandas as pd
 from pathlib import Path
 import csv
+import os, csv, unicodedata
 
 def load_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -26,29 +27,47 @@ def load_lexicon_csv(path):
         if es_form:  by_form[(es_form.lower(),  upos)]   = gloss
     return {"by_lemma": by_lemma, "by_form": by_form}
 
-def load_verb_overrides(path="data/lexicon/verb_lemma_override.csv"):
-    """
-    Formato esperado (sin cabecera):
-      lemma,form1,form2,form3,...
-    Devuelve dict: { form_lower: lemma_lower }
-    """
-    p = Path(path)
-    if not p.exists():
-        return {}
 
-    overrides = {}
-    with p.open("r", encoding="utf-8") as f:
+def _normalize_ascii_lower(s: str) -> str:
+    # 'Dámelo' -> 'damelo'
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode("ascii").lower().strip()
+
+def load_verb_overrides(path: str = "data/lexicon/verb_lemma_override.csv"):
+    """
+    Lee un CSV 'ancho' sin cabeceras:
+      infinitivo,forma1,forma2,forma3,...
+    Devuelve un dict que mapea cualquier 'forma' al 'infinitivo'.
+    Inserta tanto la forma original (lower) como su versión sin tildes.
+    También mapea el propio infinitivo a sí mismo (útil como respaldo).
+    """
+    mapping = {}
+    if not os.path.exists(path):
+        return mapping
+
+    with open(path, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         for row in reader:
             if not row:
                 continue
-            lemma = row[0].strip().lower()
+            lemma = (row[0] or "").strip().lower()
             if not lemma:
                 continue
-            # opcional: también mapear el propio lema → lema
-            overrides.setdefault(lemma, lemma)
-            for cell in row[1:]:
-                form = (cell or "").strip().lower()
-                if form:
-                    overrides[form] = lemma
-    return overrides
+            # mapea el infinitivo a sí mismo
+            if lemma not in mapping:
+                mapping[lemma] = lemma
+            na_lemma = _normalize_ascii_lower(lemma)
+            if na_lemma not in mapping:
+                mapping[na_lemma] = lemma
+
+            # mapea todas las formas a ese infinitivo
+            for form in row[1:]:
+                form = (form or "").strip()
+                if not form:
+                    continue
+                lf = form.lower()
+                naf = _normalize_ascii_lower(lf)
+                if lf not in mapping:
+                    mapping[lf] = lemma
+                if naf not in mapping:
+                    mapping[naf] = lemma
+    return mapping
