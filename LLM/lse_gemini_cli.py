@@ -23,7 +23,6 @@ from typing import Optional
 from google import genai
 from google.genai import types
 
-API_KEY = "AIzaSyD6itqASIKL83fJx7T6FQ389nEOfQfo_Yk"
 
 # ----- Configuración -----
 DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
