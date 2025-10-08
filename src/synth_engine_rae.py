@@ -3,7 +3,6 @@ import json, random, os, re, glob, argparse
 from dataclasses import dataclass
 from typing import List, Tuple, Dict, Callable, Optional
 from .rule_engine import translate_rule_based
-import random
 
 random.seed(1234)
 
@@ -28,24 +27,7 @@ FALLBACK_TIMES: List[str] = ["Ayer","Hoy","Mañana","Ahora","Luego","A las 9",""
 SUBJECTS_1S: List[str] = ["Yo"]
 SUBJECTS_3S: List[str] = ["Ana","Miguel","Lucía","Carlos"]
 
-RAE_FLAG_RE = re.compile(r"/[^/\s]+$")  # todo lo que va tras la primera "/" hasta fin de token
-
-def _strip_rae_flags(w: str) -> str:
-    return RAE_FLAG_RE.sub("", w).strip()
-
-_TOKEN_OK = re.compile(r"^[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+(?:[ \-][A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+)*$")
-
-
-def det(typ: str, n: Noun) -> str:
-    if typ == "zero": return ""
-    table = {
-        ("def","m","sg"):"el",  ("def","f","sg"):"la",
-        ("def","m","pl"):"los", ("def","f","pl"):"las",
-        ("ind","m","sg"):"un",  ("ind","f","sg"):"una",
-        ("ind","m","pl"):"unos",("ind","f","pl"):"unas",
-    }
-    return table[(typ, n.gender, n.number)]
-
+# Verbos base
 VERBS: Dict[str, Dict[str,str]] = {
     "comprar":{"1s_pret":"compré","3s_pret":"compró","1s_pres":"compro","3s_pres":"compra","inf":"comprar"},
     "ver":{"1s_pret":"vi","3s_pret":"vio","1s_pres":"veo","3s_pres":"ve","inf":"ver"},
@@ -64,15 +46,20 @@ VERBS: Dict[str, Dict[str,str]] = {
     "jugar":{"1s_pres":"juego","3s_pres":"juega","inf":"jugar"},
 }
 
+# Transitivos para el producto OBJ (puedes ampliar)
+VERBS_TRANS = ["comprar", "ver", "querer", "jugar"]
+
 # -------------------------------
-# RAE: localización por defecto + fallback
+# RAE: localización + limpieza de flags /S., /MF, etc.
 # -------------------------------
 RAE_BASE_CANDIDATES = [
-    # tu ruta actual:
     os.path.join("RAE","rla-es","ortografia","palabras","RAE","l10n","es_ES"),
-    # alternativa clásica por si la mueves:
     os.path.join("extern","rla-es","ortografia","palabras","RAE","l10n","es_ES"),
 ]
+RAE_FLAG_RE = re.compile(r"/[^/\s]+$")  # elimina sufijos tipo "/S.", "/MF", ...
+
+def _strip_rae_flags(w: str) -> str:
+    return RAE_FLAG_RE.sub("", w).strip()
 
 def _norm_line(s: str) -> Optional[str]:
     s = s.strip()
@@ -85,7 +72,6 @@ def _pick_existing_dir(user_dir: Optional[str]) -> Optional[str]:
     for d in RAE_BASE_CANDIDATES:
         if os.path.isdir(d): return d
     return None
-
 
 def load_rla_es_wordlists(base_dir: Optional[str]) -> Dict[str, List[str]]:
     out = {"nouns":[], "adjs":[], "verbs":[], "advs":[], "names":[], "toponyms":[]}
@@ -110,58 +96,61 @@ def load_rla_es_wordlists(base_dir: Optional[str]) -> Dict[str, List[str]]:
             continue
         with open(fp, "r", encoding="utf-8", errors="ignore") as f:
             for line in f:
-                s = line.strip()
-                if not s or s.startswith("#") or s.startswith("//"):
-                    continue
-                s = _strip_rae_flags(s)
-                if not _TOKEN_OK.match(s):
-                    continue
-                out[bucket].append(s)
-    # dedup simple (case-insensible)
+                w = _norm_line(line)
+                if w: out[bucket].append(w)
+    # dedup + limpieza de flags
     for k,lst in out.items():
         seen, res = set(), []
         for x in lst:
-            xl = x.lower()
-            if xl not in seen:
-                seen.add(xl); res.append(x)
+            x0 = _strip_rae_flags(x)
+            xl = x0.lower()
+            if xl and xl not in seen:
+                seen.add(xl); res.append(x0)
         out[k] = res
     return out
 
 def take_sample(lst: List[str], k: int) -> List[str]:
     return random.sample(lst, min(k, len(lst))) if lst else []
 
+def det(typ: str, n: Noun) -> str:
+    if typ == "zero": return ""
+    table = {
+        ("def","m","sg"):"el",  ("def","f","sg"):"la",
+        ("def","m","pl"):"los", ("def","f","pl"):"las",
+        ("ind","m","sg"):"un",  ("ind","f","sg"):"una",
+        ("ind","m","pl"):"unos",("ind","f","pl"):"unas",
+    }
+    return table[(typ, n.gender, n.number)]
+
 def seed_from_rla_es(base_dir: Optional[str], max_nouns=2000, max_places=1500) -> Tuple[List[Noun], List[str], List[str]]:
     wl = load_rla_es_wordlists(base_dir)
     if not any(wl.values()):
         return FALLBACK_NOUNS, FALLBACK_PLACES, FALLBACK_TIMES
 
+    # Sustantivos (heurística género/número muy simple)
     nouns: List[Noun] = []
     for w in take_sample(wl["nouns"], max_nouns):
-        base = _strip_rae_flags(w)                 # <<--- LIMPIA FLAGS
-        if not base: 
-            continue
-        g = "f" if base.endswith("a") else "m"     # heurística simple
-        num = "pl" if base.endswith("s") and not base.endswith("és") else "sg"
-        nouns.append(Noun(base, g, num))
+        g = "f" if w.endswith("a") else "m"
+        num = "pl" if (w.endswith("s") and not w.endswith("és")) else "sg"
+        nouns.append(Noun(w, g, num))
 
+    # Lugares (preferimos "en X" para este producto con objeto)
     places = []
-    seed_places = wl["toponyms"] or wl["names"]
-    for city in take_sample(seed_places, max_places):
-        base = _strip_rae_flags(city)              # <<--- LIMPIA FLAGS
-        if base:
-            places.append(f"en {base}")
-    places += ["a Madrid","a la escuela","a casa","a la tienda","en el trabajo","en el parque",""]
+    pool_places = wl["toponyms"] or wl["names"]
+    for city in take_sample(pool_places, max_places):
+        places.append(f"en {city}")
+    places += ["en el trabajo","en el parque","en casa","en la tienda",""]  # + vacío opcional
 
     times = FALLBACK_TIMES
     return nouns or FALLBACK_NOUNS, places or FALLBACK_PLACES, times
 
-# estos se rellenan en main() tras parsear args
+# estos se rellenan en main()
 NOUNS: List[Noun] = []
 PLACES: List[str] = []
 TIMES: List[str] = []
 
 # -------------------------------
-# Utils
+# Utilidades
 # -------------------------------
 def _clean_spaces(s: str) -> str:
     s = s.replace(" ,", ",").replace(" .", ".")
@@ -174,7 +163,7 @@ def _choose(lst):
     return random.choice(lst)
 
 # -------------------------------
-# Generadores (mismos + nuevos “fue”)
+# Generadores clásicos (se mantienen)
 # -------------------------------
 def gen_time_place_stmt() -> str:
     n = _choose(NOUNS)
@@ -219,8 +208,8 @@ def gen_ojala() -> str:
 
 def gen_fue_a_place() -> str:
     S = _choose(SUBJECTS_3S)
-    dest = _choose([p for p in PLACES if p.startswith("a ")])
-    if not dest: dest = "a Madrid"
+    dests = [p for p in PLACES if p.startswith("a ")]
+    dest = _choose(dests) if dests else "a Madrid"
     return f"{S} fue {dest}."
 
 def gen_fue_copular() -> str:
@@ -263,12 +252,81 @@ def sanity_ok(src: str, tgt: str) -> bool:
         if " SER" in t: return False
     return True
 
+# -------------------------------
+# NUEVO: Producto CCT × CCL × SUJ × OBJ × VERBO(transitivo)
+# -------------------------------
+def _conj(v: str, sujeto: str, time_token: str) -> str:
+    """Conjugación simple para la FUENTE (castellano) según 'Ayer'."""
+    if time_token.strip().lower() == "ayer":
+        return VERBS[v]["1s_pret"] if sujeto == "Yo" and "1s_pret" in VERBS[v] else VERBS[v].get("3s_pret", VERBS[v].get("inf", v))
+    else:
+        return VERBS[v]["1s_pres"] if sujeto == "Yo" and "1s_pres" in VERBS[v] else VERBS[v].get("3s_pres", VERBS[v].get("inf", v))
+
+def _make_obj_phrase(n: Noun) -> str:
+    # Objeto “natural” en castellano; tu regla removerá determinantes en la salida LSE
+    d = det("ind", n)
+    return (d + " " + n.surface).strip()
+
+def generate_product_split(n: int, max_time=20, max_place=40, max_subjects=8, max_verbs=15, max_objs=30) -> List[Dict[str,str]]:
+    # selecciona listas acotadas
+    times = [t for t in TIMES if t]  # sin vacío
+    times = take_sample(times, max_time) or ["Hoy"]
+
+    places_en = [p for p in PLACES if p.startswith("en ") and p]  # “en …” para transitivos con objeto
+    places_en = take_sample(places_en, max_place) or ["en Madrid"]
+
+    subjects = ["Yo"] + SUBJECTS_3S
+    subjects = subjects[:max_subjects] if max_subjects < len(subjects) else subjects
+
+    verbs = [v for v in VERBS_TRANS if v in VERBS]
+    verbs = verbs[:max_verbs] if max_verbs < len(verbs) else verbs
+    if not verbs: verbs = ["comprar"]
+
+    # objetos a partir de NOUNS
+    objs_pool = NOUNS[:]
+    random.shuffle(objs_pool)
+    if max_objs < len(objs_pool):
+        objs_pool = objs_pool[:max_objs]
+    if not objs_pool:
+        objs_pool = FALLBACK_NOUNS
+
+    # Producto cartesiano (acotado a n)
+    tuples = []
+    for t in times:
+        for p in places_en:
+            for s in subjects:
+                for n in objs_pool:
+                    for v in verbs:
+                        tuples.append((t, p, s, n, v))
+    random.shuffle(tuples)
+    tuples = tuples[:n]
+
+    out = []
+    for (t, p, s, n, v) in tuples:
+        v_form = _conj(v, s, t)
+        obj_phrase = _make_obj_phrase(n)
+        src = f"{t} {s} {v_form} {obj_phrase} {p}."
+        src = _clean_spaces(src)
+        tgt = translate_rule_based(src)
+        if sanity_ok(src, tgt):
+            out.append({"src": src, "tgt": tgt, "tpl": "product_tpl"})
+    return out
+
+# -------------------------------
+# Escritura y main
+# -------------------------------
+def write_jsonl(rows: List[Dict[str, str]], path: str):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        for r in rows:
+            f.write(json.dumps(r, ensure_ascii=False) + "\n")
+
 def generate_split(n: int, sampling: str = "mixed") -> List[Dict[str, str]]:
     high = ["time_place","negation","fue_ir","wh"]
     mid  = ["imperative","estar_loc","estar_attr"]
     low  = ["ojala","fue_ser"]
     name2fn = dict(GENS)
-    chosen: List[str] = []
+
     if sampling == "uniform":
         pool = [name for name,_ in GENS]
         chosen = [random.choice(pool) for _ in range(n)]
@@ -277,6 +335,7 @@ def generate_split(n: int, sampling: str = "mixed") -> List[Dict[str, str]]:
         pool = [name for name,_ in GENS for _ in range(weights.get(name,1))]
         chosen = [random.choice(pool) for _ in range(n)]
     else:
+        chosen = []
         for _ in range(n):
             r = random.random()
             if r < 0.6: chosen.append(random.choice(high))
@@ -295,123 +354,25 @@ def generate_split(n: int, sampling: str = "mixed") -> List[Dict[str, str]]:
                 break
     return out
 
-def write_jsonl(rows: List[Dict[str, str]], path: str):
-    os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, "w", encoding="utf-8") as f:
-        for r in rows:
-            f.write(json.dumps(r, ensure_ascii=False) + "\n")
-
 def generate_all(n_train=3000, n_dev=400, n_test=400, sampling="mixed",
-                 out_dir="data/synthetic_rae", base_dir=None):
+                 out_dir="data/synthetic_rae", base_dir=None,
+                 product_max_time=20, product_max_place=40, product_max_subjects=8, product_max_verbs=15, product_max_objs=30):
     global NOUNS, PLACES, TIMES
     base = _pick_existing_dir(base_dir)
     NOUNS, PLACES, TIMES = seed_from_rla_es(base)
-    train = generate_split(n_train, sampling=sampling)
-    dev   = generate_split(n_dev,   sampling=sampling)
-    test  = generate_split(n_test,  sampling=sampling)
-    write_jsonl(train, os.path.join(out_dir, "train.jsonl"))
-    write_jsonl(dev,   os.path.join(out_dir, "dev.jsonl"))
-    write_jsonl(test,  os.path.join(out_dir, "test.jsonl"))
 
-# PRODUCTO ACOTADO PARA GENERAR MAS CONTENIDO DEL DATASET SINTETICO PARA ENTRENAR EL MODELO.
-def product_time_place(n_nouns: int, n_places: int) -> List[Dict[str, str]]:
-    """
-    Producto cartesiano ACOTADO y simple:
-      - Sustantivos: primeros n_nouns de NOUNS
-      - Lugares: primeros n_places de PLACES (sin el vacío)
-      - Tiempos: "", "Ayer", "Hoy", "Mañana"
-      - Sujetos: Yo + 3ª persona
-      - Verbos: comprar, ver, vivir
-    Genera oraciones SVO con tiempo/lugar, las traduce y filtra con sanity_ok.
-    """
-    out = []
-    verbs = ["comprar", "ver", "vivir"]
-    times = ["", "Ayer", "Hoy", "Mañana"]
-    subjects = ["Yo"] + SUBJECTS_3S
-    nouns = NOUNS[:n_nouns]
-    places = [p for p in PLACES[:n_places] if p]  # evita vacío
-
-    for n in nouns:
-        obj = (det("ind", n) + " " + n.surface).strip()
-        for pl in places:
-            for t in times:
-                for S in subjects:
-                    for v in verbs:
-                        if S == "Yo":
-                            form = VERBS[v].get("1s_pret") if t.lower() == "ayer" else VERBS[v].get("1s_pres", VERBS[v].get("1s_pret"))
-                        else:
-                            form = VERBS[v].get("3s_pret") if t.lower() == "ayer" else VERBS[v].get("3s_pres", VERBS[v].get("3s_pret"))
-                        pieces = []
-                        if t: pieces.append(t)
-                        pieces += [S, form, obj, pl]
-                        src = " ".join([x for x in pieces if x]) + "."
-                        tgt = translate_rule_based(src)
-                        if sanity_ok(src, tgt):
-                            out.append({"src": src, "tgt": tgt, "tpl": "prod_time_place"})
-    return out
-
-
-def _mix_and_trim(sampled_rows: List[Dict[str, str]],
-                  product_rows: List[Dict[str, str]],
-                  n_target: int,
-                  product_ratio: float,
-                  seed: int = 1234) -> List[Dict[str, str]]:
-    """
-    Mezcla productivo + muestreo para obtener exactamente n_target ejemplos.
-    product_ratio = proporción (0..1) del split que viene del producto.
-    """
-    random.seed(seed)
-    k_prod = min(int(product_ratio * n_target), len(product_rows))
-    k_samp = max(0, n_target - k_prod)
-    random.shuffle(product_rows)
-    random.shuffle(sampled_rows)
-    out = product_rows[:k_prod] + sampled_rows[:k_samp]
-    random.shuffle(out)
-    return out[:n_target]
-
-
-def generate_all(n_train=3000, n_dev=400, n_test=400,
-                 sampling="mixed", out_dir="data/synthetic_rae", base_dir=None,
-                 product_top_nouns: int = 0,
-                 product_top_places: int = 0,
-                 product_ratio: float = 0.33,
-                 seed: int = 1234):
-    """
-    Si product_top_nouns > 0 y product_top_places > 0:
-      - Genera un pool del producto acotado
-      - Mezcla 'product_ratio' de ese pool en el split de train
-    Dev/Test se generan solo por muestreo (más realistas).
-    """
-    global NOUNS, PLACES, TIMES
-    random.seed(seed)
-
-    base = _pick_existing_dir(base_dir)
-    NOUNS, PLACES, TIMES = seed_from_rla_es(base)
-
-    # pool de muestreo aleatorio
-    train_s = generate_split(n_train, sampling=sampling)
-    dev_s   = generate_split(n_dev,   sampling=sampling)
-    test_s  = generate_split(n_test,  sampling=sampling)
-
-    # pool productivo (opcional)
-    prod_pool = []
-    if product_top_nouns > 0 and product_top_places > 0:
-        prod_pool = product_time_place(product_top_nouns, product_top_places)
-
-    # mezcla en train (dev/test sin producto para medir generalización)
-    if prod_pool:
-        train = _mix_and_trim(train_s, prod_pool, n_train, product_ratio, seed)
+    if sampling == "product_time_place":
+        train = generate_product_split(n_train, product_max_time, product_max_place, product_max_subjects, product_max_verbs, product_max_objs)
+        dev   = generate_product_split(n_dev,   min(10, product_max_time), min(20, product_max_place), min(6, product_max_subjects), min(10, product_max_verbs), min(20, product_max_objs))
+        test  = generate_product_split(n_test,  min(10, product_max_time), min(20, product_max_place), min(6, product_max_subjects), min(10, product_max_verbs), min(20, product_max_objs))
     else:
-        train = train_s
+        train = generate_split(n_train, sampling=sampling)
+        dev   = generate_split(n_dev,   sampling=sampling)
+        test  = generate_split(n_test,  sampling=sampling)
 
-    dev  = dev_s
-    test = test_s
-
-    os.makedirs(out_dir, exist_ok=True)
     write_jsonl(train, os.path.join(out_dir, "train.jsonl"))
     write_jsonl(dev,   os.path.join(out_dir, "dev.jsonl"))
     write_jsonl(test,  os.path.join(out_dir, "test.jsonl"))
-
 
 def main():
     ap = argparse.ArgumentParser()
@@ -419,32 +380,27 @@ def main():
     ap.add_argument("--n_dev",   type=int, default=400)
     ap.add_argument("--n_test",  type=int, default=400)
 
-    ap.add_argument("--sampling", type=str, default="mixed", choices=["mixed","uniform","frequent"])
+    ap.add_argument("--sampling", type=str, default="mixed",
+                    choices=["mixed","uniform","frequent","product_time_place"])
     ap.add_argument("--out_dir",  type=str, default="data/synthetic_rae")
     ap.add_argument("--base_dir", type=str, default=None,
                     help="Carpeta RAE es_ES; si no se pasa, intenta RAE/rla-es/... o extern/rla-es/...")
 
-    # --- NUEVO: producto acotado + control de mezcla ---
-    ap.add_argument("--product_top_nouns",  type=int, default=0, help="Top-N sustantivos para producto (0 = desactivado)")
-    ap.add_argument("--product_top_places", type=int, default=0, help="Top-M lugares para producto (0 = desactivado)")
-    ap.add_argument("--product_ratio",      type=float, default=0.33, help="Proporción del train que viene del producto [0..1]")
-    ap.add_argument("--seed",               type=int, default=1234)
+    # NUEVOS límites del producto
+    ap.add_argument("--product_max_time", type=int, default=20)
+    ap.add_argument("--product_max_place", type=int, default=40)
+    ap.add_argument("--product_max_subjects", type=int, default=8)
+    ap.add_argument("--product_max_verbs", type=int, default=15)
+    ap.add_argument("--product_max_objs", type=int, default=30)
 
     args = ap.parse_args()
-
-    generate_all(
-        n_train=args.n_train,
-        n_dev=args.n_dev,
-        n_test=args.n_test,
-        sampling=args.sampling,
-        out_dir=args.out_dir,
-        base_dir=args.base_dir,
-        product_top_nouns=args.product_top_nouns,
-        product_top_places=args.product_top_places,
-        product_ratio=args.product_ratio,
-        seed=args.seed
-    )
+    generate_all(args.n_train, args.n_dev, args.n_test,
+                 sampling=args.sampling, out_dir=args.out_dir, base_dir=args.base_dir,
+                 product_max_time=args.product_max_time,
+                 product_max_place=args.product_max_place,
+                 product_max_subjects=args.product_max_subjects,
+                 product_max_verbs=args.product_max_verbs,
+                 product_max_objs=args.product_max_objs)
 
 if __name__ == "__main__":
     main()
-

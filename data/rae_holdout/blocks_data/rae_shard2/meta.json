@@ -1,0 +1,7 @@
+{
+  "shard": "rae_shard2",
+  "created_at": "2025-10-07T19:36:43.456513Z",
+  "n_train": 10000,
+  "sampling": "mixed",
+  "base_dir": null
+}

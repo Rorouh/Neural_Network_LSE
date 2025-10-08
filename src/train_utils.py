@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from torch.nn import CrossEntropyLos
+from torch.nn import CrossEntropyLoss
 from transformers import Trainer
 
 

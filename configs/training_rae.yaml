@@ -1,33 +1,26 @@
-# configs/training_rae.yaml
 model_name: t5-small
 output_dir: runs/exp_rae_t5s
 
-# dataset separado
-train_path: data/synthetic_rae/train.jsonl
-dev_path:   data/synthetic_rae/dev.jsonl
-test_path:  data/synthetic_rae/test.jsonl
+# Usa TODOS los shards que vayas creando:
+train_blocks_dir: data/rae_holdout/blocks_data
+dedup_train: true
+
+# Tus dev/test fijos (holdout que NO regeneras):
+dev_path:  data/rae_holdout/dev.jsonl
+test_path: data/rae_holdout/test.jsonl
 
 max_source_length: 96
 max_target_length: 64
-
-per_device_train_batch_size: 8
-per_device_eval_batch_size: 8
-
-learning_rate: 5e-4     # el que te iba bien
+per_device_train_batch_size: 16
+per_device_eval_batch_size: 16
 num_train_epochs: 6
-
-eval_steps: 200
-save_steps: 400
-logging_steps: 50
-
-warmup_ratio: 0.05
+learning_rate: 0.0005
+warmup_ratio: 0.04
 weight_decay: 0.01
-fp16: false      # CPU
 seed: 42
-gradient_checkpointing: true
-dataloader_num_workers: 2
-report_to: "none"
-
+gradient_checkpointing: false
 strip_accents_targets: true
+
+# ponderación del '#'
 upweight_hash_tokens: true
-hash_weight: 2.5
+hash_weight: 3.0

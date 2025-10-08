@@ -1,0 +1,800 @@
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Miguel estaba cansado.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Carlos estaba enfermo.", "tgt": "#CARLOS ENFERMO", "tpl": "estar_attr"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba enfermo.", "tgt": "#CARLOS ENFERMO", "tpl": "estar_attr"}
+{"src": "Carlos estaba contento.", "tgt": "#CARLOS #CONTENTO", "tpl": "estar_attr"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Luego Carlos vive casa en ajolio.", "tgt": "LUEGO #CARLOS CASA #AJOLIO VIVIR", "tpl": "time_place"}
+{"src": "Hoy Yo compro unas manzanas en salderita.", "tgt": "HOY EN #SALDERITA YO #MANZANAS COMPRAR", "tpl": "time_place"}
+{"src": "Ana fue feliz.", "tgt": "#ANA FELIZ", "tpl": "fue_ser"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Miguel no quiere una casa.", "tgt": "#MIGUEL CASA NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Miguel no quiere una película.", "tgt": "#MIGUEL PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Miguel estaba enferma.", "tgt": "#MIGUEL #ENFERMA", "tpl": "estar_attr"}
+{"src": "Ana no quiere una casa.", "tgt": "#ANA CASA NO QUERER", "tpl": "negation"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Lucía estaba cansada.", "tgt": "#LUCÍA CANSADO", "tpl": "estar_attr"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Mañana Yo veo un café en acequiaje.", "tgt": "MAÑANA EN #ACEQUIAJE YO CAFE VER", "tpl": "time_place"}
+{"src": "Luego Miguel compra casa en tragaz.", "tgt": "LUEGO #MIGUEL #COMPRA #CASA #TRAGAZ", "tpl": "time_place"}
+{"src": "Ana estaba enfermo.", "tgt": "#ANA ENFERMO", "tpl": "estar_attr"}
+{"src": "Hoy Yo vivo las manzanas en ditero.", "tgt": "HOY EN #DITERO YO #MANZANAS VIVIR", "tpl": "time_place"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Lucía fue a la tienda.", "tgt": "#LUCÍA TIENDA", "tpl": "fue_ir"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Carlos estuvo en rolletal.", "tgt": "#CARLOS #ROLLETAL", "tpl": "estar_loc"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Luego Carlos va en tabea.", "tgt": "LUEGO EN #TABEA #CARLOS IR", "tpl": "time_place"}
+{"src": "Ana fue amable.", "tgt": "#ANA #AMABLE", "tpl": "fue_ser"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ana estaba cansado.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel estuvo en aparatero.", "tgt": "#MIGUEL #APARATERO", "tpl": "estar_loc"}
+{"src": "Ana fue profesor.", "tgt": "#ANA PROFESOR", "tpl": "fue_ser"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ana estaba contento.", "tgt": "#ANA #CONTENTO", "tpl": "estar_attr"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Miguel estuvo en capullina.", "tgt": "#MIGUEL #CAPULLINA", "tpl": "estar_loc"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía estaba cansada.", "tgt": "#LUCÍA CANSADO", "tpl": "estar_attr"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Carlos estuvo en esmola.", "tgt": "#CARLOS #ESMOLA", "tpl": "estar_loc"}
+{"src": "Miguel fue amable.", "tgt": "#MIGUEL #AMABLE", "tpl": "fue_ser"}
+{"src": "Ayer Carlos compró los zapatos en alpatana.", "tgt": "AYER EN #ALPATANA #CARLOS #ZAPATOS COMPRAR", "tpl": "time_place"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Mañana Yo voy en piopollo.", "tgt": "MAÑANA EN #PIOPOLLO YO IR", "tpl": "time_place"}
+{"src": "Carlos estaba contento.", "tgt": "#CARLOS #CONTENTO", "tpl": "estar_attr"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue profesor.", "tgt": "#LUCÍA PROFESOR", "tpl": "fue_ser"}
+{"src": "Luego Miguel vive las manzanas en sardón.", "tgt": "LUEGO #MIGUEL #MANZANAS #SARDÓN VIVIR", "tpl": "time_place"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Miguel estaba enfermo.", "tgt": "#MIGUEL ENFERMO", "tpl": "estar_attr"}
+{"src": "Lucía estaba contento.", "tgt": "#LUCÍA #CONTENTO", "tpl": "estar_attr"}
+{"src": "Miguel estuvo en rubiel.", "tgt": "#MIGUEL #RUBIEL", "tpl": "estar_loc"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Ana no quiere una casa.", "tgt": "#ANA CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Luego Yo voy en lota.", "tgt": "LUEGO EN #LOTA YO IR", "tpl": "time_place"}
+{"src": "Carlos estaba cansado.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Lucía estaba enferma.", "tgt": "#LUCÍA #ENFERMA", "tpl": "estar_attr"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Ana fue a casa.", "tgt": "#ANA CASA", "tpl": "fue_ir"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba contento.", "tgt": "#CARLOS #CONTENTO", "tpl": "estar_attr"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ana estaba cansada.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Miguel estuvo en barcinador.", "tgt": "#MIGUEL #BARCINADOR", "tpl": "estar_loc"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Lucía no quiere un libro.", "tgt": "#LUCÍA LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba cansada.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Lucía fue triste.", "tgt": "#LUCÍA TRISTE", "tpl": "fue_ser"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Mañana Carlos vive una película en gorrilla.", "tgt": "MAÑANA EN #GORRILLA #CARLOS PELICULA VIVIR", "tpl": "time_place"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Lucía estaba cansado.", "tgt": "#LUCÍA CANSADO", "tpl": "estar_attr"}
+{"src": "Carlos estuvo en explique.", "tgt": "#CARLOS EXPLICAR", "tpl": "estar_loc"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Lucía fue triste.", "tgt": "#LUCÍA TRISTE", "tpl": "fue_ser"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Carlos estuvo en untada.", "tgt": "#CARLOS #UNTADA", "tpl": "estar_loc"}
+{"src": "Carlos estaba cansada.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Miguel no quiere un café.", "tgt": "#MIGUEL CAFE NO QUERER", "tpl": "negation"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue amable.", "tgt": "#LUCÍA #AMABLE", "tpl": "fue_ser"}
+{"src": "Ana fue profesor.", "tgt": "#ANA PROFESOR", "tpl": "fue_ser"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Carlos estaba enfermo.", "tgt": "#CARLOS ENFERMO", "tpl": "estar_attr"}
+{"src": "Ana no quiere una película.", "tgt": "#ANA PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Miguel estaba enfermo.", "tgt": "#MIGUEL ENFERMO", "tpl": "estar_attr"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Lucía estaba contento.", "tgt": "#LUCÍA #CONTENTO", "tpl": "estar_attr"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Miguel fue amable.", "tgt": "#MIGUEL #AMABLE", "tpl": "fue_ser"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "A las 9 Yo veo libro en pizpierno.", "tgt": "A LAS 9 YO LIBRO #PIZPIERNO VER", "tpl": "time_place"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Miguel estuvo en caseto.", "tgt": "#MIGUEL #CASETO", "tpl": "estar_loc"}
+{"src": "Ana estuvo en lefa.", "tgt": "#ANA #LEFA", "tpl": "estar_loc"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "Miguel estuvo en tempanillo.", "tgt": "#MIGUEL #TEMPANILLO", "tpl": "estar_loc"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Ana estuvo en templadera.", "tgt": "#ANA #TEMPLADERA", "tpl": "estar_loc"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Hoy Miguel va en gayata.", "tgt": "HOY EN #GAYATA #MIGUEL IR", "tpl": "time_place"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía estuvo en morcacho.", "tgt": "#LUCÍA #MORCACHO", "tpl": "estar_loc"}
+{"src": "Ana estuvo en pajuzo.", "tgt": "#ANA #PAJUZO", "tpl": "estar_loc"}
+{"src": "Carlos estuvo en nispolero.", "tgt": "#CARLOS #NISPOLERO", "tpl": "estar_loc"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía estaba enferma.", "tgt": "#LUCÍA #ENFERMA", "tpl": "estar_attr"}
+{"src": "Carlos estaba enfermo.", "tgt": "#CARLOS ENFERMO", "tpl": "estar_attr"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Hoy Yo compro café en explique.", "tgt": "HOY YO CAFE EXPLICAR COMPRAR", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Carlos estaba cansada.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Mañana Yo veo un café en hurtadineros.", "tgt": "MAÑANA EN #HURTADINEROS YO CAFE VER", "tpl": "time_place"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "A las 9 Lucía va en salpuga.", "tgt": "A LAS 9 EN #SALPUGA #LUCÍA IR", "tpl": "time_place"}
+{"src": "Ahora Yo vivo una película en cercillo.", "tgt": "YO AHORA PELICULA #CERCILLO VIVIR", "tpl": "time_place"}
+{"src": "Ana estaba contento.", "tgt": "#ANA #CONTENTO", "tpl": "estar_attr"}
+{"src": "Luego Yo vivo manzanas en mojete.", "tgt": "LUEGO YO #MANZANAS #MOJETE VIVIR", "tpl": "time_place"}
+{"src": "Ana no quiere unos zapatos.", "tgt": "#ANA #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Ana fue a casa.", "tgt": "#ANA CASA", "tpl": "fue_ir"}
+{"src": "Ana estaba cansada.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Yo compro unas manzanas en entremijo.", "tgt": "EN #ENTREMIJO YO #MANZANAS COMPRAR", "tpl": "time_place"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Miguel estuvo en aladro.", "tgt": "#MIGUEL #ALADRO", "tpl": "estar_loc"}
+{"src": "Ayer Yo vi una película en ludria.", "tgt": "AYER EN #LUDRIA YO PELICULA VER", "tpl": "time_place"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "Mañana Carlos compra las manzanas en el trabajo.", "tgt": "MAÑANA EN TRABAJO #CARLOS #MANZANAS COMPRAR", "tpl": "time_place"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "A las 9 Yo compro la casa en pipirrana.", "tgt": "A LAS 9 YO CASA #PIPIRRANA COMPRAR", "tpl": "time_place"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Yo voy en serano.", "tgt": "EN #SERANO YO IR", "tpl": "time_place"}
+{"src": "Carlos no quiere un libro.", "tgt": "#CARLOS LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Miguel estuvo en ajolio.", "tgt": "#MIGUEL #AJOLIO", "tpl": "estar_loc"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Miguel no quiere una película.", "tgt": "#MIGUEL PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Carlos estuvo en alifara.", "tgt": "#CARLOS #ALIFARA", "tpl": "estar_loc"}
+{"src": "Luego Yo compro el café en pecero.", "tgt": "LUEGO YO CAFE #PECERO COMPRAR", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Carlos estaba contenta.", "tgt": "#CARLOS #CONTENTA", "tpl": "estar_attr"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Lucía estuvo en desnieve.", "tgt": "#LUCÍA #DESNIEVE", "tpl": "estar_loc"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Miguel estaba enfermo.", "tgt": "#MIGUEL ENFERMO", "tpl": "estar_attr"}
+{"src": "Miguel fue profesora.", "tgt": "#MIGUEL PROFESORA", "tpl": "fue_ser"}
+{"src": "Miguel estaba cansada.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Ahora Yo vivo unos zapatos en cambocho.", "tgt": "YO AHORA #ZAPATOS #CAMBOCHO VIVIR", "tpl": "time_place"}
+{"src": "Ana estuvo en morenito.", "tgt": "#ANA #MORENITO", "tpl": "estar_loc"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Luego Lucía ve el café en cantarrana.", "tgt": "LUEGO EN #CANTARRANA #LUCÍA CAFE IR", "tpl": "time_place"}
+{"src": "Ahora Ana va en corval.", "tgt": "#ANA AHORA #CORVAL", "tpl": "time_place"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Carlos fue profesora.", "tgt": "#CARLOS PROFESORA", "tpl": "fue_ser"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Ayer Yo compré las manzanas en bajoca.", "tgt": "AYER EN #BAJOCA YO #MANZANAS COMPRAR", "tpl": "time_place"}
+{"src": "Ana fue a casa.", "tgt": "#ANA CASA", "tpl": "fue_ir"}
+{"src": "A las 9 Yo veo la película en perpalo.", "tgt": "A LAS 9 YO PELICULA #PERPALO VER", "tpl": "time_place"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Miguel no quiere una película.", "tgt": "#MIGUEL PELICULA NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Miguel estuvo en estandorio.", "tgt": "#MIGUEL #ESTANDORIO", "tpl": "estar_loc"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Carlos estaba enferma.", "tgt": "#CARLOS #ENFERMA ESTAR", "tpl": "estar_attr"}
+{"src": "Ana estaba enfermo.", "tgt": "#ANA ENFERMO", "tpl": "estar_attr"}
+{"src": "Ana estaba cansada.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "Carlos estaba cansada.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Ana fue profesora.", "tgt": "#ANA PROFESORA", "tpl": "fue_ser"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Miguel fue amable.", "tgt": "#MIGUEL #AMABLE", "tpl": "fue_ser"}
+{"src": "Mañana Yo compro los zapatos en bolaga.", "tgt": "MAÑANA YO #ZAPATOS #BOLAGA COMPRAR", "tpl": "time_place"}
+{"src": "Miguel estuvo en pernicote.", "tgt": "#MIGUEL #PERNICOTE", "tpl": "estar_loc"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ayer Yo viví un café en hambrina.", "tgt": "AYER EN #HAMBRINA YO CAFE VIVIR", "tpl": "time_place"}
+{"src": "Lucía va en dance.", "tgt": "EN #DANCE #LUCÍA IR", "tpl": "time_place"}
+{"src": "Lucía estuvo en granillera.", "tgt": "#LUCÍA #GRANILLERA", "tpl": "estar_loc"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Lucía estuvo en hurtadineros.", "tgt": "#LUCÍA #HURTADINEROS", "tpl": "estar_loc"}
+{"src": "Ana estuvo en lota.", "tgt": "#ANA #LOTA", "tpl": "estar_loc"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ana estaba cansada.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Hoy Lucía va en esfoyaza.", "tgt": "HOY #LUCÍA #ESFOYAZA", "tpl": "time_place"}
+{"src": "Mañana Yo voy en sarde.", "tgt": "MAÑANA EN #SARDE YO IR", "tpl": "time_place"}
+{"src": "Carlos no quiere un libro.", "tgt": "#CARLOS LIBRO NO QUERER", "tpl": "negation"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ana estuvo en calderil.", "tgt": "EN #CALDERIL #ANA ESTAR", "tpl": "estar_loc"}
+{"src": "Miguel no quiere unas manzanas.", "tgt": "#MIGUEL #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Carlos estaba enferma.", "tgt": "#CARLOS #ENFERMA ESTAR", "tpl": "estar_attr"}
+{"src": "Miguel estuvo en arda.", "tgt": "#MIGUEL ARDAR", "tpl": "estar_loc"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Ana estuvo en pinganillo.", "tgt": "#ANA #PINGANILLO", "tpl": "estar_loc"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Lucía estuvo en freidor.", "tgt": "#LUCÍA #FREIDOR", "tpl": "estar_loc"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ana estuvo en lobada.", "tgt": "#ANA #LOBADA", "tpl": "estar_loc"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Lucía estuvo en cebero.", "tgt": "#LUCÍA #CEBERO", "tpl": "estar_loc"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "A las 9 Yo veo el café en tareero.", "tgt": "A LAS 9 EN #TAREERO YO CAFE VER", "tpl": "time_place"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Ahora Yo vivo libro en morenito.", "tgt": "YO AHORA #VIVO LIBRO #MORENITO", "tpl": "time_place"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Luego Yo veo unas manzanas en royega.", "tgt": "LUEGO EN #ROYEGA YO #MANZANAS VER", "tpl": "time_place"}
+{"src": "Ana fue feliz.", "tgt": "#ANA FELIZ", "tpl": "fue_ser"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "A las 9 Lucía vive café en tamarigal.", "tgt": "A LAS 9 #LUCÍA CAFE TAMARIGAL VIVIR", "tpl": "time_place"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Carlos estaba contento.", "tgt": "#CARLOS #CONTENTO", "tpl": "estar_attr"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba contenta.", "tgt": "#CARLOS #CONTENTA", "tpl": "estar_attr"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Miguel estuvo en tuco.", "tgt": "#MIGUEL #TUCO", "tpl": "estar_loc"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Lucía estaba enfermo.", "tgt": "#LUCÍA ENFERMO", "tpl": "estar_attr"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Miguel fue feliz.", "tgt": "#MIGUEL FELIZ", "tpl": "fue_ser"}
+{"src": "Miguel estaba cansado.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Lucía estaba contento.", "tgt": "#LUCÍA #CONTENTO", "tpl": "estar_attr"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Hoy Yo vivo manzanas en jazminero.", "tgt": "HOY EN #JAZMINERO YO #MANZANAS VIVIR", "tpl": "time_place"}
+{"src": "Lucía fue feliz.", "tgt": "#LUCÍA FELIZ", "tpl": "fue_ser"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba cansado.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel fue profesor.", "tgt": "#MIGUEL PROFESOR", "tpl": "fue_ser"}
+{"src": "Ana fue triste.", "tgt": "#ANA TRISTE", "tpl": "fue_ser"}
+{"src": "Mañana Yo compro café en perta.", "tgt": "MAÑANA EN #PERTA YO CAFE COMPRAR", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Mañana Miguel ve película en remocho.", "tgt": "MAÑANA EN #REMOCHO #MIGUEL PELICULA IR", "tpl": "time_place"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Yo vivo un libro en callizo.", "tgt": "YO LIBRO #CALLIZO VIVIR", "tpl": "time_place"}
+{"src": "Miguel estaba enferma.", "tgt": "#MIGUEL #ENFERMA", "tpl": "estar_attr"}
+{"src": "Lucía estaba contenta.", "tgt": "#LUCÍA #CONTENTA", "tpl": "estar_attr"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Carlos estuvo en tuco.", "tgt": "#CARLOS #TUCO", "tpl": "estar_loc"}
+{"src": "Luego Yo vivo casa en madrilla.", "tgt": "LUEGO YO #VIVO CASA #MADRILLA", "tpl": "time_place"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "Lucía no quiere unos zapatos.", "tgt": "#LUCÍA #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Ana estuvo en tolena.", "tgt": "#ANA #TOLENA", "tpl": "estar_loc"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Lucía estuvo en esperriaca.", "tgt": "#LUCÍA #ESPERRIACA", "tpl": "estar_loc"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ayer Yo vi las manzanas en foral.", "tgt": "AYER YO #MANZANAS #FORAL VER", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Ana estuvo en cubata.", "tgt": "#ANA #CUBATA", "tpl": "estar_loc"}
+{"src": "Luego Yo veo zapatos en mayeto.", "tgt": "LUEGO YO #ZAPATOS #MAYETO VER", "tpl": "time_place"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Carlos fue profesor.", "tgt": "#CARLOS PROFESOR", "tpl": "fue_ser"}
+{"src": "Ana estuvo en barbijo.", "tgt": "#ANA #BARBIJO", "tpl": "estar_loc"}
+{"src": "Miguel fue profesor.", "tgt": "#MIGUEL PROFESOR", "tpl": "fue_ser"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Hoy Yo compro manzanas en gancha.", "tgt": "HOY EN #GANCHA YO #MANZANAS COMPRAR", "tpl": "time_place"}
+{"src": "Carlos estuvo en sucinda.", "tgt": "#CARLOS #SUCINDA", "tpl": "estar_loc"}
+{"src": "Yo voy en mosolina.", "tgt": "EN #MOSOLINA YO IR", "tpl": "time_place"}
+{"src": "Lucía estaba contento.", "tgt": "#LUCÍA #CONTENTO", "tpl": "estar_attr"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ana fue profesor.", "tgt": "#ANA PROFESOR", "tpl": "fue_ser"}
+{"src": "Carlos estaba contenta.", "tgt": "#CARLOS #CONTENTA", "tpl": "estar_attr"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Ana estaba cansado.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "Ana estuvo en ablanedo.", "tgt": "#ANA #ABLANEDO", "tpl": "estar_loc"}
+{"src": "Ahora Yo compro el café en vecindona.", "tgt": "EN #VECINDONA YO AHORA CAFE COMPRAR", "tpl": "time_place"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Carlos no quiere una casa.", "tgt": "#CARLOS CASA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "A las 9 Yo vivo una película en monovolumen.", "tgt": "A LAS 9 YO PELICULA #MONOVOLUMEN VIVIR", "tpl": "time_place"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Mañana Yo compro un café en cargancia.", "tgt": "MAÑANA EN #CARGANCIA YO CAFE COMPRAR", "tpl": "time_place"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "Ana estuvo en macoca.", "tgt": "#ANA #MACOCA", "tpl": "estar_loc"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Lucía no quiere unas manzanas.", "tgt": "#LUCÍA #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue triste.", "tgt": "#LUCÍA TRISTE", "tpl": "fue_ser"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Ayer Miguel vio manzanas en carriona.", "tgt": "AYER #MIGUEL #MANZANAS #CARRIONA VER", "tpl": "time_place"}
+{"src": "Carlos no quiere un café.", "tgt": "#CARLOS CAFE NO QUERER", "tpl": "negation"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ana estuvo en ahijadera.", "tgt": "#ANA #AHIJADERA", "tpl": "estar_loc"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Mañana Miguel compra manzanas en pinganillo.", "tgt": "MAÑANA #MIGUEL #MANZANAS #PINGANILLO COMPRAR", "tpl": "time_place"}
+{"src": "Lucía fue triste.", "tgt": "#LUCÍA TRISTE", "tpl": "fue_ser"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Ahora Miguel vive unas manzanas en callizo.", "tgt": "#MIGUEL AHORA #MANZANAS #CALLIZO VIVIR", "tpl": "time_place"}
+{"src": "Carlos no quiere una casa.", "tgt": "#CARLOS CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba cansada.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Miguel estaba cansada.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Lucía estuvo en horuelo.", "tgt": "#LUCÍA #HORUELO", "tpl": "estar_loc"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "Carlos fue feliz.", "tgt": "#CARLOS FELIZ", "tpl": "fue_ser"}
+{"src": "Mañana Yo voy en chirumba.", "tgt": "MAÑANA EN #CHIRUMBA YO IR", "tpl": "time_place"}
+{"src": "Ayer Yo fui en sel.", "tgt": "AYER EN #SEL YO IR", "tpl": "time_place"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ana no quiere unas manzanas.", "tgt": "#ANA #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Ayer Yo fui en lobada.", "tgt": "AYER YO #LOBADA", "tpl": "time_place"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía no quiere unas manzanas.", "tgt": "#LUCÍA #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Mañana Ana vive casa en branca.", "tgt": "MAÑANA EN #BRANCA #ANA CASA VIVIR", "tpl": "time_place"}
+{"src": "Hoy Miguel va en muslamen.", "tgt": "HOY EN #MUSLAMEN #MIGUEL IR", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ana fue amable.", "tgt": "#ANA #AMABLE", "tpl": "fue_ser"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "A las 9 Ana vive los zapatos en trolla.", "tgt": "A LAS 9 #ANA #ZAPATOS #TROLLA VIVIR", "tpl": "time_place"}
+{"src": "Ana estuvo en caraba.", "tgt": "#ANA #CARABA", "tpl": "estar_loc"}
+{"src": "Lucía estaba contenta.", "tgt": "#LUCÍA #CONTENTA", "tpl": "estar_attr"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Carlos estaba enferma.", "tgt": "#CARLOS #ENFERMA ESTAR", "tpl": "estar_attr"}
+{"src": "Miguel estaba contenta.", "tgt": "#MIGUEL #CONTENTA", "tpl": "estar_attr"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Ana no quiere unos zapatos.", "tgt": "#ANA #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Lucía no quiere un libro.", "tgt": "#LUCÍA LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba cansada.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Mañana Yo compro zapatos en balagar.", "tgt": "MAÑANA YO #ZAPATOS BALAGAR COMPRAR", "tpl": "time_place"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Miguel fue profesora.", "tgt": "#MIGUEL PROFESORA", "tpl": "fue_ser"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Lucía fue a la tienda.", "tgt": "#LUCÍA TIENDA", "tpl": "fue_ir"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Carlos estuvo en flojuelo.", "tgt": "#CARLOS #FLOJUELO", "tpl": "estar_loc"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Lucía estaba cansada.", "tgt": "#LUCÍA CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel estaba enfermo.", "tgt": "#MIGUEL ENFERMO", "tpl": "estar_attr"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Miguel no quiere unos zapatos.", "tgt": "#MIGUEL #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Hoy Yo veo la casa en verdezuela.", "tgt": "HOY EN #VERDEZUELA YO CASA VER", "tpl": "time_place"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba contenta.", "tgt": "#CARLOS #CONTENTA", "tpl": "estar_attr"}
+{"src": "Lucía no quiere unos zapatos.", "tgt": "#LUCÍA #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba enfermo.", "tgt": "#CARLOS ENFERMO", "tpl": "estar_attr"}
+{"src": "Lucía estuvo en samanta.", "tgt": "#LUCÍA #SAMANTA", "tpl": "estar_loc"}
+{"src": "Lucía fue profesora.", "tgt": "#LUCÍA PROFESORA", "tpl": "fue_ser"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ana estaba enfermo.", "tgt": "#ANA ENFERMO", "tpl": "estar_attr"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Miguel estuvo en meigo.", "tgt": "#MIGUEL #MEIGO", "tpl": "estar_loc"}
+{"src": "Lucía estuvo en rubiel.", "tgt": "#LUCÍA #RUBIEL", "tpl": "estar_loc"}
+{"src": "Miguel estuvo en quiebre.", "tgt": "#MIGUEL #QUIEBRE", "tpl": "estar_loc"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Hoy Ana compra un café en esparajismo.", "tgt": "HOY #ANA CAFE #ESPARAJISMO COMPRAR", "tpl": "time_place"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Ahora Miguel vive un libro en toldero.", "tgt": "#MIGUEL AHORA LIBRO #TOLDERO VIVIR", "tpl": "time_place"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Carlos no quiere una película.", "tgt": "#CARLOS PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Mañana Carlos va en untada.", "tgt": "MAÑANA EN #UNTADA #CARLOS IR", "tpl": "time_place"}
+{"src": "Miguel compra libro en ternasco.", "tgt": "#MIGUEL LIBRO #TERNASCO COMPRAR", "tpl": "time_place"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Mañana Lucía ve libro en fisio.", "tgt": "MAÑANA #LUCÍA LIBRO #FISIO IR", "tpl": "time_place"}
+{"src": "Mañana Yo compro unos zapatos en lijadura.", "tgt": "MAÑANA YO #ZAPATOS #LIJADURA COMPRAR", "tpl": "time_place"}
+{"src": "Hoy Yo vivo la casa en terriza.", "tgt": "HOY YO CASA #TERRIZA VIVIR", "tpl": "time_place"}
+{"src": "Ana estaba enfermo.", "tgt": "#ANA ENFERMO", "tpl": "estar_attr"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Yo veo una casa en galana.", "tgt": "EN #GALANA YO CASA VER", "tpl": "time_place"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Ana estuvo en hambrina.", "tgt": "#ANA #HAMBRINA", "tpl": "estar_loc"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Ayer Yo fui en latigadera.", "tgt": "AYER YO #LATIGADERA", "tpl": "time_place"}
+{"src": "Lucía estaba enferma.", "tgt": "#LUCÍA #ENFERMA", "tpl": "estar_attr"}
+{"src": "Luego Yo voy en solanar.", "tgt": "LUEGO YO #SOLANAR IR", "tpl": "time_place"}
+{"src": "Carlos no quiere una casa.", "tgt": "#CARLOS CASA NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ana estaba cansada.", "tgt": "#ANA CANSADO", "tpl": "estar_attr"}
+{"src": "Miguel estaba contenta.", "tgt": "#MIGUEL #CONTENTA", "tpl": "estar_attr"}
+{"src": "Ana estaba enferma.", "tgt": "#ANA #ENFERMA ESTAR", "tpl": "estar_attr"}
+{"src": "Miguel estuvo en vesque.", "tgt": "#MIGUEL #VESQUE", "tpl": "estar_loc"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "Miguel fue profesor.", "tgt": "#MIGUEL PROFESOR", "tpl": "fue_ser"}
+{"src": "Ayer Yo viví libro en sirimiri.", "tgt": "AYER EN #SIRIMIRI YO LIBRO VIVIR", "tpl": "time_place"}
+{"src": "Hoy Yo vivo los zapatos en sula.", "tgt": "HOY YO #ZAPATOS #SULA VIVIR", "tpl": "time_place"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Mañana Lucía va en caramilleras.", "tgt": "MAÑANA EN #CARAMILLERAS #LUCÍA IR", "tpl": "time_place"}
+{"src": "Ana estaba contento.", "tgt": "#ANA #CONTENTO", "tpl": "estar_attr"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Ana vive película en entenga.", "tgt": "#ANA PELICULA #ENTENGA VIVIR", "tpl": "time_place"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Yo voy en aparatero.", "tgt": "EN #APARATERO YO IR", "tpl": "time_place"}
+{"src": "Ahora Yo veo una casa en samarugo.", "tgt": "EN #SAMARUGO YO AHORA CASA VER", "tpl": "time_place"}
+{"src": "Lucía estaba cansada.", "tgt": "#LUCÍA CANSADO", "tpl": "estar_attr"}
+{"src": "Mañana Ana vive libro en tabilla.", "tgt": "MAÑANA EN #TABILLA #ANA LIBRO VIVIR", "tpl": "time_place"}
+{"src": "Miguel fue profesora.", "tgt": "#MIGUEL PROFESORA", "tpl": "fue_ser"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Ana no quiere un café.", "tgt": "#ANA CAFE NO QUERER", "tpl": "negation"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ahora Yo compro unos zapatos en mayeto.", "tgt": "YO AHORA #ZAPATOS #MAYETO COMPRAR", "tpl": "time_place"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Miguel estaba cansada.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Carlos estuvo en tiratrillo.", "tgt": "#CARLOS #TIRATRILLO", "tpl": "estar_loc"}
+{"src": "Carlos ve un libro en garbera.", "tgt": "#CARLOS LIBRO GARBERA IR", "tpl": "time_place"}
+{"src": "Carlos fue a Madrid.", "tgt": "#CARLOS #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Hoy Yo compro casa en aguilonia.", "tgt": "HOY EN #AGUILONIA YO CASA COMPRAR", "tpl": "time_place"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Lucía estuvo en tablachero.", "tgt": "#LUCÍA #TABLACHERO", "tpl": "estar_loc"}
+{"src": "Carlos fue a la escuela.", "tgt": "#CARLOS ESCUELA", "tpl": "fue_ir"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Lucía estuvo en roscadero.", "tgt": "#LUCÍA #ROSCADERO", "tpl": "estar_loc"}
+{"src": "Lucía fue a Madrid.", "tgt": "#LUCÍA #MADRID", "tpl": "fue_ir"}
+{"src": "Mañana Yo compro la casa en granillera.", "tgt": "MAÑANA EN #GRANILLERA YO CASA COMPRAR", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ana estuvo en jinebro.", "tgt": "EN #JINEBRO #ANA ESTAR", "tpl": "estar_loc"}
+{"src": "Luego Yo veo un libro en mayueta.", "tgt": "LUEGO YO LIBRO #MAYUETA VER", "tpl": "time_place"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ana fue amable.", "tgt": "#ANA #AMABLE", "tpl": "fue_ser"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Hoy Yo compro la casa en rolletal.", "tgt": "HOY EN #ROLLETAL YO CASA COMPRAR", "tpl": "time_place"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Ana estaba contento.", "tgt": "#ANA #CONTENTO", "tpl": "estar_attr"}
+{"src": "Carlos estuvo en enjero.", "tgt": "#CARLOS #ENJERO", "tpl": "estar_loc"}
+{"src": "Yo no quiero unos zapatos.", "tgt": "YO #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Lucía estaba enferma.", "tgt": "#LUCÍA #ENFERMA", "tpl": "estar_attr"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "Lucía no quiere una película.", "tgt": "#LUCÍA PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Miguel estuvo en jabaluna.", "tgt": "#MIGUEL #JABALUNA", "tpl": "estar_loc"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Miguel estaba enferma.", "tgt": "#MIGUEL #ENFERMA", "tpl": "estar_attr"}
+{"src": "Ayer Carlos compró un libro en mayeto.", "tgt": "AYER #CARLOS LIBRO #MAYETO COMPRAR", "tpl": "time_place"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Lucía no quiere una casa.", "tgt": "#LUCÍA CASA NO QUERER", "tpl": "negation"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Carlos estuvo en carolo.", "tgt": "#CARLOS #CAROLO", "tpl": "estar_loc"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "Ayer Ana fue en jubada.", "tgt": "AYER #ANA #JUBADA", "tpl": "time_place"}
+{"src": "Ana estuvo en azcarrio.", "tgt": "#ANA #AZCARRIO", "tpl": "estar_loc"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Ana fue a casa.", "tgt": "#ANA CASA", "tpl": "fue_ir"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Hoy Yo voy en escureta.", "tgt": "HOY EN #ESCURETA YO IR", "tpl": "time_place"}
+{"src": "Ayer Yo fui en salpuga.", "tgt": "AYER EN #SALPUGA YO IR", "tpl": "time_place"}
+{"src": "Lucía estaba cansada.", "tgt": "#LUCÍA CANSADO", "tpl": "estar_attr"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Lucía estuvo en faneguero.", "tgt": "#LUCÍA #FANEGUERO", "tpl": "estar_loc"}
+{"src": "Ahora Carlos va en porgadero.", "tgt": "#CARLOS AHORA #PORGADERO IR", "tpl": "time_place"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "A las 9 Yo vivo un libro en escarrio.", "tgt": "A LAS 9 YO LIBRO #ESCARRIO VIVIR", "tpl": "time_place"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ana fue triste.", "tgt": "#ANA TRISTE", "tpl": "fue_ser"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Ana fue a la escuela.", "tgt": "#ANA ESCUELA", "tpl": "fue_ir"}
+{"src": "Luego Yo vivo libro en chueta.", "tgt": "LUEGO YO #VIVO LIBRO #CHUETA", "tpl": "time_place"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Ojalá venga Ana.", "tgt": "OJALA #ANA VENIR", "tpl": "ojala"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ojalá llueva mañana.", "tgt": "OJALA MAÑANA LLOVER", "tpl": "ojala"}
+{"src": "Mañana Yo veo una película en henasco.", "tgt": "MAÑANA EN #HENASCO YO PELICULA VER", "tpl": "time_place"}
+{"src": "Ana estuvo en facería.", "tgt": "#ANA FACEER", "tpl": "estar_loc"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Mañana Ana ve unos zapatos en cucharrena.", "tgt": "MAÑANA #ANA #ZAPATOS #CUCHARRENA IR", "tpl": "time_place"}
+{"src": "Ana no quiere unos zapatos.", "tgt": "#ANA #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Miguel fue a la tienda.", "tgt": "#MIGUEL TIENDA", "tpl": "fue_ir"}
+{"src": "Ana estaba enfermo.", "tgt": "#ANA ENFERMO", "tpl": "estar_attr"}
+{"src": "Luego Yo veo la casa en fiyuela.", "tgt": "LUEGO EN #FIYUELA YO CASA VER", "tpl": "time_place"}
+{"src": "Ana estuvo en bolagar.", "tgt": "#ANA BOLAGAR", "tpl": "estar_loc"}
+{"src": "Carlos estuvo en cabruna.", "tgt": "#CARLOS CABRUNA", "tpl": "estar_loc"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
+{"src": "Miguel no quiere unos zapatos.", "tgt": "#MIGUEL #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Carlos estaba contenta.", "tgt": "#CARLOS #CONTENTA", "tpl": "estar_attr"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Carlos estuvo en bajoca.", "tgt": "#CARLOS #BAJOCA", "tpl": "estar_loc"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Mañana Yo compro un libro en capullina.", "tgt": "MAÑANA YO LIBRO #CAPULLINA COMPRAR", "tpl": "time_place"}
+{"src": "Ayer Lucía compró casa en riera.", "tgt": "AYER #LUCÍA CASA REIR COMPRAR", "tpl": "time_place"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ana fue a la tienda.", "tgt": "#ANA TIENDA", "tpl": "fue_ir"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ana fue profesor.", "tgt": "#ANA PROFESOR", "tpl": "fue_ser"}
+{"src": "Carlos estuvo en ses.", "tgt": "EN #SES #CARLOS ESTAR", "tpl": "estar_loc"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Lucía fue a la tienda.", "tgt": "#LUCÍA TIENDA", "tpl": "fue_ir"}
+{"src": "Ojalá haya café.", "tgt": "OJALA CAFE", "tpl": "ojala"}
+{"src": "Carlos fue profesor.", "tgt": "#CARLOS PROFESOR", "tpl": "fue_ser"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Ana estuvo en dimidor.", "tgt": "#ANA #DIMIDOR", "tpl": "estar_loc"}
+{"src": "Miguel estuvo en asistimiento.", "tgt": "#MIGUEL #ASISTIMIENTO", "tpl": "estar_loc"}
+{"src": "Dámelo, por favor.", "tgt": "YO A MI ESO #FAVOR DAR", "tpl": "imperative"}
+{"src": "Pon eso ahí.", "tgt": "#PON #ESO #AHÍ", "tpl": "imperative"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Carlos estaba cansado.", "tgt": "#CARLOS CANSADO", "tpl": "estar_attr"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Luego Carlos ve unos zapatos en pasionera.", "tgt": "LUEGO #CARLOS #ZAPATOS #PASIONERA IR", "tpl": "time_place"}
+{"src": "Lucía fue triste.", "tgt": "#LUCÍA TRISTE", "tpl": "fue_ser"}
+{"src": "Ana estuvo en riera.", "tgt": "#ANA REIR", "tpl": "estar_loc"}
+{"src": "Carlos fue a casa.", "tgt": "#CARLOS CASA", "tpl": "fue_ir"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Lucía no quiere una casa.", "tgt": "#LUCÍA CASA NO QUERER", "tpl": "negation"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "¿Dónde vives?", "tgt": "TU VIVIR DONDE", "tpl": "wh"}
+{"src": "Miguel fue a la escuela.", "tgt": "#MIGUEL ESCUELA", "tpl": "fue_ir"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Lucía estuvo en zarandajo.", "tgt": "#LUCÍA #ZARANDAJO", "tpl": "estar_loc"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Ana estaba enferma.", "tgt": "#ANA #ENFERMA ESTAR", "tpl": "estar_attr"}
+{"src": "Lucía fue a casa.", "tgt": "#LUCÍA CASA", "tpl": "fue_ir"}
+{"src": "Ana estuvo en jorco.", "tgt": "#ANA #JORCO", "tpl": "estar_loc"}
+{"src": "Yo no quiero una casa.", "tgt": "YO CASA NO QUERER", "tpl": "negation"}
+{"src": "¿Qué quieres?", "tgt": "TU QUERER QUE", "tpl": "wh"}
+{"src": "Lucía fue triste.", "tgt": "#LUCÍA TRISTE", "tpl": "fue_ser"}
+{"src": "Yo no quiero un libro.", "tgt": "YO LIBRO NO QUERER", "tpl": "negation"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "¿Quién viene?", "tgt": "QUIEN VENIR QUIEN", "tpl": "wh"}
+{"src": "Ana fue amable.", "tgt": "#ANA #AMABLE", "tpl": "fue_ser"}
+{"src": "Miguel estaba cansado.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Luego Yo vivo una película en granillera.", "tgt": "LUEGO YO PELICULA #GRANILLERA VIVIR", "tpl": "time_place"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ana no quiere unas manzanas.", "tgt": "#ANA #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Luego Ana compra casa en reciente.", "tgt": "LUEGO #ANA #COMPRA CASA #RECIENTE", "tpl": "time_place"}
+{"src": "Ana fue profesor.", "tgt": "#ANA PROFESOR", "tpl": "fue_ser"}
+{"src": "A las 9 Yo veo los zapatos en trenque.", "tgt": "A LAS 9 YO #ZAPATOS #TRENQUE VER", "tpl": "time_place"}
+{"src": "Ana estuvo en esparajismo.", "tgt": "#ANA #ESPARAJISMO", "tpl": "estar_loc"}
+{"src": "Carlos no quiere unos zapatos.", "tgt": "#CARLOS #ZAPATOS NO QUERER", "tpl": "negation"}
+{"src": "Hoy Carlos ve el café en mardal.", "tgt": "HOY #CARLOS CAFE #MARDAL IR", "tpl": "time_place"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Lucía estuvo en sarde.", "tgt": "#LUCÍA #SARDE", "tpl": "estar_loc"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Yo no quiero un café.", "tgt": "YO CAFE NO QUERER", "tpl": "negation"}
+{"src": "Ojalá pueda venir Miguel mañana.", "tgt": "OJALA MAÑANA #MIGUEL VENIR", "tpl": "ojala"}
+{"src": "Carlos estuvo en volvedera.", "tgt": "#CARLOS #VOLVEDERA", "tpl": "estar_loc"}
+{"src": "Miguel fue a Madrid.", "tgt": "#MIGUEL #MADRID", "tpl": "fue_ir"}
+{"src": "Miguel fue a casa.", "tgt": "#MIGUEL CASA", "tpl": "fue_ir"}
+{"src": "Lucía estaba enfermo.", "tgt": "#LUCÍA ENFERMO", "tpl": "estar_attr"}
+{"src": "Ana no quiere un café.", "tgt": "#ANA CAFE NO QUERER", "tpl": "negation"}
+{"src": "Lucía fue a la escuela.", "tgt": "#LUCÍA ESCUELA", "tpl": "fue_ir"}
+{"src": "Ahora Yo vivo una casa en avica.", "tgt": "EN #AVICA YO AHORA CASA VIVIR", "tpl": "time_place"}
+{"src": "Carlos fue a la tienda.", "tgt": "#CARLOS TIENDA", "tpl": "fue_ir"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Lucía estaba enfermo.", "tgt": "#LUCÍA ENFERMO", "tpl": "estar_attr"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Yo no quiero unas manzanas.", "tgt": "YO #MANZANAS NO QUERER", "tpl": "negation"}
+{"src": "Ana estuvo en fiyuela.", "tgt": "#ANA #FIYUELA", "tpl": "estar_loc"}
+{"src": "Yo no quiero una película.", "tgt": "YO PELICULA NO QUERER", "tpl": "negation"}
+{"src": "Ana fue a Madrid.", "tgt": "#ANA #MADRID", "tpl": "fue_ir"}
+{"src": "Mañana Lucía compra una película en jazminero.", "tgt": "MAÑANA EN #JAZMINERO #LUCÍA PELICULA COMPRAR", "tpl": "time_place"}
+{"src": "Ana estuvo en allegadera.", "tgt": "#ANA #ALLEGADERA", "tpl": "estar_loc"}
+{"src": "Miguel estaba contenta.", "tgt": "#MIGUEL #CONTENTA", "tpl": "estar_attr"}
+{"src": "Ven aquí ahora mismo.", "tgt": "TU #AQUÍ AHORA #MISMO VENIR", "tpl": "imperative"}
+{"src": "Hoy Yo compro la película en botrino.", "tgt": "HOY EN #BOTRINO YO PELICULA COMPRAR", "tpl": "time_place"}
+{"src": "¿Cómo te llamas?", "tgt": "TU LLAMAR COMO", "tpl": "wh"}
+{"src": "Ayer Yo fui en grelo.", "tgt": "AYER YO #GRELO", "tpl": "time_place"}
+{"src": "Miguel estaba cansado.", "tgt": "#MIGUEL CANSADO", "tpl": "estar_attr"}
+{"src": "Haz la tarea.", "tgt": "TU #TAREA HACER", "tpl": "imperative"}
