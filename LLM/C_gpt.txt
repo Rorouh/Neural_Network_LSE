@@ -1,0 +1,1778 @@
+¿María cocina arroz hoy?
+¿Luis estudia matemáticas esta mañana?
+¿Ana prepara café por la tarde?
+¿Javier escribe mensajes esta semana?
+¿Lucía canta canciones los viernes?
+¿Carlos observa estrellas esta noche?
+¿El profesor enseña historia los lunes?
+¿Mi hermana limpia la casa los domingos?
+¿El equipo entrena esta tarde?
+¿La empresa fabrica muebles este mes?
+¿El médico atiende pacientes los jueves?
+¿La vecina cocina lentejas hoy?
+¿El alumno estudia inglés esta tarde?
+¿Mi padre repara el coche los sábados?
+¿La directora revisa informes esta semana?
+¿El escritor redacta cuentos por la noche?
+¿El chef prepara postres los domingos?
+¿La doctora examina a los niños hoy?
+¿Mi amigo organiza sus cosas esta mañana?
+¿El grupo canta canciones hoy?
+¿Trabajas los fines de semana?
+¿Cocinas los domingos?
+¿Lees el periódico hoy?
+¿Estudias idiomas esta noche?
+¿Preparas café los lunes?
+¿Escribes correos hoy?
+¿Observas aves los sábados?
+¿Organizas tareas este mes?
+¿Visitas museos este verano?
+¿Limpias tu habitación esta tarde?
+¿Reparas el ordenador hoy?
+¿Cocinas pasta los viernes?
+¿Aprendes francés este año?
+¿Enseñas matemáticas los jueves?
+¿Pintas cuadros este mes?
+¿Grabas vídeos los domingos?
+¿Tocas guitarra los viernes?
+¿Investigas temas esta semana?
+¿Gestionas proyectos hoy?
+¿Planeas viajes este año?
+¿Trabajas por la tarde?
+¿Te compra María flores hoy?
+¿Le escribe Luis a su madre?
+¿Nos prepara Ana la cena esta noche?
+¿Lo arregla Javier hoy?
+¿Les enseña Lucía música?
+¿Te llama Carlos esta mañana?
+¿Les explica el profesor la lección esta semana?
+¿Le regala tu hermana dulces a su amiga?
+¿Entrena el equipo hoy?
+¿Nos envía la empresa productos?
+¿Te revisa el médico hoy?
+¿Le presta libros la vecina?
+¿Repite el alumno la lección?
+¿Te ayuda tu padre hoy?
+¿Les envía la directora correos?
+¿Publica el escritor hoy?
+¿Te prepara el chef café?
+¿Le recomienda la doctora descanso?
+¿Guarda tu amigo los documentos?
+¿Les canta el grupo hoy?
+¿María trabaja en la oficina?
+¿Luis estudia en la biblioteca?
+¿Ana vive en Granada?
+¿Javier escribe en la cocina?
+¿Lucía canta en el teatro?
+¿Carlos lee en el parque?
+¿El profesor enseña en el instituto?
+¿Mi hermana limpia en su casa?
+¿El equipo entrena en el estadio?
+¿La empresa fabrica en Madrid?
+¿El médico trabaja en el hospital?
+¿La vecina cocina en la cocina?
+¿El alumno estudia en la escuela?
+¿Mi padre repara en el garaje?
+¿La directora organiza en el despacho?
+¿El escritor escribe en su estudio?
+¿El chef prepara en la cocina?
+¿La doctora atiende en la consulta?
+¿Tu amigo estudia en la biblioteca?
+¿El grupo canta en el auditorio?
+¿Trabajas en casa?
+¿Cocinas en el comedor?
+¿Lees en el sofá?
+¿Estudias en la mesa?
+¿Escribes en el ordenador?
+¿Limpias en la cocina?
+¿Cierras la puerta en el pasillo?
+¿Descansas en la cama?
+¿Corres en el parque?
+¿Duermes en tu habitación?
+¿Canta Lucía en Madrid o en Sevilla?
+¿Trabaja Luis en Granada o en Málaga?
+¿Enseña Ana en la escuela o en la universidad?
+¿Escribe Javier en su casa o en la oficina?
+¿Ensaya el grupo en el teatro?
+¿Vives en Barcelona?
+¿Estudia tu hermano en casa?
+¿Trabaja tu padre en el taller?
+¿Cocinas en Casa Ana?
+¿Lees en Instituto Granada?
+¿Cantas en el coro de Madrid?
+¿Entrenas en el campo del colegio?
+¿Descansas en el sofá del salón?
+¿Estudias en la universidad?
+¿Trabajas en la empresa central?
+¿Trabajas mucho?
+¿Cocinas arroz?
+¿Lees un libro?
+¿Estudias inglés?
+¿Preparas café?
+¿Escribes mensajes?
+¿Observas el cielo?
+¿Organizas tareas?
+¿Visitas museos?
+¿Limpias la casa?
+¿Reparas el coche?
+¿Aprendes idiomas?
+¿Pintas cuadros?
+¿Grabas vídeos?
+¿Tocas guitarra?
+¿Investigas temas?
+¿Mides ingredientes?
+¿Gestionas proyectos?
+¿Planeas vacaciones?
+¿Caminas rápido?
+¿Compras pan?
+¿Lees poemas?
+¿Estudias biología?
+¿Trabajas feliz?
+¿Cantas canciones?
+¿Escuchas música?
+¿Aprendes cosas?
+¿Cierras la puerta?
+¿Subes escaleras?
+¿Duermes bien?
+¿Despiertas temprano?
+¿Corres rápido?
+¿Ríes mucho?
+¿Juegas fútbol?
+¿Estudias solo?
+¿Trabajas motivado?
+¿Lees sin parar?
+¿Descansas tranquilo?
+¿Vives feliz?
+¿Cocinas bien?
+¿Escribes cartas?
+¿Pintas paisajes?
+¿Trabajas en equipo?
+¿Cantas cuando llueve?
+¿Estudias cuando puedes?
+¿Descansas los domingos?
+¿María cocinó arroz ayer?
+¿Luis estudió inglés?
+¿Ana preparó café?
+¿Javier escribió mensajes?
+¿Lucía cantó en el teatro?
+¿Carlos observó estrellas?
+¿El profesor enseñó historia?
+¿Mi hermana limpió la casa?
+¿El equipo entrenó ayer?
+¿La empresa fabricó muebles?
+¿El médico atendió pacientes?
+¿La vecina cocinó arroz?
+¿El alumno estudió biología?
+¿Mi padre arregló el coche?
+¿La directora revisó informes?
+¿El escritor redactó algo?
+¿El chef midió ingredientes?
+¿La doctora examinó niños?
+¿Tu amigo guardó documentos?
+¿El grupo cantó el sábado?
+¿Trabajaste ayer?
+¿Cocinaste?
+¿Leíste algo?
+¿Estudiaste?
+¿Escribiste?
+¿Observaste el cielo?
+¿Organizaste tareas?
+¿Visitaste amigos?
+¿Limpiaste la casa?
+¿Aprendiste algo?
+¿Pintaste un cuadro?
+¿Grabaste vídeos?
+¿Tocaste guitarra?
+¿Investigaste temas?
+¿Dormiste temprano?
+¿Descansaste?
+¿Te llamó alguien?
+¿Le escribiste a tu madre?
+¿Lo terminaste?
+¿La ayudaste?
+¿Les contaste la noticia?
+¿Te arrepentiste?
+¿Le dijiste la verdad?
+¿Los viste en la fiesta?
+¿Te levantaste tarde?
+¿Le compraste flores?
+¿Te preparaste para el examen?
+¿Le diste el libro?
+¿Los esperaste mucho?
+¿Te quedaste en casa?
+¿Le hablaste ayer?
+¿Los invitaste?
+¿Te dormiste temprano?
+¿Le contaste a tu amigo?
+¿Los buscaste en la calle?
+¿Te fuiste ayer?
+¿Le explicaste todo?
+¿Los conociste?
+¿Te reíste mucho?
+¿Le respondiste rápido?
+¿Te equivocaste?
+¿María cocinará mañana?
+¿Luis estudiará inglés?
+¿Ana preparará café?
+¿Javier escribirá correos?
+¿Lucía cantará mañana?
+¿Carlos observará estrellas?
+¿El profesor enseñará mañana?
+¿Mi hermana limpiará la casa?
+¿El equipo entrenará mañana?
+¿La empresa fabricará muebles?
+¿El médico atenderá pacientes?
+¿La vecina cocinará arroz?
+¿El alumno estudiará mañana?
+¿Mi padre arreglará el coche?
+¿La directora organizará reuniones?
+¿El escritor redactará un libro?
+¿El chef medirá ingredientes?
+¿La doctora examinará pacientes?
+¿Tu amigo guardará fotos?
+¿El grupo cantará en Madrid?
+¿Trabajarás mañana?
+¿Cocinarás?
+¿Leerás algo?
+¿Estudiarás?
+¿Escribirás?
+¿Observarás el cielo?
+¿Organizarás tareas?
+¿Visitarás amigos?
+¿Limpiarás la casa?
+¿Aprenderás francés?
+¿Pintarás un cuadro?
+¿Grabarás vídeos?
+¿Tocarás guitarra?
+¿Investigarás temas?
+¿Dormirás bien?
+¿Descansarás el domingo?
+¿Te levantarás temprano?
+¿Le escribirás mañana?
+¿Te prepararás para el examen?
+¿Le hablarás al profesor?
+¿Los visitarás pronto?
+¿Te moverás a otra ciudad?
+¿Le comprarás un regalo?
+¿Los invitarás a la fiesta?
+¿Te casarás pronto?
+¿Le contarás la verdad?
+¿Los ayudarás?
+¿Te mudarás?
+¿Le dirás que sí?
+¿Los conocerás mañana?
+¿Te apuntarás al curso?
+¿Le prestarás el libro?
+¿Los acompañarás?
+¿Te sentirás mejor?
+¿Le responderás luego?
+¿Te acordarás?
+¿Le prepararás algo especial?
+¿Te inscribirás en la escuela?
+¿Le enseñarás a conducir?
+¿Los llamarás mañana?
+¿Te despertarás temprano?
+¿Le escribirás un mensaje?
+¿Te reunirás con ellos?
+¿María trabaja mucho?
+¿Luis estudia todos los días?
+¿Ana prepara café por las mañanas?
+¿Javier escribe correos?
+¿Lucía canta en casa?
+¿Carlos observa pájaros?
+¿El profesor enseña historia?
+¿Mi hermana limpia cada semana?
+¿El equipo entrena diario?
+¿La empresa fabrica productos?
+¿El médico atiende en la clínica?
+¿La vecina cocina bien?
+¿El alumno estudia mucho?
+¿Mi padre repara cosas?
+¿La directora organiza bien?
+¿El escritor redacta novelas?
+¿El chef cocina platos nuevos?
+¿La doctora examina pacientes?
+¿Tu amigo guarda secretos?
+¿El grupo canta todos los días?
+¿Trabajas mucho?
+¿Cocinas a diario?
+¿Lees por las noches?
+¿Estudias idiomas?
+¿Preparas la comida?
+¿Escribes en tu diario?
+¿Observas las nubes?
+¿Organizas tus papeles?
+¿Visitas a tus padres?
+¿Limpias tu habitación?
+¿Aprendes rápido?
+¿Pintas en tu tiempo libre?
+¿Grabas vídeos?
+¿Tocas instrumentos?
+¿Investigás temas nuevos?
+¿Mides ingredientes?
+¿Gestionas tareas?
+¿Planeas cosas con tiempo?
+¿Caminas al trabajo?
+¿Corres por las mañanas?
+¿Duermes ocho horas?
+¿Descansas bien?
+¿Lees novelas?
+¿Cantas en la ducha?
+¿Trabajas feliz?
+¿María cocina paella hoy?
+¿Luis estudia historia esta mañana?
+¿Ana prepara café por la tarde?
+¿Javier escribe artículos esta semana?
+¿Lucía canta canciones los viernes?
+¿Carlos observa estrellas esta noche?
+¿El profesor enseña geografía los lunes?
+¿Mi hermana limpia la casa los domingos?
+¿El equipo entrena esta tarde?
+¿La empresa fabrica zapatos este mes?
+¿El médico atiende pacientes los jueves?
+¿La vecina cocina pasta hoy?
+¿El alumno estudia inglés esta tarde?
+¿Mi padre repara el coche los sábados?
+¿La directora revisa informes esta semana?
+¿El escritor redacta novelas por la noche?
+¿El chef prepara postres los domingos?
+¿La doctora examina niños hoy?
+¿Tu amigo organiza sus tareas esta mañana?
+¿El grupo canta canciones hoy?
+¿Trabajas los fines de semana?
+¿Cocinas los domingos?
+¿Lees el periódico hoy?
+¿Estudias idiomas esta noche?
+¿Preparas café los lunes?
+¿Escribes mensajes hoy?
+¿Observas aves los sábados?
+¿Organizas tus cosas este mes?
+¿Visitas museos este verano?
+¿Limpias tu habitación esta tarde?
+¿Reparas algo hoy?
+¿Cocinas pasta los viernes?
+¿Aprendes francés este año?
+¿Enseñas matemáticas los jueves?
+¿Pintas cuadros este mes?
+¿Grabas vídeos los domingos?
+¿Tocas guitarra los viernes?
+¿Investigas temas esta semana?
+¿Gestionas proyectos hoy?
+¿Planeas viajes este año?
+¿Trabajas por la tarde?
+¿Te compra María flores hoy?
+¿Le escribe Luis a su madre esta mañana?
+¿Nos prepara Ana la cena esta noche?
+¿Lo arregla Javier hoy?
+¿Les enseña Lucía canto este viernes?
+¿Te llama Carlos hoy?
+¿Les explica el profesor la lección esta semana?
+¿Le regala tu hermana dulces a su amiga?
+¿Entrena el equipo hoy?
+¿Nos envía la empresa productos este mes?
+¿Te revisa el médico hoy?
+¿Le presta libros la vecina?
+¿Repite el alumno la clase?
+¿Te ayuda tu padre hoy?
+¿Les envía la directora correos hoy?
+¿Publica el escritor su libro esta semana?
+¿Te prepara el chef café hoy?
+¿Le recomienda la doctora descanso?
+¿Guarda tu amigo los documentos hoy?
+¿Les canta el grupo esta tarde?
+¿Practicas deporte los martes?
+¿Cantas en casa los sábados?
+¿Lees por la noche?
+¿Trabajas en casa los jueves?
+¿Viajas cada mes?
+¿Comes temprano los domingos?
+¿Te levantas pronto los lunes?
+¿Le llamas a tu madre cada día?
+¿Les hablas a tus amigos hoy?
+¿Comes fuera los viernes?
+¿Haces ejercicio esta mañana?
+¿Le ayudas a tu hermano con los deberes?
+¿Te duchas antes de dormir?
+¿Le explicas las tareas a tu compañera?
+¿Les cuentas historias a tus hijos?
+¿Bailas en las fiestas?
+¿Te ríes mucho los domingos?
+¿Sales a correr esta tarde?
+¿Te concentras por la mañana?
+¿Le das de comer al perro hoy?
+¿Te acuestas tarde los fines de semana?
+¿Le escribes mensajes a diario?
+¿Te maquillas antes de salir?
+¿Te despiertas temprano los martes?
+¿Le haces regalos a tus padres en su aniversario?
+¿Te abrigas cuando hace frío?
+¿María trabaja en la oficina?
+¿Luis estudia en la biblioteca?
+¿Ana vive en Valencia?
+¿Javier escribe en la cocina?
+¿Lucía canta en el teatro?
+¿Carlos lee en el parque?
+¿El profesor enseña en el instituto?
+¿Mi hermana limpia en su casa?
+¿El equipo entrena en el estadio?
+¿La empresa fabrica en Madrid?
+¿El médico trabaja en el hospital?
+¿La vecina cocina en la cocina?
+¿El alumno estudia en la escuela?
+¿Mi padre repara en el garaje?
+¿La directora organiza en el despacho?
+¿El escritor escribe en su estudio?
+¿El chef prepara en la cocina?
+¿La doctora atiende en la consulta?
+¿Tu amigo estudia en la biblioteca?
+¿El grupo canta en el auditorio?
+¿Trabajas en casa?
+¿Cocinas en el comedor?
+¿Lees en el sofá?
+¿Estudias en la mesa?
+¿Escribes en el ordenador?
+¿Limpias en la cocina?
+¿Cierras la puerta en el pasillo?
+¿Descansas en la cama?
+¿Corres en el parque?
+¿Duermes en tu habitación?
+¿Vives en Barcelona?
+¿Estudia tu hermano en la universidad?
+¿Trabaja tu madre en el hospital?
+¿Comes en el restaurante del barrio?
+¿Cantas en el coro del colegio?
+¿Descansas en el jardín?
+¿Pintas en tu taller?
+¿Duermes en casa de tus padres?
+¿Estudias en la universidad pública?
+¿Trabajas en el centro de la ciudad?
+¿Cenas en el comedor escolar?
+¿Te reúnes en la oficina principal?
+¿Cuidas plantas en el balcón?
+¿Guardas los libros en la estantería?
+¿Estás en la biblioteca del instituto?
+¿Te quedas en el parque con amigos?
+¿Trabajas mucho?
+¿Cocinas arroz?
+¿Lees un libro?
+¿Estudias inglés?
+¿Preparas café?
+¿Escribes mensajes?
+¿Observas el cielo?
+¿Organizas tareas?
+¿Visitas museos?
+¿Limpias la casa?
+¿Reparas el coche?
+¿Aprendes idiomas?
+¿Pintas cuadros?
+¿Grabas vídeos?
+¿Tocas guitarra?
+¿Investigas temas?
+¿Mides ingredientes?
+¿Gestionas proyectos?
+¿Planeas vacaciones?
+¿Compras pan?
+¿Lees poemas?
+¿Estudias biología?
+¿Trabajas feliz?
+¿Cantas canciones?
+¿Escuchas música?
+¿Aprendes cosas nuevas?
+¿Cierres la puerta?
+¿Subes escaleras?
+¿Duermes bien?
+¿Despiertas temprano?
+¿Corres rápido?
+¿Ríes con tus amigos?
+¿Juegas fútbol?
+¿Estudias solo?
+¿Trabajas motivado?
+¿Lees sin parar?
+¿Descansas tranquilo?
+¿Vives feliz?
+¿Cocinas bien?
+¿Escribes cartas?
+¿Pintas paisajes?
+¿Trabajas en silencio?
+¿Aprendes rápido?
+¿Cantas mientras cocinas?
+¿Lees cuando llueve?
+¿Estudias cuando hay ruido?
+¿María cocinó arroz ayer?
+¿Luis estudió historia?
+¿Ana preparó café?
+¿Javier escribió cartas?
+¿Lucía cantó en el teatro?
+¿Carlos observó estrellas?
+¿El profesor enseñó historia?
+¿Mi hermana limpió su casa?
+¿El equipo entrenó ayer?
+¿La empresa fabricó muebles?
+¿El médico atendió pacientes?
+¿La vecina cocinó arroz?
+¿El alumno estudió biología?
+¿Mi padre arregló el coche?
+¿La directora revisó informes?
+¿El escritor redactó artículos?
+¿El chef midió ingredientes?
+¿La doctora examinó niños?
+¿Tu amigo guardó documentos?
+¿El grupo cantó el sábado?
+¿Trabajaste ayer?
+¿Cocinaste algo?
+¿Leíste un libro?
+¿Estudiaste para el examen?
+¿Escribiste mensajes?
+¿Observaste el cielo?
+¿Organizaste tu agenda?
+¿Visitaste a tus abuelos?
+¿Limpiaste tu cuarto?
+¿Aprendiste algo nuevo?
+¿Pintaste un cuadro?
+¿Grabaste un vídeo?
+¿Tocaste un instrumento?
+¿Investigaste en internet?
+¿Dormiste temprano?
+¿Descansaste bien?
+¿Te llamó alguien ayer?
+¿Le escribiste a tu madre?
+¿Lo terminaste a tiempo?
+¿La ayudaste con la cena?
+¿Les contaste la noticia?
+¿Te arrepentiste?
+¿Le dijiste la verdad?
+¿Los viste en la fiesta?
+¿Te levantaste tarde?
+¿Le compraste flores?
+¿Te preparaste para el examen?
+¿Le diste el libro?
+¿Los esperaste mucho?
+¿Te quedaste en casa?
+¿Le hablaste ayer?
+¿Los invitaste?
+¿Te dormiste temprano?
+¿Le contaste a tu amigo?
+¿Los buscaste en la calle?
+¿Te fuiste ayer?
+¿Le explicaste todo?
+¿Los conociste allí?
+¿Te reíste mucho?
+¿Le respondiste rápido?
+¿Te equivocaste?
+¿María cocinará mañana?
+¿Luis estudiará inglés?
+¿Ana preparará café?
+¿Javier escribirá correos?
+¿Lucía cantará en la fiesta?
+¿Carlos observará estrellas?
+¿El profesor enseñará el lunes?
+¿Mi hermana limpiará la casa?
+¿El equipo entrenará mañana?
+¿La empresa fabricará muebles?
+¿El médico atenderá consultas?
+¿La vecina cocinará arroz?
+¿El alumno estudiará francés?
+¿Mi padre arreglará el coche?
+¿La directora organizará reuniones?
+¿El escritor redactará un libro?
+¿El chef medirá ingredientes?
+¿La doctora examinará pacientes?
+¿Tu amigo guardará fotos?
+¿El grupo cantará en Madrid?
+¿Trabajarás mañana?
+¿Cocinarás algo?
+¿Leerás un libro?
+¿Estudiarás para el examen?
+¿Escribirás un correo?
+¿Observarás el cielo?
+¿Organizarás tus tareas?
+¿Visitarás amigos?
+¿Limpiarás tu casa?
+¿Aprenderás algo nuevo?
+¿Pintarás un cuadro?
+¿Grabarás un vídeo?
+¿Tocarás un instrumento?
+¿Investigarás en internet?
+¿Dormirás bien?
+¿Descansarás el domingo?
+¿Te levantarás temprano?
+¿Le escribirás a tu madre mañana?
+¿Te prepararás para el viaje?
+¿Le hablarás al profesor?
+¿Los visitarás pronto?
+¿Te mudarás de ciudad?
+¿Le comprarás un regalo?
+¿Los invitarás a la cena?
+¿Te casarás pronto?
+¿Le contarás la verdad?
+¿Los ayudarás con la mudanza?
+¿Te mudarás de casa?
+¿Le dirás que sí?
+¿Los conocerás mañana?
+¿Te apuntarás al curso?
+¿Le prestarás el libro?
+¿Los acompañarás al médico?
+¿Te sentirás mejor?
+¿Le responderás después?
+¿Te acordarás de mí?
+¿Le prepararás algo especial?
+¿Te inscribirás en la escuela?
+¿Le enseñarás a conducir?
+¿Los llamarás mañana?
+¿Te despertarás temprano?
+¿Le escribirás un mensaje?
+¿Te reunirás con ellos?
+¿María estudia música hoy?
+¿Luis trabaja esta mañana?
+¿Ana prepara la cena esta noche?
+¿Javier escribe un correo esta tarde?
+¿Lucía canta canciones los sábados?
+¿Carlos observa el cielo esta noche?
+¿El profesor enseña literatura los martes?
+¿Mi hermana limpia su habitación los domingos?
+¿El equipo entrena esta tarde?
+¿La empresa entrega pedidos esta semana?
+¿El médico atiende pacientes hoy?
+¿La vecina cocina lentejas los miércoles?
+¿El alumno hace tareas esta tarde?
+¿Mi padre arregla el coche los viernes?
+¿La directora revisa papeles esta mañana?
+¿El escritor redacta artículos hoy?
+¿El chef cocina postres los domingos?
+¿La doctora examina niños esta semana?
+¿Tu amigo ordena su escritorio hoy?
+¿El grupo canta esta noche?
+¿Trabajas esta mañana?
+¿Cocinas los sábados?
+¿Lees el periódico cada día?
+¿Estudias idiomas por la tarde?
+¿Preparas café cada mañana?
+¿Escribes mensajes hoy?
+¿Observas las aves los fines de semana?
+¿Organizas tus notas esta semana?
+¿Visitas museos en verano?
+¿Limpias la cocina los domingos?
+¿Reparas el ordenador hoy?
+¿Aprendes algo nuevo cada día?
+¿Pintas cuadros en tu tiempo libre?
+¿Grabas vídeos los domingos?
+¿Tocas guitarra por la noche?
+¿Investigas temas esta semana?
+¿Planeas vacaciones este mes?
+¿Trabajas los lunes?
+¿Te llama tu madre cada día?
+¿Le escribes a tu hermano esta tarde?
+¿Nos visitas el fin de semana?
+¿Lo arregla el técnico hoy?
+¿Les enseña Lucía canciones?
+¿Te llama Carlos ahora?
+¿Les explica el profesor el tema hoy?
+¿Le regala tu amiga un libro?
+¿Entrena el equipo esta mañana?
+¿Nos envía la empresa un paquete?
+¿Te revisa el médico hoy?
+¿Le presta libros tu vecina?
+¿Repite el alumno la prueba hoy?
+¿Te ayuda tu padre esta tarde?
+¿Les envía correos la directora hoy?
+¿Publica el escritor su texto esta semana?
+¿Te prepara café el chef?
+¿Le recomienda descanso la doctora?
+¿Guarda tu amigo las llaves?
+¿Les canta el grupo esta tarde?
+¿Cocinas tú esta noche?
+¿Te levantas temprano los lunes?
+¿Le hablas a tu madre todos los días?
+¿Les escribes a tus amigos esta semana?
+¿Te bañas por la mañana?
+¿Le preparas comida a tu familia?
+¿Te acuestas tarde los viernes?
+¿Le das comida al gato todos los días?
+¿Te vistes rápido los lunes?
+¿Le enseñas a tu hermano inglés?
+¿Te maquillas antes de salir?
+¿Le hablas al jefe hoy?
+¿Te peinas por la mañana?
+¿Le llamas por teléfono esta tarde?
+¿Te abrigas cuando hace frío?
+¿Le ayudas cuando tiene problemas?
+¿Te duermes temprano los jueves?
+¿Le das agua a las plantas cada día?
+¿Te sientas a leer después de cenar?
+¿Le hablas al profesor antes de clase?
+¿Te concentras bien por la mañana?
+¿Le sonríes a la gente al saludar?
+¿Te sientes cansado los domingos?
+¿Le pides consejo a tu padre?
+¿Te relajas por la noche?
+¿Le contestas rápido a tu jefe?
+¿Te despiertas tarde los sábados?
+¿María trabaja en la oficina?
+¿Luis estudia en casa?
+¿Ana vive en Valencia?
+¿Javier escribe en la biblioteca?
+¿Lucía canta en el teatro?
+¿Carlos lee en el parque?
+¿El profesor enseña en el instituto?
+¿Mi hermana limpia en la casa?
+¿El equipo entrena en el estadio?
+¿La empresa fabrica en Sevilla?
+¿El médico trabaja en el hospital?
+¿La vecina cocina en la cocina?
+¿El alumno estudia en la escuela?
+¿Mi padre repara en el garaje?
+¿La directora organiza en el despacho?
+¿El escritor escribe en su estudio?
+¿El chef prepara platos en la cocina?
+¿La doctora atiende en la consulta?
+¿Tu amigo estudia en la biblioteca?
+¿El grupo canta en el auditorio?
+¿Trabajas en casa?
+¿Cocinas en el comedor?
+¿Lees en el sofá?
+¿Estudias en la mesa?
+¿Escribes en el ordenador?
+¿Limpias en la cocina?
+¿Descansas en la cama?
+¿Corres en el parque?
+¿Duermes en tu habitación?
+¿Practicas deporte en el gimnasio?
+¿Comes en el restaurante del barrio?
+¿Cantas en el coro de la iglesia?
+¿Vives en Madrid?
+¿Trabajas en el centro?
+¿Estudias en la universidad?
+¿Te reunes en la oficina?
+¿Vives en la residencia?
+¿Cuidas plantas en el balcón?
+¿Guardas los libros en la estantería?
+¿Estás en el parque ahora?
+¿Te quedas en la escuela hasta tarde?
+¿Lees en la biblioteca del instituto?
+¿Cenas en la terraza?
+¿Bailas en la plaza del pueblo?
+¿Trabajas en una tienda?
+¿Trabajas mucho?
+¿Cocinas bien?
+¿Lees novelas?
+¿Estudias inglés?
+¿Preparas café?
+¿Escribes mensajes?
+¿Observas el cielo?
+¿Organizas tareas?
+¿Visitas amigos?
+¿Limpias la casa?
+¿Reparas cosas?
+¿Aprendes rápido?
+¿Pintas cuadros?
+¿Grabas vídeos?
+¿Tocas guitarra?
+¿Investigas temas?
+¿Mides ingredientes?
+¿Gestionas proyectos?
+¿Planeas viajes?
+¿Compras pan?
+¿Lees poesía?
+¿Estudias biología?
+¿Cantas canciones?
+¿Escuchas música?
+¿Aprendes cosas nuevas?
+¿Cierres la puerta?
+¿Subes escaleras?
+¿Duermes bien?
+¿Despiertas temprano?
+¿Corres rápido?
+¿Ríes mucho?
+¿Juegas fútbol?
+¿Estudias solo?
+¿Trabajas motivado?
+¿Lees sin parar?
+¿Descansas tranquilo?
+¿Vives feliz?
+¿Cocinas todos los días?
+¿Escribes cartas?
+¿Pintas paisajes?
+¿Cantas cuando llueve?
+¿Estudias cuando puedes?
+¿Lees antes de dormir?
+¿Cuidas de ti?
+¿Practicas meditación?
+¿Escuchas podcast?
+¿María cocinó ayer?
+¿Luis estudió historia?
+¿Ana preparó café?
+¿Javier escribió cartas?
+¿Lucía cantó en la fiesta?
+¿Carlos observó estrellas?
+¿El profesor enseñó historia?
+¿Mi hermana limpió su casa?
+¿El equipo entrenó ayer?
+¿La empresa fabricó muebles?
+¿El médico atendió pacientes?
+¿La vecina cocinó arroz?
+¿El alumno estudió biología?
+¿Mi padre arregló el coche?
+¿La directora revisó informes?
+¿El escritor redactó artículos?
+¿El chef midió ingredientes?
+¿La doctora examinó niños?
+¿Tu amigo guardó documentos?
+¿El grupo cantó el sábado?
+¿Trabajaste ayer?
+¿Cocinaste algo?
+¿Leíste libros?
+¿Estudiaste para el examen?
+¿Escribiste un correo?
+¿Observaste el cielo?
+¿Organizaste tareas?
+¿Visitaste a tu familia?
+¿Limpiaste la casa?
+¿Aprendiste algo nuevo?
+¿Pintaste un cuadro?
+¿Grabaste un vídeo?
+¿Tocaste guitarra?
+¿Investigaste temas?
+¿Dormiste temprano?
+¿Descansaste bien?
+¿Te llamó alguien?
+¿Le escribiste a tu madre?
+¿Lo terminaste a tiempo?
+¿La ayudaste con la cena?
+¿Les contaste la noticia?
+¿Te arrepentiste?
+¿Le dijiste la verdad?
+¿Los viste en la fiesta?
+¿Te levantaste tarde?
+¿Le compraste flores?
+¿Te preparaste?
+¿Le diste el libro?
+¿Los esperaste?
+¿Te quedaste en casa?
+¿Le hablaste ayer?
+¿Los invitaste?
+¿Te dormiste pronto?
+¿Le contaste algo?
+¿Los buscaste?
+¿Te fuiste temprano?
+¿Le explicaste todo?
+¿Los conociste?
+¿Te reíste mucho?
+¿Le respondiste rápido?
+¿Te equivocaste alguna vez?
+¿María cocinará mañana?
+¿Luis estudiará francés?
+¿Ana preparará la cena?
+¿Javier escribirá un correo?
+¿Lucía cantará en la boda?
+¿Carlos observará las estrellas?
+¿El profesor enseñará el tema nuevo?
+¿Mi hermana limpiará su habitación?
+¿El equipo entrenará mañana?
+¿La empresa fabricará más productos?
+¿El médico atenderá consultas?
+¿La vecina cocinará arroz?
+¿El alumno estudiará historia?
+¿Mi padre arreglará la bicicleta?
+¿La directora organizará reuniones?
+¿El escritor publicará su libro?
+¿El chef preparará un postre?
+¿La doctora examinará pacientes?
+¿Tu amigo guardará los archivos?
+¿El grupo cantará mañana?
+¿Trabajarás mañana?
+¿Cocinarás algo?
+¿Leerás libros?
+¿Estudiarás para el examen?
+¿Escribirás mensajes?
+¿Observarás el cielo?
+¿Organizarás tus tareas?
+¿Visitarás amigos?
+¿Limpiarás tu casa?
+¿Aprenderás algo nuevo?
+¿Pintarás un cuadro?
+¿Grabarás vídeos?
+¿Tocarás guitarra?
+¿Investigarás temas?
+¿Dormirás bien?
+¿Descansarás el domingo?
+¿Te levantarás temprano?
+¿Le escribirás mañana?
+¿Te prepararás para el viaje?
+¿Le hablarás al profesor?
+¿Los visitarás pronto?
+¿Te mudarás de ciudad?
+¿Le comprarás un regalo?
+¿Los invitarás a la cena?
+¿Te casarás pronto?
+¿Le contarás la verdad?
+¿Los ayudarás mañana?
+¿Te mudarás pronto?
+¿Le dirás que sí?
+¿Los conocerás mañana?
+¿Te apuntarás al curso?
+¿Le prestarás el libro?
+¿Los acompañarás al médico?
+¿Te sentirás mejor?
+¿Le responderás después?
+¿Te acordarás de eso?
+¿Le prepararás algo especial?
+¿Te inscribirás en la escuela?
+¿Le enseñarás a conducir?
+¿Los llamarás mañana?
+¿Te despertarás temprano?
+¿Le escribirás un mensaje?
+¿Te reunirás con ellos?
+¿Qué haces hoy?
+¿Qué estudias por la tarde?
+¿Qué prepara María esta mañana?
+¿Qué lee Luis ahora?
+¿Qué escribe Ana en su cuaderno?
+¿Qué cocina tu madre esta noche?
+¿Qué observa Carlos en el cielo?
+¿Qué enseña el profesor los lunes?
+¿Qué limpia tu hermana los sábados?
+¿Qué canta Lucía en el concierto?
+¿Qué fabrica la empresa este mes?
+¿Qué compra el cliente hoy?
+¿Qué toca el músico esta tarde?
+¿Qué reparas en el garaje?
+¿Qué pinta el artista esta semana?
+¿Qué organiza el jefe hoy?
+¿Qué revisa la directora esta mañana?
+¿Qué revisas tú antes de salir?
+¿Qué guardas en la mochila?
+¿Qué escuchas en el móvil?
+¿Qué me cuentas hoy?
+¿Qué te dijo Luis?
+¿Qué le compraste a tu amiga?
+¿Qué les explicaste ayer?
+¿Qué te pasó esta mañana?
+¿Qué me trajiste de Madrid?
+¿Qué le regalaste a tu madre?
+¿Qué les contaste a los niños?
+¿Qué te pidió el profesor?
+¿Qué me cocinaste anoche?
+¿Qué aprendiste ayer?
+¿Qué dibujaste en clase?
+¿Qué preparaste para la cena?
+¿Qué escribiste en la carta?
+¿Qué observaste en el experimento?
+¿Qué organizaste en la reunión?
+¿Qué reparaste el fin de semana?
+¿Qué terminaste de leer?
+¿Qué aprendiste en el curso?
+¿Qué hiciste ayer por la tarde?
+¿Qué cocinarás mañana?
+¿Qué estudiarás el próximo mes?
+¿Qué prepararás para la cena?
+¿Qué escribirás mañana?
+¿Qué observarás en el cielo?
+¿Qué enseñarás a tus alumnos?
+¿Qué limpiarás el sábado?
+¿Qué cantarás en el concierto?
+¿Qué fabricarás en el taller?
+¿Qué comprarás en el mercado?
+¿Qué tocarás en la guitarra?
+¿Qué repararás mañana?
+¿Qué pintarás en el mural?
+¿Qué organizarás la próxima semana?
+¿Qué revisarás antes del examen?
+¿Qué guardarás en la caja?
+¿Qué escucharás mañana?
+¿Qué harás este verano?
+¿Qué leerás en vacaciones?
+¿Qué me dirás mañana?
+¿Qué te comprarás este mes?
+¿Qué le regalarás a tu madre?
+¿Qué cocinarás para la fiesta?
+¿Qué escribirás en el informe?
+¿Qué estudiarás el domingo?
+¿Qué observarás en la playa?
+¿Qué harás si llueve?
+¿Qué cocinarás cuando lleguen?
+¿Qué escribirás si te llaman?
+¿Qué prepararás si tienes tiempo?
+¿Qué harás si no trabajas?
+¿Qué estudiarás si apruebas?
+¿Qué pintarás si sobra pintura?
+¿Qué harás cuando acabe el curso?
+¿Qué leerás cuando estés libre?
+¿Qué cocinarás cuando vengas?
+¿Qué escribirás cuando termines?
+¿Qué me dirás cuando llegues?
+¿Qué te llevarás cuando viajes?
+¿Qué prepararás cuando tengas invitados?
+¿Qué estudiarás cuando cambies de ciudad?
+¿Qué observarás cuando amanezca?
+¿Qué cocinarás para ellos?
+¿Qué estudiarás mañana?
+¿Qué pintarás este fin de semana?
+¿Qué grabarás en tu canal?
+¿Qué harás al final del día?
+¿Qué planearás el lunes?
+¿Quién trabaja hoy?
+¿Quién estudia contigo?
+¿Quién cocina la cena esta noche?
+¿Quién escribe el informe?
+¿Quién observa el cielo?
+¿Quién enseña matemáticas?
+¿Quién limpia la clase?
+¿Quién canta en la fiesta?
+¿Quién fabrica las mesas?
+¿Quién prepara el desayuno?
+¿Quién arregla la puerta?
+¿Quién toca el piano?
+¿Quién organiza la reunión?
+¿Quién revisa los correos?
+¿Quién guarda las llaves?
+¿Quién me ayuda hoy?
+¿Quién te llama cada día?
+¿Quién le enseña a tu hermano?
+¿Quién nos visita el fin de semana?
+¿Quién lo arregla?
+¿Quién los acompaña?
+¿Quién te espera afuera?
+¿Quién me habló ayer?
+¿Quién te ayudó con la tarea?
+¿Quién le dio el libro?
+¿Quién les explicó la lección?
+¿Quién te llamó anoche?
+¿Quién me buscó en la estación?
+¿Quién cocinó la cena?
+¿Quién escribió la carta?
+¿Quién estudiará mañana?
+¿Quién cocinará para todos?
+¿Quién preparará el postre?
+¿Quién limpiará la casa?
+¿Quién cantará en la boda?
+¿Quién enseñará mañana?
+¿Quién arreglará el coche?
+¿Quién tocará guitarra?
+¿Quién organizará la fiesta?
+¿Quién revisará los documentos?
+¿Quién te llamará mañana?
+¿Quién le ayudará con el trabajo?
+¿Quién los visitará el domingo?
+¿Quién me esperará en la estación?
+¿Quién te acompañará al médico?
+¿Dónde trabajas hoy?
+¿Dónde estudia Luis?
+¿Dónde cocina Ana la cena?
+¿Dónde escribe Javier su novela?
+¿Dónde canta Lucía esta noche?
+¿Dónde observa Carlos las estrellas?
+¿Dónde enseña el profesor historia?
+¿Dónde limpia tu hermana?
+¿Dónde entrena el equipo?
+¿Dónde fabrica la empresa los muebles?
+¿Dónde atiende el médico?
+¿Dónde cocina la vecina?
+¿Dónde estudia el alumno?
+¿Dónde arregla mi padre el coche?
+¿Dónde organiza la directora la reunión?
+¿Dónde escribe el escritor sus cuentos?
+¿Dónde prepara el chef los platos?
+¿Dónde examina la doctora?
+¿Dónde estudias por la tarde?
+¿Dónde trabajas los lunes?
+¿Dónde cocinas los fines de semana?
+¿Dónde lees tus libros?
+¿Dónde estudias idiomas?
+¿Dónde escribes tus poemas?
+¿Dónde observas el cielo?
+¿Dónde organizas tus cosas?
+¿Dónde visitas a tus padres?
+¿Dónde limpias la casa?
+¿Dónde reparas el ordenador?
+¿Dónde aprendes inglés?
+¿Dónde pintas cuadros?
+¿Dónde grabas tus vídeos?
+¿Dónde tocas guitarra?
+¿Dónde investigas temas?
+¿Dónde planeas tus viajes?
+¿Dónde vives ahora?
+¿Dónde dormiste anoche?
+¿Dónde estudiaste el año pasado?
+¿Dónde cocinaste la cena?
+¿Dónde escribiste tu carta?
+¿Dónde enseñaste español?
+¿Dónde limpiaste el coche?
+¿Dónde cantaste ayer?
+¿Dónde arreglaste la puerta?
+¿Dónde tocaste piano?
+¿Dónde organizaste el evento?
+¿Dónde guardarás los libros?
+¿Dónde estudiarás el próximo año?
+¿Dónde vivirás mañana?
+¿Dónde cocinarás la cena?
+¿Dónde escribirás el informe?
+¿Dónde enseñarás inglés?
+¿Dónde pintarás el mural?
+¿Dónde grabarás el vídeo?
+¿Dónde tocarás guitarra?
+¿Dónde trabajarás dentro de un año?
+¿Dónde estudiarás si te mudas?
+¿Dónde cocinarás si vienes?
+¿Dónde dormirás cuando viajes?
+¿Dónde estudiarás cuando termines?
+¿Dónde vivirás cuando te gradúes?
+¿Cuándo trabajas?
+¿Cuándo estudia Luis?
+¿Cuándo cocina Ana?
+¿Cuándo escribe Javier?
+¿Cuándo canta Lucía?
+¿Cuándo enseña el profesor?
+¿Cuándo limpia tu hermana?
+¿Cuándo entrena el equipo?
+¿Cuándo fabrica la empresa?
+¿Cuándo atiende el médico?
+¿Cuándo estudias tú?
+¿Cuándo reparas el coche?
+¿Cuándo organizas tus tareas?
+¿Cuándo visitas a tu familia?
+¿Cuándo aprendes inglés?
+¿Cuándo grabaste ese vídeo?
+¿Cuándo escribiste la carta?
+¿Cuándo cocinaste la cena?
+¿Cuándo limpiaste la casa?
+¿Cuándo enseñaste español?
+¿Cuándo trabajarás mañana?
+¿Cuándo estudiarás francés?
+¿Cuándo prepararás la comida?
+¿Cuándo limpiarás el coche?
+¿Cuándo cantarás en el coro?
+¿Cuándo enseñarás la clase?
+¿Cuándo grabarás el vídeo?
+¿Cuándo estudiarás si llueve?
+¿Cuándo trabajarás cuando termine el curso?
+¿Cuándo cocinarás cuando llegues a casa?
+¿Cómo trabajas hoy?
+¿Cómo estudia Luis?
+¿Cómo cocina Ana la cena?
+¿Cómo escribe Javier?
+¿Cómo canta Lucía?
+¿Cómo observa Carlos las estrellas?
+¿Cómo enseña el profesor?
+¿Cómo limpia tu hermana la casa?
+¿Cómo entrena el equipo?
+¿Cómo fabrica la empresa los muebles?
+¿Cómo atiende el médico?
+¿Cómo estudias tú?
+¿Cómo reparas el coche?
+¿Cómo organizas tus tareas?
+¿Cómo visitas a tus padres?
+¿Cómo aprendiste inglés?
+¿Cómo cocinaste la cena?
+¿Cómo escribiste la carta?
+¿Cómo enseñaste la lección?
+¿Cómo limpiaste la cocina?
+¿Cómo estudiarás el año próximo?
+¿Cómo trabajarás mañana?
+¿Cómo prepararás la comida?
+¿Cómo cantarás en el concierto?
+¿Cómo enseñarás matemáticas?
+¿Cómo arreglarás el ordenador?
+¿Cómo pintarás el mural?
+¿Cómo grabarás el vídeo?
+¿Cómo estudiarás si estás cansado?
+¿Cómo trabajarás si llueve?
+¿Cuál prefieres hoy?
+¿Cuál estudia Luis?
+¿Cuál escribe Ana?
+¿Cuál canta Lucía en el concierto?
+¿Cuál observa Carlos en el cielo?
+¿Cuál enseña el profesor primero?
+¿Cuál cocina tu madre los domingos?
+¿Cuál libro lees ahora?
+¿Cuál camino tomas para ir?
+¿Cuál película viste ayer?
+¿Cuál elegirás mañana?
+¿Cuál estudiarás este año?
+¿Cuál prepararás para la fiesta?
+¿Cuál comprarás en la tienda?
+¿Cuál usarás en el experimento?
+¿Por qué trabajas tanto?
+¿Por qué estudia Luis español?
+¿Por qué cocina Ana cada noche?
+¿Por qué escribe Javier novelas?
+¿Por qué canta Lucía siempre?
+¿Por qué observa Carlos el cielo?
+¿Por qué enseña el profesor así?
+¿Por qué limpia tu hermana tan tarde?
+¿Por qué entrena el equipo diario?
+¿Por qué fabrica la empresa más?
+¿Por qué estudias tanto?
+¿Por qué cocinaste ayer?
+¿Por qué escribiste esa carta?
+¿Por qué trabajarás mañana?
+¿Por qué estudiarás en Madrid?
+¿Qué haces por la mañana?
+¿Qué estudia tu hermano hoy?
+¿Qué prepara Ana esta noche?
+¿Qué lee Marta ahora mismo?
+¿Qué escribe Luis en el cuaderno?
+¿Qué cocina tu madre este mediodía?
+¿Qué observa Carlos en el microscopio?
+¿Qué enseña el profesor en clase?
+¿Qué limpia tu compañera el fin de semana?
+¿Qué canta Lucía en la función?
+¿Qué fabrica la empresa en marzo?
+¿Qué compra el cliente en la tienda?
+¿Qué toca el músico en el concierto?
+¿Qué repara Juan en el taller?
+¿Qué pinta el artista en el lienzo?
+¿Qué organiza la secretaria esta tarde?
+¿Qué revisa la jefa hoy?
+¿Qué guardas en el cajón?
+¿Qué escuchas en la radio?
+¿Qué buscas en la maleta?
+¿Qué te dijo tu madre?
+¿Qué le compraste al niño?
+¿Qué les explicaste ayer a tus alumnos?
+¿Qué te pasó el lunes?
+¿Qué me trajiste de Lisboa?
+¿Qué le regalaste a tu padre?
+¿Qué les contaste a tus amigos?
+¿Qué te pidió el jefe?
+¿Qué me cocinaste anoche?
+¿Qué aprendiste en el curso?
+¿Qué dibujaste en la clase de arte?
+¿Qué preparaste para la reunión?
+¿Qué escribiste en la tarjeta?
+¿Qué observaste en el experimento?
+¿Qué organizaste en la fiesta?
+¿Qué reparaste el sábado?
+¿Qué terminaste de leer ayer?
+¿Qué aprendiste de la experiencia?
+¿Qué hiciste el fin de semana?
+¿Qué cocinarás mañana?
+¿Qué estudiarás la próxima semana?
+¿Qué prepararás para la comida?
+¿Qué escribirás mañana?
+¿Qué observarás en el cielo?
+¿Qué enseñarás el lunes?
+¿Qué limpiarás el sábado?
+¿Qué cantarás en la boda?
+¿Qué fabricarás en el taller?
+¿Qué comprarás en el supermercado?
+¿Qué tocarás en el concierto?
+¿Qué repararás mañana?
+¿Qué pintarás en la pared?
+¿Qué organizarás el próximo mes?
+¿Qué revisarás antes del examen?
+¿Qué guardarás en la mochila?
+¿Qué escucharás en vacaciones?
+¿Qué harás el domingo?
+¿Qué leerás en verano?
+¿Qué me dirás mañana?
+¿Qué te comprarás este mes?
+¿Qué le regalarás a tu amiga?
+¿Qué cocinarás para la familia?
+¿Qué escribirás en tu diario?
+¿Qué estudiarás el domingo?
+¿Qué observarás en el laboratorio?
+¿Qué harás si llueve?
+¿Qué cocinarás cuando llegues?
+¿Qué escribirás si te llaman?
+¿Qué prepararás si hay tiempo?
+¿Qué harás si no trabajas?
+¿Qué estudiarás si apruebas?
+¿Qué pintarás si tienes pintura?
+¿Qué harás cuando termine el curso?
+¿Qué leerás cuando descanses?
+¿Qué cocinarás cuando llegues?
+¿Qué escribirás cuando termines?
+¿Qué me dirás cuando vuelvas?
+¿Qué te llevarás cuando viajes?
+¿Qué prepararás cuando invites a alguien?
+¿Qué estudiarás cuando empiece el curso?
+¿Qué observarás cuando amanezca?
+¿Qué cocinarás para tus invitados?
+¿Qué estudiarás mañana por la tarde?
+¿Qué pintarás el fin de semana?
+¿Qué grabarás en tu canal de vídeo?
+¿Qué harás el próximo año?
+¿Qué planearás el lunes siguiente?
+¿Quién trabaja contigo hoy?
+¿Quién estudia en tu clase?
+¿Quién cocina la cena esta noche?
+¿Quién escribe esa carta?
+¿Quién observa el cielo contigo?
+¿Quién enseña historia?
+¿Quién limpia la oficina?
+¿Quién canta en el coro?
+¿Quién fabrica los muebles?
+¿Quién prepara el desayuno?
+¿Quién arregla la bici?
+¿Quién toca el violín?
+¿Quién organiza la salida?
+¿Quién revisa los informes?
+¿Quién guarda las llaves del coche?
+¿Quién me ayuda en la mudanza?
+¿Quién te llama cada mañana?
+¿Quién le enseña a tu hermano a leer?
+¿Quién nos visita el sábado?
+¿Quién lo arregla ahora?
+¿Quién los acompaña a casa?
+¿Quién te espera fuera?
+¿Quién me habló ayer?
+¿Quién te ayudó con los deberes?
+¿Quién le dio el paquete?
+¿Quién les explicó la tarea?
+¿Quién te llamó anoche?
+¿Quién me buscó en la estación?
+¿Quién cocinó la cena del domingo?
+¿Quién escribió ese poema?
+¿Quién estudiará mañana?
+¿Quién cocinará para todos?
+¿Quién preparará el postre?
+¿Quién limpiará la casa el sábado?
+¿Quién cantará en la fiesta?
+¿Quién enseñará mañana?
+¿Quién arreglará la puerta?
+¿Quién tocará el piano en la gala?
+¿Quién organizará la conferencia?
+¿Quién revisará los exámenes?
+¿Quién te llamará mañana?
+¿Quién le ayudará con la tarea?
+¿Quién los visitará en verano?
+¿Quién me esperará en el aeropuerto?
+¿Quién te acompañará al médico?
+¿Quién te verá mañana?
+¿Dónde trabajas esta semana?
+¿Dónde estudia Marta?
+¿Dónde cocina tu madre la cena?
+¿Dónde escribe Javier sus notas?
+¿Dónde canta Lucía esta noche?
+¿Dónde observa Carlos las aves?
+¿Dónde enseña el profesor biología?
+¿Dónde limpia tu hermana los sábados?
+¿Dónde entrena el equipo de fútbol?
+¿Dónde fabrica la empresa las sillas?
+¿Dónde atiende el doctor?
+¿Dónde cocina la vecina?
+¿Dónde estudia el alumno de intercambio?
+¿Dónde arregla mi padre su coche?
+¿Dónde organiza la directora la reunión?
+¿Dónde escribe el periodista?
+¿Dónde prepara el chef la comida?
+¿Dónde examina la doctora a los pacientes?
+¿Dónde estudias por la noche?
+¿Dónde trabajas en verano?
+¿Dónde cocinas el almuerzo?
+¿Dónde lees tus libros favoritos?
+¿Dónde estudias francés?
+¿Dónde escribes tus textos?
+¿Dónde observas los planetas?
+¿Dónde organizas tus tareas?
+¿Dónde visitas a tus padres?
+¿Dónde limpias el baño?
+¿Dónde reparas los aparatos?
+¿Dónde aprendes portugués?
+¿Dónde pintas murales?
+¿Dónde grabas tus vídeos?
+¿Dónde tocas batería?
+¿Dónde investigas los datos?
+¿Dónde planeas las reuniones?
+¿Dónde vives ahora?
+¿Dónde dormiste anoche?
+¿Dónde estudiaste en la universidad?
+¿Dónde cocinaste la cena?
+¿Dónde escribiste tu ensayo?
+¿Dónde enseñaste inglés?
+¿Dónde limpiaste el garaje?
+¿Dónde cantaste ayer?
+¿Dónde arreglaste la lámpara?
+¿Dónde tocaste la guitarra?
+¿Dónde organizaste el evento?
+¿Dónde guardarás tus fotos?
+¿Dónde estudiarás el próximo año?
+¿Dónde vivirás el verano que viene?
+¿Dónde cocinarás la comida?
+¿Dónde escribirás tu tesis?
+¿Dónde enseñarás el próximo curso?
+¿Dónde pintarás el mural nuevo?
+¿Dónde grabarás la película?
+¿Dónde tocarás con la banda?
+¿Dónde trabajarás dentro de cinco años?
+¿Dónde estudiarás si te mudas?
+¿Dónde cocinarás si no hay cocina?
+¿Dónde dormirás cuando viajes?
+¿Dónde estudiarás cuando termines la carrera?
+¿Dónde vivirás cuando tengas familia?
+¿Cuándo trabajas tú?
+¿Cuándo estudia Ana?
+¿Cuándo cocina tu abuela?
+¿Cuándo escribe Mario?
+¿Cuándo canta tu prima?
+¿Cuándo enseña el maestro?
+¿Cuándo limpia tu hermana?
+¿Cuándo entrena el equipo?
+¿Cuándo fabrica la empresa?
+¿Cuándo atiende el médico?
+¿Cuándo estudias inglés?
+¿Cuándo reparas tu bicicleta?
+¿Cuándo organizas la agenda?
+¿Cuándo visitas a tu familia?
+¿Cuándo aprendes alemán?
+¿Cuándo grabaste ese vídeo?
+¿Cuándo escribiste el mensaje?
+¿Cuándo cocinaste esa receta?
+¿Cuándo limpiaste tu habitación?
+¿Cuándo enseñaste español?
+¿Cuándo trabajarás mañana?
+¿Cuándo estudiarás italiano?
+¿Cuándo prepararás la merienda?
+¿Cuándo limpiarás la cocina?
+¿Cuándo cantarás en el teatro?
+¿Cuándo enseñarás gramática?
+¿Cuándo grabarás la canción?
+¿Cuándo estudiarás si llueve?
+¿Cuándo trabajarás cuando termine el curso?
+¿Cuándo cocinarás cuando vuelvas?
+¿Cómo trabajas en grupo?
+¿Cómo estudia tu hermano?
+¿Cómo cocina tu madre?
+¿Cómo escribe Javier sus ideas?
+¿Cómo canta Lucía?
+¿Cómo observa Carlos los insectos?
+¿Cómo enseña el maestro?
+¿Cómo limpia tu tía la casa?
+¿Cómo entrena el equipo juvenil?
+¿Cómo fabrica la empresa las mesas?
+¿Cómo atiende el doctor?
+¿Cómo estudias tú cada día?
+¿Cómo reparas los cables?
+¿Cómo organizas tus documentos?
+¿Cómo visitas a tus abuelos?
+¿Cómo aprendiste a nadar?
+¿Cómo cocinaste el arroz?
+¿Cómo escribiste el ensayo?
+¿Cómo enseñaste la lección?
+¿Cómo limpiaste el baño?
+¿Cómo estudiarás el próximo año?
+¿Cómo trabajarás en el futuro?
+¿Cómo prepararás el desayuno?
+¿Cómo cantarás en la boda?
+¿Cómo enseñarás a los niños?
+¿Cómo arreglarás la puerta?
+¿Cómo pintarás el cuadro?
+¿Cómo grabarás el documental?
+¿Cómo estudiarás si no tienes tiempo?
+¿Cómo trabajarás si estás cansado?
+¿Cuál libro lees ahora?
+¿Cuál camino tomas?
+¿Cuál película ves hoy?
+¿Cuál canción canta Lucía?
+¿Cuál proyecto haces en clase?
+¿Cuál plato cocina el chef?
+¿Cuál texto escribe el autor?
+¿Cuál color eliges para el cuadro?
+¿Cuál fruta prefieres?
+¿Cuál idioma estudias este año?
+¿Cuál elegirás mañana?
+¿Cuál prepararás para la exposición?
+¿Cuál comprarás en la tienda?
+¿Cuál usarás para el experimento?
+¿Cuál te gusta más de todos?
+¿Por qué trabajas de noche?
+¿Por qué estudia Marta medicina?
+¿Por qué cocina Ana tanto?
+¿Por qué escribe Luis tan rápido?
+¿Por qué canta Lucía cada día?
+¿Por qué observa Carlos el cielo?
+¿Por qué enseña el profesor con paciencia?
+¿Por qué limpia tu madre tan temprano?
+¿Por qué entrena el equipo cada día?
+¿Por qué fabrica la empresa nuevos modelos?
+¿Por qué estudias sin descansar?
+¿Por qué cocinaste tanto ayer?
+¿Por qué escribiste esa nota?
+¿Por qué trabajarás en Madrid?
+¿Por qué estudiarás en el extranjero?
+¿Qué haces ahora mismo?
+¿Qué estudia tu hijo este año?
+¿Qué prepara Ana para la comida?
+¿Qué lee Pedro antes de dormir?
+¿Qué escribe María en su diario?
+¿Qué cocina tu madre esta noche?
+¿Qué observa Juan por la ventana?
+¿Qué enseña el profesor en clase?
+¿Qué limpia tu compañera hoy?
+¿Qué canta Lucía en el ensayo?
+¿Qué fabrica la empresa este trimestre?
+¿Qué compra el cliente nuevo?
+¿Qué toca el músico en la plaza?
+¿Qué repara tu padre los domingos?
+¿Qué pinta el artista en su taller?
+¿Qué organiza la secretaria hoy?
+¿Qué revisa el jefe en el informe?
+¿Qué guardas en la mochila?
+¿Qué escuchas mientras trabajas?
+¿Qué buscas en el ordenador?
+¿Qué me dijiste ayer?
+¿Qué te regaló tu hermano?
+¿Qué le compraste a tu madre?
+¿Qué les explicaste a tus amigos?
+¿Qué te pasó el martes?
+¿Qué me trajiste de Lisboa?
+¿Qué le diste al niño?
+¿Qué les contaste a los vecinos?
+¿Qué te pidió el profesor?
+¿Qué me cocinaste ayer?
+¿Qué aprendiste en el taller?
+¿Qué dibujaste en el papel?
+¿Qué preparaste para la fiesta?
+¿Qué escribiste en el examen?
+¿Qué observaste en la clase?
+¿Qué organizaste en la reunión?
+¿Qué reparaste el viernes?
+¿Qué terminaste de estudiar?
+¿Qué aprendiste con esa experiencia?
+¿Qué hiciste el sábado pasado?
+¿Qué cocinarás mañana para cenar?
+¿Qué estudiarás el próximo mes?
+¿Qué prepararás el desayuno?
+¿Qué escribirás en tu blog?
+¿Qué observarás en el laboratorio?
+¿Qué enseñarás en la escuela?
+¿Qué limpiarás el baño?
+¿Qué cantarás en la ceremonia?
+¿Qué fabricarás en el taller?
+¿Qué comprarás en el mercado?
+¿Qué tocarás con la banda?
+¿Qué repararás mañana?
+¿Qué pintarás en el cartel?
+¿Qué organizarás para el grupo?
+¿Qué revisarás esta semana?
+¿Qué guardarás en la caja fuerte?
+¿Qué escucharás el fin de semana?
+¿Qué harás el domingo próximo?
+¿Qué leerás durante el viaje?
+¿Qué me dirás mañana?
+¿Qué te comprarás este mes?
+¿Qué le regalarás a tu amiga?
+¿Qué cocinarás para tus invitados?
+¿Qué escribirás en tu libreta?
+¿Qué estudiarás el domingo por la noche?
+¿Qué observarás en el cielo?
+¿Qué harás si te llaman?
+¿Qué cocinarás cuando lleguen?
+¿Qué escribirás si no hay tiempo?
+¿Qué prepararás si llueve?
+¿Qué harás si no puedes salir?
+¿Qué estudiarás si te cambian el horario?
+¿Qué pintarás si tienes pintura?
+¿Qué harás cuando terminen las clases?
+¿Qué leerás cuando tengas vacaciones?
+¿Qué cocinarás cuando vuelvas?
+¿Qué escribirás cuando descanses?
+¿Qué me dirás cuando te vea?
+¿Qué te llevarás cuando te mudes?
+¿Qué prepararás cuando tengas hambre?
+¿Qué estudiarás cuando empiece el curso?
+¿Qué observarás cuando salga el sol?
+¿Qué cocinarás para el cumpleaños?
+¿Qué estudiarás después del trabajo?
+¿Qué pintarás el próximo fin de semana?
+¿Qué grabarás en tu cámara?
+¿Qué harás el próximo verano?
+¿Qué planearás el lunes temprano?
+¿Qué diseñarás en tu ordenador?
+¿Quién trabaja contigo hoy?
+¿Quién estudia en la universidad?
+¿Quién cocina la comida del mediodía?
+¿Quién escribe esa novela?
+¿Quién observa los pájaros?
+¿Quién enseña matemáticas?
+¿Quién limpia el aula?
+¿Quién canta en la banda?
+¿Quién fabrica los juguetes?
+¿Quién prepara el desayuno?
+¿Quién arregla el televisor?
+¿Quién toca el violín?
+¿Quién organiza la excursión?
+¿Quién revisa las cuentas?
+¿Quién guarda los documentos?
+¿Quién me ayuda con la tarea?
+¿Quién te llama cada noche?
+¿Quién le enseña a tu sobrino a leer?
+¿Quién nos visita este domingo?
+¿Quién lo arregla todo?
+¿Quién los acompaña al hospital?
+¿Quién te espera afuera?
+¿Quién me habló ayer por teléfono?
+¿Quién te ayudó a estudiar?
+¿Quién le dio el mensaje?
+¿Quién les explicó el problema?
+¿Quién te llamó por la mañana?
+¿Quién me buscó en la estación?
+¿Quién cocinó la comida?
+¿Quién escribió el informe?
+¿Quién estudiará medicina?
+¿Quién cocinará para la fiesta?
+¿Quién preparará la presentación?
+¿Quién limpiará el aula?
+¿Quién cantará en la ceremonia?
+¿Quién enseñará a los niños?
+¿Quién arreglará el ordenador?
+¿Quién tocará el piano mañana?
+¿Quién organizará el evento?
+¿Quién revisará las notas?
+¿Quién te llamará más tarde?
+¿Quién le ayudará con la mudanza?
+¿Quién los visitará el sábado?
+¿Quién me esperará en la puerta?
+¿Quién te acompañará al dentista?
+¿Quién me verá mañana?
+¿Dónde trabajas esta semana?
+¿Dónde estudia Paula?
+¿Dónde cocina tu madre los domingos?
+¿Dónde escribe Javier sus artículos?
+¿Dónde canta Lucía esta noche?
+¿Dónde observa Marcos las estrellas?
+¿Dónde enseña el profesor física?
+¿Dónde limpia tu hermana cada día?
+¿Dónde entrena el equipo juvenil?
+¿Dónde fabrica la empresa las mesas?
+¿Dónde atiende el doctor hoy?
+¿Dónde cocina la vecina sus postres?
+¿Dónde estudia el alumno extranjero?
+¿Dónde arregla tu padre su bicicleta?
+¿Dónde organiza la directora la charla?
+¿Dónde escribe el periodista sus textos?
+¿Dónde prepara el chef los menús?
+¿Dónde examina la doctora a los pacientes?
+¿Dónde estudias los fines de semana?
+¿Dónde trabajas ahora?
+¿Dónde cocinas tu almuerzo?
+¿Dónde lees tus novelas favoritas?
+¿Dónde estudias inglés?
+¿Dónde escribes tus poemas?
+¿Dónde observas los planetas?
+¿Dónde organizas tu agenda?
+¿Dónde visitas a tu familia?
+¿Dónde limpias los cristales?
+¿Dónde reparas el coche?
+¿Dónde aprendes idiomas?
+¿Dónde pintas retratos?
+¿Dónde grabas tus vídeos?
+¿Dónde tocas batería?
+¿Dónde investigas tus temas?
+¿Dónde planeas los proyectos?
+¿Dónde vives actualmente?
+¿Dónde dormiste anoche?
+¿Dónde estudiaste el año pasado?
+¿Dónde cocinaste esa sopa?
+¿Dónde escribiste el texto?
+¿Dónde enseñaste inglés?
+¿Dónde limpiaste el jardín?
+¿Dónde cantaste el fin de semana?
+¿Dónde arreglaste la silla?
+¿Dónde tocaste el piano?
+¿Dónde organizaste la reunión?
+¿Dónde guardarás las herramientas?
+¿Dónde estudiarás el próximo curso?
+¿Dónde vivirás dentro de cinco años?
+¿Dónde cocinarás el almuerzo?
+¿Dónde escribirás tu libro?
+¿Dónde enseñarás ciencias?
+¿Dónde pintarás el mural nuevo?
+¿Dónde grabarás la película?
+¿Dónde tocarás en el festival?
+¿Dónde trabajarás el año próximo?
+¿Dónde estudiarás si cambias de ciudad?
+¿Dónde cocinarás si hace frío?
+¿Dónde dormirás cuando viajes?
+¿Dónde estudiarás cuando regreses?
+¿Dónde vivirás cuando seas adulto?
+¿Cuándo trabajas cada día?
+¿Cuándo estudia tu hermano?
+¿Cuándo cocina tu madre?
+¿Cuándo escribe Laura?
+¿Cuándo canta tu primo?
+¿Cuándo enseña el maestro de arte?
+¿Cuándo limpia tu tía?
+¿Cuándo entrena el grupo?
+¿Cuándo fabrica la compañía?
+¿Cuándo atiende el doctor?
+¿Cuándo estudias?
+¿Cuándo reparas el coche?
+¿Cuándo organizas el archivo?
+¿Cuándo visitas a tus amigos?
+¿Cuándo aprendes a conducir?
+¿Cuándo grabaste ese vídeo?
+¿Cuándo escribiste tu carta?
+¿Cuándo cocinaste la tarta?
+¿Cuándo limpiaste la terraza?
+¿Cuándo enseñaste historia?
+¿Cuándo trabajarás mañana?
+¿Cuándo estudiarás alemán?
+¿Cuándo prepararás el informe?
+¿Cuándo limpiarás la casa?
+¿Cuándo cantarás en el coro?
+¿Cuándo enseñarás informática?
+¿Cuándo grabarás tu primer vídeo?
+¿Cuándo estudiarás si tienes tiempo?
+¿Cuándo trabajarás cuando vuelva el jefe?
+¿Cuándo cocinarás cuando llegue la familia?
+¿Cómo trabajas tan rápido?
+¿Cómo estudia tu hermana?
+¿Cómo cocina tu abuela?
+¿Cómo escribe Javier sus libros?
+¿Cómo canta Lucía tan bien?
+¿Cómo observa Marcos los insectos?
+¿Cómo enseña el profesor?
+¿Cómo limpia tu madre la cocina?
+¿Cómo entrena el equipo?
+¿Cómo fabrica la empresa las botellas?
+¿Cómo atiende el doctor a los pacientes?
+¿Cómo estudias mejor?
+¿Cómo reparas el motor?
+¿Cómo organizas tus carpetas?
+¿Cómo visitas a tus abuelos?
+¿Cómo aprendiste francés?
+¿Cómo cocinaste esa receta?
+¿Cómo escribiste tu ensayo?
+¿Cómo enseñaste la lección?
+¿Cómo limpiaste el suelo?
+¿Cómo estudiarás en el extranjero?
+¿Cómo trabajarás desde casa?
+¿Cómo prepararás la conferencia?
+¿Cómo cantarás en el escenario?
+¿Cómo enseñarás música?
+¿Cómo arreglarás el televisor?
+¿Cómo pintarás la fachada?
+¿Cómo grabarás el corto?
+¿Cómo estudiarás si estás cansado?
+¿Cómo trabajarás si no tienes tiempo?
+¿Cuál libro prefieres leer?
+¿Cuál camino sigues para ir al trabajo?
+¿Cuál película te gusta más?
+¿Cuál canción canta Lucía?
+¿Cuál proyecto haces en el aula?
+¿Cuál plato cocina el chef?
+¿Cuál texto corrige el profesor?
+¿Cuál color pintas en el mural?
+¿Cuál fruta compras en el mercado?
+¿Cuál idioma estudias ahora?
+¿Cuál elegirás mañana?
+¿Cuál prepararás para la exposición?
+¿Cuál comprarás esta tarde?
+¿Cuál usarás para el experimento?
+¿Cuál prefieres entre todos?
+¿Por qué trabajas de noche?
+¿Por qué estudia Marcos biología?
+¿Por qué cocina Ana tanto?
+¿Por qué escribe Luis cuentos?
+¿Por qué canta Lucía todos los días?
+¿Por qué observa el cielo Carlos?
+¿Por qué enseña el profesor con alegría?
+¿Por qué limpia tu madre temprano?
+¿Por qué entrena el equipo cada mañana?
+¿Por qué fabrica la empresa nuevos modelos?
+¿Por qué estudias tan tarde?
+¿Por qué cocinaste tanto ayer?
+¿Por qué escribiste esa frase?
+¿Por qué trabajarás en Sevilla?
+¿Por qué estudiarás en Portugal?

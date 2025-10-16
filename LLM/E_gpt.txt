@@ -1,0 +1,340 @@
+Estudia esta noche antes de dormir.
+Limpia la cocina hoy después de comer.
+Prepara la cena mañana por la tarde.
+Ven temprano esta mañana al instituto.
+Descansa este fin de semana en casa.
+Lleva los documentos hoy a la oficina.
+Termina el informe antes del mediodía.
+Llama a tu madre esta noche.
+Visita al médico mañana temprano.
+Organiza el armario hoy por la tarde.
+Lee el capítulo antes de dormir esta noche.
+Revisa el coche este viernes en el taller.
+Haz la compra hoy en el supermercado.
+Planifica la reunión de mañana.
+Ve al gimnasio esta tarde.
+Ordena tu escritorio esta mañana.
+Ayuda a tu hermano hoy con la tarea.
+Cocina la cena esta noche.
+Traduce el texto antes del martes.
+Haz ejercicio mañana después del desayuno.
+Sal a caminar esta tarde.
+Escribe el correo hoy antes de las seis.
+No te olvides del examen mañana.
+Vuelve temprano esta noche.
+Practica las canciones esta semana.
+No llegues tarde hoy a clase.
+Cuida el jardín esta tarde.
+Duerme bien esta noche.
+Termina los deberes hoy mismo.
+Arregla el ordenador mañana temprano.
+Estudia cuando regreses a casa.
+Limpia el aula antes de la reunión.
+Prepara el material para la próxima clase.
+No olvides traer los documentos mañana.
+Llama a tus padres cuando llegues.
+Organiza el evento la próxima semana.
+Ve al dentista el mes que viene.
+Compra los billetes para el viaje.
+Envía el correo en cuanto termines.
+Traduce el texto cuando tengas tiempo.
+Arregla la bicicleta esta semana.
+Visita a tus abuelos pronto.
+Cocina para la fiesta del sábado.
+Ensaya antes del concierto.
+Lleva la presentación al trabajo.
+Sube el archivo cuando esté listo.
+No olvides felicitar a Ana.
+Prepara el discurso para la boda.
+Actualiza el sistema mañana temprano.
+Descansa antes del examen.
+Compra los ingredientes para el almuerzo.
+Arregla la puerta cuando llegues.
+Termina el dibujo esta semana.
+No pierdas tiempo con distracciones.
+Estudia para el examen del lunes.
+Sal con tiempo para el aeropuerto.
+Revisa el coche antes del viaje.
+Aprende las canciones para el concierto.
+Escribe el informe este mes.
+Guarda las fotos antes de borrar la memoria.
+Llena el depósito antes de salir.
+Descansa bien antes del entrenamiento.
+Revisa las facturas la próxima semana.
+Cambia la contraseña cuanto antes.
+Termina el trabajo antes de entregar.
+Limpia la cocina cuando termines de comer.
+Recoge la ropa antes de la lluvia.
+Guarda el dinero en el cajón.
+Envía los documentos por correo.
+Prepara la maleta para el viaje.
+Despierta temprano para aprovechar el día.
+Lee las instrucciones antes de usar.
+Arregla la lámpara cuando puedas.
+Pide ayuda si la necesitas.
+Haz una pausa cuando te canses.
+Cierra la puerta al salir.
+Entrega el formulario esta semana.
+Escribe a tu tutor mañana.
+Guarda los libros en la estantería.
+Planifica el fin de semana con calma.
+Descansa después de estudiar.
+Cocina algo especial para el domingo.
+Estudia un poco más cada día.
+No te distraigas durante la clase.
+Piensa antes de responder.
+Toma el tren temprano.
+Ve al supermercado luego.
+Escucha al profesor con atención.
+Haz la reserva del hotel pronto.
+Guarda tus archivos antes de cerrar.
+Saluda a tus vecinos mañana.
+Haz tu tarea.
+Come despacio.
+Habla con respeto.
+Escucha al profesor.
+Corre en el parque.
+Descansa un poco.
+Lee más libros.
+Cierra la puerta.
+Apaga la luz.
+Duerme temprano.
+Lava los platos.
+Cocina con cuidado.
+Estudia cada día.
+Piensa bien antes de hablar.
+Ayuda a tu compañero.
+Respeta las normas.
+Trabaja con calma.
+Camina con cuidado.
+Sonríe más.
+Llama a tu madre.
+No grites en clase.
+Sé puntual.
+Escucha a los demás.
+Aprende algo nuevo.
+Escribe con letra clara.
+Ordena tu habitación.
+Toca el piano.
+Cuida tus cosas.
+Bebe agua.
+No corras en el pasillo.
+Espera tu turno.
+Tráeme el cuaderno.
+Explícale el ejercicio.
+Limpia la mesa.
+Guarda los juguetes.
+Visita a tus abuelos.
+Cocina el almuerzo.
+Ve al supermercado.
+Abre la ventana.
+No te rindas.
+Revisa tu trabajo.
+Habla despacio.
+Escucha con atención.
+Saluda al llegar.
+Ayuda a quien lo necesite.
+Organiza tu tiempo.
+Descansa un rato.
+Cuida el jardín.
+Lee el periódico.
+Prepara el desayuno.
+Lleva el paraguas.
+Apunta la cita.
+Limpia el suelo.
+No hables tan alto.
+Cierra el grifo.
+No olvides tus llaves.
+Mira el semáforo.
+Siéntate bien.
+Come saludable.
+Haz deporte.
+Evita el ruido.
+Sé amable con todos.
+Termina la tarea.
+Lava las manos.
+Duerme ocho horas.
+No llegues tarde.
+Toma aire fresco.
+Cocina con amor.
+Revisa la mochila.
+Haz la cama.
+Abraza a tus amigos.
+Dibuja con cuidado.
+Practica guitarra.
+Lee en voz alta.
+Cierra la ventana.
+Escucha música tranquila.
+Guarda silencio.
+Confía en ti.
+Piénsalo mejor.
+Hazlo con calma.
+Pide ayuda si la necesitas.
+Vuelve pronto.
+Sigue tus sueños.
+Ten paciencia.
+Deja el móvil.
+Aplaude al final.
+Escribe tu nombre.
+No fumes aquí.
+Ven conmigo.
+Apoya a tu amigo.
+Escoge bien tus palabras.
+Corre hacia la meta.
+Practica todos los días.
+Abraza fuerte.
+Cuida el medio ambiente.
+Guarda tu abrigo.
+Piensa en positivo.
+Sonríe al espejo.
+Saluda con respeto.
+Dibuja algo nuevo.
+Bebe suficiente agua.
+No mientas.
+Estudia más.
+Limpia tus zapatos.
+Tómate un descanso.
+Ayuda a tus padres.
+Escribe una carta.
+Haz ejercicio.
+Lava la fruta.
+Prepara la mochila.
+Cuida a tu mascota.
+Sé honesto.
+Trata bien a los demás.
+Respira profundo.
+Haz tu mejor esfuerzo.
+Sonríe al entrar.
+Agradece lo que tienes.
+Comparte tus cosas.
+Respeta el turno.
+Lee un poco más.
+Cierra la cortina.
+Deja de quejarte.
+Apaga la televisión.
+Habla con tu hermano.
+Camina derecho.
+Estudia con interés.
+Descansa al mediodía.
+Ordena el armario.
+Piensa con claridad.
+Trabaja en silencio.
+Cocina sin prisa.
+No interrumpas.
+Escucha tu corazón.
+Cierra los ojos un momento.
+Relájate.
+Toma un té.
+Duerme bien.
+Abraza a tu familia.
+Sal al balcón.
+Disfruta el día.
+Cuida tu salud.
+Camina bajo el sol.
+Respeta a tus mayores.
+Guarda la calma.
+Ayuda en casa.
+Pinta el cuadro.
+Toca la guitarra.
+Lava el coche.
+Visita el museo.
+Llama a tu amigo.
+Saluda a tus vecinos.
+No discutas.
+Cuida las plantas.
+Acaricia al perro.
+Lee un poema.
+Respira despacio.
+Sé fuerte.
+Toma notas.
+Haz la fila.
+Deja espacio a los demás.
+Estudia bien.
+Revisa tu correo.
+Vuelve a intentarlo.
+No hables tan rápido.
+Camina tranquilo.
+Pide perdón.
+Comparte tu comida.
+Ayuda al anciano.
+Trata con respeto.
+Cuida tus palabras.
+Abraza la vida.
+Lávate los dientes.
+Seca los platos.
+Guarda los papeles.
+Tráelos al salón.
+Díselo a tu madre.
+Préndelo con cuidado.
+Apágalo al terminar.
+Súbelo a la nube.
+Descárgalo en tu carpeta.
+Ponlo sobre la mesa.
+Quita el polvo.
+Barre el suelo.
+Pasa la mopa.
+Límpialo con un paño.
+Colócalo en su sitio.
+Ciérralo despacio.
+Ábrelo con cuidado.
+Sella el sobre.
+Firma aquí.
+Revisa la cuenta.
+Saca la basura.
+Clasifica el reciclaje.
+Desconecta el cable.
+Conéctalo al cargador.
+Pon música.
+Bájale el volumen.
+Tómatelo con calma.
+No te enfades.
+Respira tres veces.
+Concéntrate en la tarea.
+Mira al frente.
+Escucha al ponente.
+Toma asiento.
+Levántate con cuidado.
+Quédate aquí un minuto.
+Acompáñame a la puerta.
+Vuelve a casa.
+Cruza por el paso de cebra.
+Mira a ambos lados.
+No uses el móvil al cruzar.
+Ponte la chaqueta.
+Quítate los zapatos.
+Lávate la cara.
+Peínate en el espejo.
+Guarda el móvil.
+Carga la tableta.
+Actualiza la aplicación.
+Cierra sesión al terminar.
+Cuida tu postura.
+Estira la espalda.
+Hidrátate en la fuente.
+Toma descansos cortos.
+Ventila la habitación.
+Desinfecta la mesa.
+Ponte la mascarilla.
+Lávate las manos.
+Sal con tiempo.
+Espera el tren.
+Valida el billete.
+Siéntate junto a la ventana.
+Cede el asiento.
+Baja en la próxima parada.
+Avisa al conductor.
+Guarda tu cartera.
+Sujeta bien el bolso.
+No dejes cosas en la mesa.
+Anota la idea.
+Subraya lo importante.
+Repásalo al final.
+Cierra el cuaderno.
+Ordena los cables.
+Apaga el ordenador.
+Desconecta la regleta.
+Cierra la puerta.
+Apaga la luz.
+Baja la persiana.
+Cierra la ventana.
+Revisa que todo esté en orden.

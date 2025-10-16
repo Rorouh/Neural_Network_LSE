@@ -1,0 +1,915 @@
+María no cocina arroz los lunes.
+Luis no estudia por la mañana.
+Ana no prepara café esta tarde.
+Javier no escribe mensajes hoy.
+Lucía no canta los viernes.
+Carlos no observa estrellas esta noche.
+El profesor no enseña historia los martes.
+Mi hermana no limpia la casa los domingos.
+El equipo no entrena hoy.
+La empresa no produce nada este mes.
+El médico no atiende pacientes los jueves.
+La vecina no cocina lentejas los lunes.
+El alumno no estudia inglés hoy.
+Mi padre no repara el coche los sábados.
+La directora no revisa informes esta semana.
+El escritor no redacta cuentos por la noche.
+El chef no prepara postres los domingos.
+La doctora no examina a los niños los jueves.
+Mi amigo no organiza sus cosas esta mañana.
+El grupo no canta canciones hoy.
+No trabajo los fines de semana.
+No cocino los domingos.
+No leo el periódico hoy.
+No estudio idiomas esta noche.
+No preparo café los lunes.
+No escribo correos hoy.
+No observo aves los sábados.
+No organizo tareas este mes.
+No visito museos este verano.
+No limpio mi habitación esta tarde.
+No reparo el ordenador hoy.
+No cocino pasta los viernes.
+No aprendo francés este año.
+No enseño matemáticas los jueves.
+No pinto cuadros este mes.
+No grabo vídeos los domingos.
+No toco guitarra los viernes.
+No investigo temas esta semana.
+No mido ingredientes hoy.
+No gestiono tareas este lunes.
+No planeo viajes este mes.
+María no me compra flores hoy.
+Luis no le escribe cartas esta semana.
+Ana no nos prepara la cena esta noche.
+Javier no lo arregla hoy.
+Lucía no les enseña música este viernes.
+Carlos no me llama esta mañana.
+El profesor no les explica el tema esta semana.
+Mi hermana no le regala nada hoy.
+El equipo no lo entrena hoy.
+La empresa no nos envía productos este mes.
+El médico no me revisa hoy.
+La vecina no le presta libros esta semana.
+El alumno no lo repite hoy.
+Mi padre no me ayuda esta tarde.
+La directora no les envía correos hoy.
+El escritor no lo publica este viernes.
+El chef no me prepara café hoy.
+La doctora no le recomienda descanso esta semana.
+Mi amigo no lo guarda hoy.
+El grupo no les canta canciones hoy.
+María no trabaja en la oficina.
+Luis no estudia en la biblioteca.
+Ana no vive en Granada.
+Javier no escribe en la cocina.
+Lucía no canta en el teatro.
+Carlos no lee en el parque.
+El profesor no enseña en el instituto.
+Mi hermana no limpia en su casa.
+El equipo no entrena en el estadio.
+La empresa no fabrica en Madrid.
+El médico no trabaja en el hospital.
+La vecina no cocina en la cocina.
+El alumno no estudia en la escuela.
+Mi padre no repara en el garaje.
+La directora no organiza en el despacho.
+El escritor no escribe en su estudio.
+El chef no prepara en la cocina.
+La doctora no atiende en la consulta.
+Mi amigo no estudia en la biblioteca.
+El grupo no canta en el auditorio.
+No trabajo en casa.
+No cocino en el comedor.
+No leo en el sofá.
+No estudio en la mesa.
+No escribo en el ordenador.
+No limpio en la cocina.
+No cierro la puerta en el pasillo.
+No descanso en la cama.
+No corro en el parque.
+No duermo en mi habitación.
+María no canta en Madrid pero sí en Sevilla.
+Luis no trabaja en Barcelona y viaja poco.
+Ana no enseña en la escuela y no estudia más.
+Javier no escribe en su casa ni en el café.
+Lucía no canta en el teatro pero ensaya en casa.
+Carlos no observa aves en el parque.
+El profesor no enseña en la universidad.
+Mi hermana no limpia en el baño.
+El grupo no canta en Granada.
+La doctora no trabaja en el hospital hoy.
+No trabajo ahora.
+No cocino nada.
+No leo hoy.
+No estudio mucho.
+No preparo nada.
+No escribo mensajes.
+No observo el cielo.
+No organizo papeles.
+No visito museos.
+No limpio la casa.
+No reparo nada.
+No aprendo.
+No pinto cuadros.
+No grabo vídeos.
+No toco guitarra.
+No investigo.
+No mido ingredientes.
+No gestiono proyectos.
+No planeo vacaciones.
+No camino rápido.
+No compro pan.
+No leo poemas.
+No estudio biología.
+No trabajo contento.
+No cocino lentejas.
+No escribo cartas.
+No canto.
+No escucho música.
+No aprendo cosas.
+No cierro la puerta.
+No subo escaleras.
+No duermo bien.
+No despierto temprano.
+No corro rápido.
+No río.
+No juego fútbol.
+No estudio solo.
+No trabajo mucho.
+No leo nada.
+No descanso.
+No ayudo hoy.
+No vivo tranquilo.
+No cocino bien.
+No leo mucho.
+No trabajo feliz.
+No canto fuerte.
+No organizo bien.
+No descanso nada.
+No escribo.
+No pinto.
+No trabajo ni estudio.
+No cocino ni limpio.
+No leo ni escribo.
+No estudio ni enseño.
+No organizo ni pienso.
+No aprendo ni enseño.
+No cocino ni sirvo.
+No leo ni descanso.
+No canto ni río.
+No trabajo ni escucho.
+María no cocinó arroz.
+Luis no estudió inglés.
+Ana no preparó café.
+Javier no escribió correos.
+Lucía no cantó canciones.
+Carlos no observó estrellas.
+El profesor no enseñó historia.
+Mi hermana no limpió la casa.
+El equipo no entrenó ayer.
+La empresa no fabricó muebles.
+El médico no atendió pacientes.
+La vecina no cocinó sopa.
+El alumno no estudió biología.
+Mi padre no arregló el coche.
+La directora no revisó informes.
+El escritor no redactó nada.
+El chef no midió ingredientes.
+La doctora no examinó niños.
+Mi amigo no guardó documentos.
+El grupo no cantó el sábado.
+No trabajé ayer.
+No cociné.
+No leí nada.
+No estudié.
+No preparé nada.
+No escribí.
+No observé.
+No organicé.
+No visité a nadie.
+No limpié.
+No aprendí.
+No pinté.
+No grabé.
+No toqué.
+No investigué.
+No medí.
+No gestioné.
+No planeé.
+No dormí.
+No descansé.
+No cociné ni serví.
+No estudié ni aprobé.
+No preparé ni limpié.
+No canté ni bailé.
+No observé ni anoté.
+No enseñé ni corregí.
+No limpié ni cociné.
+No canté ni celebré.
+No cociné ni decoré.
+No examiné ni aconsejé.
+María no cocinará arroz.
+Luis no estudiará inglés.
+Ana no preparará café.
+Javier no escribirá mensajes.
+Lucía no cantará canciones.
+Carlos no observará estrellas.
+El profesor no enseñará mañana.
+Mi hermana no limpiará la casa.
+El equipo no entrenará mañana.
+La empresa no fabricará muebles.
+El médico no atenderá pacientes.
+La vecina no cocinará sopa.
+El alumno no estudiará mañana.
+Mi padre no arreglará el coche.
+La directora no organizará reuniones.
+El escritor no redactará libros.
+El chef no medirá ingredientes.
+La doctora no examinará pacientes.
+Mi amigo no guardará fotos.
+El grupo no cantará en Madrid.
+No trabajaré mañana.
+No cocinaré.
+No leeré.
+No estudiaré.
+No prepararé.
+No escribiré.
+No observaré.
+No organizaré.
+No visitaré.
+No limpiaré.
+No aprenderé.
+No pintaré.
+No grabaré.
+No tocaré.
+No investigaré.
+No mediré.
+No gestionaré.
+No planearé.
+No dormiré.
+No descansaré.
+No cocinaré ni serviré.
+No estudiaré ni aprobaré.
+No prepararé ni limpiaré.
+No cantaré ni bailaré.
+No observaré ni anotaré.
+No enseñaré ni corregiré.
+No limpiaré ni cocinaré.
+No cantaré ni celebraré.
+No cocinaré ni decoraré.
+No examinaré ni aconsejaré.
+María no cocina arroz hoy.
+Luis no estudia por la mañana.
+Ana no prepara café esta tarde.
+Javier no escribe mensajes esta semana.
+Lucía no canta los viernes.
+Carlos no observa estrellas esta noche.
+El profesor no enseña historia los lunes.
+Mi hermana no limpia la casa los domingos.
+El equipo no entrena hoy.
+La empresa no produce nada este mes.
+El médico no atiende pacientes los jueves.
+La vecina no cocina lentejas los lunes.
+El alumno no estudia inglés esta tarde.
+Mi padre no repara el coche hoy.
+La directora no revisa informes esta semana.
+El escritor no redacta cuentos por la noche.
+El chef no prepara postres los domingos.
+La doctora no examina a los niños hoy.
+Mi amigo no organiza sus cosas esta mañana.
+El grupo no canta canciones esta tarde.
+No trabajo los fines de semana.
+No cocino los domingos.
+No leo el periódico hoy.
+No estudio idiomas esta noche.
+No preparo café los lunes.
+No escribo correos hoy.
+No observo aves los sábados.
+No organizo tareas este mes.
+No visito museos este verano.
+No limpio mi habitación esta tarde.
+No cocino pasta los viernes.
+No aprendo francés este año.
+No enseño matemáticas los jueves.
+No pinto cuadros este mes.
+No grabo vídeos los domingos.
+No toco guitarra los viernes.
+No investigo temas esta semana.
+No gestiono proyectos hoy.
+No planeo viajes este año.
+No trabajo por la tarde.
+María no me compra flores esta semana.
+Luis no le escribe cartas hoy.
+Ana no nos prepara la cena esta noche.
+Javier no lo arregla hoy.
+Lucía no les enseña música los viernes.
+Carlos no me llama esta mañana.
+El profesor no les explica la lección esta semana.
+Mi hermana no le regala dulces hoy.
+El equipo no lo entrena hoy.
+La empresa no nos envía productos este mes.
+El médico no me revisa esta semana.
+La vecina no le presta libros hoy.
+El alumno no lo repite hoy.
+Mi padre no me ayuda esta tarde.
+La directora no les envía correos hoy.
+El escritor no lo publica esta noche.
+El chef no me prepara café hoy.
+La doctora no le recomienda descanso esta semana.
+Mi amigo no lo guarda hoy.
+El grupo no les canta canciones esta tarde.
+María no trabaja en la oficina.
+Luis no estudia en la biblioteca.
+Ana no vive en Granada.
+Javier no escribe en la cocina.
+Lucía no canta en el teatro.
+Carlos no lee en el parque.
+El profesor no enseña en el instituto.
+Mi hermana no limpia en su casa.
+El equipo no entrena en el estadio.
+La empresa no fabrica en Madrid.
+El médico no trabaja en el hospital.
+La vecina no cocina en la cocina.
+El alumno no estudia en la escuela.
+Mi padre no repara en el garaje.
+La directora no organiza en el despacho.
+El escritor no escribe en su estudio.
+El chef no prepara nada en la cocina.
+La doctora no atiende en la consulta.
+Mi amigo no estudia en la biblioteca.
+El grupo no canta en el auditorio.
+No trabajo en casa.
+No cocino en el comedor.
+No leo en el sofá.
+No estudio en la mesa.
+No escribo en el ordenador.
+No limpio en la cocina.
+No cierro la puerta en el pasillo.
+No descanso en la cama.
+No corro en el parque.
+No duermo en mi habitación.
+María no canta en Madrid pero ensaya en casa.
+Luis no trabaja en Barcelona y descansa más.
+Ana no enseña en la escuela ni corrige tareas.
+Javier no escribe en su casa pero sí en el café.
+Lucía no canta en el teatro aunque lo desea.
+Carlos no observa aves en el parque.
+El profesor no enseña en la universidad.
+Mi hermana no limpia en el baño.
+El grupo no canta en Granada.
+La doctora no trabaja en el hospital hoy.
+No trabajo ahora.
+No cocino nada.
+No leo hoy.
+No estudio mucho.
+No preparo nada.
+No escribo mensajes.
+No observo el cielo.
+No organizo papeles.
+No visito museos.
+No limpio la casa.
+No reparo nada.
+No aprendo.
+No pinto cuadros.
+No grabo vídeos.
+No toco guitarra.
+No investigo.
+No mido ingredientes.
+No gestiono proyectos.
+No planeo vacaciones.
+No compro pan.
+No leo poemas.
+No estudio biología.
+No trabajo contento.
+No cocino lentejas.
+No escribo cartas.
+No canto.
+No escucho música.
+No cierro la puerta.
+No subo escaleras.
+No duermo bien.
+No despierto temprano.
+No corro rápido.
+No río.
+No juego fútbol.
+No estudio solo.
+No trabajo mucho.
+No descanso.
+No ayudo hoy.
+No vivo tranquilo.
+No cocino bien.
+No leo mucho.
+No organizo nada.
+No descanso nada.
+No escribo.
+No pinto.
+María no cocinó ayer.
+Luis no estudió inglés.
+Ana no preparó café.
+Javier no escribió cartas.
+Lucía no cantó en el teatro.
+Carlos no observó estrellas.
+El profesor no enseñó historia.
+Mi hermana no limpió la casa.
+El equipo no entrenó ayer.
+La empresa no fabricó muebles.
+El médico no atendió pacientes.
+La vecina no cocinó arroz.
+El alumno no estudió biología.
+Mi padre no arregló el coche.
+La directora no revisó informes.
+El escritor no redactó nada.
+El chef no midió ingredientes.
+La doctora no examinó niños.
+Mi amigo no guardó documentos.
+El grupo no cantó el sábado.
+No trabajé ayer.
+No cociné.
+No leí nada.
+No estudié.
+No escribí.
+No observé.
+No organicé.
+No visité a nadie.
+No limpié.
+No aprendí.
+No pinté.
+No grabé.
+No toqué.
+No investigué.
+No dormí.
+No descansé.
+No cociné ni serví.
+No estudié ni aprobé.
+No preparé ni limpié.
+No canté ni bailé.
+No enseñé ni corregí.
+No limpié ni cociné.
+No canté ni celebré.
+No cociné ni decoré.
+No examiné ni aconsejé.
+María no cocinará mañana.
+Luis no estudiará inglés.
+Ana no preparará café.
+Javier no escribirá mensajes.
+Lucía no cantará mañana.
+Carlos no observará estrellas.
+El profesor no enseñará mañana.
+Mi hermana no limpiará la casa.
+El equipo no entrenará mañana.
+La empresa no fabricará muebles.
+El médico no atenderá consultas.
+La vecina no cocinará arroz.
+El alumno no estudiará mañana.
+Mi padre no arreglará el coche.
+La directora no organizará reuniones.
+El escritor no redactará un libro.
+El chef no medirá ingredientes.
+La doctora no examinará pacientes.
+Mi amigo no guardará fotos.
+El grupo no cantará en Madrid.
+No trabajaré mañana.
+No cocinaré.
+No leeré.
+No estudiaré.
+No escribiré.
+No observaré.
+No organizaré.
+No visitaré.
+No limpiaré.
+No aprenderé.
+No pintaré.
+No grabaré.
+No tocaré.
+No investigaré.
+No planearé.
+No dormiré.
+No descansaré.
+No cocinaré ni serviré.
+No estudiaré ni aprobaré.
+No prepararé ni limpiaré.
+No cantaré ni bailaré.
+No enseñarás ni corregirás.
+No limpiaré ni cocinaré.
+No cantaré ni celebraré.
+No cocinaré ni decoraré.
+No examinaré ni aconsejaré.
+María no cocina arroz hoy.
+Luis no estudia biología esta mañana.
+Ana no prepara café por la tarde.
+Javier no escribe mensajes esta semana.
+Lucía no canta canciones los viernes.
+Carlos no observa estrellas esta noche.
+El profesor no enseña historia los lunes.
+Mi hermana no limpia la casa los domingos.
+El equipo no entrena esta tarde.
+La empresa no fabrica muebles este mes.
+El médico no atiende pacientes los jueves.
+La vecina no cocina lentejas hoy.
+El alumno no estudia inglés esta tarde.
+Mi padre no repara el coche los sábados.
+La directora no revisa informes esta semana.
+El escritor no redacta cuentos por la noche.
+El chef no prepara postres los domingos.
+La doctora no examina a los niños hoy.
+Mi amigo no organiza sus cosas esta mañana.
+El grupo no canta canciones hoy.
+No trabajo los fines de semana.
+No cocino los domingos.
+No leo el periódico hoy.
+No estudio idiomas esta noche.
+No preparo café los lunes.
+No escribo correos hoy.
+No observo aves los sábados.
+No organizo tareas este mes.
+No visito museos este verano.
+No limpio mi habitación esta tarde.
+No reparo el ordenador hoy.
+No cocino pasta los viernes.
+No aprendo francés este año.
+No enseño matemáticas los jueves.
+No pinto cuadros este mes.
+No grabo vídeos los domingos.
+No toco guitarra los viernes.
+No investigo temas esta semana.
+No gestiono proyectos hoy.
+No planeo viajes este año.
+No trabajo por la tarde.
+María no me compra flores hoy.
+Luis no le escribe a su madre.
+Ana no nos prepara la cena esta noche.
+Javier no lo arregla hoy.
+Lucía no les enseña música.
+Carlos no me llama esta mañana.
+El profesor no les explica la lección esta semana.
+Mi hermana no le regala dulces a su amiga.
+El equipo no lo entrena hoy.
+La empresa no nos envía productos.
+El médico no me revisa hoy.
+La vecina no le presta libros.
+El alumno no lo repite.
+Mi padre no me ayuda hoy.
+La directora no les envía correos.
+El escritor no lo publica hoy.
+El chef no me prepara café.
+La doctora no le recomienda descanso.
+Mi amigo no lo guarda.
+El grupo no les canta canciones hoy.
+María no trabaja en la oficina.
+Luis no estudia en la biblioteca.
+Ana no vive en Granada.
+Javier no escribe en la cocina.
+Lucía no canta en el teatro.
+Carlos no lee en el parque.
+El profesor no enseña en el instituto.
+Mi hermana no limpia en su casa.
+El equipo no entrena en el estadio.
+La empresa no fabrica en Madrid.
+El médico no trabaja en el hospital.
+La vecina no cocina en la cocina.
+El alumno no estudia en la escuela.
+Mi padre no repara en el garaje.
+La directora no organiza en el despacho.
+El escritor no escribe en su estudio.
+El chef no prepara nada en la cocina.
+La doctora no atiende en la consulta.
+Mi amigo no estudia en la biblioteca.
+El grupo no canta en el auditorio.
+No trabajo en casa.
+No cocino en el comedor.
+No leo en el sofá.
+No estudio en la mesa.
+No escribo en el ordenador.
+No limpio en la cocina.
+No cierro la puerta en el pasillo.
+No descanso en la cama.
+No corro en el parque.
+No duermo en mi habitación.
+María no canta en Madrid pero ensaya en casa.
+Luis no trabaja en Barcelona y descansa más.
+Ana no enseña en la escuela ni corrige exámenes.
+Javier no escribe en su casa aunque quiere.
+Lucía no canta en el teatro porque está enferma.
+Carlos no observa aves en el parque.
+El profesor no enseña en la universidad.
+Mi hermana no limpia en el baño.
+El grupo no canta en Granada.
+La doctora no trabaja en el hospital hoy.
+No trabajo ahora.
+No cocino nada.
+No leo hoy.
+No estudio mucho.
+No preparo nada.
+No escribo mensajes.
+No observo el cielo.
+No organizo papeles.
+No visito museos.
+No limpio la casa.
+No reparo nada.
+No aprendo.
+No pinto cuadros.
+No grabo vídeos.
+No toco guitarra.
+No investigo.
+No mido ingredientes.
+No gestiono proyectos.
+No planeo vacaciones.
+No compro pan.
+No leo poemas.
+No estudio biología.
+No trabajo contento.
+No cocino lentejas.
+No escribo cartas.
+No canto.
+No escucho música.
+No cierro la puerta.
+No subo escaleras.
+No duermo bien.
+No despierto temprano.
+No corro rápido.
+No río.
+No juego fútbol.
+No estudio solo.
+No descanso.
+No ayudo hoy.
+No vivo tranquilo.
+No cocino bien.
+No leo mucho.
+No organizo nada.
+No descanso nada.
+No escribo.
+No pinto.
+María no cocinó arroz.
+Luis no estudió inglés.
+Ana no preparó café.
+Javier no escribió cartas.
+Lucía no cantó en el teatro.
+Carlos no observó estrellas.
+El profesor no enseñó historia.
+Mi hermana no limpió la casa.
+El equipo no entrenó ayer.
+La empresa no fabricó muebles.
+El médico no atendió pacientes.
+La vecina no cocinó arroz.
+El alumno no estudió biología.
+Mi padre no arregló el coche.
+La directora no revisó informes.
+El escritor no redactó nada.
+El chef no midió ingredientes.
+La doctora no examinó niños.
+Mi amigo no guardó documentos.
+El grupo no cantó el sábado.
+No trabajé ayer.
+No cociné.
+No leí nada.
+No estudié.
+No escribí.
+No observé.
+No organicé.
+No visité a nadie.
+No limpié.
+No aprendí.
+No pinté.
+No grabé.
+No toqué.
+No investigué.
+No dormí.
+No descansé.
+No cociné ni serví.
+No estudié ni aprobé.
+No preparé ni limpié.
+No canté ni bailé.
+No enseñé ni corregí.
+No limpié ni cociné.
+No canté ni celebré.
+No cociné ni decoré.
+No examiné ni aconsejé.
+María no cocinará mañana.
+Luis no estudiará inglés.
+Ana no preparará café.
+Javier no escribirá mensajes.
+Lucía no cantará mañana.
+Carlos no observará estrellas.
+El profesor no enseñará mañana.
+Mi hermana no limpiará la casa.
+El equipo no entrenará mañana.
+La empresa no fabricará muebles.
+El médico no atenderá consultas.
+La vecina no cocinará arroz.
+El alumno no estudiará mañana.
+Mi padre no arreglará el coche.
+La directora no organizará reuniones.
+El escritor no redactará un libro.
+El chef no medirá ingredientes.
+La doctora no examinará pacientes.
+Mi amigo no guardará fotos.
+El grupo no cantará en Madrid.
+No trabajaré mañana.
+No cocinaré.
+No leeré.
+No estudiaré.
+No escribiré.
+No observaré.
+No organizaré.
+No visitaré.
+No limpiaré.
+No aprenderé.
+No pintaré.
+No grabaré.
+No tocaré.
+No investigaré.
+No planearé.
+No dormiré.
+No descansaré.
+No cocinaré ni serviré.
+No estudiaré ni aprobaré.
+No prepararé ni limpiaré.
+No cantaré ni bailaré.
+No enseñarás ni corregirás.
+No limpiaré ni cocinaré.
+No cantaré ni celebraré.
+No cocinaré ni decoraré.
+No examinaré ni aconsejaré.
+No me rendiré, pero tampoco continuaré.
+No te llamaré mañana.
+No le enviaré mensajes.
+No los visitaré esta semana.
+No me presentaré a clase.
+No lo aceptaré.
+No la olvidaré, pero no volveré.
+No me arrepentí ayer.
+No te respondí el mensaje.
+No le dije nada.
+No los saludé.
+No me quedé en casa.
+No te esperé mucho.
+No le compré flores.
+No lo terminé.
+No la busqué.
+No los vi.
+No me quejé.
+No te hablé ayer.
+No le conté la verdad.
+No me prepararé hoy.
+No te ayudaré mañana.
+No le escribiré de nuevo.
+No los visitaré más.
+No me moveré de aquí.
+No te dejaré solo.
+No le hablaré del tema.
+No lo repetiré.
+No la escucharé.
+No me olvidaré, pero no volveré.
+No me levanto temprano.
+No te entiendo a veces.
+No le creo siempre.
+No los veo mucho.
+No me siento bien.
+No te acompaño hoy.
+No le presto atención.
+No lo intento más.
+No la llamo nunca.
+No me esfuerzo.
+No te molesto.
+No le aviso.
+No los sigo.
+No me detengo.
+No te observo.
+No le paso el mensaje.
+No lo toco.
+No la visito.
+No me concentro.
+No te prometo nada.
+No le explico bien.
+No los convenzo.
+No me disculpo.
+No te comprendo.
+No le respondo.
+No lo recuerdo.
+No la creo.
+No me explico.
+No te escucho.
+No le presto el libro.
+No los saludo.
+No me sorprendo.
+No te miro.
+No le creo del todo.
+No los entiendo.
+No me acerco.
+No te hablo más.
+No le pido ayuda.
+No lo intento.
+No la llamo.
+No me canso.
+No te olvido, pero no vuelvo.
+No le contesto.
+No los espero.
+No me despido.
+No te respondo.
+No le miento.
+No los invito.
+No me levanto temprano.
+No te despierto.
+No le preparo desayuno.
+No los llevo.
+No me concentro.
+No te sigo.
+No le presto atención.
+No los escucho.
+No me callo.
+No te entiendo bien.
+No le respondo al instante.
+No los convenzo.
+No me explico.
+No te hablo.
+No le presto dinero.
+No los saludo hoy.
+No me levanto aún.
+No te molesto.
+No le pido nada.
+No los interrumpo.
+No me importa mucho.
+No te olvido del todo.
+No le creo del todo.
+No los entiendo.
+No me convence.
+No te hablo más.
+No le respondo.
+No los visito.
+No me esfuerzo.
+No te entiendo.
+No le miento.
+No los escucho.
+No me rindo.
+No te llamo.
+No le escribo.
+No los espero.
+No me levanto.
+No te sigo.
+No le contesto.
+No los miro.
+No me concentro.
+No te respondo.
+No le ayudo.
+No los saludo.
+No me callo.
+No te escucho.
+No le presto dinero.
+No los visito.
+No me importa.
+No te hablo.
+No le respondo.
+No los entiendo.
+No me muevo.
+No te espero.
+No le aviso.
+No los acompaño.
+No me rindo.
+No te llamo.
+No le escribo.
+No los saludo.
+No me levanto.
+No te sigo.
+No le contesto.
+No los miro.
+No me concentro.
+No te respondo.
+No le ayudo.
+No los escucho.
+No me callo.
+No te hablo.
+No le presto atención.
+No los visito.
+No me importa.
+No te hablo más.
+No le contesto.
+No los entiendo.
+No me muevo.
+No te espero.
+No le aviso.
+No los acompaño.
+No me canso.
+No te llamo.
+No le escribo.
+No los saludo.
+No me levanto temprano.
+No te sigo.
+No le contesto.
+No los miro.
+No me concentro.
+No te respondo.
+No le ayudo.
+No los escucho.
+No me callo.
+No te hablo.
+No le presto atención.
+No los visito.
+No me importa.
+No te olvido.
+No le respondo.
+No los entiendo.
+No me muevo.
+No te espero.
+No le aviso.
+No los acompaño.

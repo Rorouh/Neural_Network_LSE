@@ -1,0 +1,586 @@
+Ojalá llueva mañana.
+Ojalá haga sol el sábado.
+Ojalá no nieve este invierno.
+Ojalá termines el trabajo hoy.
+Ojalá lleguen antes del mediodía.
+Ojalá nos veamos esta tarde.
+Ojalá descanse bien esta noche.
+Ojalá tengas tiempo hoy.
+Ojalá no llueva el domingo.
+Ojalá salga el sol mañana temprano.
+Ojalá encuentres un taxi esta noche.
+Ojalá cocines algo rico hoy.
+Ojalá visites a tu abuela esta semana.
+Ojalá estudies mucho este mes.
+Ojalá descanses el fin de semana.
+Ojalá llegues pronto mañana al trabajo.
+Ojalá prepares el examen esta tarde.
+Ojalá trabajen tranquilos hoy.
+Ojalá sepas la respuesta mañana.
+Ojalá vengas al cine esta noche.
+Ojalá terminen el proyecto esta semana.
+Ojalá no tengas sueño mañana.
+Ojalá te mejores pronto hoy.
+Ojalá pases un buen día mañana.
+Ojalá encuentres sitio en el parking hoy.
+Ojalá me llames esta noche.
+Ojalá llegues con tiempo mañana.
+Ojalá haya comida suficiente esta tarde.
+Ojalá descanses un poco hoy.
+Ojalá estudien todos para el lunes.
+Ojalá tengas suerte mañana.
+Ojalá funcione el ordenador hoy.
+Ojalá vuelvas antes del anochecer.
+Ojalá vayas al médico mañana.
+Ojalá repares la bici esta semana.
+Ojalá prepares la maleta hoy.
+Ojalá cantes en el concierto del sábado.
+Ojalá duermas bien esta noche.
+Ojalá llegues temprano mañana al aeropuerto.
+Ojalá no se canse tanto hoy.
+Ojalá te llueva poco mañana.
+Ojalá salgas con tus amigos este fin de semana.
+Ojalá pintes la casa este mes.
+Ojalá termines el libro esta semana.
+Ojalá cocines en casa hoy.
+Ojalá no tengas tráfico mañana.
+Ojalá leas más esta tarde.
+Ojalá lleguemos juntos mañana.
+Ojalá arregles la puerta hoy.
+Ojalá aprendas mucho este semestre.
+Ojalá descanses el domingo.
+Ojalá hables con él mañana.
+Ojalá salgan temprano hoy.
+Ojalá no se rompa nada esta vez.
+Ojalá empiece a hacer calor esta semana.
+Ojalá la reunión termine pronto hoy.
+Ojalá te llame antes del mediodía.
+Ojalá no te enfermes esta temporada.
+Ojalá almorcemos juntos hoy.
+Ojalá lleguen a tiempo al aeropuerto.
+Ojalá tengas un día tranquilo mañana.
+Ojalá hubiera llegado a tiempo.
+Ojalá no hubiera llovido tanto.
+Ojalá hubiéramos hablado antes.
+Ojalá hubiera estudiado más.
+Ojalá no me hubiera caído.
+Ojalá hubieras venido ayer.
+Ojalá hubiera sabido la respuesta.
+Ojalá no te hubieras ido.
+Ojalá hubiera tomado ese tren.
+Ojalá hubiéramos viajado juntos.
+Ojalá hubieras visto la película.
+Ojalá no hubiera olvidado el regalo.
+Ojalá hubiéramos tenido más tiempo.
+Ojalá te hubieras quedado conmigo.
+Ojalá hubiera escuchado tu consejo.
+Ojalá consigas ese trabajo.
+Ojalá apruebes el examen.
+Ojalá encuentres tu camino.
+Ojalá llegues bien al aeropuerto.
+Ojalá conozcas gente amable.
+Ojalá descanses mañana en casa.
+Ojalá ganes el concurso.
+Ojalá te cures pronto.
+Ojalá viajes a París el año que viene.
+Ojalá tengas un buen día.
+Ojalá vengas a la fiesta.
+Ojalá termines la carrera.
+Ojalá llueva en el campo.
+Ojalá encuentres paz en tu corazón.
+Ojalá vuelvas pronto.
+Ojalá aprendas portugués.
+Ojalá mejores tu salud.
+Ojalá lleguen a salvo.
+Ojalá leas más libros.
+Ojalá crezcas profesionalmente.
+Ojalá trabajes feliz.
+Ojalá conozcas nuevas culturas.
+Ojalá descanses en la playa.
+Ojalá te cases pronto.
+Ojalá encuentres tu casa ideal.
+Ojalá viajes con tus amigos.
+Ojalá pintes tu cuarto.
+Ojalá aprendas a tocar guitarra.
+Ojalá bailes mucho en la boda.
+Ojalá conduzcas con cuidado.
+Ojalá trabajes en lo que te gusta.
+Ojalá consigas el ascenso.
+Ojalá leas cada día un poco más.
+Ojalá duermas bien esta noche.
+Ojalá salgas de vacaciones.
+Ojalá escribas un libro.
+Ojalá vivas cerca del mar.
+Ojalá tengas suerte en la entrevista.
+Ojalá aprendas inglés.
+Ojalá ahorres dinero.
+Ojalá mejores tus notas.
+Ojalá viajes con tu familia.
+Ojalá corras la maratón.
+Ojalá pintes más cuadros.
+Ojalá termines el proyecto.
+Ojalá cantes mañana en el escenario.
+Ojalá compres una casa.
+Ojalá logres tus metas.
+Ojalá alcances tus sueños.
+Ojalá estudies medicina.
+Ojalá ganes experiencia.
+Ojalá descanses en el jardín.
+Ojalá encuentres un sitio tranquilo.
+Ojalá aprendas algo nuevo.
+Ojalá compartas tu talento.
+Ojalá ayudes a los demás.
+Ojalá tengas una buena semana.
+Ojalá mejores en el trabajo.
+Ojalá consigas el permiso.
+Ojalá llegues a tiempo.
+Ojalá salgas con tus amigos.
+Ojalá viajes pronto a Italia.
+Ojalá compres un coche nuevo.
+Ojalá encuentres inspiración.
+Ojalá aprendas de tus errores.
+Ojalá escribas más poesía.
+Ojalá sueñes cosas bonitas.
+Ojalá estudies en el extranjero.
+Ojalá tengas salud y alegría.
+Ojalá bailes mañana en la plaza.
+Ojalá arregles tu bicicleta.
+Ojalá te mudes a un lugar bonito.
+Ojalá leas más novelas.
+Ojalá salgas de paseo.
+Ojalá disfrutes cada momento.
+Ojalá aprendas a cocinar.
+Ojalá te relajes en la montaña.
+Ojalá vivas aventuras nuevas.
+Ojalá encuentres un nuevo hobby.
+Ojalá aprendas programación.
+Ojalá te llame tu mejor amigo.
+Ojalá llegues al objetivo.
+Ojalá pintes el mural pronto.
+Ojalá organices la fiesta.
+Ojalá compres flores mañana.
+Ojalá invites a tu hermano.
+Ojalá tomes el tren correcto.
+Ojalá arregles tu jardín.
+Ojalá corras bajo el sol.
+Ojalá viajes a Japón.
+Ojalá veas el amanecer.
+Ojalá escuches buena música.
+Ojalá enseñes a otros.
+Ojalá aprendas rápido.
+Ojalá llegues sin tráfico.
+Ojalá el día te sonría.
+Ojalá vivas sin prisa.
+Ojalá duermas en paz.
+Ojalá sueñes en colores.
+Ojalá conozcas el amor.
+Ojalá crezcas interiormente.
+Ojalá juegues más al aire libre.
+Ojalá descanses en el campo.
+Ojalá camines junto al río.
+Ojalá pintes con alegría.
+Ojalá sonrías mañana.
+Ojalá tomes vacaciones pronto.
+Ojalá escuches con atención.
+Ojalá te inspires con el paisaje.
+Ojalá construyas algo grande.
+Ojalá llegues a casa feliz.
+Ojalá plantes un árbol.
+Ojalá viajes en tren.
+Ojalá aprendas francés.
+Ojalá ganes confianza.
+Ojalá sueñes con el mar.
+Ojalá salgas de excursión.
+Ojalá camines por el bosque.
+Ojalá disfrutes de la lluvia.
+Ojalá trabajes con pasión.
+Ojalá cantes en público.
+Ojalá pintes la pared.
+Ojalá viajes con calma.
+Ojalá duermas bien esta noche.
+Ojalá compartas tu sonrisa.
+Ojalá encuentres el amor.
+Ojalá vivas en paz.
+Ojalá elijas bien tu camino.
+Ojalá sigas aprendiendo.
+Ojalá crees cosas hermosas.
+Ojalá inspires a los demás.
+Ojalá disfrutes del silencio.
+Ojalá corras bajo la lluvia.
+Ojalá llegues sin retraso.
+Ojalá aprendas idiomas.
+Ojalá logres lo que sueñas.
+Ojalá descanses en tu cama.
+Ojalá camines con fe.
+Ojalá la vida te sonría.
+Ojalá estés bien.
+Ojalá tengas suerte.
+Ojalá no llueva.
+Ojalá te sientas mejor.
+Ojalá todo salga bien.
+Ojalá vengas pronto.
+Ojalá tengas paciencia.
+Ojalá no te preocupes.
+Ojalá descanses.
+Ojalá duermas tranquilo.
+Ojalá no haga frío.
+Ojalá estés contento.
+Ojalá sonrías más.
+Ojalá comas bien.
+Ojalá leas mucho.
+Ojalá no falte nadie.
+Ojalá sepas la verdad.
+Ojalá llegues a tiempo.
+Ojalá escuches con calma.
+Ojalá sigas feliz.
+Ojalá aprendas pronto.
+Ojalá encuentres trabajo.
+Ojalá no te canses.
+Ojalá estudies mucho.
+Ojalá entiendas el mensaje.
+Ojalá te relajes.
+Ojalá hables con él.
+Ojalá no te enfermes.
+Ojalá veas el resultado.
+Ojalá sepas lo que haces.
+Ojalá sigas con energía.
+Ojalá recuerdes mis palabras.
+Ojalá descanses un poco.
+Ojalá mejores tu humor.
+Ojalá escribas algo lindo.
+Ojalá mantengas la calma.
+Ojalá salgas sin prisa.
+Ojalá confíes en ti.
+Ojalá escuches al corazón.
+Ojalá no llores.
+Ojalá sonrías cada día.
+Ojalá ames lo que haces.
+Ojalá vivas sin miedo.
+Ojalá sientas paz.
+Ojalá te motives.
+Ojalá rías más.
+Ojalá sueñes despierto.
+Ojalá disfrutes de la vida.
+Ojalá aprendas de tus errores.
+Ojalá te perdones.
+Ojalá valores lo que tienes.
+Ojalá sigas intentándolo.
+Ojalá descanses bien.
+Ojalá creas en ti.
+Ojalá no tengas miedo.
+Ojalá veas el amanecer.
+Ojalá escuches música.
+Ojalá pienses en positivo.
+Ojalá no pierdas la esperanza.
+Ojalá sigas fuerte.
+Ojalá respires profundo.
+Ojalá no discutas más.
+Ojalá te relajes hoy.
+Ojalá descanses tranquilo.
+Ojalá sonrías siempre.
+Ojalá confíes en el proceso.
+Ojalá ames cada momento.
+Ojalá recuerdes mi voz.
+Ojalá valores la amistad.
+Ojalá aprendas cada día.
+Ojalá vivas feliz.
+Ojalá sigas creciendo.
+Ojalá sueñes alto.
+Ojalá trabajes con alegría.
+Ojalá encuentres armonía.
+Ojalá llegues mañana a tiempo.
+Ojalá te mejores pronto esta semana.
+Ojalá terminen la obra este mes.
+Ojalá el tren salga hoy sin retraso.
+Ojalá cantes mañana en el festival.
+Ojalá podamos vernos el viernes.
+Ojalá comas bien esta noche.
+Ojalá descanses el domingo.
+Ojalá estudies mañana con calma.
+Ojalá trabajes bien hoy.
+Ojalá no llueva este fin de semana.
+Ojalá viajes este verano al norte.
+Ojalá hagas ejercicio esta tarde.
+Ojalá limpies el coche mañana.
+Ojalá vengas el martes al taller.
+Ojalá prepares la presentación hoy.
+Ojalá no te resfríes este invierno.
+Ojalá te llame antes del anochecer.
+Ojalá salgas a pasear esta tarde.
+Ojalá cocines algo rico esta noche.
+Ojalá leas el libro este mes.
+Ojalá tengas tiempo mañana.
+Ojalá no falte nadie hoy.
+Ojalá lleguemos juntos esta mañana.
+Ojalá pintes la casa este sábado.
+Ojalá aprendas mucho este trimestre.
+Ojalá termines la carrera este año.
+Ojalá vuelvas antes del verano.
+Ojalá te relajes esta noche.
+Ojalá nos reunamos mañana.
+Ojalá la película empiece a tiempo hoy.
+Ojalá encuentres tu reloj mañana.
+Ojalá prepares el postre esta tarde.
+Ojalá camines por la playa este fin de semana.
+Ojalá descanses en el jardín hoy.
+Ojalá duermas bien esta noche.
+Ojalá el bus llegue puntual mañana.
+Ojalá estudien todos para el examen del lunes.
+Ojalá no te enfermes este mes.
+Ojalá arregles la lámpara hoy.
+Ojalá llueva poco este año.
+Ojalá cocines con amor esta noche.
+Ojalá te sientas mejor mañana.
+Ojalá el sol brille el domingo.
+Ojalá nos encontremos hoy en la plaza.
+Ojalá almuerces bien esta tarde.
+Ojalá trabajes sin estrés esta semana.
+Ojalá tengas energía hoy.
+Ojalá aprendas algo nuevo mañana.
+Ojalá sonrías al despertar.
+Ojalá escuches música tranquila esta noche.
+Ojalá limpies el escritorio mañana.
+Ojalá no olvides tus llaves hoy.
+Ojalá duermas temprano esta noche.
+Ojalá termines el dibujo este fin de semana.
+Ojalá encuentres un taxi hoy.
+Ojalá el examen sea fácil mañana.
+Ojalá comas sano esta semana.
+Ojalá tu equipo gane el sábado.
+Ojalá salgas pronto del trabajo hoy.
+Ojalá llegues bien esta tarde.
+Ojalá hubiera dicho la verdad.
+Ojalá hubieras estado allí.
+Ojalá no hubiera perdido el tren.
+Ojalá hubiera escuchado antes.
+Ojalá no me hubiera dormido.
+Ojalá hubieras llamado ayer.
+Ojalá no hubiéramos discutido.
+Ojalá hubiera entendido tus palabras.
+Ojalá te hubieras quedado un día más.
+Ojalá no me hubiera rendido.
+Ojalá hubieras estudiado más.
+Ojalá no hubiera llovido tanto.
+Ojalá hubieras visto el mensaje.
+Ojalá hubiera tenido más tiempo.
+Ojalá no te hubieras ido tan pronto.
+Ojalá consigas ese puesto.
+Ojalá viajes pronto a Madrid.
+Ojalá aprendas a nadar.
+Ojalá conozcas nuevas personas.
+Ojalá vivas una experiencia única.
+Ojalá mejores tu salud.
+Ojalá termines tu libro.
+Ojalá tengas éxito en el examen.
+Ojalá llegues temprano a la estación.
+Ojalá ganes el concurso de arte.
+Ojalá te mudes a un lugar tranquilo.
+Ojalá duermas bien mañana.
+Ojalá veas el amanecer en la montaña.
+Ojalá ahorres dinero este año.
+Ojalá pintes un cuadro hermoso.
+Ojalá corras la maratón.
+Ojalá consigas ese ascenso.
+Ojalá aprendas algo nuevo cada día.
+Ojalá vivas en paz.
+Ojalá viajes por el mundo.
+Ojalá encuentres tu vocación.
+Ojalá estudies medicina.
+Ojalá construyas tu casa.
+Ojalá disfrutes de tus vacaciones.
+Ojalá tengas un hijo sano.
+Ojalá compartas tu felicidad.
+Ojalá encuentres inspiración.
+Ojalá trabajes con alegría.
+Ojalá hables otro idioma.
+Ojalá veas el mar pronto.
+Ojalá conduzcas con precaución.
+Ojalá descanses junto al río.
+Ojalá escribas una carta.
+Ojalá vivas cerca de la familia.
+Ojalá enseñes a otros lo que sabes.
+Ojalá logres tus sueños.
+Ojalá aprendas a cocinar bien.
+Ojalá cantes con emoción.
+Ojalá encuentres buenos amigos.
+Ojalá aprendas francés.
+Ojalá leas más poesía.
+Ojalá llegues a tu destino sin problemas.
+Ojalá trabajes donde deseas.
+Ojalá crezcas personal y profesionalmente.
+Ojalá compres una bicicleta nueva.
+Ojalá descanses en la montaña.
+Ojalá tomes decisiones sabias.
+Ojalá sonrías cada día.
+Ojalá sigas aprendiendo.
+Ojalá ganes confianza en ti mismo.
+Ojalá tengas una vida feliz.
+Ojalá encuentres tu camino.
+Ojalá pintes tu habitación.
+Ojalá escuches buena música.
+Ojalá viajes sin miedo.
+Ojalá te relajes pronto.
+Ojalá bailes bajo la lluvia.
+Ojalá veas la nieve este invierno.
+Ojalá te reúnas con tus amigos.
+Ojalá aprendas inglés rápido.
+Ojalá encuentres trabajo pronto.
+Ojalá plantes un árbol.
+Ojalá cuides tus plantas.
+Ojalá escribas todos los días.
+Ojalá llegues feliz a casa.
+Ojalá veas el atardecer.
+Ojalá compres flores mañana.
+Ojalá cocines con amor.
+Ojalá estudies algo nuevo.
+Ojalá logres tu meta.
+Ojalá escuches mi consejo.
+Ojalá duermas tranquilo.
+Ojalá rías con tus amigos.
+Ojalá descanses más.
+Ojalá encuentres calma.
+Ojalá te relajes después del trabajo.
+Ojalá viajes al norte de España.
+Ojalá trabajes en el extranjero.
+Ojalá aprendas a programar.
+Ojalá subas esa montaña.
+Ojalá toques guitarra pronto.
+Ojalá estudies psicología.
+Ojalá sueñes cosas hermosas.
+Ojalá juegues más con tus hijos.
+Ojalá vivas momentos felices.
+Ojalá trabajes menos y descanses más.
+Ojalá compartas tu experiencia.
+Ojalá corras por la playa.
+Ojalá sonrías siempre.
+Ojalá tengas paz interior.
+Ojalá ames sin miedo.
+Ojalá cumplas tus promesas.
+Ojalá sientas orgullo de ti.
+Ojalá cantes en público.
+Ojalá escribas una canción.
+Ojalá logres viajar pronto.
+Ojalá aprendas cada día.
+Ojalá hables con claridad.
+Ojalá escuches al corazón.
+Ojalá llegues sin tráfico.
+Ojalá duermas bien esta semana.
+Ojalá ganes ese premio.
+Ojalá no te canses pronto.
+Ojalá confíes en la vida.
+Ojalá sigas creciendo.
+Ojalá descubras tu pasión.
+Ojalá respires aire puro.
+Ojalá trabajes con calma.
+Ojalá sonrías bajo el sol.
+Ojalá viajes a América Latina.
+Ojalá aprendas a conducir.
+Ojalá descanses junto al mar.
+Ojalá sueñes en grande.
+Ojalá ames lo que haces.
+Ojalá llegues feliz al destino.
+Ojalá encuentres motivación.
+Ojalá no pierdas la fe.
+Ojalá estudies idiomas.
+Ojalá mejores tu escritura.
+Ojalá te rodees de buena gente.
+Ojalá sigas tu vocación.
+Ojalá aprendas con paciencia.
+Ojalá leas cada noche.
+Ojalá sonrías cuando despiertes.
+Ojalá sientas gratitud.
+Ojalá escuches a tus padres.
+Ojalá crezcas sin miedo.
+Ojalá ames tu trabajo.
+Ojalá llegues lejos.
+Ojalá tengas buena suerte.
+Ojalá no te detengas.
+Ojalá sigas el camino correcto.
+Ojalá cumplas tu sueño más grande.
+Ojalá compartas alegría.
+Ojalá cuides tu salud.
+Ojalá rías todos los días.
+Ojalá vivas sin prisa.
+Ojalá inspires a otros.
+Ojalá descanses en paz.
+Ojalá disfrutes del viaje.
+Ojalá alcances tus metas.
+Ojalá veas las estrellas esta noche.
+Ojalá estés tranquilo.
+Ojalá tengas esperanza.
+Ojalá no llueva hoy.
+Ojalá sonrías más.
+Ojalá te sientas en paz.
+Ojalá descanses bien.
+Ojalá te relajes.
+Ojalá vivas feliz.
+Ojalá pienses en positivo.
+Ojalá comas sano.
+Ojalá ames lo que haces.
+Ojalá no discutas más.
+Ojalá duermas bien.
+Ojalá confíes en ti.
+Ojalá sigas intentándolo.
+Ojalá veas lo bueno.
+Ojalá escuches a tu corazón.
+Ojalá aprendas pronto.
+Ojalá no pierdas la calma.
+Ojalá hables con sinceridad.
+Ojalá no te canses.
+Ojalá sonrías cada mañana.
+Ojalá tengas energía.
+Ojalá sientas alegría.
+Ojalá creas en ti.
+Ojalá sigas motivado.
+Ojalá no te rindas.
+Ojalá recuerdes lo importante.
+Ojalá aprendas a disfrutar.
+Ojalá descanses tranquilo.
+Ojalá ames tu vida.
+Ojalá pienses con claridad.
+Ojalá vivas sin miedo.
+Ojalá escuches música.
+Ojalá valores cada momento.
+Ojalá trabajes con ganas.
+Ojalá te levantes feliz.
+Ojalá rías con tus amigos.
+Ojalá estudies con interés.
+Ojalá respires profundo.
+Ojalá aprendas de tus errores.
+Ojalá sueñes despierto.
+Ojalá te sientas bien.
+Ojalá ayudes a otros.
+Ojalá sonrías con el alma.
+Ojalá compartas tu amor.
+Ojalá mantengas la calma.
+Ojalá descanses un rato.
+Ojalá veas lo positivo.
+Ojalá sigas confiando.
+Ojalá te sientas fuerte.
+Ojalá vivas con ilusión.
+Ojalá ames sin condiciones.
+Ojalá disfrutes del silencio.
+Ojalá te motives cada día.
+Ojalá aprendas algo nuevo.
+Ojalá valores tu tiempo.
+Ojalá sigas soñando.
+Ojalá sientas gratitud.
+Ojalá descanses esta tarde.
+Ojalá sonrías hoy.
+Ojalá veas lo hermoso.
+Ojalá te sientas libre.
+Ojalá te relajes en casa.
+Ojalá mantengas la fe.
+Ojalá escuches el viento.
+Ojalá sigas adelante.
+Ojalá no tengas miedo.
+Ojalá sueñes bonito.
+Ojalá descanses bien esta noche.
+Ojalá vivas con paz.
+Ojalá confíes en la vida.
+Ojalá sonrías bajo el sol.
+Ojalá veas tu progreso.
+Ojalá te levantes con energía.
+Ojalá no te preocupes más.
+Ojalá ames tu presente.
+Ojalá sigas sonriendo.

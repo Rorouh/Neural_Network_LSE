@@ -1,5 +1,5 @@
-# System prompt: reglas de adaptación a LSE escrita (glosa)
-SYSTEM_PROMPT = """
+# --- SYSTEM PROMPT ---
+SYSTEM_PROMPT = r"""
 ROL
 Eres lingüista experto en gramática del español y en adaptación a LSE escrita (glosa).
 
@@ -109,18 +109,16 @@ PROCEDIMIENTO PASO A PASO
    - ¿Salida en una sola línea por oración, en glosa?
 
 EJEMPLOS CANÓNICOS
-1) Entrada (2 oraciones):
-   “Ayer estuvimos en el parque. Yo compré helados.”
+1) Entrada:
+   “Ayer estuvimos en el parque.”
    Salida:
-   AYER PARQUE HABER
-   AYER YO HELADOS COMPRAR
+   AYER PARQUE NOSOTROS HABER
 
 2) “Mi hermano está en casa de Ana.”
-   → CASA ANA MI HERMANO HABER
+   → CASA ANA MI HERMANO 
 
 3) “No tengo dinero.”
    (preferente) → YO DINERO NO HABER
-   (alternativa proyecto) → YO DINERO HABER NO
 
 4) “¿Vas a venir mañana a mi casa?”
    → MAÑANA CASA MÍA TÚ VENIR SI/NO
@@ -138,103 +136,86 @@ EJEMPLOS CANÓNICOS
    → OJALÁ MAÑANA LLOVER
 
 9) Exclamativa: “¡Qué bonito es este lugar!”
-   → LUGAR ESTE BONITO  !
+   → LUGAR ESTE BONITO !
 
-10) Entrada (bloque de 3 oraciones mezcladas):
-    “El año pasado fui a Madrid. Mi hermano no vino. ¿Vendrás tú el próximo mes?”
-    Salida:
-    AÑO PASADO MADRID YO IR
-    PASADO MI HERMANO NO VENIR
-    PRÓXIMO MES TÚ VENIR SI/NO
-
-"""
+""".strip()
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 """
-lse_gemini_to_csv.py
---------------------
-- Lee las primeras N líneas NO vacías de un TXT (una oración por línea).
-- Envía TODAS esas líneas en UNA sola petición a Gemini.
-- Pide que la salida venga en UNA ÚNICA LÍNEA con glosas separadas por ". " (y punto final).
-- Parsea la salida, empareja (español, glosa) y apendea a un CSV.
-- Si todo fue OK (conteo coincide), elimina del TXT las líneas procesadas (backup .bak).
-
-Uso:
-  pip install -U google-genai
-  (PowerShell) $env:GEMINI_API_KEY="TU_CLAVE"
-  python lse_gemini_to_csv.py --input entrada1.txt --out dataset.csv --limit 20 \
-         --model gemini-2.5-flash --max-tokens 1024
+build_dataset_gemini.py — imprime primero la respuesta cruda (glosas separadas por '.')
+---------------------------------------------------------------------------------------
+- Lee N líneas no vacías de un .txt (una por línea).
+- Envía en lotes (--batch-size) en un único prompt por lote.
+- Pide al modelo UNA SOLA LÍNEA con EXACTAMENTE N glosas separadas por ". ".
+- Imprime esa línea cruda por stdout (primero), la parsea por puntos y guarda CSV.
+- Si --consume, borra del TXT solo las líneas procesadas OK (hace .bak salvo --no-backup).
 """
 
-import os
-import sys
-import csv
-import argparse
+import os, sys, csv, time, argparse, shutil, re
 from pathlib import Path
-from typing import List, Tuple, Optional
+from typing import List, Tuple
 
-from google import genai
-from google.genai import types
+try:
+    from google import genai
+    from google.genai import types
+except Exception:
+    print("ERROR: Instala la librería con: pip install -U google-genai", file=sys.stderr)
+    raise
 
+# ------------------ PROMPT DE SISTEMA (resumido; puedes sustituir por el tuyo) ------------------
+SYSTEM_PROMPT = r"""
+Eres lingüista experto en gramática del español y en adaptación a LSE escrita (glosa).
+Transforma texto español a LSE escrita cumpliendo las reglas del proyecto. No añadas información
+ni alteres el significado. Verbo SIEMPRE en infinitivo; eliminar ser/estar copulativos; unificar
+tener/existir/estar-loc → HABER; sin preposiciones ni determinantes; usar marcadores en MAYÚSCULAS.
+Una glosa por oración. Mantén el orden original de las oraciones del bloque.
+""".strip()
 
-# ---- Utilidades de fichero ----
-def read_first_nonempty_with_indices(path: str, limit: int) -> Tuple[List[str], List[int], List[str]]:
+# ------------------ utilidades ------------------
+def ensure_parent(path: str):
+    Path(path).parent.mkdir(parents=True, exist_ok=True)
+
+def select_first_nonempty_with_indices(path: str, limit: int) -> Tuple[List[str], List[int], List[str]]:
     with open(path, "r", encoding="utf-8") as f:
         all_lines = f.readlines()
     texts, idxs = [], []
     for i, raw in enumerate(all_lines):
         s = raw.strip()
-        if not s:
-            continue
-        texts.append(s)
-        idxs.append(i)
-        if len(texts) >= limit:
-            break
+        if s:
+            texts.append(s)
+            idxs.append(i)
+            if len(texts) >= limit:
+                break
     return texts, idxs, all_lines
 
 def rewrite_file_without_indices(path: str, all_lines: List[str], remove_idxs: List[int], create_backup: bool = True):
     if create_backup:
         try:
-            import shutil
             shutil.copyfile(path, path + ".bak")
         except Exception as e:
             print(f"ADVERTENCIA: no se pudo crear .bak: {e}", file=sys.stderr)
     keep = []
-    remove = set(remove_idxs)
+    rem = set(remove_idxs)
     for i, line in enumerate(all_lines):
-        if i not in remove:
+        if i not in rem:
             keep.append(line)
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8", newline="") as f:
         f.writelines(keep)
     os.replace(tmp, path)
 
-def append_rows_csv(path: str, rows: List[List[str]]):
-    new = not Path(path).exists()
-    with open(path, "a", encoding="utf-8", newline="") as f:
-        w = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
-        if new:
-            w.writerow(["oracion_español", "oracion_transformada_lse"])
-        w.writerows(rows)
-
-# ---- Gemini ----
 def build_client(api_key: str) -> genai.Client:
     return genai.Client(api_key=api_key)
 
 def make_config(model_id: str, max_tokens: int):
-    cfg = dict(
+    # Salida de texto plana (no JSON) para poder imprimirla tal cual.
+    return types.GenerateContentConfig(
         system_instruction=SYSTEM_PROMPT,
-        temperature=0.2,
+        temperature=0.0,
         max_output_tokens=max_tokens,
         response_mime_type="text/plain",
     )
-    # Desactiva thinking (seguro para flash y para mantener tokens de salida bajo control)
-    try:
-        cfg["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
-    except Exception:
-        pass
-    return types.GenerateContentConfig(**cfg)
 
 def extract_text(resp) -> str:
     txt = (getattr(resp, "text", None) or "").strip()
@@ -250,111 +231,174 @@ def extract_text(resp) -> str:
                 return t.strip()
     return ""
 
-def first_finish_reason(resp) -> Optional[str]:
-    cands = getattr(resp, "candidates", None) or []
-    if cands:
-        fr = getattr(cands[0], "finish_reason", None)
-        if fr:
-            return str(fr)
-    return None
+def append_rows_csv(path: str, rows: List[List[str]]):
+    exists = Path(path).exists()
+    with open(path, "a", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
+        if not exists:
+            w.writerow(["español", "transformacion_lse"])
+        for r in rows:
+            w.writerow(r)
 
-# ---- Parsing de la línea: "G1. G2. ... Gn." → [G1, G2, ..., Gn]
-def split_glosas_dot_line(one_line: str, expected: int) -> List[str]:
-    s = (one_line or "").strip()
-    if not s:
-        return []
-    # proteger "..." para no dividir mal
+def chunk(lst, n):
+    for i in range(0, len(lst), n):
+        yield lst[i:i+n]
+
+def split_by_periods(raw: str, expected: int) -> List[str]:
+    """
+    Parte por '.' evitando cortar '...'.
+    Devuelve lista de longitud variable; el llamador validará contra 'expected'.
+    """
+    s = (raw or "")
+    # protege puntos suspensivos
     s = s.replace("...", "…")
-    # dividir por ". " o punto final
-    import re
+    # quitamos posibles saltos y normalizamos espacios extremos (pero no dentro)
+    s = s.strip()
+    # separa por punto+espacios o punto final
     parts = [p.strip() for p in re.split(r"\.\s+|\.$", s) if p.strip()]
+    # revertir puntos suspensivos
     parts = [p.replace("…", "...") for p in parts]
-    # normalizar espacios
-    parts = [" ".join(p.split()) for p in parts]
-    # si el modelo puso un punto al final sin espacio, ya lo cubre el regex
-    # devolvemos tal cual (el conteo se validará fuera)
+    # Fallbacks suaves si no cuadra:
+    if len(parts) != expected:
+        # intenta por líneas
+        alt = [p.strip() for p in s.splitlines() if p.strip()]
+        if len(alt) == expected:
+            return alt
+        # intenta por ' || '
+        if "||" in s:
+            alt2 = [p.strip() for p in s.split("||") if p.strip()]
+            if len(alt2) == expected:
+                return alt2
     return parts
 
-# ---- Pipeline principal ----
-def transform_batch_to_csv(input_txt: str, out_csv: str, limit: int, model: str, max_tokens: int, api_key: str) -> int:
-    # 1) leer N líneas e índices
-    sentences, idxs, all_lines = read_first_nonempty_with_indices(input_txt, limit)
-    if not sentences:
-        print("No hay líneas no vacías que procesar.", file=sys.stderr)
-        return 0
-
-    n = len(sentences)
-
-    # 2) construir instrucción + payload
-    instr = (
-        "Transforma CADA línea de ENTRADA a LSE escrita (glosa), siguiendo estrictamente las reglas del sistema.\n"
-        f"Devuelve TODO en **UNA ÚNICA LÍNEA**, con EXACTAMENTE {n} glosas separadas por '. ' y terminando con '.'.\n"
-        "Sin comillas, sin numeración, sin texto extra.\n"
-        "Ejemplo de formato de salida: GLOSA1. GLOSA2. GLOSA3.\n"
-        "ENTRADA:\n"
-    )
-    payload = instr + "\n".join(sentences)
-
-    # 3) llamada a Gemini
-    client = build_client(api_key)
-    cfg = make_config(model, max_tokens)
-
-    resp = client.models.generate_content(model=model, contents=payload, config=cfg)
-    out_line = extract_text(resp)
-    if not out_line:
-        fr = first_finish_reason(resp) or "N/A"
-        raise RuntimeError(f"Respuesta vacía del modelo (finish_reason={fr}). "
-                           f"Prueba reduciendo --limit o subiendo --max-tokens si tu plan lo permite.")
-
-    # 4) parsear a lista de glosas
-    glosas = split_glosas_dot_line(out_line, expected=n)
-
-    if len(glosas) != n:
-        fr = first_finish_reason(resp) or "N/A"
-        # No tocar ficheros si no coincidimos
-        raise RuntimeError(f"Conteo de glosas={len(glosas)} != líneas entrada={n} (finish_reason={fr}). "
-                           f"Posibles causas: límite de tokens, el modelo añadió texto extra o faltan puntos. "
-                           f"Salida recibida:\n{out_line}")
-
-    # 5) emparejar y escribir CSV
-    rows = [[src, tgt] for src, tgt in zip(sentences, glosas)]
-    append_rows_csv(out_csv, rows)
-
-    # 6) borrar del TXT las líneas procesadas (por índice)
-    rewrite_file_without_indices(input_txt, all_lines, idxs, create_backup=True)
-
-    return len(rows)
-
-# ---- CLI ----
+# ------------------ programa principal ------------------
 def main():
-    ap = argparse.ArgumentParser(description="Convierte las primeras N líneas de un TXT a LSE (glosa), guarda CSV y consume el TXT.")
-    ap.add_argument("--input", required=True, help="Ruta al TXT (una oración por línea). Ej.: entrada1.txt")
-    ap.add_argument("--out", required=True, help="CSV de salida. Ej.: dataset.csv")
-    ap.add_argument("--limit", type=int, default=20, help="N líneas no vacías a tomar (por defecto 20)")
-    ap.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"), help="Modelo Gemini (p. ej. gemini-2.5-flash)")
-    ap.add_argument("--max-tokens", type=int, default=1024, help="max_output_tokens para la salida")
-    ap.add_argument("--api-key", help="API key si no usas GEMINI_API_KEY / GOOGLE_API_KEY")
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--input", required=True, help="TXT con una oración por línea")
+    ap.add_argument("--out", required=True, help="CSV de salida")
+    ap.add_argument("--limit", type=int, default=20, help="N primeras oraciones a procesar")
+    ap.add_argument("--batch-size", type=int, default=20, help="líneas por petición")
+    ap.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"))
+    ap.add_argument("--max-tokens", type=int, default=2048)
+    ap.add_argument("--qpm", type=int, default=1, help="peticiones por minuto (espaciado)")
+    ap.add_argument("--consume", action="store_true", help="borrar del TXT las líneas procesadas OK")
+    ap.add_argument("--no-backup", action="store_true")
+    ap.add_argument("--only-first-batch", action="store_true", help="procesa solo un lote por ejecución")
     args = ap.parse_args()
 
-    api_key = args.api_key or os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")
-    if not api_key:
-        print("Falta la API key. Define GEMINI_API_KEY/GOOGLE_API_KEY o pasa --api-key.", file=sys.stderr)
+    # Claves API
+    keys_env = os.getenv("GEMINI_API_KEYS") or os.getenv("GEMINI_API_KEY") or ""
+    keys = [k.strip() for k in keys_env.split(",") if k.strip()]
+    if not keys:
+        print("ERROR: Define GEMINI_API_KEYS o GEMINI_API_KEY.", file=sys.stderr)
         sys.exit(2)
 
-    try:
-        count = transform_batch_to_csv(
-            input_txt=args.input,
-            out_csv=args.out,
-            limit=args.limit,
-            model=args.model,
-            max_tokens=args.max_tokens,
-            api_key=api_key,
-        )
-    except Exception as e:
-        print(f"ERROR: {e}", file=sys.stderr)
-        sys.exit(3)
+    ensure_parent(args.out)
+    texts, idxs, all_lines = select_first_nonempty_with_indices(args.input, args.limit)
+    if not texts:
+        print("No hay oraciones que procesar.", file=sys.stderr)
+        sys.exit(0)
 
-    print(f"OK. Filas añadidas: {count}. TXT actualizado y {args.input}.bak creado.")
+    delay = max(60.0 / max(1, args.qpm), 0.0)
+    cfg = make_config(args.model, args.max_tokens)
+
+    out_rows: List[List[str]] = []
+    processed_ok_idxs: List[int] = []
+
+    key_idx = 0
+    client = build_client(keys[key_idx])
+    batch = max(1, args.batch_size)
+
+    groups_texts = list(chunk(texts, batch))
+    groups_idxs  = list(chunk(idxs,  batch))
+
+    if args.only_first_batch:
+        groups_texts = groups_texts[:1]
+        groups_idxs  = groups_idxs[:1]
+
+    had_success = False
+
+    for group_texts, group_idxs in zip(groups_texts, groups_idxs):
+        n = len(group_texts)
+
+        # Instrucción: UNA SOLA LÍNEA, glosas separadas por ". "
+        instr = (
+            "Convierte CADA línea de ENTRADA a LSE escrita (glosa) siguiendo las reglas del sistema. "
+            f"Devuelve UNA SOLA LÍNEA con EXACTAMENTE {n} glosas en el MISMO orden, separadas por '. '. "
+            "No añadas texto extra, ni encabezados, ni numeraciones. "
+            "No utilices puntos dentro de cada glosa (solo separadores). "
+            "Ejemplo de formato: G1. G2. G3.\n"
+            "ENTRADA:\n"
+        )
+        payload = instr + "\n".join(group_texts)
+
+        tries, ok, last_err = 0, False, None
+        while tries < 5 and not ok:
+            tries += 1
+            t0 = time.time()
+            try:
+                resp = client.models.generate_content(
+                    model=args.model,
+                    contents=payload,
+                    config=cfg,
+                )
+                raw = extract_text(resp)
+
+                # === 1) IMPRIME PRIMERO LA RESPUESTA CRUDA EN PANTALLA ===
+                # (sin adornos, tal cual llega)
+                print(raw, flush=True)
+
+                # === 2) Parseo por puntos ===
+                outs = split_by_periods(raw, expected=n)
+
+                if len(outs) != n:
+                    cand = (getattr(resp, "candidates", None) or [None])[0]
+                    fr = getattr(cand, "finish_reason", None)
+                    raise RuntimeError(f"Conteo salida={len(outs)} != entrada={n} (finish_reason={fr})")
+
+                # === 3) Guardar CSV y marcar procesadas ===
+                for src_line, tgt_line in zip(group_texts, outs):
+                    out_rows.append([src_line, " ".join(tgt_line.split())])
+                processed_ok_idxs.extend(group_idxs)
+                ok = True
+
+            except Exception as e:
+                last_err = e
+                if len(keys) > 1:
+                    key_idx = (key_idx + 1) % len(keys)
+                    client = build_client(keys[key_idx])
+                time.sleep(min(2 ** tries, 30))
+
+            # Espaciado por QPM
+            elapsed = time.time() - t0
+            time.sleep(max(0.0, delay - elapsed))
+
+        if not ok:
+            sys.stderr.write(f"Fallo lote ({n}): {last_err}\n")
+        else:
+            had_success = True
+
+    # CSV
+    append_rows_csv(args.out, out_rows)
+
+    if not had_success:
+        print("Ningún lote se procesó con éxito.", file=sys.stderr)
+        sys.exit(4)
+
+    if args.consume and processed_ok_idxs:
+        try:
+            rewrite_file_without_indices(
+                args.input,
+                all_lines,
+                processed_ok_idxs,
+                create_backup=not args.no_backup
+            )
+            print(f"TXT actualizado: eliminadas {len(processed_ok_idxs)} líneas OK. Copia en {args.input}.bak", file=sys.stderr)
+        except Exception as e:
+            print(f"ERROR al reescribir el TXT: {e}", file=sys.stderr)
+            sys.exit(3)
+
+    print(f"Listo. Filas añadidas: {len(out_rows)}", file=sys.stderr)
 
 if __name__ == "__main__":
     main()

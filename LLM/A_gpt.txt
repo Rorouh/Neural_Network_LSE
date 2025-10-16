@@ -1,0 +1,3348 @@
+María compra pan.
+María lee un libro.
+María estudia matemáticas.
+María prepara café.
+María escribe un correo.
+María observa las estrellas.
+María organiza la reunión.
+María visita el museo.
+María limpia la cocina.
+María repara el ordenador.
+Luis compra pan.
+Luis lee un libro.
+Luis estudia matemáticas.
+Luis prepara café.
+Luis escribe un correo.
+Luis observa las estrellas.
+Luis organiza la reunión.
+Luis visita el museo.
+Luis limpia la cocina.
+Luis repara el ordenador.
+Ana compra pan.
+Ana lee un libro.
+Ana estudia matemáticas.
+Ana prepara café.
+Ana escribe un correo.
+Ana observa las estrellas.
+Ana organiza la reunión.
+Ana visita el museo.
+Ana limpia la cocina.
+Ana repara el ordenador.
+Javier compra pan.
+Javier lee un libro.
+Javier estudia matemáticas.
+Javier prepara café.
+Javier escribe un correo.
+Javier observa las estrellas.
+Javier organiza la reunión.
+Javier visita el museo.
+Javier limpia la cocina.
+Javier repara el ordenador.
+Lucía compra pan.
+Lucía lee un libro.
+Lucía estudia matemáticas.
+Lucía prepara café.
+Lucía escribe un correo.
+Lucía observa las estrellas.
+Lucía organiza la reunión.
+Lucía visita el museo.
+Lucía limpia la cocina.
+Lucía repara el ordenador.
+Carlos compra pan.
+Carlos lee un libro.
+Carlos estudia matemáticas.
+Carlos prepara café.
+Carlos escribe un correo.
+Carlos observa las estrellas.
+Carlos organiza la reunión.
+Carlos visita el museo.
+Carlos limpia la cocina.
+Carlos repara el ordenador.
+El profesor compra pan.
+El profesor lee un libro.
+El profesor estudia matemáticas.
+El profesor prepara café.
+El profesor escribe un correo.
+El profesor observa las estrellas.
+El profesor organiza la reunión.
+El profesor visita el museo.
+El profesor limpia la cocina.
+El profesor repara el ordenador.
+Mi hermana compra pan.
+Mi hermana lee un libro.
+Mi hermana estudia matemáticas.
+Mi hermana prepara café.
+Mi hermana escribe un correo.
+Mi hermana observa las estrellas.
+Mi hermana organiza la reunión.
+Mi hermana visita el museo.
+Mi hermana limpia la cocina.
+Mi hermana repara el ordenador.
+El equipo compra pan.
+El equipo lee un libro.
+El equipo estudia matemáticas.
+El equipo prepara café.
+El equipo escribe un correo.
+El equipo observa las estrellas.
+El equipo organiza la reunión.
+El equipo visita el museo.
+El equipo limpia la cocina.
+El equipo repara el ordenador.
+La empresa compra pan.
+La empresa lee un libro.
+La empresa estudia matemáticas.
+La empresa prepara café.
+La empresa escribe un correo.
+La empresa observa las estrellas.
+La empresa organiza la reunión.
+La empresa visita el museo.
+La empresa limpia la cocina.
+La empresa repara el ordenador.
+El médico compra pan.
+El médico lee un libro.
+El médico estudia matemáticas.
+El médico prepara café.
+El médico escribe un correo.
+El médico observa las estrellas.
+El médico organiza la reunión.
+El médico visita el museo.
+El médico limpia la cocina.
+El médico repara el ordenador.
+La vecina compra pan.
+La vecina lee un libro.
+La vecina estudia matemáticas.
+La vecina prepara café.
+La vecina escribe un correo.
+La vecina observa las estrellas.
+La vecina organiza la reunión.
+La vecina visita el museo.
+La vecina limpia la cocina.
+La vecina repara el ordenador.
+El alumno compra pan.
+El alumno lee un libro.
+El alumno estudia matemáticas.
+El alumno prepara café.
+El alumno escribe un correo.
+El alumno observa las estrellas.
+El alumno organiza la reunión.
+El alumno visita el museo.
+El alumno limpia la cocina.
+El alumno repara el ordenador.
+Mi padre compra pan.
+Mi padre lee un libro.
+Mi padre estudia matemáticas.
+Mi padre prepara café.
+Mi padre escribe un correo.
+Mi padre observa las estrellas.
+Mi padre organiza la reunión.
+Mi padre visita el museo.
+Mi padre limpia la cocina.
+Mi padre repara el ordenador.
+La directora compra pan.
+La directora lee un libro.
+La directora estudia matemáticas.
+La directora prepara café.
+La directora escribe un correo.
+La directora observa las estrellas.
+La directora organiza la reunión.
+La directora visita el museo.
+La directora limpia la cocina.
+La directora repara el ordenador.
+El escritor compra pan.
+El escritor lee un libro.
+El escritor estudia matemáticas.
+El escritor prepara café.
+El escritor escribe un correo.
+El escritor observa las estrellas.
+El escritor organiza la reunión.
+El escritor visita el museo.
+El escritor limpia la cocina.
+El escritor repara el ordenador.
+El chef compra pan.
+El chef lee un libro.
+El chef estudia matemáticas.
+El chef prepara café.
+El chef escribe un correo.
+El chef observa las estrellas.
+El chef organiza la reunión.
+El chef visita el museo.
+El chef limpia la cocina.
+El chef repara el ordenador.
+La doctora compra pan.
+La doctora lee un libro.
+La doctora estudia matemáticas.
+La doctora prepara café.
+La doctora escribe un correo.
+La doctora observa las estrellas.
+La doctora organiza la reunión.
+La doctora visita el museo.
+La doctora limpia la cocina.
+La doctora repara el ordenador.
+Mi amigo compra pan.
+Mi amigo lee un libro.
+Mi amigo estudia matemáticas.
+Mi amigo prepara café.
+Mi amigo escribe un correo.
+Mi amigo observa las estrellas.
+Mi amigo organiza la reunión.
+Mi amigo visita el museo.
+Mi amigo limpia la cocina.
+Mi amigo repara el ordenador.
+El grupo compra pan.
+El grupo lee un libro.
+El grupo estudia matemáticas.
+El grupo prepara café.
+El grupo escribe un correo.
+El grupo observa las estrellas.
+El grupo organiza la reunión.
+El grupo visita el museo.
+El grupo limpia la cocina.
+El grupo repara el ordenador.
+Mi tía compra pan.
+Mi tía lee un libro.
+Mi tía estudia matemáticas.
+Mi tía prepara café.
+Mi tía escribe un correo.
+Mi tía observa las estrellas.
+Mi tía organiza la reunión.
+Mi tía visita el museo.
+Mi tía limpia la cocina.
+Mi tía repara el ordenador.
+El jardinero compra pan.
+El jardinero lee un libro.
+El jardinero estudia matemáticas.
+El jardinero prepara café.
+El jardinero escribe un correo.
+El jardinero observa las estrellas.
+El jardinero organiza la reunión.
+El jardinero visita el museo.
+El jardinero limpia la cocina.
+El jardinero repara el ordenador.
+La entrenadora compra pan.
+La entrenadora lee un libro.
+La entrenadora estudia matemáticas.
+La entrenadora prepara café.
+La entrenadora escribe un correo.
+La entrenadora observa las estrellas.
+La entrenadora organiza la reunión.
+La entrenadora visita el museo.
+La entrenadora limpia la cocina.
+La entrenadora repara el ordenador.
+El técnico compra pan.
+El técnico lee un libro.
+El técnico estudia matemáticas.
+El técnico prepara café.
+El técnico escribe un correo.
+El técnico observa las estrellas.
+El técnico organiza la reunión.
+El técnico visita el museo.
+El técnico limpia la cocina.
+El técnico repara el ordenador.
+La científica compra pan.
+La científica lee un libro.
+La científica estudia matemáticas.
+La científica prepara café.
+La científica escribe un correo.
+La científica observa las estrellas.
+La científica organiza la reunión.
+La científica visita el museo.
+La científica limpia la cocina.
+La científica repara el ordenador.
+El estudiante compra pan.
+El estudiante lee un libro.
+El estudiante estudia matemáticas.
+El estudiante prepara café.
+El estudiante escribe un correo.
+El estudiante observa las estrellas.
+El estudiante organiza la reunión.
+El estudiante visita el museo.
+El estudiante limpia la cocina.
+El estudiante repara el ordenador.
+La cantante compra pan.
+La cantante lee un libro.
+La cantante estudia matemáticas.
+La cantante prepara café.
+La cantante escribe un correo.
+La cantante observa las estrellas.
+La cantante organiza la reunión.
+La cantante visita el museo.
+La cantante limpia la cocina.
+La cantante repara el ordenador.
+El conductor compra pan.
+El conductor lee un libro.
+El conductor estudia matemáticas.
+El conductor prepara café.
+El conductor escribe un correo.
+El conductor observa las estrellas.
+El conductor organiza la reunión.
+El conductor visita el museo.
+El conductor limpia la cocina.
+El conductor repara el ordenador.
+La fotógrafa compra pan.
+La fotógrafa lee un libro.
+La fotógrafa estudia matemáticas.
+La fotógrafa prepara café.
+La fotógrafa escribe un correo.
+La fotógrafa observa las estrellas.
+La fotógrafa organiza la reunión.
+La fotógrafa visita el museo.
+La fotógrafa limpia la cocina.
+La fotógrafa repara el ordenador.
+El atleta compra pan.
+El atleta lee un libro.
+El atleta estudia matemáticas.
+El atleta prepara café.
+El atleta escribe un correo.
+El atleta observa las estrellas.
+El atleta organiza la reunión.
+El atleta visita el museo.
+El atleta limpia la cocina.
+El atleta repara el ordenador.
+María no compra pan.
+Luis no lee el libro.
+Ana no estudia matemáticas.
+Javier no prepara café.
+Lucía no escribe un correo.
+Carlos no observa las estrellas.
+El profesor no organiza la reunión.
+Mi hermana no visita el museo.
+El equipo no limpia la cocina.
+La empresa no repara el ordenador.
+El médico no compra medicinas.
+La vecina no cocina arroz.
+El alumno no toca la guitarra.
+Mi padre no enseña historia.
+La directora no pinta un cuadro.
+El escritor no graba un vídeo.
+El chef no mide la temperatura.
+La doctora no planea el viaje.
+Mi amigo no guarda los archivos.
+El grupo no actualiza la web.
+María no canta canciones.
+Luis no mira la televisión.
+Ana no bebe agua.
+Javier no abre la ventana.
+Lucía no conduce el coche.
+Carlos no compra fruta.
+El profesor no lee el periódico.
+Mi hermana no pinta paredes.
+El equipo no entrena hoy.
+La empresa no produce mucho.
+El médico no trabaja los lunes.
+La vecina no estudia inglés.
+El alumno no hace deporte.
+Mi padre no cocina carne.
+La directora no prepara informes.
+El escritor no firma libros.
+El chef no corta verduras.
+La doctora no viaja mucho.
+Mi amigo no usa el ordenador.
+El grupo no canta bien.
+María no juega al fútbol.
+Luis no toma café.
+Ana no sale a correr.
+Javier no limpia el coche.
+Lucía no visita a su abuela.
+Carlos no escribe cartas.
+El profesor no escucha música.
+Mi hermana no trabaja hoy.
+El equipo no gana partidos.
+La empresa no abre domingos.
+El médico no descansa suficiente.
+La vecina no compra flores.
+El alumno no estudia física.
+Mi padre no arregla el jardín.
+La directora no contesta correos.
+El escritor no usa lápiz.
+El chef no prueba la sopa.
+La doctora no duerme bien.
+Mi amigo no tiene coche.
+El grupo no practica mucho.
+María no reza nunca.
+Luis no corre rápido.
+Ana no ayuda a su madre.
+Javier no compra regalos.
+Lucía no escucha noticias.
+Carlos no visita a su tío.
+El profesor no enseña música.
+Mi hermana no cocina dulces.
+El equipo no viaja a Madrid.
+La empresa no paga a tiempo.
+El médico no revisa pacientes.
+La vecina no lava la ropa.
+El alumno no lee revistas.
+Mi padre no ve películas.
+La directora no asiste a reuniones.
+El escritor no escribe poesía.
+El chef no prepara postres.
+La doctora no revisa informes.
+Mi amigo no abre su correo.
+El grupo no practica inglés.
+María no canta bien.
+Luis no cocina pasta.
+Ana no limpia la casa.
+Javier no juega ajedrez.
+Lucía no estudia química.
+Carlos no pinta cuadros.
+El profesor no viaja mucho.
+Mi hermana no usa redes sociales.
+El equipo no entrena por lluvia.
+La empresa no contrata empleados.
+El médico no llama a los pacientes.
+La vecina no barre la entrada.
+El alumno no participa en clase.
+Mi padre no sale temprano.
+La directora no organiza el evento.
+El escritor no firma autógrafos.
+El chef no prepara desayuno.
+La doctora no contesta llamadas.
+Mi amigo no visita museos.
+El grupo no ensaya canciones.
+María no estudia hoy.
+Luis no compra leche.
+Ana no pinta murales.
+Javier no observa aves.
+Lucía no abre la puerta.
+Carlos no limpia su cuarto.
+El profesor no revisa exámenes.
+Mi hermana no cocina pescado.
+El equipo no gana torneos.
+La empresa no produce suficiente.
+El médico no duerme bien.
+La vecina no mira la televisión.
+El alumno no hace ejercicios.
+Mi padre no arregla la bici.
+La directora no escribe informes.
+El escritor no lee novelas.
+El chef no corta pan.
+La doctora no revisa pacientes.
+Mi amigo no compra comida.
+El grupo no practica deporte.
+María no canta canciones.
+Luis no viaja hoy.
+Ana no limpia la cocina.
+Javier no prepara el desayuno.
+Lucía no escribe mensajes.
+Carlos no abre el correo.
+El profesor no enseña biología.
+Mi hermana no trabaja esta semana.
+El equipo no juega mañana.
+La empresa no abre en agosto.
+El médico no consulta hoy.
+La vecina no recoge cartas.
+El alumno no hace tareas.
+Mi padre no arregla el coche.
+La directora no visita la escuela.
+El escritor no publica novelas.
+El chef no fríe patatas.
+La doctora no examina pacientes.
+Mi amigo no responde mensajes.
+El grupo no viaja hoy.
+María no compra flores.
+Luis no canta nada.
+Ana no ve televisión.
+Javier no lee noticias.
+Lucía no trabaja ahora.
+Carlos no pinta nada.
+El profesor no revisa apuntes.
+Mi hermana no usa móvil.
+El equipo no gana hoy.
+La empresa no entrega pedidos.
+El médico no atiende urgencias.
+La vecina no pasea al perro.
+El alumno no escucha la lección.
+Mi padre no bebe vino.
+La directora no planifica actividades.
+El escritor no termina su libro.
+El chef no corta frutas.
+La doctora no toma café.
+Mi amigo no abre la ventana.
+El grupo no ensaya hoy.
+María no estudia francés.
+Luis no cocina sopa.
+Ana no pinta retratos.
+Javier no trabaja hoy.
+Lucía no estudia biología.
+Carlos no repara el ordenador.
+El profesor no revisa tareas.
+Mi hermana no visita a su amiga.
+El equipo no entrena bien.
+La empresa no paga salarios.
+El médico no opera hoy.
+La vecina no recoge basura.
+El alumno no participa hoy.
+Mi padre no arregla el reloj.
+La directora no asiste al acto.
+El escritor no corrige textos.
+El chef no prueba el postre.
+La doctora no revisa informes.
+Mi amigo no limpia su casa.
+El grupo no canta ahora.
+María no pinta flores.
+Luis no lee periódicos.
+Ana no viaja este mes.
+Javier no estudia historia.
+Lucía no prepara la cena.
+Carlos no limpia el coche.
+El profesor no enseña geografía.
+Mi hermana no cocina pan.
+El equipo no gana competiciones.
+La empresa no contrata gente.
+El médico no atiende consultas.
+La vecina no abre la puerta.
+El alumno no entrega tareas.
+Mi padre no compra regalos.
+La directora no visita oficinas.
+El escritor no presenta su libro.
+El chef no cocina carne.
+La doctora no examina niños.
+Mi amigo no toca guitarra.
+El grupo no practica baile.
+María no limpia su habitación.
+Luis no estudia física.
+Ana no cocina pasta.
+Javier no lee novelas.
+Lucía no compra frutas.
+Carlos no repara nada.
+El profesor no califica exámenes.
+Mi hermana no usa ordenador.
+El equipo no entrena fuerte.
+La empresa no produce nada.
+El médico no revisa radiografías.
+La vecina no visita tiendas.
+El alumno no participa en grupo.
+Mi padre no cocina sopa.
+La directora no escribe correos.
+El escritor no lee poesía.
+El chef no corta verduras.
+La doctora no toma té.
+Mi amigo no sale hoy.
+El grupo no canta bien.
+María no compra pan.
+Luis no lee libros.
+Ana no estudia hoy.
+Javier no prepara café.
+Lucía no escribe mensajes.
+Carlos no observa estrellas.
+El profesor no organiza nada.
+Mi hermana no visita museos.
+El equipo no limpia vestuarios.
+La empresa no repara máquinas.
+El médico no trabaja lunes.
+La vecina no cocina.
+El alumno no toca piano.
+Mi padre no enseña nada.
+La directora no pinta.
+El escritor no graba.
+El chef no mide.
+La doctora no planea.
+Mi amigo no guarda nada.
+El grupo no actualiza la web.
+¿María compra pan?
+¿Luis lee el libro?
+¿Ana estudia matemáticas?
+¿Javier prepara café?
+¿Lucía escribe un correo?
+¿Carlos observa las estrellas?
+¿El profesor organiza la reunión?
+¿Mi hermana visita el museo?
+¿El equipo limpia la cocina?
+¿La empresa repara el ordenador?
+¿El médico trabaja hoy?
+¿La vecina cocina arroz?
+¿El alumno toca la guitarra?
+¿Mi padre enseña historia?
+¿La directora pinta un cuadro?
+¿El escritor graba un vídeo?
+¿El chef mide la temperatura?
+¿La doctora planea el viaje?
+¿Mi amigo guarda los archivos?
+¿El grupo actualiza la web?
+¿María canta canciones?
+¿Luis mira la televisión?
+¿Ana bebe agua?
+¿Javier abre la ventana?
+¿Lucía conduce el coche?
+¿Carlos compra fruta?
+¿El profesor lee el periódico?
+¿Mi hermana pinta paredes?
+¿El equipo entrena hoy?
+¿La empresa produce mucho?
+¿El médico trabaja los lunes?
+¿La vecina estudia inglés?
+¿El alumno hace deporte?
+¿Mi padre cocina carne?
+¿La directora prepara informes?
+¿El escritor firma libros?
+¿El chef corta verduras?
+¿La doctora viaja mucho?
+¿Mi amigo usa el ordenador?
+¿El grupo canta bien?
+¿María juega al fútbol?
+¿Luis toma café?
+¿Ana sale a correr?
+¿Javier limpia el coche?
+¿Lucía visita a su abuela?
+¿Carlos escribe cartas?
+¿El profesor escucha música?
+¿Mi hermana trabaja hoy?
+¿El equipo gana partidos?
+¿La empresa abre domingos?
+¿El médico descansa suficiente?
+¿La vecina compra flores?
+¿El alumno estudia física?
+¿Mi padre arregla el jardín?
+¿La directora contesta correos?
+¿El escritor usa lápiz?
+¿El chef prueba la sopa?
+¿La doctora duerme bien?
+¿Mi amigo tiene coche?
+¿El grupo practica mucho?
+¿María reza cada noche?
+¿Luis corre rápido?
+¿Ana ayuda a su madre?
+¿Javier compra regalos?
+¿Lucía escucha noticias?
+¿Carlos visita a su tío?
+¿El profesor enseña música?
+¿Mi hermana cocina dulces?
+¿El equipo viaja a Madrid?
+¿La empresa paga a tiempo?
+¿El médico revisa pacientes?
+¿La vecina lava la ropa?
+¿El alumno lee revistas?
+¿Mi padre ve películas?
+¿La directora asiste a reuniones?
+¿El escritor escribe poesía?
+¿El chef prepara postres?
+¿La doctora revisa informes?
+¿Mi amigo abre su correo?
+¿El grupo practica inglés?
+¿María canta bien?
+¿Luis cocina pasta?
+¿Ana limpia la casa?
+¿Javier juega ajedrez?
+¿Lucía estudia química?
+¿Carlos pinta cuadros?
+¿El profesor viaja mucho?
+¿Mi hermana usa redes sociales?
+¿El equipo entrena por lluvia?
+¿La empresa contrata empleados?
+¿El médico llama a los pacientes?
+¿La vecina barre la entrada?
+¿El alumno participa en clase?
+¿Mi padre sale temprano?
+¿La directora organiza el evento?
+¿El escritor firma autógrafos?
+¿El chef prepara desayuno?
+¿La doctora contesta llamadas?
+¿Mi amigo visita museos?
+¿El grupo ensaya canciones?
+¿María estudia hoy?
+¿Luis compra leche?
+¿Ana pinta murales?
+¿Javier observa aves?
+¿Lucía abre la puerta?
+¿Carlos limpia su cuarto?
+¿El profesor revisa exámenes?
+¿Mi hermana cocina pescado?
+¿El equipo gana torneos?
+¿La empresa produce suficiente?
+¿El médico duerme bien?
+¿La vecina mira la televisión?
+¿El alumno hace ejercicios?
+¿Mi padre arregla la bici?
+¿La directora escribe informes?
+¿El escritor lee novelas?
+¿El chef corta pan?
+¿La doctora revisa pacientes?
+¿Mi amigo compra comida?
+¿El grupo practica deporte?
+¿María canta canciones?
+¿Luis viaja hoy?
+¿Ana limpia la cocina?
+¿Javier prepara el desayuno?
+¿Lucía escribe mensajes?
+¿Carlos abre el correo?
+¿El profesor enseña biología?
+¿Mi hermana trabaja esta semana?
+¿El equipo juega mañana?
+¿La empresa abre en agosto?
+¿El médico consulta hoy?
+¿La vecina recoge cartas?
+¿El alumno hace tareas?
+¿Mi padre arregla el coche?
+¿La directora visita la escuela?
+¿El escritor publica novelas?
+¿El chef fríe patatas?
+¿La doctora examina pacientes?
+¿Mi amigo responde mensajes?
+¿El grupo viaja hoy?
+¿María compra flores?
+¿Luis canta algo?
+¿Ana ve televisión?
+¿Javier lee noticias?
+¿Lucía trabaja ahora?
+¿Carlos pinta algo?
+¿El profesor revisa apuntes?
+¿Mi hermana usa móvil?
+¿El equipo gana hoy?
+¿La empresa entrega pedidos?
+¿El médico atiende urgencias?
+¿La vecina pasea al perro?
+¿El alumno escucha la lección?
+¿Mi padre bebe vino?
+¿La directora planifica actividades?
+¿El escritor termina su libro?
+¿El chef corta frutas?
+¿La doctora toma café?
+¿Mi amigo abre la ventana?
+¿El grupo ensaya hoy?
+¿María estudia francés?
+¿Luis cocina sopa?
+¿Ana pinta retratos?
+¿Javier trabaja hoy?
+¿Lucía estudia biología?
+¿Carlos repara el ordenador?
+¿El profesor revisa tareas?
+¿Mi hermana visita a su amiga?
+¿El equipo entrena bien?
+¿La empresa paga salarios?
+¿El médico opera hoy?
+¿La vecina recoge basura?
+¿El alumno participa hoy?
+¿Mi padre arregla el reloj?
+¿La directora asiste al acto?
+¿El escritor corrige textos?
+¿El chef prueba el postre?
+¿La doctora revisa informes?
+¿Mi amigo limpia su casa?
+¿El grupo canta ahora?
+¿María pinta flores?
+¿Luis lee periódicos?
+¿Ana viaja este mes?
+¿Javier estudia historia?
+¿Lucía prepara la cena?
+¿Carlos limpia el coche?
+¿El profesor enseña geografía?
+¿Mi hermana cocina pan?
+¿El equipo gana competiciones?
+¿La empresa contrata gente?
+¿El médico atiende consultas?
+¿La vecina abre la puerta?
+¿El alumno entrega tareas?
+¿Mi padre compra regalos?
+¿La directora visita oficinas?
+¿El escritor presenta su libro?
+¿El chef cocina carne?
+¿La doctora examina niños?
+¿Mi amigo toca guitarra?
+¿El grupo practica baile?
+¿María limpia su habitación?
+¿Luis estudia física?
+¿Ana cocina pasta?
+¿Javier lee novelas?
+¿Lucía compra frutas?
+¿Carlos repara algo?
+¿El profesor califica exámenes?
+¿Mi hermana usa ordenador?
+¿El equipo entrena fuerte?
+¿La empresa produce algo?
+¿El médico revisa radiografías?
+¿La vecina visita tiendas?
+¿El alumno participa en grupo?
+¿Mi padre cocina sopa?
+¿La directora escribe correos?
+¿El escritor lee poesía?
+¿El chef corta verduras?
+¿La doctora toma té?
+¿Mi amigo sale hoy?
+¿El grupo canta bien?
+¿María compra pan hoy?
+¿Luis lee libros por la tarde?
+¿Ana estudia mañana?
+¿Javier preparó café ayer?
+¿Lucía escribió el correo anoche?
+¿Carlos observó las estrellas el lunes?
+¿El profesor organizó la reunión ayer?
+¿Mi hermana visitará el museo mañana?
+¿El equipo limpiará la cocina después del partido?
+¿La empresa reparará el ordenador esta semana?
+¿El médico trabajó el domingo pasado?
+¿La vecina cocinó arroz ayer?
+¿El alumno tocó la guitarra el viernes?
+¿Mi padre enseñará historia el lunes?
+¿La directora pintará el cuadro mañana?
+¿El escritor grabará un vídeo la semana que viene?
+¿El chef medirá la temperatura más tarde?
+¿La doctora planeó el viaje ayer?
+¿Mi amigo guardará los archivos mañana?
+¿El grupo actualizará la web hoy?
+María compra pan ayer.
+Luis lee un libro por la mañana.
+Ana estudia matemáticas los lunes.
+Javier prepara café cada día.
+Lucía escribe un correo esta tarde.
+Carlos observa las estrellas anoche.
+El profesor organiza la reunión el lunes pasado.
+Mi hermana visita el museo el domingo.
+El equipo limpia la cocina cada viernes.
+La empresa repara el ordenador esta semana.
+El médico atiende pacientes a las ocho.
+La vecina cocina arroz los domingos.
+El alumno toca la guitarra los sábados.
+Mi padre enseña historia el lunes.
+La directora pinta un cuadro cada verano.
+El escritor graba un vídeo el martes pasado.
+El chef mide la temperatura todos los días.
+La doctora planea el viaje mañana por la tarde.
+Mi amigo guarda los archivos cada mañana.
+El grupo actualiza la web los lunes.
+María me compra flores cada domingo.
+Luis le escribe una carta a su madre todos los meses.
+Ana nos prepara la comida los sábados.
+Javier lo arregla siempre sin ayuda.
+Lucía les enseña canciones a los niños.
+Carlos me llama cada noche.
+El profesor les explica el tema hoy.
+Mi hermana le regala dulces a su amiga.
+El equipo lo entrena con esfuerzo.
+La empresa nos ofrece descuentos este mes.
+El médico me revisa la vista los jueves.
+La vecina le presta libros a Lucía.
+El alumno lo repite sin error.
+Mi padre me ayuda en casa.
+La directora les envía los correos.
+El escritor lo publica en la web.
+El chef me prepara café temprano.
+La doctora le recomienda descanso al paciente.
+Mi amigo lo guarda todo.
+El grupo les canta villancicos.
+María cocina arroz y prepara la mesa.
+Luis estudia matemáticas y escucha música.
+Ana escribe cartas y pinta flores.
+Javier prepara café y lo sirve caliente.
+Lucía canta y baila al mismo tiempo.
+Carlos lee un libro pero no termina el capítulo.
+El profesor enseña y corrige a la vez.
+Mi hermana trabaja y estudia.
+El equipo entrena y gana partidos.
+La empresa produce y vende ordenadores.
+El médico cura pero descansa poco.
+La vecina limpia y cocina.
+El alumno estudia pero se distrae.
+Mi padre cocina y arregla cosas.
+La directora organiza reuniones y revisa informes.
+El escritor escribe y edita sus textos.
+El chef prepara postres y decora platos.
+La doctora examina y aconseja pacientes.
+Mi amigo ayuda y sonríe.
+El grupo canta pero no baila.
+María compra pan porque tiene hambre.
+Luis estudia porque mañana hay examen.
+Ana escribe una carta que guarda después.
+Javier prepara café cuando llega a casa.
+Lucía canta porque está feliz.
+Carlos observa las estrellas cuando anochece.
+El profesor organiza la reunión que faltaba.
+Mi hermana visita el museo porque le gusta el arte.
+El equipo entrena cuando puede.
+La empresa repara equipos que se rompen.
+El médico atiende pacientes que necesitan ayuda.
+La vecina cocina porque tiene invitados.
+El alumno estudia cuando hay silencio.
+Mi padre arregla cosas que se rompen.
+La directora revisa informes porque es responsable.
+El escritor escribe cuando está inspirado.
+El chef prepara comida que todos disfrutan.
+La doctora planea viajes cuando descansa.
+Mi amigo guarda fotos que le gustan.
+El grupo canta cuando hay conciertos.
+María compró pan ayer.
+Luis leyó un libro el domingo.
+Ana estudió matemáticas anoche.
+Javier preparó café temprano.
+Lucía escribió un correo ayer.
+Carlos observó las estrellas la semana pasada.
+El profesor organizó la reunión el lunes.
+Mi hermana visitó el museo el sábado.
+El equipo limpió la cocina después del partido.
+La empresa reparó el ordenador ayer.
+El médico atendió pacientes esta mañana.
+La vecina cocinó arroz anoche.
+El alumno tocó la guitarra en clase.
+Mi padre enseñó historia en la universidad.
+La directora pintó un cuadro el mes pasado.
+El escritor grabó un vídeo el viernes.
+El chef midió la temperatura ayer.
+La doctora planeó el viaje el martes.
+Mi amigo guardó los archivos ayer.
+El grupo actualizó la web esta mañana.
+María comprará pan mañana.
+Luis leerá un libro la semana que viene.
+Ana estudiará matemáticas el lunes.
+Javier preparará café temprano.
+Lucía escribirá un correo mañana.
+Carlos observará las estrellas esta noche.
+El profesor organizará la reunión mañana.
+Mi hermana visitará el museo el domingo.
+El equipo limpiará la cocina mañana.
+La empresa reparará el ordenador la próxima semana.
+El médico atenderá pacientes el viernes.
+La vecina cocinará arroz mañana.
+El alumno tocará la guitarra en el evento.
+Mi padre enseñará historia el lunes.
+La directora pintará un cuadro el sábado.
+El escritor grabará un vídeo la semana que viene.
+El chef medirá la temperatura mañana.
+La doctora planea un viaje nuevo.
+Mi amigo guardará los archivos luego.
+El grupo actualizará la web más tarde.
+Compro fruta los sábados.
+Leo un libro cada noche.
+Estudio inglés todas las mañanas.
+Preparo café al despertar.
+Escribo correos en la oficina.
+Observo las estrellas cuando puedo.
+Organizo mi agenda los lunes.
+Visito museos cada mes.
+Limpio la casa los domingos.
+Reparo el ordenador en casa.
+Cocino pasta a menudo.
+Aprendo idiomas con amigos.
+Enseño a mis primos los números.
+Pinto cuadros por diversión.
+Grabo vídeos en vacaciones.
+Toco guitarra en casa.
+Investigo temas interesantes.
+Mido ingredientes para cocinar.
+Gestiono proyectos en línea.
+Planeo mis viajes con calma.
+María cocina sopa en Madrid.
+Luis estudia en la universidad de Granada.
+Ana trabaja en la oficina central.
+Javier vive en Casa Marta.
+Lucía pasea en Parque del Retiro.
+Carlos estudia en Instituto Granada.
+El profesor enseña en Universidad Complutense.
+Mi hermana vive en Bilbao.
+El equipo entrena en Estadio Nuevo Los Cármenes.
+La empresa produce en Sevilla.
+El médico trabaja en Hospital Virgen del Rocío.
+La vecina vive en Plaza Mayor.
+El alumno estudia en Madrid.
+Mi padre trabaja en casa.
+La directora enseña en Museo Reina Sofía.
+El escritor escribe en Oficina Central.
+El chef cocina en Casa Ana.
+La doctora trabaja en Hospital Central.
+Mi amigo estudia en la biblioteca.
+El grupo canta en Granada.
+Compro pan en la tienda.
+Leo libros en casa.
+Estudio inglés en Madrid.
+Preparo café en la cocina.
+Escribo mensajes en la oficina.
+Observo estrellas en el campo.
+Organizo tareas en el ordenador.
+Visito museos en vacaciones.
+Limpio la casa en la mañana.
+Reparo el coche en el taller.
+Cocino arroz en la cocina.
+Aprendo historia en el instituto.
+Enseño español en la escuela.
+Pinto flores en el jardín.
+Grabo canciones en el estudio.
+Toco guitarra en el parque.
+Investigo temas en internet.
+Mido la distancia en el mapa.
+Gestiono proyectos en la empresa.
+Planeo viajes en casa.
+María compra fruta en el mercado.
+Luis estudia matemáticas los miércoles.
+Ana prepara café cada mañana.
+Javier escribe un correo en la oficina.
+Lucía observa las estrellas esta noche.
+Carlos visita el museo el domingo.
+El profesor organiza la clase en el instituto.
+Mi hermana limpia la cocina los sábados.
+El equipo entrena en el campo de fútbol.
+La empresa produce ordenadores en Sevilla.
+El médico atiende pacientes en el hospital.
+La vecina cocina arroz todos los días.
+El alumno toca la guitarra después de comer.
+Mi padre arregla la bicicleta en el garaje.
+La directora revisa informes en su despacho.
+El escritor graba vídeos en el estudio.
+El chef prepara postres en la cocina.
+La doctora examina pacientes a las ocho.
+Mi amigo guarda archivos en el ordenador.
+El grupo canta en el teatro cada viernes.
+María me compra flores.
+Luis le escribe cartas a su madre.
+Ana nos prepara la cena.
+Javier lo arregla sin ayuda.
+Lucía les enseña canciones.
+Carlos me llama todos los días.
+El profesor les explica los temas.
+Mi hermana le regala dulces a su amiga.
+El equipo lo entrena con esfuerzo.
+La empresa nos ofrece descuentos.
+El médico me revisa la vista.
+La vecina le presta libros a Lucía.
+El alumno lo repite sin error.
+Mi padre me ayuda en casa.
+La directora les envía correos.
+El escritor lo publica en la web.
+El chef me prepara café.
+La doctora le recomienda descanso.
+Mi amigo lo guarda todo.
+El grupo les canta villancicos.
+Compro pan cada día.
+Leo novelas en la biblioteca.
+Estudio inglés por la tarde.
+Preparo café después del desayuno.
+Escribo correos en el trabajo.
+Observo estrellas desde el jardín.
+Organizo tareas en el ordenador.
+Visito museos durante el verano.
+Limpio la casa los domingos.
+Reparo el coche en el taller.
+Cocino arroz con verduras.
+Aprendo historia en la escuela.
+Enseño a mi sobrino matemáticas.
+Pinto cuadros en el taller.
+Grabo canciones en casa.
+Toco guitarra por las noches.
+Investigo temas interesantes.
+Mido ingredientes para la receta.
+Gestiono proyectos nuevos.
+Planeo viajes con mis amigos.
+María estudia porque quiere aprobar.
+Luis escribe cuando está tranquilo.
+Ana cocina porque le gusta.
+Javier trabaja cuando tiene tiempo.
+Lucía canta porque es feliz.
+Carlos observa las estrellas que brillan.
+El profesor explica temas que motivan.
+Mi hermana visita lugares que ama.
+El equipo entrena porque quiere ganar.
+La empresa produce porque hay demanda.
+El médico atiende porque es su vocación.
+La vecina limpia cuando hay polvo.
+El alumno estudia porque quiere aprender.
+Mi padre arregla lo que se rompe.
+La directora organiza lo necesario.
+El escritor escribe cuando tiene inspiración.
+El chef cocina porque disfruta.
+La doctora planea viajes cuando puede.
+Mi amigo guarda recuerdos importantes.
+El grupo canta cuando hay conciertos.
+María compra pan en la tienda.
+Luis lee un libro en el parque.
+Ana estudia historia en el instituto.
+Javier prepara café en la oficina.
+Lucía escribe mensajes en su habitación.
+Carlos observa pájaros en el campo.
+El profesor organiza clases en la escuela.
+Mi hermana limpia su habitación.
+El equipo entrena en Granada.
+La empresa repara máquinas en Madrid.
+El médico trabaja en Hospital Central.
+La vecina cocina en su casa.
+El alumno toca guitarra en la escuela.
+Mi padre enseña historia en la universidad.
+La directora revisa documentos en el despacho.
+El escritor graba un vídeo en Casa Marta.
+El chef prepara arroz en la cocina.
+La doctora examina pacientes en Sevilla.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el teatro.
+María compró flores ayer.
+Luis leyó un libro el domingo pasado.
+Ana estudió química la semana pasada.
+Javier preparó café temprano.
+Lucía escribió un correo anoche.
+Carlos observó estrellas el sábado.
+El profesor organizó la reunión el lunes.
+Mi hermana visitó el museo el domingo.
+El equipo limpió el vestuario ayer.
+La empresa reparó el ordenador esta mañana.
+El médico atendió pacientes el martes.
+La vecina cocinó arroz ayer por la tarde.
+El alumno tocó guitarra el viernes.
+Mi padre enseñó historia en la escuela.
+La directora pintó un cuadro en verano.
+El escritor grabó un vídeo el jueves.
+El chef midió la temperatura.
+La doctora planeó el viaje el lunes pasado.
+Mi amigo guardó los archivos.
+El grupo actualizó la web.
+María comprará flores mañana.
+Luis leerá un libro la próxima semana.
+Ana estudiará inglés el lunes.
+Javier preparará café temprano.
+Lucía escribirá correos mañana.
+Carlos observará las estrellas esta noche.
+El profesor organizará la clase el martes.
+Mi hermana visitará el museo el sábado.
+El equipo entrenará mañana.
+La empresa reparará el ordenador.
+El médico atenderá pacientes el viernes.
+La vecina cocinará arroz.
+El alumno tocará la guitarra en clase.
+Mi padre enseñará historia en la universidad.
+La directora pintará un cuadro.
+El escritor grabará un documental.
+El chef medirá ingredientes.
+La doctora planeará un viaje.
+Mi amigo guardará fotos.
+El grupo cantará mañana.
+Compro fruta fresca cada día.
+Leo artículos por la tarde.
+Estudio biología en la biblioteca.
+Preparo café después del almuerzo.
+Escribo mensajes por la noche.
+Observo el cielo desde la ventana.
+Organizo papeles en el escritorio.
+Visito parques los fines de semana.
+Limpio el suelo cada mañana.
+Reparo la lámpara en casa.
+Cocino verduras con arroz.
+Aprendo portugués con vídeos.
+Enseño a niños matemáticas.
+Pinto retratos con acuarela.
+Grabo sonidos en el móvil.
+Toco guitarra en la terraza.
+Investigo sobre tecnología.
+Mido la distancia con regla.
+Gestiono archivos en la nube.
+Planeo vacaciones familiares.
+María cocina pan en Madrid.
+Luis estudia en la Universidad de Granada.
+Ana trabaja en la oficina central.
+Javier vive en Barcelona.
+Lucía pasea en el Parque del Retiro.
+Carlos estudia en Instituto Granada.
+El profesor enseña en la Universidad Complutense.
+Mi hermana vive en Bilbao.
+El equipo entrena en Estadio Los Cármenes.
+La empresa produce en Sevilla.
+El médico trabaja en Hospital Virgen del Rocío.
+La vecina vive en Plaza Mayor.
+El alumno estudia en Madrid.
+Mi padre trabaja en casa.
+La directora enseña en Museo Reina Sofía.
+El escritor escribe en Oficina Central.
+El chef cocina en Casa Ana.
+La doctora trabaja en Hospital Central.
+Mi amigo estudia en la biblioteca.
+El grupo canta en Granada.
+María compra fruta porque está madura.
+Luis escribe mensajes cuando tiene tiempo.
+Ana cocina arroz que huele bien.
+Javier prepara café porque está cansado.
+Lucía canta porque hay música.
+Carlos lee cuando está tranquilo.
+El profesor enseña porque le gusta.
+Mi hermana visita cuando puede.
+El equipo juega cuando no llueve.
+La empresa produce cuando hay demanda.
+El médico atiende cuando es necesario.
+La vecina limpia porque quiere.
+El alumno estudia cuando hay silencio.
+Mi padre repara cosas rotas.
+La directora organiza todo con calma.
+El escritor escribe cuando inspira.
+El chef cocina cuando tiene hambre.
+La doctora planea vacaciones.
+Mi amigo guarda recuerdos.
+El grupo canta porque disfruta.
+María lo compra cada semana.
+Luis me llama por teléfono.
+Ana te prepara la comida.
+Javier la invita al cine.
+Lucía le escribe mensajes.
+Carlos nos ayuda con el coche.
+El profesor los guía en clase.
+Mi hermana me regala flores.
+El equipo les entrega trofeos.
+La empresa la envía por correo.
+El médico me receta medicinas.
+La vecina le presta azúcar.
+El alumno la repite bien.
+Mi padre me enseña a conducir.
+La directora le explica las normas.
+El escritor la publica online.
+El chef lo sirve caliente.
+La doctora le toma la presión.
+Mi amigo la guarda en el cajón.
+El grupo las canta en el escenario.
+Compro verduras en la tienda.
+Leo periódicos en casa.
+Estudio historia en la escuela.
+Preparo té en la cocina.
+Escribo cartas en mi escritorio.
+Observo animales en el bosque.
+Organizo documentos en la carpeta.
+Visito playas en verano.
+Limpio cristales en casa.
+Reparo relojes en el taller.
+Cocino sopas con verduras.
+Aprendo francés con canciones.
+Enseño español a extranjeros.
+Pinto paisajes con óleo.
+Grabo vídeos de viajes.
+Toco piano en las tardes.
+Investigo proyectos personales.
+Mido tiempo con cronómetro.
+Gestiono correos cada mañana.
+Planeo reuniones semanales.
+María compra frutas y prepara zumo.
+Luis estudia biología y lee apuntes.
+Ana limpia la casa y ordena el armario.
+Javier prepara café y cocina tostadas.
+Lucía canta y baila.
+Carlos estudia pero se cansa.
+El profesor enseña y corrige exámenes.
+Mi hermana trabaja y cuida niños.
+El equipo entrena y descansa.
+La empresa produce y vende productos.
+El médico opera y revisa pacientes.
+La vecina limpia y cocina.
+El alumno estudia y hace tareas.
+Mi padre cocina y arregla cosas.
+La directora organiza y supervisa.
+El escritor escribe y revisa.
+El chef cocina y sirve.
+La doctora atiende y aconseja.
+Mi amigo trabaja y estudia.
+El grupo canta y baila en escena.
+Lucía prepara café todas las mañanas.
+Luis lee un libro en la biblioteca.
+María estudia historia en la universidad.
+El profesor enseña inglés en el instituto.
+Ana pinta un cuadro en su casa.
+Carlos observa el cielo cada noche.
+Mi hermana limpia la habitación el domingo.
+El médico atiende pacientes en el hospital.
+La empresa repara máquinas nuevas.
+El alumno escribe una carta a su madre.
+Mi padre arregla la bicicleta en el garaje.
+La directora organiza la reunión semanal.
+El grupo canta canciones tradicionales.
+La vecina cocina arroz con verduras.
+El chef prepara la cena para los invitados.
+La doctora examina a los niños.
+El jardinero planta flores en primavera.
+Mi amigo guarda los documentos.
+El escritor redacta su nueva novela.
+El equipo entrena por la tarde.
+Compro pan en la panadería.
+Leo periódicos por la mañana.
+Estudio matemáticas en casa.
+Preparo café antes de trabajar.
+Escribo mensajes en el móvil.
+Observo las estrellas desde el balcón.
+Organizo mis apuntes cada lunes.
+Visito museos durante las vacaciones.
+Limpio la cocina después de cenar.
+Reparo el ordenador en la oficina.
+Cocino pasta los domingos.
+Aprendo idiomas con aplicaciones.
+Enseño español en línea.
+Pinto murales en el barrio.
+Grabo vídeos en el estudio.
+Toco guitarra en el parque.
+Investigo sobre astronomía.
+Mido la distancia con una regla.
+Gestiono tareas en el ordenador.
+Planeo el viaje a Granada.
+María compra fruta porque está fresca.
+Luis estudia porque hay examen.
+Ana prepara café cuando amanece.
+Javier escribe un correo que guarda.
+Lucía canta porque le gusta.
+Carlos observa el cielo cuando hay luna.
+El profesor enseña temas que motivan.
+Mi hermana limpia cuando puede.
+El equipo entrena porque compite mañana.
+La empresa produce cuando hay demanda.
+El médico trabaja porque es su vocación.
+La vecina cocina cuando hay visitas.
+El alumno estudia porque quiere mejorar.
+Mi padre arregla lo que se rompe.
+La directora organiza todo con precisión.
+El escritor escribe cuando tiene inspiración.
+El chef cocina cuando hay clientes.
+La doctora planifica revisiones médicas.
+Mi amigo guarda fotos del viaje.
+El grupo canta cuando hay conciertos.
+María lo compra cada semana.
+Luis me llama cada noche.
+Ana te prepara la cena.
+Javier la invita al cine.
+Lucía le escribe mensajes.
+Carlos nos ayuda con los deberes.
+El profesor los guía en clase.
+Mi hermana me regala flores.
+El equipo les entrega premios.
+La empresa la envía por correo.
+El médico me receta medicinas.
+La vecina le presta azúcar.
+El alumno la repite bien.
+Mi padre me enseña a conducir.
+La directora le explica las normas.
+El escritor la publica en internet.
+El chef lo sirve caliente.
+La doctora le toma la presión.
+Mi amigo la guarda en el cajón.
+El grupo las canta en el escenario.
+María cocina arroz y limpia la cocina.
+Luis estudia inglés y escucha música.
+Ana pinta cuadros y los vende.
+Javier prepara café y ordena la mesa.
+Lucía canta y baila en la fiesta.
+Carlos estudia pero se distrae.
+El profesor enseña y corrige exámenes.
+Mi hermana trabaja y estudia.
+El equipo entrena y descansa.
+La empresa produce y distribuye productos.
+El médico opera y revisa pacientes.
+La vecina limpia y cocina.
+El alumno estudia y hace tareas.
+Mi padre cocina y arregla cosas.
+La directora organiza y supervisa.
+El escritor escribe y revisa textos.
+El chef cocina y sirve platos.
+La doctora atiende y aconseja pacientes.
+Mi amigo trabaja y sonríe.
+El grupo canta y baila en el escenario.
+María compró flores ayer.
+Luis leyó un libro el domingo pasado.
+Ana estudió biología anoche.
+Javier preparó café temprano.
+Lucía escribió un correo esta mañana.
+Carlos observó las estrellas el sábado.
+El profesor organizó la clase el lunes.
+Mi hermana visitó el museo el fin de semana.
+El equipo limpió el vestuario después del partido.
+La empresa reparó el ordenador ayer.
+El médico atendió pacientes el martes.
+La vecina cocinó arroz el jueves.
+El alumno tocó la guitarra el viernes.
+Mi padre enseñó historia en la escuela.
+La directora pintó un cuadro el mes pasado.
+El escritor grabó un vídeo el jueves.
+El chef midió la temperatura.
+La doctora planeó el viaje el lunes.
+Mi amigo guardó los archivos.
+El grupo actualizó la web.
+María comprará pan mañana.
+Luis leerá un libro el sábado.
+Ana estudiará francés la próxima semana.
+Javier preparará café temprano.
+Lucía escribirá un correo mañana.
+Carlos observará las estrellas esta noche.
+El profesor organizará la reunión el martes.
+Mi hermana visitará el museo el domingo.
+El equipo entrenará mañana.
+La empresa reparará el ordenador la próxima semana.
+El médico atenderá pacientes el viernes.
+La vecina cocinará arroz mañana.
+El alumno tocará la guitarra en clase.
+Mi padre enseñará historia el lunes.
+La directora pintará un cuadro el sábado.
+El escritor grabará un documental.
+El chef medirá los ingredientes.
+La doctora planeará un viaje.
+Mi amigo guardará fotos del viaje.
+El grupo cantará mañana en el teatro.
+María cocina en Casa Ana.
+Luis estudia en la Universidad Complutense.
+Ana trabaja en la oficina central.
+Javier vive en Barcelona.
+Lucía pasea en el Parque del Retiro.
+Carlos estudia en Instituto Granada.
+El profesor enseña en la Universidad de Sevilla.
+Mi hermana vive en Bilbao.
+El equipo entrena en Estadio Los Cármenes.
+La empresa produce en Madrid.
+El médico trabaja en Hospital Virgen del Rocío.
+La vecina vive en Plaza Mayor.
+El alumno estudia en Madrid.
+Mi padre trabaja en casa.
+La directora enseña en Museo Reina Sofía.
+El escritor escribe en Oficina Central.
+El chef cocina en Casa Ana.
+La doctora trabaja en Hospital Central.
+Mi amigo estudia en la biblioteca.
+El grupo canta en Granada.
+Compro fruta porque está madura.
+Leo artículos cuando tengo tiempo.
+Estudio historia cuando hay silencio.
+Preparo café porque me gusta.
+Escribo mensajes porque tengo tiempo.
+Observo estrellas cuando no llueve.
+Organizo tareas porque es necesario.
+Visito museos cuando viajo.
+Limpio la casa porque está sucia.
+Reparo el coche cuando falla.
+Cocino sopa porque hace frío.
+Aprendo inglés porque es útil.
+Enseño matemáticas cuando me lo piden.
+Pinto retratos cuando estoy tranquilo.
+Grabo vídeos porque me divierte.
+Toco guitarra cuando me inspiro.
+Investigo temas cuando tengo dudas.
+Mido la distancia cuando viajo.
+Gestiono proyectos porque me interesa.
+Planeo viajes porque disfruto.
+María escribe cartas y correos.
+Luis estudia pero descansa poco.
+Ana cocina y canta.
+Javier trabaja y organiza.
+Lucía pinta y limpia.
+Carlos lee y observa.
+El profesor enseña y planifica.
+Mi hermana limpia y cocina.
+El equipo entrena y gana.
+La empresa produce y vende.
+El médico atiende y revisa.
+La vecina cocina y lava.
+El alumno estudia y practica.
+Mi padre arregla y enseña.
+La directora organiza y corrige.
+El escritor redacta y revisa.
+El chef cocina y decora.
+La doctora examina y aconseja.
+Mi amigo guarda y comparte.
+El grupo canta y baila.
+María estudió ayer.
+Luis trabajó el lunes.
+Ana cocinó el domingo.
+Javier limpió la mesa.
+Lucía escribió un texto.
+Carlos observó aves.
+El profesor corrigió exámenes.
+Mi hermana barrió el suelo.
+El equipo ganó el partido.
+La empresa produjo artículos.
+El médico operó pacientes.
+La vecina lavó la ropa.
+El alumno repasó matemáticas.
+Mi padre reparó la puerta.
+La directora firmó documentos.
+El escritor publicó el libro.
+El chef sirvió la cena.
+La doctora examinó al niño.
+Mi amigo preparó la mochila.
+El grupo tocó en el concierto.
+María compra pan cada mañana.
+Luis estudia inglés en la biblioteca.
+Ana prepara café en la cocina.
+Javier escribe mensajes por la noche.
+Lucía canta en el parque los domingos.
+Carlos observa las estrellas desde su ventana.
+El profesor enseña matemáticas en el instituto.
+Mi hermana limpia la casa los sábados.
+El equipo entrena en el estadio de Sevilla.
+La empresa fabrica muebles en Madrid.
+El médico atiende pacientes en el hospital central.
+La vecina cocina lentejas los jueves.
+El alumno toca la guitarra en clase.
+Mi padre arregla la puerta del garaje.
+La directora organiza reuniones cada martes.
+El escritor redacta artículos de ciencia.
+El chef prepara postres con frutas.
+La doctora examina a los niños pequeños.
+Mi amigo guarda documentos en su carpeta.
+El grupo canta en el teatro principal.
+Compro pan en la panadería de la esquina.
+Leo revistas de historia.
+Estudio por la mañana en casa.
+Preparo té antes de dormir.
+Escribo cartas para mis amigos.
+Observo aves en el campo.
+Organizo mis libros cada domingo.
+Visito museos en vacaciones.
+Limpio la habitación cada tarde.
+Reparo el ordenador cuando se estropea.
+Cocino pasta con verduras.
+Aprendo francés con canciones.
+Enseño a mi primo a leer.
+Pinto murales en el colegio.
+Grabo vídeos de viajes.
+Toco piano en el salón.
+Investigo sobre plantas.
+Mido ingredientes para cocinar.
+Gestiono tareas del trabajo.
+Planeo escapadas de fin de semana.
+María lo compra todos los lunes.
+Luis me escribe correos.
+Ana te prepara el desayuno.
+Javier la invita a cenar.
+Lucía le regala flores.
+Carlos nos ayuda con el jardín.
+El profesor los orienta en el examen.
+Mi hermana me envía mensajes.
+El equipo les muestra la estrategia.
+La empresa la envía por correo.
+El médico me explica los resultados.
+La vecina le presta un libro.
+El alumno la entrega a tiempo.
+Mi padre me enseña a cocinar.
+La directora le da el informe.
+El escritor la publica en su blog.
+El chef lo sirve frío.
+La doctora le toma la tensión.
+Mi amigo la guarda en el cajón.
+El grupo las canta con alegría.
+María cocina y limpia la casa.
+Luis estudia y repasa los apuntes.
+Ana pinta y decora su habitación.
+Javier prepara café y lava los platos.
+Lucía canta y baila en el escenario.
+Carlos estudia pero se distrae a veces.
+El profesor enseña y corrige tareas.
+Mi hermana trabaja y estudia a la vez.
+El equipo entrena y gana partidos.
+La empresa produce y vende zapatos.
+El médico cura y revisa pacientes.
+La vecina cocina y plancha ropa.
+El alumno estudia y participa en clase.
+Mi padre arregla y pinta muebles.
+La directora organiza y supervisa proyectos.
+El escritor escribe y revisa su novela.
+El chef cocina y sirve postres.
+La doctora atiende y aconseja enfermos.
+Mi amigo estudia y trabaja mucho.
+El grupo canta y baila con ritmo.
+María compró flores ayer.
+Luis leyó una novela el domingo.
+Ana estudió física la semana pasada.
+Javier preparó café temprano.
+Lucía escribió una carta por la tarde.
+Carlos observó estrellas el viernes.
+El profesor organizó la clase el lunes.
+Mi hermana visitó el museo el sábado.
+El equipo limpió el vestuario después del partido.
+La empresa reparó el ordenador ayer.
+El médico atendió pacientes el jueves.
+La vecina cocinó arroz el martes.
+El alumno tocó la guitarra en el evento.
+Mi padre enseñó historia en el instituto.
+La directora pintó un cuadro en julio.
+El escritor grabó un vídeo el viernes.
+El chef midió los ingredientes.
+La doctora planeó el viaje el lunes.
+Mi amigo guardó los archivos ayer.
+El grupo actualizó la web esta mañana.
+María comprará pan mañana.
+Luis leerá un libro el domingo.
+Ana estudiará geografía el lunes.
+Javier preparará café al amanecer.
+Lucía escribirá un correo mañana.
+Carlos observará las estrellas esta noche.
+El profesor organizará la reunión el miércoles.
+Mi hermana visitará el museo el sábado.
+El equipo entrenará mañana temprano.
+La empresa reparará el servidor.
+El médico atenderá consultas el viernes.
+La vecina cocinará paella el domingo.
+El alumno tocará la guitarra en el concierto.
+Mi padre enseñará historia el lunes.
+La directora pintará un mural el sábado.
+El escritor grabará una entrevista.
+El chef medirá la temperatura.
+La doctora planeará vacaciones.
+Mi amigo guardará documentos.
+El grupo cantará mañana.
+María cocina en Madrid.
+Luis estudia en la Universidad Complutense.
+Ana trabaja en la oficina central.
+Javier vive en Sevilla.
+Lucía pasea en el Parque del Retiro.
+Carlos estudia en Instituto Granada.
+El profesor enseña en la Universidad de Málaga.
+Mi hermana vive en Bilbao.
+El equipo entrena en Estadio Los Cármenes.
+La empresa fabrica en Valencia.
+El médico trabaja en Hospital Virgen del Rocío.
+La vecina vive en Plaza Mayor.
+El alumno estudia en Madrid.
+Mi padre trabaja en casa.
+La directora enseña en Museo Reina Sofía.
+El escritor escribe en Oficina Central.
+El chef cocina en Casa Ana.
+La doctora trabaja en Hospital Central.
+Mi amigo estudia en la biblioteca.
+El grupo canta en Granada.
+María estudia porque quiere mejorar.
+Luis escribe cuando tiene tiempo.
+Ana cocina porque disfruta.
+Javier trabaja cuando amanece.
+Lucía canta porque se alegra.
+Carlos observa el cielo cuando oscurece.
+El profesor explica porque le apasiona enseñar.
+Mi hermana limpia cuando tiene energía.
+El equipo entrena porque quiere ganar.
+La empresa fabrica cuando hay demanda.
+El médico atiende porque ama su trabajo.
+La vecina cocina cuando hay visitas.
+El alumno estudia cuando no hay ruido.
+Mi padre arregla lo que se rompe.
+La directora organiza todo con precisión.
+El escritor escribe cuando se inspira.
+El chef cocina cuando hay clientes.
+La doctora planifica sus consultas.
+Mi amigo guarda recuerdos.
+El grupo canta cuando hay público.
+María compra fruta en Casa Marta.
+Luis lee periódicos en la cafetería.
+Ana prepara café en su cocina.
+Javier escribe correos en la oficina.
+Lucía canta en el auditorio.
+Carlos observa pájaros en el parque.
+El profesor enseña en el instituto.
+Mi hermana limpia su habitación.
+El equipo entrena en el gimnasio.
+La empresa produce en el taller.
+El médico trabaja en la clínica.
+La vecina cocina en su casa.
+El alumno toca guitarra en el aula.
+Mi padre enseña historia en la universidad.
+La directora revisa informes en el despacho.
+El escritor redacta un artículo en su casa.
+El chef prepara sopa en la cocina.
+La doctora examina pacientes en el hospital.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el teatro.
+María escribe cartas y mensajes.
+Luis estudia y repasa cada día.
+Ana cocina y limpia la cocina.
+Javier prepara café y barre el suelo.
+Lucía canta y sonríe.
+Carlos estudia y observa el cielo.
+El profesor enseña y corrige tareas.
+Mi hermana trabaja y estudia.
+El equipo entrena y juega partidos.
+La empresa fabrica y distribuye productos.
+El médico atiende y revisa pacientes.
+La vecina cocina y plancha.
+El alumno estudia y repasa.
+Mi padre arregla y enseña.
+La directora organiza y dirige.
+El escritor redacta y publica.
+El chef cocina y sirve.
+La doctora examina y aconseja.
+Mi amigo trabaja y sonríe.
+El grupo canta y baila.
+María compró flores ayer.
+Luis leyó un artículo el lunes.
+Ana estudió historia el martes.
+Javier preparó café temprano.
+Lucía escribió una carta anoche.
+Carlos observó estrellas el viernes.
+El profesor organizó la clase el miércoles.
+Mi hermana visitó el museo el sábado.
+El equipo limpió el vestuario.
+La empresa reparó el ordenador.
+El médico atendió pacientes.
+La vecina cocinó arroz.
+El alumno tocó la guitarra.
+Mi padre enseñó historia.
+La directora pintó un cuadro.
+El escritor grabó un vídeo.
+El chef midió ingredientes.
+La doctora planeó un viaje.
+Mi amigo guardó documentos.
+El grupo actualizó la web.
+María comprará flores mañana.
+Luis leerá un libro el domingo.
+Ana estudiará inglés el lunes.
+Javier preparará café temprano.
+Lucía escribirá un mensaje.
+Carlos observará las estrellas esta noche.
+El profesor organizará la reunión.
+Mi hermana visitará el museo.
+El equipo entrenará mañana.
+La empresa reparará la máquina.
+El médico atenderá consultas.
+La vecina cocinará paella.
+El alumno tocará guitarra.
+Mi padre enseñará historia.
+La directora pintará un mural.
+El escritor grabará una entrevista.
+El chef medirá la temperatura.
+La doctora planeará un viaje.
+Mi amigo guardará fotos.
+El grupo cantará mañana.
+María estudia y trabaja.
+Luis cocina y limpia.
+Ana lee y escribe.
+Javier prepara y sirve.
+Lucía canta y baila.
+Carlos observa y anota.
+El profesor enseña y corrige.
+Mi hermana limpia y organiza.
+El equipo entrena y compite.
+La empresa produce y entrega.
+El médico cura y revisa.
+La vecina cocina y sirve.
+El alumno estudia y participa.
+Mi padre arregla y enseña.
+La directora organiza y revisa.
+El escritor redacta y edita.
+El chef cocina y presenta.
+La doctora examina y guía.
+Mi amigo trabaja y sonríe.
+El grupo canta y celebra.
+María estudia biología por la mañana.
+Luis trabaja en la oficina los lunes.
+Ana limpia su casa cada domingo.
+Javier escribe un correo hoy temprano.
+Lucía canta canciones por la noche.
+Carlos lee el periódico cada mañana.
+El profesor enseña matemáticas el martes.
+Mi hermana cocina sopa los fines de semana.
+El equipo entrena cada viernes.
+La empresa produce muebles todos los meses.
+El médico atiende pacientes a diario.
+La vecina prepara café los martes.
+El alumno estudia historia cada tarde.
+Mi padre arregla el coche los sábados.
+La directora revisa informes hoy.
+El escritor escribe cuentos por la noche.
+El chef cocina arroz los domingos.
+La doctora examina a los niños cada jueves.
+Mi amigo organiza su escritorio cada mañana.
+El grupo canta en los ensayos los viernes.
+Compro pan todos los días.
+Leo libros cada noche.
+Estudio inglés por la mañana.
+Preparo té cada tarde.
+Escribo notas todas las noches.
+Observo el cielo cada sábado.
+Organizo carpetas cada lunes.
+Visito museos los domingos.
+Limpio mi habitación cada semana.
+Reparo el ordenador cada mes.
+Cocino arroz todos los domingos.
+Aprendo idiomas cada día.
+Enseño a mis primos los números los jueves.
+Pinto cuadros cada verano.
+Grabo vídeos los fines de semana.
+Toco guitarra cada noche.
+Investigo temas nuevos los martes.
+Mido ingredientes todas las mañanas.
+Gestiono archivos cada lunes.
+Planeo viajes cada año.
+Trabajo en el proyecto cada tarde.
+María me compra flores los sábados.
+Luis le escribe a su madre todos los meses.
+Ana nos prepara la comida cada domingo.
+Javier lo arregla todos los días.
+Lucía les enseña canciones los viernes.
+Carlos me llama cada mañana.
+El profesor les explica la lección cada martes.
+Mi hermana le regala dulces a su amiga cada mes.
+El equipo lo entrena todos los días.
+La empresa nos envía productos los lunes.
+El médico me revisa la vista cada jueves.
+La vecina le presta azúcar cada semana.
+El alumno lo repite cada día.
+Mi padre me ayuda con los deberes los martes.
+La directora les envía correos los lunes.
+El escritor lo publica cada viernes.
+El chef me prepara café cada mañana.
+La doctora le recomienda descanso cada mes.
+Mi amigo lo guarda en su carpeta todos los días.
+El grupo les canta canciones cada sábado.
+Trabajo en casa cada tarde.
+Cocino pasta los domingos.
+Leo noticias por la mañana.
+Limpio la mesa cada noche.
+Escribo correos cada lunes.
+Cierro la tienda todos los días.
+Ayudo a mi madre los sábados.
+Corro en el parque cada semana.
+Estudio programación cada noche.
+Duermo ocho horas todos los días.
+Lavo la ropa los domingos.
+Practico guitarra cada viernes.
+Tomo café todas las mañanas.
+Organizo mi escritorio cada martes.
+Estudio porque hay examen mañana.
+Leo cuando tengo tiempo libre.
+Trabajo cuando los demás descansan.
+Cocino porque me relaja.
+Limpio cuando hay desorden.
+Escribo cuando llega la noche.
+Corro porque quiero mejorar.
+Aprendo cuando tengo interés.
+Descanso cuando termina el día.
+Canto porque estoy feliz.
+Trabajo porque disfruto hacerlo.
+Leo porque me inspira.
+Cocino cuando llueve.
+Duermo cuando puedo.
+Estudio porque me gusta.
+María trabaja en Madrid.
+Luis estudia en la universidad.
+Ana vive en Granada.
+Javier escribe en la oficina.
+Lucía canta en el teatro.
+Carlos lee en el parque.
+El profesor enseña en el instituto.
+Mi hermana limpia en su casa.
+El equipo entrena en el estadio.
+La empresa fabrica en Valencia.
+El médico trabaja en el hospital.
+La vecina cocina en su cocina.
+El alumno estudia en la biblioteca.
+Mi padre repara en el garaje.
+La directora organiza en el despacho.
+El escritor escribe en su estudio.
+El chef prepara postres en la cocina.
+La doctora atiende en la consulta.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el auditorio.
+Trabajo en Sevilla.
+Cocino en casa.
+Leo en el sofá.
+Estudio en la mesa.
+Escribo en el ordenador.
+Limpio en la cocina.
+Cierro la puerta en el pasillo.
+Practico guitarra en el salón.
+Descanso en la cama.
+Corro en el parque.
+Duermo en mi habitación.
+Trabajo en la empresa.
+Cocino en la escuela.
+Leo en el tren.
+Canto en el festival.
+Estudio en el instituto Granada.
+Vivo en Casa Ana.
+Ceno en el restaurante.
+Escucho música en la terraza.
+Mido ingredientes en la cocina.
+Aprendo idiomas en la academia.
+María estudia en Madrid y trabaja en casa.
+Luis vive en Sevilla y viaja a Málaga.
+Ana trabaja en la biblioteca y enseña en la escuela.
+Javier escribe en casa pero edita en la oficina.
+Lucía canta en el teatro y graba en el estudio.
+Carlos observa aves en el parque y toma notas.
+El profesor enseña en la universidad y corrige en casa.
+Mi hermana limpia en su habitación y ordena en la cocina.
+El grupo canta en Granada y baila en Córdoba.
+La doctora trabaja en el hospital y estudia en la universidad.
+Trabajo mucho.
+Cocino arroz.
+Leo un libro.
+Estudio inglés.
+Preparo café.
+Escribo un mensaje.
+Observo el cielo.
+Organizo mis papeles.
+Visito museos.
+Limpio la casa.
+Reparo el coche.
+Aprendo francés.
+Pinto cuadros.
+Grabo vídeos.
+Toco guitarra.
+Investigo sobre arte.
+Mido ingredientes.
+Gestiono documentos.
+Planeo vacaciones.
+Camino despacio.
+Compro frutas.
+Leo poemas.
+Estudio matemáticas.
+Trabajo con amigos.
+Cocino lentejas.
+Escribo cartas.
+Canto canciones.
+Escucho música.
+Aprendo algo nuevo.
+Cierro la puerta.
+Subo la escalera.
+Duermo bien.
+Despierto temprano.
+Corro rápido.
+Río con amigos.
+Juego al fútbol.
+Estudio todos los días.
+Trabajo por placer.
+Leo sin distracciones.
+Descanso un poco.
+Ayudo cuando puedo.
+Vivo tranquilo.
+Cocino bien.
+Leo mucho.
+Estudio cada tema.
+Trabajo contento.
+Canto fuerte.
+Organizo bien.
+Descanso feliz.
+Escribo poco.
+Pinto despacio.
+Cocino arroz y escribo notas.
+Leo libros y aprendo.
+Estudio y trabajo.
+Trabajo y sonrío.
+Cocino y limpio.
+Leo y descanso.
+Organizo y escribo.
+Aprendo y enseño.
+Estudio y explico.
+Trabajo y planeo.
+María cocinó arroz.
+Luis estudió inglés.
+Ana preparó café.
+Javier escribió un correo.
+Lucía cantó una canción.
+Carlos observó el cielo.
+El profesor enseñó historia.
+Mi hermana limpió la casa.
+El equipo entrenó fuerte.
+La empresa fabricó muebles.
+El médico atendió pacientes.
+La vecina cocinó sopa.
+El alumno tocó guitarra.
+Mi padre arregló el coche.
+La directora organizó reuniones.
+El escritor redactó un artículo.
+El chef midió los ingredientes.
+La doctora examinó a los niños.
+Mi amigo guardó documentos.
+El grupo cantó en el teatro.
+Trabajé mucho ayer.
+Cociné pasta.
+Leí un libro.
+Estudié biología.
+Preparé café.
+Escribí mensajes.
+Observé aves.
+Organicé papeles.
+Visité amigos.
+Limpie la cocina.
+Aprendí francés.
+Pinté un cuadro.
+Grabé vídeos.
+Toqué guitarra.
+Investigué sobre ciencia.
+Medí azúcar.
+Gestioné tareas.
+Planeé vacaciones.
+Descansé en casa.
+Dormí temprano.
+María cocinó y sirvió la cena.
+Luis estudió y aprobó el examen.
+Ana preparó café y limpió la mesa.
+Lucía cantó y bailó.
+Carlos observó estrellas y anotó datos.
+El profesor enseñó y corrigió.
+Mi hermana limpió y cocinó.
+El grupo cantó y celebró.
+El chef cocinó y decoró.
+La doctora examinó y aconsejó.
+María cocinará arroz.
+Luis estudiará inglés.
+Ana preparará café.
+Javier escribirá un correo.
+Lucía cantará una canción.
+Carlos observará las estrellas.
+El profesor enseñará matemáticas.
+Mi hermana limpiará la casa.
+El equipo entrenará fuerte.
+La empresa fabricará muebles.
+El médico atenderá pacientes.
+La vecina cocinará sopa.
+El alumno tocará guitarra.
+Mi padre arreglará el coche.
+La directora organizará la reunión.
+El escritor redactará un libro.
+El chef medirá ingredientes.
+La doctora examinará a los niños.
+Mi amigo guardará documentos.
+El grupo cantará mañana.
+Trabajaré mucho.
+Cocinaré pasta.
+Leeré un libro.
+Estudiaré biología.
+Prepararé café.
+Escribiré correos.
+Observaré el cielo.
+Organizaré papeles.
+Visitaré museos.
+Limpiaré la casa.
+Aprenderé idiomas.
+Pintaré un cuadro.
+Grabaré vídeos.
+Tocaré guitarra.
+Investigaré sobre historia.
+Mediré ingredientes.
+Gestionaré proyectos.
+Planearé vacaciones.
+Dormiré bien.
+Descansaré mañana.
+María cocinará y servirá.
+Luis estudiará y aprobará.
+Ana preparará café y ordenará.
+Lucía cantará y bailará.
+Carlos observará y anotará.
+El profesor enseñará y corregirá.
+Mi hermana limpiará y cocinará.
+El grupo cantará y celebrará.
+El chef cocinará y decorará.
+La doctora examinará y aconsejará.
+María cocina arroz cada domingo.
+Luis estudia informática todos los días.
+Ana prepara café por la mañana.
+Javier escribe un correo esta tarde.
+Lucía canta canciones los viernes.
+Carlos observa las estrellas cada noche.
+El profesor enseña historia los martes.
+Mi hermana limpia su casa todos los sábados.
+El equipo entrena cada tarde.
+La empresa fabrica muebles cada mes.
+El médico atiende pacientes los jueves.
+La vecina cocina lentejas cada lunes.
+El alumno estudia inglés todos los días.
+Mi padre repara su coche los domingos.
+La directora revisa documentos hoy.
+El escritor escribe cuentos por la noche.
+El chef prepara postres cada semana.
+La doctora examina a los niños cada jueves.
+Mi amigo organiza papeles cada mañana.
+El grupo canta en el teatro los viernes.
+Compro fruta todos los días.
+Leo revistas cada noche.
+Estudio idiomas cada mañana.
+Preparo té todos los domingos.
+Escribo notas cada tarde.
+Observo aves cada primavera.
+Organizo archivos todos los lunes.
+Visito museos cada fin de semana.
+Limpio el suelo cada día.
+Reparo mi ordenador los sábados.
+Cocino pasta los viernes.
+Aprendo historia todos los meses.
+Pinto cuadros cada verano.
+Grabo vídeos todos los domingos.
+Toco guitarra cada noche.
+Investigo temas nuevos cada semana.
+Mido ingredientes todos los días.
+Gestiono tareas cada mañana.
+Planeo viajes cada año.
+Trabajo en casa todos los lunes.
+María me compra flores cada sábado.
+Luis le escribe cartas a su madre cada mes.
+Ana nos prepara la cena cada noche.
+Javier lo arregla cada tarde.
+Lucía les enseña canciones los viernes.
+Carlos me llama cada día.
+El profesor les explica el tema los martes.
+Mi hermana le regala dulces a su amiga todos los domingos.
+El equipo lo entrena cada mañana.
+La empresa nos envía productos cada mes.
+El médico me revisa la vista cada jueves.
+La vecina le presta libros cada semana.
+El alumno lo repite todos los días.
+Mi padre me ayuda cada noche.
+La directora les envía correos cada lunes.
+El escritor lo publica cada viernes.
+El chef me prepara café cada mañana.
+La doctora le recomienda descanso todos los meses.
+Mi amigo lo guarda todos los días.
+El grupo les canta canciones los sábados.
+Trabajo en proyectos cada tarde.
+Cocino arroz los domingos.
+Leo noticias cada mañana.
+Limpio la mesa todas las noches.
+Escribo correos todos los lunes.
+Cierro la tienda todos los días.
+Ayudo a mi madre cada fin de semana.
+Corro en el parque cada tarde.
+Estudio programación todos los días.
+Duermo ocho horas cada noche.
+Lavo la ropa cada domingo.
+Practico guitarra cada viernes.
+Tomo café todas las mañanas.
+Organizo el escritorio cada martes.
+Estudio porque tengo examen mañana.
+Leo cuando tengo tiempo libre.
+Trabajo cuando amanece.
+Cocino porque me relaja.
+Limpio cuando veo polvo.
+Escribo cuando tengo ideas.
+Corro porque quiero mejorar.
+Aprendo cuando me interesa.
+Descanso cuando termina el día.
+Canto porque me hace feliz.
+Trabajo porque disfruto.
+Leo porque me inspira.
+Cocino cuando llueve.
+Duermo cuando puedo.
+Estudio porque me gusta.
+Trabajo cuando todos descansan.
+Cocino porque hace frío.
+Estudio cuando el sol sale.
+Leo cuando cae la tarde.
+Aprendo cuando escucho.
+Corro porque quiero superarme.
+Descanso cuando acabo mis tareas.
+Canto porque me da alegría.
+Trabajo porque es necesario.
+Leo porque lo disfruto.
+Cocino cuando tengo hambre.
+Duermo cuando estoy cansado.
+Aprendo porque me gusta saber.
+María estudia en la Universidad de Granada.
+Luis trabaja en Madrid.
+Ana vive en Sevilla.
+Javier escribe en la oficina.
+Lucía canta en el teatro.
+Carlos lee en el parque.
+El profesor enseña en el instituto.
+Mi hermana limpia en su casa.
+El equipo entrena en el estadio.
+La empresa fabrica en Valencia.
+El médico atiende en el hospital.
+La vecina cocina en la cocina.
+El alumno estudia en la biblioteca.
+Mi padre repara en el garaje.
+La directora organiza en el despacho.
+El escritor escribe en su estudio.
+El chef prepara postres en la cocina.
+La doctora examina pacientes en la consulta.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el auditorio.
+Trabajo en Sevilla.
+Cocino en casa.
+Leo en el sofá.
+Estudio en la mesa.
+Escribo en el ordenador.
+Limpio en la cocina.
+Cierro la puerta en el pasillo.
+Practico guitarra en el salón.
+Descanso en la cama.
+Corro en el parque.
+Duermo en mi habitación.
+Trabajo en la empresa.
+Cocino en la escuela.
+Leo en el tren.
+Canto en el festival.
+Estudio en el Instituto Granada.
+Vivo en Casa Ana.
+Ceno en el restaurante.
+Escucho música en la terraza.
+Mido ingredientes en la cocina.
+Aprendo inglés en la academia.
+María estudia en Madrid y vive en Granada.
+Luis trabaja en Barcelona y viaja a Valencia.
+Ana enseña en el instituto y corrige en casa.
+Javier escribe en el estudio y publica en línea.
+Lucía canta en el teatro y ensaya en casa.
+Carlos observa aves en el parque y anota datos.
+El profesor enseña en la universidad y revisa en su despacho.
+Mi hermana limpia en su habitación y cocina en la sala.
+El grupo canta en Sevilla y baila en Cádiz.
+La doctora trabaja en el hospital y estudia en la universidad.
+Trabajo mucho.
+Cocino arroz.
+Leo un libro.
+Estudio inglés.
+Preparo café.
+Escribo mensajes.
+Observo el cielo.
+Organizo tareas.
+Visito museos.
+Limpio la casa.
+Reparo el coche.
+Aprendo francés.
+Pinto cuadros.
+Grabo vídeos.
+Toco guitarra.
+Investigo temas.
+Mido ingredientes.
+Gestiono proyectos.
+Planeo vacaciones.
+Camino rápido.
+Compro pan.
+Leo poesía.
+Estudio biología.
+Trabajo feliz.
+Cocino lentejas.
+Escribo cartas.
+Canto canciones.
+Escucho música.
+Aprendo cosas.
+Cierro la puerta.
+Subo escaleras.
+Duermo bien.
+Despierto temprano.
+Corro rápido.
+Río con amigos.
+Juego fútbol.
+Estudio solo.
+Trabajo motivado.
+Leo sin parar.
+Descanso tranquilo.
+Ayudo cuando puedo.
+Vivo bien.
+Cocino bien.
+Leo mucho.
+Trabajo concentrado.
+Canto alto.
+Organizo bien.
+Descanso poco.
+Escribo poco.
+Pinto despacio.
+Trabajo y sonrío.
+Cocino y limpio.
+Leo y aprendo.
+Estudio y trabajo.
+Organizo y escribo.
+Aprendo y enseño.
+Cocino y sirvo.
+Leo y descanso.
+Canto y río.
+Trabajo y escucho.
+María cocinó arroz.
+Luis estudió biología.
+Ana preparó café.
+Javier escribió una carta.
+Lucía cantó en el teatro.
+Carlos observó estrellas.
+El profesor enseñó historia.
+Mi hermana limpió la casa.
+El equipo entrenó duro.
+La empresa produjo mesas.
+El médico atendió pacientes.
+La vecina cocinó lentejas.
+El alumno estudió inglés.
+Mi padre arregló el coche.
+La directora revisó informes.
+El escritor redactó un cuento.
+El chef midió los ingredientes.
+La doctora examinó a los niños.
+Mi amigo guardó papeles.
+El grupo cantó en Granada.
+Trabajé mucho ayer.
+Cociné pasta.
+Leí un libro.
+Estudié ciencias.
+Preparé té.
+Escribí correos.
+Observé el cielo.
+Organicé tareas.
+Visité a mis amigos.
+Limpie la cocina.
+Aprendí historia.
+Pinté un cuadro.
+Grabé vídeos.
+Toqué guitarra.
+Investigué un tema.
+Medí azúcar.
+Gestioné datos.
+Planeé vacaciones.
+Dormí temprano.
+Descansé poco.
+María cocinó y sirvió.
+Luis estudió y aprobó.
+Ana preparó y limpió.
+Lucía cantó y bailó.
+Carlos observó y anotó.
+El profesor enseñó y corrigió.
+Mi hermana limpió y cocinó.
+El grupo cantó y celebró.
+El chef cocinó y decoró.
+La doctora examinó y aconsejó.
+María cocinará arroz.
+Luis estudiará inglés.
+Ana preparará café.
+Javier escribirá una carta.
+Lucía cantará en el teatro.
+Carlos observará estrellas.
+El profesor enseñará biología.
+Mi hermana limpiará la casa.
+El equipo entrenará mañana.
+La empresa producirá muebles.
+El médico atenderá pacientes.
+La vecina cocinará lentejas.
+El alumno estudiará idiomas.
+Mi padre arreglará el coche.
+La directora organizará informes.
+El escritor redactará un libro.
+El chef medirá ingredientes.
+La doctora examinará pacientes.
+Mi amigo guardará fotos.
+El grupo cantará en Madrid.
+Trabajaré mañana.
+Cocinaré arroz.
+Leeré un libro.
+Estudiaré biología.
+Prepararé té.
+Escribiré correos.
+Observaré aves.
+Organizaré tareas.
+Visitaré amigos.
+Limpiaré la casa.
+Aprenderé francés.
+Pintaré un cuadro.
+Grabaré vídeos.
+Tocaré guitarra.
+Investigaré arte.
+Mediré ingredientes.
+Gestionaré archivos.
+Planearé viajes.
+Dormiré más.
+Descansaré después.
+María cocinará y servirá.
+Luis estudiará y aprobará.
+Ana preparará y limpiará.
+Lucía cantará y bailará.
+Carlos observará y anotará.
+El profesor enseñará y corregirá.
+Mi hermana limpiará y cocinará.
+El grupo cantará y celebrará.
+El chef cocinará y decorará.
+La doctora examinará y aconsejará.
+María cocina pan cada mañana.
+Luis estudia geografía todos los martes.
+Ana prepara té cada noche.
+Javier escribe artículos por la tarde.
+Lucía canta canciones los viernes.
+Carlos observa estrellas cada madrugada.
+El profesor enseña historia cada lunes.
+Mi hermana limpia su cuarto los sábados.
+El equipo entrena fuerte todos los días.
+La empresa fabrica zapatos cada mes.
+El médico atiende pacientes los jueves.
+La vecina cocina lentejas los lunes.
+El alumno estudia matemáticas cada tarde.
+Mi padre repara la bici los domingos.
+La directora revisa documentos todos los martes.
+El escritor redacta cuentos cada noche.
+El chef prepara postres cada sábado.
+La doctora examina a los niños todos los jueves.
+Mi amigo organiza su habitación los domingos.
+El grupo canta canciones nuevas cada viernes.
+Trabajo cada mañana con café.
+Cocino arroz todos los sábados.
+Leo periódicos cada día.
+Estudio idiomas todos los fines de semana.
+Preparo desayuno cada mañana.
+Escribo correos por la tarde.
+Observo nubes cada amanecer.
+Organizo archivos cada lunes.
+Visito a mis padres los domingos.
+Limpio la casa cada tarde.
+Reparo el ordenador cada mes.
+Cocino pasta todos los viernes.
+Aprendo francés todos los días.
+Enseño matemáticas los martes.
+Pinto cuadros cada semana.
+Grabo vídeos cada domingo.
+Toco guitarra todos los días.
+Investigo temas cada noche.
+Mido ingredientes todos los jueves.
+Gestiono proyectos cada lunes.
+Planeo viajes cada año.
+Trabajo por la tarde.
+María me compra frutas cada semana.
+Luis le escribe cartas todos los viernes.
+Ana nos prepara sopa cada noche.
+Javier lo arregla cada día.
+Lucía les enseña música cada jueves.
+Carlos me llama cada noche.
+El profesor les explica ejercicios cada martes.
+Mi hermana le regala dulces a su amiga cada mes.
+El equipo lo entrena con pasión cada día.
+La empresa nos envía productos cada lunes.
+El médico me revisa los ojos todos los jueves.
+La vecina le presta libros cada mes.
+El alumno lo repite cada mañana.
+Mi padre me ayuda con tareas cada semana.
+La directora les envía correos todos los lunes.
+El escritor lo publica cada viernes.
+El chef me prepara café cada mañana.
+La doctora le recomienda descanso cada mes.
+Mi amigo lo guarda cada día.
+El grupo les canta canciones todos los sábados.
+Trabajo todos los lunes y descanso los domingos.
+Cocino arroz cada noche y lo comparto.
+Leo libros todos los días y aprendo más.
+Estudio inglés por la mañana y español por la tarde.
+Preparo café cada día pero no tomo té.
+Escribo mensajes cuando tengo tiempo.
+Corro en el parque cada día.
+Organizo tareas cada lunes y martes.
+Limpio mi escritorio los domingos.
+Pinto paredes los sábados.
+Trabajo porque me gusta.
+Cocino cuando tengo hambre.
+Leo cuando quiero descansar.
+Escribo porque me relaja.
+Aprendo cuando escucho.
+Descanso cuando termina el día.
+Canto porque estoy feliz.
+Trabajo porque disfruto.
+Leo porque me inspira.
+Cocino cuando llueve.
+Duermo cuando puedo.
+Estudio porque me gusta.
+Trabajo cuando todos descansan.
+Cocino porque hace frío.
+Estudio cuando el sol sale.
+Leo cuando cae la tarde.
+Aprendo cuando hay calma.
+Corro porque quiero mejorar.
+Descanso cuando puedo.
+Canto porque tengo energía.
+Trabajo porque me apasiona.
+Leo porque disfruto.
+Cocino cuando amanece.
+Duermo cuando anochece.
+Aprendo porque me gusta aprender.
+María estudia en la Universidad de Sevilla.
+Luis trabaja en Madrid.
+Ana vive en Valencia.
+Javier escribe en la oficina.
+Lucía canta en el auditorio.
+Carlos lee en el parque.
+El profesor enseña en el instituto.
+Mi hermana limpia en su casa.
+El equipo entrena en el estadio.
+La empresa fabrica en Granada.
+El médico trabaja en el hospital.
+La vecina cocina en la cocina.
+El alumno estudia en la biblioteca.
+Mi padre repara en el garaje.
+La directora organiza en el despacho.
+El escritor escribe en su estudio.
+El chef prepara postres en la cocina.
+La doctora atiende pacientes en la consulta.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el teatro.
+Trabajo en Málaga.
+Cocino en casa.
+Leo en el sofá.
+Estudio en la mesa.
+Escribo en el ordenador.
+Limpio en la cocina.
+Cierro la puerta en el pasillo.
+Practico guitarra en el salón.
+Descanso en la cama.
+Corro en el parque.
+Duermo en mi habitación.
+Trabajo en la empresa.
+Cocino en la escuela.
+Leo en el tren.
+Canto en el festival.
+Estudio en Instituto Granada.
+Vivo en Casa Ana.
+Ceno en el restaurante.
+Escucho música en la terraza.
+Mido ingredientes en la cocina.
+Aprendo inglés en la academia.
+María estudia en Madrid y trabaja en su casa.
+Luis vive en Barcelona y viaja a Valencia.
+Ana enseña en el instituto y corrige en casa.
+Javier escribe en el estudio y publica en línea.
+Lucía canta en el teatro y ensaya en su habitación.
+Carlos observa aves en el parque y anota datos.
+El profesor enseña en la universidad y corrige en casa.
+Mi hermana limpia en su habitación y cocina en la sala.
+El grupo canta en Sevilla y baila en Cádiz.
+La doctora trabaja en el hospital y estudia en la universidad.
+Trabajo mucho.
+Cocino arroz.
+Leo un libro.
+Estudio inglés.
+Preparo café.
+Escribo mensajes.
+Observo el cielo.
+Organizo papeles.
+Visito museos.
+Limpio la casa.
+Reparo el coche.
+Aprendo idiomas.
+Pinto cuadros.
+Grabo vídeos.
+Toco guitarra.
+Investigo temas.
+Mido ingredientes.
+Gestiono proyectos.
+Planeo viajes.
+Camino rápido.
+Compro pan.
+Leo poemas.
+Estudio biología.
+Trabajo tranquilo.
+Cocino lentejas.
+Escribo cartas.
+Canto canciones.
+Escucho música.
+Aprendo cosas.
+Cierro la puerta.
+Subo escaleras.
+Duermo bien.
+Despierto temprano.
+Corro rápido.
+Río con amigos.
+Juego fútbol.
+Estudio solo.
+Trabajo motivado.
+Leo sin parar.
+Descanso tranquilo.
+Ayudo cuando puedo.
+Vivo feliz.
+Cocino bien.
+Leo mucho.
+Trabajo contento.
+Canto alto.
+Organizo bien.
+Descanso poco.
+Escribo poco.
+Pinto lento.
+Trabajo y sonrío.
+Cocino y limpio.
+Leo y aprendo.
+Estudio y enseño.
+Organizo y escribo.
+Aprendo y enseño.
+Cocino y sirvo.
+Leo y descanso.
+Canto y río.
+Trabajo y escucho.
+Pinto y coloreo.
+Cocino y decoro.
+Escribo y leo.
+María cocinó arroz.
+Luis estudió biología.
+Ana preparó café.
+Javier escribió un correo.
+Lucía cantó una canción.
+Carlos observó el cielo.
+El profesor enseñó historia.
+Mi hermana limpió la casa.
+El equipo entrenó duro.
+La empresa fabricó muebles.
+El médico atendió pacientes.
+La vecina cocinó lentejas.
+El alumno estudió inglés.
+Mi padre arregló el coche.
+La directora revisó informes.
+El escritor redactó un cuento.
+El chef midió los ingredientes.
+La doctora examinó a los niños.
+Mi amigo guardó documentos.
+El grupo cantó en el teatro.
+Trabajé mucho ayer.
+Cociné pasta.
+Leí un libro.
+Estudié ciencias.
+Preparé té.
+Escribí correos.
+Observé estrellas.
+Organicé tareas.
+Visité a mis amigos.
+Limpié la cocina.
+Aprendí historia.
+Pinté un cuadro.
+Grabé vídeos.
+Toqué guitarra.
+Investigué sobre ciencia.
+Medí azúcar.
+Gestioné tareas.
+Planeé vacaciones.
+Dormí temprano.
+Descansé en casa.
+María cocinó y sirvió.
+Luis estudió y aprobó.
+Ana preparó y limpió.
+Lucía cantó y bailó.
+Carlos observó y anotó.
+El profesor enseñó y corrigió.
+Mi hermana limpió y cocinó.
+El grupo cantó y celebró.
+El chef cocinó y decoró.
+La doctora examinó y aconsejó.
+María cocinará arroz.
+Luis estudiará inglés.
+Ana preparará café.
+Javier escribirá una carta.
+Lucía cantará una canción.
+Carlos observará estrellas.
+El profesor enseñará historia.
+Mi hermana limpiará la casa.
+El equipo entrenará fuerte.
+La empresa producirá muebles.
+El médico atenderá pacientes.
+La vecina cocinará lentejas.
+El alumno estudiará inglés.
+Mi padre arreglará el coche.
+La directora organizará informes.
+El escritor redactará un libro.
+El chef medirá ingredientes.
+La doctora examinará pacientes.
+Mi amigo guardará documentos.
+El grupo cantará en el teatro.
+Trabajaré mañana.
+Cocinaré arroz.
+Leeré un libro.
+Estudiaré biología.
+Prepararé té.
+Escribiré correos.
+Observaré el cielo.
+Organizaré tareas.
+Visitaré amigos.
+Limpiaré la casa.
+Aprenderé francés.
+Pintaré un cuadro.
+Grabaré vídeos.
+Tocaré guitarra.
+Investigaré temas.
+Mediré ingredientes.
+Gestionaré proyectos.
+Planearé viajes.
+Dormiré bien.
+Descansaré luego.
+María cocinará y servirá.
+Luis estudiará y aprobará.
+Ana preparará y limpiará.
+Lucía cantará y bailará.
+Carlos observará y anotará.
+El profesor enseñará y corregirá.
+Mi hermana limpiará y cocinará.
+El grupo cantará y celebrará.
+El chef cocinará y decorará.
+La doctora examinará y aconsejará.
+María cocina arroz cada día.
+Luis estudia matemáticas todas las mañanas.
+Ana prepara café por la tarde.
+Javier escribe artículos cada semana.
+Lucía canta canciones todos los viernes.
+Carlos observa las estrellas cada noche.
+El profesor enseña historia los lunes.
+Mi hermana limpia la casa los domingos.
+El equipo entrena duro todos los días.
+La empresa fabrica productos cada mes.
+El médico atiende pacientes los jueves.
+La vecina cocina lentejas cada lunes.
+El alumno estudia inglés todos los días.
+Mi padre repara el coche los sábados.
+La directora revisa informes todos los martes.
+El escritor redacta cuentos cada noche.
+El chef prepara postres cada sábado.
+La doctora examina a los niños todos los jueves.
+Mi amigo organiza su escritorio cada mañana.
+El grupo canta canciones nuevas todos los viernes.
+Trabajo cada mañana.
+Cocino arroz los sábados.
+Leo el periódico todos los días.
+Estudio inglés cada noche.
+Preparo té todas las tardes.
+Escribo correos cada mañana.
+Observo aves cada primavera.
+Organizo archivos todos los lunes.
+Visito museos los domingos.
+Limpio la cocina cada tarde.
+Reparo el ordenador cada mes.
+Cocino pasta los viernes.
+Aprendo historia todos los días.
+Enseño matemáticas los martes.
+Pinto cuadros cada verano.
+Grabo vídeos todos los domingos.
+Toco guitarra cada noche.
+Investigo temas nuevos cada semana.
+Mido ingredientes todos los jueves.
+Gestiono proyectos cada mañana.
+Planeo viajes cada año.
+Trabajo por la tarde.
+María me compra flores cada semana.
+Luis le escribe cartas a su madre cada mes.
+Ana nos prepara sopa cada noche.
+Javier lo arregla todos los días.
+Lucía les enseña música todos los viernes.
+Carlos me llama cada noche.
+El profesor les explica el tema cada martes.
+Mi hermana le regala dulces a su amiga cada mes.
+El equipo lo entrena cada día.
+La empresa nos envía productos todos los lunes.
+El médico me revisa la vista cada jueves.
+La vecina le presta libros cada semana.
+El alumno lo repite cada día.
+Mi padre me ayuda con las tareas cada noche.
+La directora les envía correos todos los lunes.
+El escritor lo publica cada viernes.
+El chef me prepara café cada mañana.
+La doctora le recomienda descanso cada mes.
+Mi amigo lo guarda todos los días.
+El grupo les canta canciones cada sábado.
+Trabajo los lunes y descanso los domingos.
+Cocino arroz cada noche y sirvo la comida.
+Leo libros todos los días y aprendo más.
+Estudio inglés por la mañana y español por la tarde.
+Preparo café cada día pero no tomo té.
+Escribo mensajes cuando tengo tiempo.
+Corro en el parque todos los días.
+Organizo tareas cada lunes y martes.
+Limpio mi escritorio los sábados.
+Pinto paredes los domingos.
+Trabajo porque me gusta.
+Cocino cuando tengo hambre.
+Leo cuando quiero descansar.
+Escribo porque me relaja.
+Aprendo cuando escucho.
+Descanso cuando termina el día.
+Canto porque estoy feliz.
+Trabajo porque disfruto.
+Leo porque me inspira.
+Cocino cuando llueve.
+Duermo cuando puedo.
+Estudio porque me gusta.
+Trabajo cuando todos descansan.
+Cocino porque hace frío.
+Estudio cuando el sol sale.
+Leo cuando cae la tarde.
+Aprendo cuando hay silencio.
+Corro porque quiero mejorar.
+Descanso cuando puedo.
+Canto porque tengo energía.
+Trabajo porque me apasiona.
+Leo porque disfruto.
+Cocino cuando amanece.
+Duermo cuando anochece.
+Aprendo porque me gusta aprender.
+Trabajo cada lunes por la mañana.
+Leo libros todos los miércoles.
+Cocino con mis amigos los viernes.
+Escribo correos cada noche.
+Descanso los domingos por la tarde.
+Viajo cada verano con mi familia.
+Estudio cada día en la biblioteca.
+Escucho música todas las noches.
+Practico deporte cada semana.
+Pinto cuadros todos los sábados.
+Juego fútbol los domingos.
+Hablo con mis padres cada día.
+Veo películas cada viernes.
+Trabajo porque quiero avanzar.
+Aprendo porque tengo curiosidad.
+Leo porque me tranquiliza.
+Cocino porque me divierte.
+Canto porque me hace feliz.
+Estudio porque quiero mejorar.
+Escribo porque me inspira.
+Corro porque disfruto el aire libre.
+Descanso cuando termina el trabajo.
+María estudia en la Universidad de Sevilla.
+Luis trabaja en Madrid.
+Ana vive en Valencia.
+Javier escribe en la oficina.
+Lucía canta en el auditorio.
+Carlos lee en el parque.
+El profesor enseña en el instituto.
+Mi hermana limpia en su casa.
+El equipo entrena en el estadio.
+La empresa fabrica en Granada.
+El médico trabaja en el hospital.
+La vecina cocina en la cocina.
+El alumno estudia en la biblioteca.
+Mi padre repara en el garaje.
+La directora organiza en el despacho.
+El escritor escribe en su estudio.
+El chef prepara postres en la cocina.
+La doctora atiende pacientes en la consulta.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el teatro.
+Trabajo en Málaga.
+Cocino en casa.
+Leo en el sofá.
+Estudio en la mesa.
+Escribo en el ordenador.
+Limpio en la cocina.
+Cierro la puerta en el pasillo.
+Practico guitarra en el salón.
+Descanso en la cama.
+Corro en el parque.
+Duermo en mi habitación.
+Trabajo en la empresa.
+Cocino en la escuela.
+Leo en el tren.
+Canto en el festival.
+Estudio en el Instituto Granada.
+Vivo en Casa Ana.
+Ceno en el restaurante.
+Escucho música en la terraza.
+Mido ingredientes en la cocina.
+Aprendo inglés en la academia.
+María estudia en Madrid y trabaja en su casa.
+Luis vive en Barcelona y viaja a Valencia.
+Ana enseña en el instituto y corrige en casa.
+Javier escribe en el estudio y publica en línea.
+Lucía canta en el teatro y ensaya en su habitación.
+Carlos observa aves en el parque y anota datos.
+El profesor enseña en la universidad y corrige en casa.
+Mi hermana limpia en su habitación y cocina en la sala.
+El grupo canta en Sevilla y baila en Cádiz.
+La doctora trabaja en el hospital y estudia en la universidad.
+Leo en la biblioteca y escribo en el escritorio.
+Trabajo en la oficina y estudio en la universidad.
+Pinto en casa y vendo mis cuadros en internet.
+Cocino en el restaurante y enseño en la escuela.
+Corro en el parque y descanso en el sofá.
+Trabajo mucho.
+Cocino arroz.
+Leo un libro.
+Estudio inglés.
+Preparo café.
+Escribo mensajes.
+Observo el cielo.
+Organizo tareas.
+Visito museos.
+Limpio la casa.
+Reparo el coche.
+Aprendo idiomas.
+Pinto cuadros.
+Grabo vídeos.
+Toco guitarra.
+Investigo temas.
+Mido ingredientes.
+Gestiono proyectos.
+Planeo vacaciones.
+Camino rápido.
+Compro pan.
+Leo poemas.
+Estudio biología.
+Trabajo feliz.
+Cocino lentejas.
+Escribo cartas.
+Canto canciones.
+Escucho música.
+Aprendo cosas.
+Cierro la puerta.
+Subo escaleras.
+Duermo bien.
+Despierto temprano.
+Corro rápido.
+Río con amigos.
+Juego fútbol.
+Estudio solo.
+Trabajo motivado.
+Leo sin parar.
+Descanso tranquilo.
+Ayudo cuando puedo.
+Vivo feliz.
+Cocino bien.
+Leo mucho.
+Trabajo contento.
+Canto alto.
+Organizo bien.
+Descanso poco.
+Escribo poco.
+Pinto lento.
+Trabajo y sonrío.
+Cocino y limpio.
+Leo y aprendo.
+Estudio y enseño.
+Organizo y escribo.
+Aprendo y enseño.
+Cocino y sirvo.
+Leo y descanso.
+Canto y río.
+Trabajo y escucho.
+Pinto y coloreo.
+Cocino y decoro.
+Escribo y leo.
+Leo y enseño.
+Trabajo y estudio.
+Cocino y hablo.
+Escribo y planeo.
+Aprendo y comparto.
+María cocinó arroz.
+Luis estudió biología.
+Ana preparó café.
+Javier escribió un correo.
+Lucía cantó una canción.
+Carlos observó el cielo.
+El profesor enseñó historia.
+Mi hermana limpió la casa.
+El equipo entrenó fuerte.
+La empresa fabricó muebles.
+El médico atendió pacientes.
+La vecina cocinó lentejas.
+El alumno estudió inglés.
+Mi padre arregló el coche.
+La directora revisó informes.
+El escritor redactó un cuento.
+El chef midió ingredientes.
+La doctora examinó niños.
+Mi amigo guardó documentos.
+El grupo cantó en el teatro.
+Trabajé mucho ayer.
+Cociné pasta.
+Leí un libro.
+Estudié ciencias.
+Preparé té.
+Escribí correos.
+Observé estrellas.
+Organicé tareas.
+Visité a mis amigos.
+Limpié la cocina.
+Aprendí historia.
+Pinté un cuadro.
+Grabé vídeos.
+Toqué guitarra.
+Investigué ciencia.
+Medí azúcar.
+Gestioné tareas.
+Planeé vacaciones.
+Dormí temprano.
+Descansé en casa.
+María cocinó y sirvió.
+Luis estudió y aprobó.
+Ana preparó y limpió.
+Lucía cantó y bailó.
+Carlos observó y anotó.
+El profesor enseñó y corrigió.
+Mi hermana limpió y cocinó.
+El grupo cantó y celebró.
+El chef cocinó y decoró.
+La doctora examinó y aconsejó.
+María cocinará arroz.
+Luis estudiará inglés.
+Ana preparará café.
+Javier escribirá una carta.
+Lucía cantará una canción.
+Carlos observará estrellas.
+El profesor enseñará historia.
+Mi hermana limpiará la casa.
+El equipo entrenará mañana.
+La empresa producirá muebles.
+El médico atenderá pacientes.
+La vecina cocinará lentejas.
+El alumno estudiará idiomas.
+Mi padre arreglará el coche.
+La directora organizará informes.
+El escritor redactará un libro.
+El chef medirá ingredientes.
+La doctora examinará pacientes.
+Mi amigo guardará fotos.
+El grupo cantará en Madrid.
+Trabajaré mañana.
+Cocinaré arroz.
+Leeré un libro.
+Estudiaré biología.
+Prepararé té.
+Escribiré correos.
+Observaré el cielo.
+Organizaré tareas.
+Visitaré amigos.
+Limpiaré la casa.
+Aprenderé francés.
+Pintaré un cuadro.
+Grabaré vídeos.
+Tocaré guitarra.
+Investigaré arte.
+Mediré ingredientes.
+Gestionaré proyectos.
+Planearé viajes.
+Dormiré bien.
+Descansaré después.
+María cocinará y servirá.
+Luis estudiará y aprobará.
+Ana preparará y limpiará.
+Lucía cantará y bailará.
+Carlos observará y anotará.
+El profesor enseñará y corregirá.
+Mi hermana limpiará y cocinará.
+El grupo cantará y celebrará.
+El chef cocinará y decorará.
+La doctora examinará y aconsejará.
+María cocina arroz todas las mañanas.
+Luis estudia matemáticas cada martes.
+Ana prepara café cada tarde.
+Javier escribe artículos por la noche.
+Lucía canta canciones los viernes.
+Carlos observa estrellas todas las noches.
+El profesor enseña historia los lunes.
+Mi hermana limpia la casa los domingos.
+El equipo entrena todos los días.
+La empresa fabrica muebles cada mes.
+El médico atiende pacientes los jueves.
+La vecina cocina lentejas los lunes.
+El alumno estudia inglés cada tarde.
+Mi padre repara la bicicleta los sábados.
+La directora revisa informes cada martes.
+El escritor redacta cuentos por la noche.
+El chef prepara postres todos los sábados.
+La doctora examina a los niños cada jueves.
+Mi amigo organiza su escritorio los domingos.
+El grupo canta canciones nuevas los viernes.
+Trabajo cada mañana con alegría.
+Cocino arroz los sábados y domingos.
+Leo periódicos todos los días.
+Estudio idiomas cada noche.
+Preparo desayuno todas las mañanas.
+Escribo correos cada tarde.
+Observo pájaros cada amanecer.
+Organizo documentos todos los lunes.
+Visito museos los domingos.
+Limpio el suelo cada día.
+Reparo el ordenador cada mes.
+Cocino pasta todos los viernes.
+Aprendo historia cada semana.
+Enseño matemáticas los martes.
+Pinto cuadros cada verano.
+Grabo vídeos todos los domingos.
+Toco guitarra cada noche.
+Investigo temas nuevos cada semana.
+Mido ingredientes todos los jueves.
+Gestiono proyectos cada mañana.
+Planeo viajes cada año.
+Trabajo por la tarde.
+María me compra flores cada semana.
+Luis le escribe cartas a su madre cada mes.
+Ana nos prepara la cena todas las noches.
+Javier lo arregla cada día.
+Lucía les enseña canciones los viernes.
+Carlos me llama cada noche.
+El profesor les explica el tema cada martes.
+Mi hermana le regala dulces a su amiga cada mes.
+El equipo lo entrena todos los días.
+La empresa nos envía productos cada lunes.
+El médico me revisa la vista cada jueves.
+La vecina le presta libros cada semana.
+El alumno lo repite cada día.
+Mi padre me ayuda cada noche.
+La directora les envía correos todos los lunes.
+El escritor lo publica cada viernes.
+El chef me prepara café cada mañana.
+La doctora le recomienda descanso cada mes.
+Mi amigo lo guarda todos los días.
+El grupo les canta canciones cada sábado.
+Trabajo todos los lunes y descanso los domingos.
+Cocino arroz cada noche y sirvo la comida.
+Leo libros todos los días y aprendo más.
+Estudio inglés por la mañana y español por la tarde.
+Preparo café cada día pero no tomo té.
+Escribo mensajes cuando tengo tiempo.
+Corro en el parque todos los días.
+Organizo tareas cada lunes y martes.
+Limpio mi escritorio los sábados.
+Pinto paredes los domingos.
+Trabajo porque me gusta.
+Cocino cuando tengo hambre.
+Leo cuando quiero descansar.
+Escribo porque me relaja.
+Aprendo cuando escucho.
+Descanso cuando termina el día.
+Canto porque estoy feliz.
+Trabajo porque disfruto.
+Leo porque me inspira.
+Cocino cuando llueve.
+Duermo cuando puedo.
+Estudio porque me gusta.
+Trabajo cuando todos descansan.
+Cocino porque hace frío.
+Estudio cuando el sol sale.
+Leo cuando cae la tarde.
+Aprendo cuando hay silencio.
+Corro porque quiero mejorar.
+Descanso cuando puedo.
+Canto porque tengo energía.
+Trabajo porque me apasiona.
+Leo porque disfruto.
+Cocino cuando amanece.
+Duermo cuando anochece.
+Aprendo porque me gusta aprender.
+Trabajo cada lunes por la mañana.
+Leo libros todos los miércoles.
+Cocino con mis amigos los viernes.
+Escribo correos cada noche.
+Descanso los domingos por la tarde.
+Viajo cada verano con mi familia.
+Estudio cada día en la biblioteca.
+Escucho música todas las noches.
+Practico deporte cada semana.
+Pinto cuadros todos los sábados.
+Juego fútbol los domingos.
+Hablo con mis padres cada día.
+Veo películas cada viernes.
+Trabajo porque quiero progresar.
+Aprendo porque tengo curiosidad.
+Leo porque me calma.
+Cocino porque me divierte.
+Canto porque me alegra.
+Estudio porque quiero mejorar.
+Escribo porque me inspira.
+Corro porque disfruto del aire libre.
+Descanso cuando termina el trabajo.
+Leo cuando amanece.
+Trabajo cuando brilla el sol.
+Cocino porque me gusta compartir.
+Escribo cuando estoy tranquilo.
+Aprendo porque deseo crecer.
+Trabajo con constancia cada día.
+Estudio con interés todas las tardes.
+Canto con alegría todos los viernes.
+Corro con mis amigos cada mañana.
+Pinto paisajes todos los domingos.
+Leo novelas cada noche.
+Trabajo en equipo cada semana.
+Aprendo algo nuevo cada jornada.
+Cocino con amor cada tarde.
+Estudio con esfuerzo cada día.
+Trabajo y sonrío cada mañana.
+Canto y bailo los fines de semana.
+Leo y aprendo constantemente.
+Pinto y enseño a otros.
+Cocino y comparto con mi familia.
+María estudia en la Universidad de Madrid.
+Luis trabaja en una oficina en Valencia.
+Ana vive en Málaga.
+Javier escribe en su casa.
+Lucía canta en el teatro.
+Carlos lee en el parque.
+El profesor enseña en el instituto.
+Mi hermana limpia en la casa.
+El equipo entrena en el estadio.
+La empresa fabrica en Granada.
+El médico trabaja en el hospital.
+La vecina cocina en la cocina.
+El alumno estudia en la biblioteca.
+Mi padre repara en el garaje.
+La directora organiza en el despacho.
+El escritor escribe en su estudio.
+El chef prepara postres en la cocina.
+La doctora atiende pacientes en la consulta.
+Mi amigo estudia en la biblioteca.
+El grupo canta en el teatro.
+Trabajo en Madrid.
+Cocino en casa.
+Leo en el sofá.
+Estudio en la mesa.
+Escribo en el ordenador.
+Limpio en la cocina.
+Cierro la puerta en el pasillo.
+Practico guitarra en el salón.
+Descanso en la cama.
+Corro en el parque.
+Duermo en mi habitación.
+Trabajo en la empresa.
+Cocino en la escuela.
+Leo en el tren.
+Canto en el festival.
+Estudio en el Instituto Granada.
+Vivo en Casa Ana.
+Ceno en el restaurante.
+Escucho música en la terraza.
+Mido ingredientes en la cocina.
+Aprendo inglés en la academia.
+María estudia en Madrid y trabaja en su casa.
+Luis vive en Barcelona y viaja a Valencia.
+Ana enseña en el instituto y corrige en casa.
+Javier escribe en el estudio y publica en línea.
+Lucía canta en el teatro y ensaya en su habitación.
+Carlos observa aves en el parque y anota datos.
+El profesor enseña en la universidad y corrige en casa.
+Mi hermana limpia en su habitación y cocina en la sala.
+El grupo canta en Sevilla y baila en Cádiz.
+La doctora trabaja en el hospital y estudia en la universidad.
+Leo en la biblioteca y escribo en el escritorio.
+Trabajo en la oficina y estudio en la universidad.
+Pinto en casa y vendo mis cuadros en internet.
+Cocino en el restaurante y enseño en la escuela.
+Corro en el parque y descanso en el sofá.
+Cocino en Madrid.
+Leo en Casa Ana.
+Trabajo en Barcelona.
+Descanso en el jardín.
+Vivo en Sevilla.
+Estudio en la biblioteca.
+Canto en la plaza.
+Pinto en el taller.
+Trabajo en el laboratorio.
+Escribo en la universidad.
+Leo en el aula.
+Cocino en el comedor.
+Pinto en el estudio.
+Trabajo en el centro.
+Aprendo en el colegio.
+Descanso en el sofá.
+Trabajo mucho.
+Cocino arroz.
+Leo un libro.
+Estudio inglés.
+Preparo café.
+Escribo mensajes.
+Observo el cielo.
+Organizo tareas.
+Visito museos.
+Limpio la casa.
+Reparo el coche.
+Aprendo idiomas.
+Pinto cuadros.
+Grabo vídeos.
+Toco guitarra.
+Investigo temas.
+Mido ingredientes.
+Gestiono proyectos.
+Planeo vacaciones.
+Camino rápido.
+Compro pan.
+Leo poemas.
+Estudio biología.
+Trabajo feliz.
+Cocino lentejas.
+Escribo cartas.
+Canto canciones.
+Escucho música.
+Aprendo cosas.
+Cierro la puerta.
+Subo escaleras.
+Duermo bien.
+Despierto temprano.
+Corro rápido.
+Río con amigos.
+Juego fútbol.
+Estudio solo.
+Trabajo motivado.
+Leo sin parar.
+Descanso tranquilo.
+Ayudo cuando puedo.
+Vivo feliz.
+Cocino bien.
+Leo mucho.
+Trabajo contento.
+Canto alto.
+Organizo bien.
+Descanso poco.
+Escribo poco.
+Pinto lento.
+Trabajo y sonrío.
+Cocino y limpio.
+Leo y aprendo.
+Estudio y enseño.
+Organizo y escribo.
+Aprendo y enseño.
+Cocino y sirvo.
+Leo y descanso.
+Canto y río.
+Trabajo y escucho.
+Pinto y coloreo.
+Cocino y decoro.
+Escribo y leo.
+Leo y enseño.
+Trabajo y estudio.
+Cocino y hablo.
+Escribo y planeo.
+Aprendo y comparto.
+María cocinó arroz.
+Luis estudió biología.
+Ana preparó café.
+Javier escribió un correo.
+Lucía cantó una canción.
+Carlos observó el cielo.
+El profesor enseñó historia.
+Mi hermana limpió la casa.
+El equipo entrenó fuerte.
+La empresa fabricó muebles.
+El médico atendió pacientes.
+La vecina cocinó lentejas.
+El alumno estudió inglés.
+Mi padre arregló el coche.
+La directora revisó informes.
+El escritor redactó un cuento.
+El chef midió los ingredientes.
+La doctora examinó niños.
+Mi amigo guardó documentos.
+El grupo cantó en el teatro.
+Trabajé mucho ayer.
+Cociné pasta.
+Leí un libro.
+Estudié ciencias.
+Preparé té.
+Escribí correos.
+Observé estrellas.
+Organicé tareas.
+Visité a mis amigos.
+Limpié la cocina.
+Aprendí historia.
+Pinté un cuadro.
+Grabé vídeos.
+Toqué guitarra.
+Investigué ciencia.
+Medí azúcar.
+Gestioné tareas.
+Planeé vacaciones.
+Dormí temprano.
+Descansé en casa.
+María cocinó y sirvió.
+Luis estudió y aprobó.
+Ana preparó y limpió.
+Lucía cantó y bailó.
+Carlos observó y anotó.
+El profesor enseñó y corrigió.
+Mi hermana limpió y cocinó.
+El grupo cantó y celebró.
+El chef cocinó y decoró.
+La doctora examinó y aconsejó.
+María cocinará arroz.
+Luis estudiará inglés.
+Ana preparará café.
+Javier escribirá una carta.
+Lucía cantará una canción.
+Carlos observará estrellas.
+El profesor enseñará historia.
+Mi hermana limpiará la casa.
+El equipo entrenará mañana.
+La empresa producirá muebles.
+El médico atenderá pacientes.
+La vecina cocinará lentejas.
+El alumno estudiará idiomas.
+Mi padre arreglará el coche.
+La directora organizará informes.
+El escritor redactará un libro.
+El chef medirá ingredientes.
+La doctora examinará pacientes.
+Mi amigo guardará fotos.
+El grupo cantará en Madrid.
+Trabajaré mañana.
+Cocinaré arroz.
+Leeré un libro.
+Estudiaré biología.
+Prepararé té.
+Escribiré correos.
+Observaré el cielo.
+Organizaré tareas.
+Visitaré amigos.
+Limpiaré la casa.
+Aprenderé francés.
+Pintaré un cuadro.
+Grabaré vídeos.
+Tocaré guitarra.
+Investigaré arte.
+Mediré ingredientes.
+Gestionaré proyectos.
+Planearé viajes.
+Dormiré bien.
+Descansaré después.
+María cocinará y servirá.
+Luis estudiará y aprobará.
+Ana preparará y limpiará.
+Lucía cantará y bailará.
+Carlos observará y anotará.
+El profesor enseñará y corregirá.
+Mi hermana limpiará y cocinará.
+El grupo cantará y celebrará.
+El chef cocinará y decorará.
+La doctora examinará y aconsejará.
