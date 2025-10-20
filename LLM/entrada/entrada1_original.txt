@@ -1149,83 +1149,44 @@ El sastre no cose trajes en su taller todas las semanas.
 Los estudiantes no presentan trabajos en el aula cada mes.
 Ana no pasea en bicicleta por el carril bici cada tarde.
 Ayer compré pan en la panadería de la esquina.
-
 La semana pasada encontré un gato blanco en el parque.
-
 El año pasado viajamos a la playa en coche.
-
 Mañana por la mañana correré por el paseo marítimo.
-
 Anoche cenamos pizza en casa de María.
-
 El lunes próximo firmaremos el contrato en la oficina.
-
 Hace dos días vi una película estupenda en el cine.
-
 Esta tarde los niños juegan al fútbol en el patio.
-
 El mes que viene abrirán una nueva tienda en el centro comercial.
-
 El jueves pasado llovió mucho en el norte de la ciudad.
-
 El verano pasado nadamos todos los días en la piscina municipal.
-
 El fin de semana pasado fuimos de excursión a la montaña.
-
 Mañana por la tarde estudiaré matemáticas en la biblioteca.
-
 La próxima primavera plantaremos flores en el jardín.
-
 Ayer por la noche paseamos en bicicleta por el carril bici.
-
 El día de su cumpleaños celebró una gran fiesta en su casa.
-
 Hace un rato dejé las llaves sobre la mesa de la cocina.
-
 El invierno pasado esquiamos en los Alpes.
-
 El martes enviaré el paquete desde la oficina de correos.
-
 El sábado por la mañana desayunamos churros en la cafetería.
-
 El año que viene aprenderé francés en la escuela de idiomas.
-
 Anteayer se cayó un jarrón de la repisa de la chimenea.
-
 El mes pasado se mudaron a un piso nuevo en el barrio antiguo.
-
 Esta mañana he visto a tu hermano en el supermercado.
-
 El domingo por la tarde vimos un documental en la televisión.
-
 Hace cinco minutos sonó el timbre en la puerta principal.
-
 El otoño pasado recogimos setas en el bosque.
-
 El viernes por la noche bailaremos salsa en la discoteca.
-
 El día de Navidad cantaron villancicos en la iglesia.
-
 La semana que viene presentarán el nuevo proyecto en la sede central.
-
 Ayer al mediodía comimos pasta en un restaurante italiano.
-
 El lunes pasado entregué el trabajo final en la facultad.
-
 Mañana al amanecer saldremos a pescar en el lago.
-
 Hace unas horas dejé mi paraguas en el vestíbulo.
-
 El año pasado se graduó con honores en la universidad.
-
 Esta noche hay una luna preciosa en el cielo.
-
 El miércoles próximo jugaremos un partido de tenis en las pistas municipales.
-
 El sábado pasado compré un libro interesante en la feria del libro.
-
 El día de la boda brindaron con champán en el jardín.
-
 La próxima semana instalarán el nuevo mobiliario en el aula.
 Ayer por la tarde puse la lavadora en el lavadero.
 El mes de julio viajaré a Japón con mis amigos.
@@ -1238,555 +1199,280 @@ Esta tarde hay una reunión importante en la sala de juntas.
 El fin de semana que viene acamparemos en la orilla del río.
 Ayer al anochecer encendieron las luces en el monumento.
 Ayer compré flores en el mercado municipal.
-
 La semana pasada viajamos a Barcelona en tren.
-
 El año pasado nadamos en el mar Caribe.
-
 Mañana por la mañana caminaré por el sendero de la montaña.
-
 Anoche cenamos sushi en un restaurante japonés.
-
 El lunes próximo reuniremos documentos en la oficina.
-
 Hace tres días vi un concierto en el auditorio.
-
 Esta tarde los niños pintarán cuadros en el taller de arte.
-
 El mes que viene inaugurarán un museo en el centro histórico.
-
 El jueves pasado corrí una maratón en el parque nacional.
-
 El verano pasado acampamos en el bosque de pinos.
-
 El fin de semana pasado bailamos salsa en la playa.
-
 Mañana por la tarde estudiaré biología en la universidad.
-
 La próxima primavera volaremos cometas en el campo.
-
 Ayer por la noche miré las estrellas desde el mirador.
-
 El día de su boda brindaron con vino en el jardín.
-
 Hace una hora dejé el bolso en el asiento del coche.
-
 El invierno pasado patinamos sobre hielo en la pista cubierta.
-
 El martes enviaré una carta desde la estación de correos.
-
 El sábado por la mañana desayunamos tostadas en la cafetería nueva.
-
 El año que viene aprenderé italiano en la academia de idiomas.
-
 Anteayer plantó un árbol en el patio de la escuela.
-
 El mes pasado se compró una moto en la concesionaria.
-
 Esta mañana he visto a mi abuela en el centro de salud.
-
 El domingo por la tarde vimos una obra de teatro en el teatro municipal.
-
 Hace diez minutos sonó la alarma en el edificio de al lado.
-
 El otoño pasado recogimos manzanas en el huerto.
-
 El viernes por la noche cantaremos karaoke en el bar de moda.
-
 El día de Navidad encendieron velas en la catedral.
-
 La semana que presente presentarán el informe en la sede corporativa.
-
 Ayer al mediodía comimos paella en un chiringuito playero.
-
 El lunes pasado entregué la tesis en la biblioteca.
-
 Mañana al amanecer saldremos a caminar por la ribera del río.
-
 Hace unas horas dejé las gafas en la mesa de noche.
-
 El año pasado se certificó en inglés en el instituto.
-
 Esta noche hay una exposición de arte en la galería principal.
-
 El miércoles próximo jugaremos al baloncesto en el polideportivo.
-
 El sábado pasado compré una planta en el vivero.
-
 El día de la fiesta encendieron luces en el patio trasero.
-
 La próxima semana instalarán antenas en el tejado.
-
 Ayer por la tarde lavé el coche en el lavadero automático.
-
 El mes de julio viajaré a Canadá con mi familia.
-
 Hace un momento pasó una ambulancia por la avenida.
-
 El invierno pasado hicimos una fogata en la cabaña.
-
 El domingo por la mañana leo poesía en el balcón.
-
 El jueves que viene harán una protesta en la plaza central.
-
 El año pasado aparcó la furgoneta en el garaje comunitario.
-
 Esta tarde hay una charla sobre medio ambiente en el auditorio.
-
 El fin de semana que viene pescaremos en el embalse.
-
 Ayer al anochecer encendieron las farolas en el paseo.
-
 La semana pasada grabaron un documental en la selva.
-
 El año pasado bucearon en el arrecife de coral.
-
 Mañana por la mañana practicaré yoga en el parque.
-
 Anoche vimos una película de terror en el cine de verano.
-
 El lunes próximo firmaremos el acuerdo en el notario.
-
 Hace cuatro días encontré un perro perdido en la calle.
-
 Esta tarde los abuelos pasean por el jardín botánico.
-
 El mes que viene estrenarán una serie en la televisión.
-
 El jueves pasado llovió intensamente en la costa.
-
 El verano pasado surfeamos olas en la playa norte.
-
 Ayer compré un libro.
-
 La semana pasada viajamos a Madrid.
-
 El año pasado nadamos en el lago.
-
 Mañana por la mañana caminaré.
-
 Anoche cenamos pizza.
-
 El lunes próximo reuniremos los papeles.
-
 Hace tres días vi un espectáculo.
-
 Esta tarde los niños pintarán.
-
 El mes que viene inaugurarán un centro.
-
 El jueves pasado corrí.
-
 El verano pasado acampamos.
-
 El fin de semana pasado bailamos.
-
 Mañana por la tarde estudiaré.
-
 La próxima primavera volaremos.
-
 Ayer por la noche miré la luna.
-
 El día de su boda brindaron.
-
 Hace una hora dejé el bolso.
-
 El invierno pasado patinamos.
-
 El martes enviaré un paquete.
-
 El sábado por la mañana desayunamos.
-
 El año que viene aprenderé chino.
-
 Anteayer plantó flores.
-
 El mes pasado se compró un coche.
-
 Esta mañana he visto a mi primo.
-
 El domingo por la tarde vimos un partido.
-
 Hace diez minutos sonó el teléfono.
-
 El otoño pasado recogimos hojas.
-
 El viernes por la noche cantaremos.
-
 El día de Navidad encendieron luces.
-
 La semana que presente presentarán los resultados.
-
 Ayer al mediodía comimos.
-
 El lunes pasado entregué el proyecto.
-
 Mañana al amanecer saldremos.
-
 Hace unas horas dejé las llaves.
-
 El año pasado se graduó.
-
 Esta noche hay una conferencia.
-
 El miércoles próximo jugaremos.
-
 El sábado pasado compré ropa.
-
 El día de la fiesta encendieron velas.
-
 La próxima semana instalarán software.
-
 Ayer por la tarde lavé la ropa.
-
 El mes de julio viajaré.
-
 Hace un momento pasó el tren.
-
 El invierno pasado hicimos snowboard.
-
 El domingo por la mañana leo.
-
 El jueves que viene harán una reunión.
-
 El año pasado aparcó.
-
 Esta tarde hay un examen.
-
 El fin de semana que viene iremos de viaje.
-
 Ayer al anochecer encendieron las luces.
-
 La semana pasada grabaron una canción.
-
 El año pasado bucearon.
-
 Mañana por la mañana practicaré.
-
 Anoche vimos las estrellas.
-
 El lunes próximo firmaremos.
-
 Hace cuatro días encontré dinero.
-
 Esta tarde los abuelos descansan.
-
 El mes que viene estrenarán una película.
-
 El jueves pasado nevó.
-
 El verano pasado surfeamos.
-
 Compré un regalo para mi madre.
-
 Viajamos a Italia el año pasado.
-
 Nadaron en la piscina municipal.
-
 Caminé por el parque ayer.
-
 Cenaron en un restaurante elegante.
-
 Reunieron los documentos necesarios.
-
 Vio una obra de teatro impresionante.
-
 Los niños pintaron murales coloridos.
-
 Inauguraron la nueva biblioteca.
-
 Corrí diez kilómetros.
-
 Acamparon en la montaña.
-
 Bailaron toda la noche.
-
 Estudió para el examen final.
-
 Volaron en globo aerostático.
-
 Miró el atardecer desde la colina.
-
 Brindaron por el éxito del proyecto.
-
 Dejó la cartera en el coche.
-
 Patinaron sobre el lago congelado.
-
 Envió la solicitud por correo.
-
 Desayunaron huevos con tocino.
-
 Aprendió a tocar la guitarra.
-
 Plantó un rosal en el jardín.
-
 Se compró una casa nueva.
-
 Vio a su mejor amigo.
-
 Vieron un documental sobre naturaleza.
-
 Sonó la campana de la escuela.
-
 Recogieron setas en el bosque.
-
 Cantaron canciones populares.
-
 Encendieron una fogata en la playa.
-
 Presentaron su renuncia al jefe.
-
 Comieron sushi por primera vez.
-
 Entregó el trabajo a tiempo.
-
 Salió a correr al amanecer.
-
 Dejó las gafas en la mesa.
-
 Se graduó con honores.
-
 Hubo un accidente en la carretera.
-
 Jugaron al fútbol en el patio.
-
 Compró entradas para el concierto.
-
 Encendieron las luces del árbol.
-
 Instalaron el nuevo sistema.
-
 Lavó los platos después de cenar.
-
 Viajó a Asia el verano pasado.
-
 Pasó el autobús de las ocho.
-
 Hicieron un muñeco de nieve.
-
 Leyó el periódico de la mañana.
-
 Hicieron una fiesta sorpresa.
-
 Aparcó en el garaje subterráneo.
-
 Hubo una tormenta eléctrica.
-
 Fueron de excursión a la sierra.
-
 Encendieron las velas del altar.
-
 Grabaron un video musical.
-
 Bucearon en aguas profundas.
-
 Practicó meditación diaria.
-
 Vio la luna llena.
-
 Firmaron el contrato de arrendamiento.
-
 Encontró un tesoro escondido.
-
 Descansaron en la hamaca.
-
 Estrenaron una obra de teatro.
-
 Nevó en la ciudad.
-
 Surfearon olas gigantes.
-
 Compraremos una casa el año próximo.
-
 Viajarán a Japón en diciembre.
-
 Nadará en el mar la próxima semana.
-
 Caminaré por el centro mañana.
-
 Cenaremos en ese nuevo restaurante.
-
 Reunirán a la familia en Navidad.
-
 Verá la nueva exposición de arte.
-
 Los niños pintarán un mural pronto.
-
 Inaugurarán el puente el mes que viene.
-
 Correrá una maratón el próximo año.
-
 Acamparemos en el parque nacional.
-
 Bailarán en la boda de su hermana.
-
 Estudiaré medicina en la universidad.
-
 Volaremos a Nueva York en octubre.
-
 Mirará las estrellas esta noche.
-
 Brindaremos por tu éxito.
-
 Dejará el paquete en la oficina.
-
 Patinarán en la pista nueva.
-
 Enviaré la carta por correo express.
-
 Desayunarán juntos el domingo.
-
 Aprenderá a programar pronto.
-
 Plantará un árbol en el jardín.
-
 Se comprará un coche eléctrico.
-
 Verá a sus padres el fin de semana.
-
 Verán la final del campeonato.
-
 Sonará la alarma a las siete.
-
 Recogerán la cosecha en otoño.
-
 Cantarán en el coro de la iglesia.
-
 Encenderán las luces al anochecer.
-
 Presentarán el informe la próxima semana.
-
 Comeremos paella el domingo.
-
 Entregará el proyecto pronto.
-
 Saldrá a pasear al atardecer.
-
 Dejará las llaves bajo el felpudo.
-
 Se graduará el próximo mes.
-
 Habrá una eclipse lunar pronto.
-
 Jugaremos al tenis el sábado.
-
 Comprará regalos en diciembre.
-
 Encenderán la chimenea en invierno.
-
 Instalarán paneles solares.
-
 Lavará el coche el fin de semana.
-
 Viajará a Europa el verano que viene.
-
 Pasará el examen con buena nota.
-
 Harán una barbacoa en el jardín.
-
 Leerá el libro que le recomendé.
-
 Harán una excursión el próximo mes.
-
 Aparcará en el nuevo estacionamiento.
-
 Habrá una feria del libro.
-
 Irán de vacaciones a la playa.
-
 Encenderán las farolas al caer la noche.
-
 Grabarán un podcast la semana que viene.
-
 Buceará en las Maldivas.
-
 Practicará yoga todas las mañanas.
-
 Verá el amanecer desde la montaña.
-
 Firmará el contrato mañana.
-
 Encontrará un trabajo mejor.
-
 Descansará en la playa.
-
 Estrenarán la película en cines.
-
 Nevará en la sierra este invierno.
-
 Surfeará en Hawaii el próximo año.
-
 Compro fruta en el mercado.
-
 Viajan a trabajo frecuentemente.
-
 Nada en la piscina los fines de semana.
-
 Camino por el parque diariamente.
-
 Cenamos juntos todas las noches.
-
 Reunen datos para la investigación.
-
 Ve películas de ciencia ficción.
-
 Los niños pintan en la escuela.
-
 Inauguran exposiciones de arte moderno.
-
 Corre por las mañanas antes del trabajo.
-
 Acampa en lugares remotos.
-
 Baila tango los viernes.
-
 Estudia arquitectura en la universidad.
-
 Vuela en avión por negocios.
-
 Mira series en streaming.
-
 Brinda por la salud de su familia.
-
 Deja la mochila en la entrada.
-
 Patina en el parque los domingos.
-
 Envia correos electrónicos constantemente.
-
 Desayuna café con leche y tostadas.
-
 Aprende idiomas en línea.
-
 Planta verduras en su huerto.
-
 Se compra ropa en las rebajas.
-
 Ve a sus amigos regularmente.
-
 Ven documentales sobre historia.
-
 Suena el despertador a las seis.
-
 Recoge flores silvestres.
-
 Canta en un grupo musical.
-
 Enciende velas aromáticas.
-
 Presenta proyectos innovadores.
-
 Come comida vegetariana.
-
 Entrega trabajos puntualmente.
-
 Sale a caminar al atardecer.
-
 Deja el teléfono en modo silencio.
-
 Se gradúa este semestre.
-
 Hay conciertos en el parque.
 Juega al baloncesto con sus amigos.
 Compra libros usados.
@@ -2737,8 +2423,6 @@ Hace cuatro días plantó un árbol en el jardín botánico.
 Esta tarde los abuelos pasean por el parque de la ciudad.
 El año que veniré estrenarán una serie nueva en la televisión.
 El verano pasado surfearon olas altas en la playa atlántica.
-
-Con CCT explícito sin CCL (60 oraciones.)
 El año pasado estudió matemáticas.
 La semana que veniré comprarán un coche.
 Ayer llamaron por teléfono.
@@ -2797,8 +2481,6 @@ Hace cuatro días plantó.
 Esta tarde pasean.
 El año que veniré estrenarán.
 El verano pasado surfearon.
-
-Sin CCT ⇒ PASADO (60 oraciones.)
 Compró un regalo para su madre.
 Viajaron a Brasil el mes pasado.
 Nadó en el lago cercano.
@@ -2859,8 +2541,6 @@ Descansó en el sofá cómodo.
 Estrenó la película esperada.
 Nevó en la montaña.
 Surfeó olas gigantes.
-
-Sin CCT ⇒ FUTURO/PRÓXIMO (60 oraciones.)
 Comprará una moto nueva.
 Viajarán a China pronto.
 Nadará en el océano.
@@ -2921,8 +2601,6 @@ Descansará en casa.
 Estrenará la serie.
 Nevará en diciembre.
 Surfeará mañana.
-
-Sin CCT ⇒ PRESENTE (60 oraciones.)
 Compra verduras ecológicas.
 Viaja frecuentemente a Londres.
 Nada en la piscina climatizada.
@@ -4085,8 +3763,6 @@ Anoche resucitaron pacientes en urgencias.
 El lunes próximo operarán en el quirófano.
 Hace cuatro días diagnosticaron enfermedades en el centro.
 Esta tarde rehabilitan lesionados en la clínica.
-
-Con CCT explícito sin CCL (100 oraciones.)
 El año pasado reconstruyeron.
 La semana que viene presentarán.
 Ayer instalaron.
@@ -4185,8 +3861,6 @@ Anoche resucitaron.
 El lunes próximo operarán.
 Hace cuatro días diagnosticaron.
 Esta tarde rehabilitan.
-
-Sin CCT ⇒ PASADO (100 oraciones.)
 Reconstruyeron el edificio histórico.
 Presentaron la nueva colección.
 Instalaron el sistema de seguridad.
@@ -4285,8 +3959,7 @@ Resucitaron tradiciones olvidadas.
 Operaron cerebros humanos.
 Diagnosticaron epidemias globales.
 Rehabilitaron presos comunes.
-
-Sin CCT ⇒ FUTURO/PRÓXIMO (100 orones.)
+Sin CCT ⇒ FUTURO/PRÓXIMO (100 orones.).
 Reconstruirán ciudades enteras.
 Presentarán coches voladores.
 Instalarán redes 6G.
@@ -4385,8 +4058,6 @@ Resucitarán eras geológicas.
 Operarán con nanites.
 Diagnosticarán males cósmicos.
 Rehabilitarán planetas muertos.
-
-Sin CCT ⇒ PRESENTE (100 oraciones.)
 Reconstruyen barrios marginales.
 Presentan moda reciclada.
 Instalan energías renovables.
@@ -4780,1189 +4451,598 @@ El mes pasado celebraron un concurso de baile en el salón municipal.
 Hace dos horas entregaron los premios en el auditorio principal.
 El verano próximo rodarán una serie dramática en la ciudad histórica.
 Anteayer inauguraron una exposición de esculturas en el museo de arte.
-
 El jueves pasado realizaron un taller de jardinería en el vivero comunitario.
-
 Esta mañana han plantado flores en el jardín público.
-
 El fin de semana pasado practicaron senderismo en la sierra cercana.
-
 El año que viene construirán un anfiteatro en el parque central.
-
 El lunes próximo impartirán una clase de yoga en el gimnasio.
-
 Hace un momento ajustaron el micrófono en el escenario.
-
 El domingo por la mañana pescaron en el embalse grande.
-
 El invierno pasado compitieron en carreras de trineos en la estación de ski.
-
 El sábado por la noche tocaron música folk en la taberna tradicional.
-
 El mes de julio participarán en un festival de cine en la playa.
-
 La próxima primavera podarán los rosales en el jardín botánico.
-
 Ayer al mediodía degustaron vinos en la bodega familiar.
-
 El día de su jubilación donó instrumentos en la escuela de música.
-
 Hace una semana rescataron a un pájaro herido en el bosque.
-
 El otoño pasado recolectaron castañas en el monte.
-
 El viernes por la tarde volaron cometas en el campo abierto.
-
 Esta tarde los niños juegan a la pelota en el patio del colegio.
-
 El martes rindieron homenaje a los fundadores en el monumento histórico.
-
 El año pasado digitalizaron documentos en el archivo regional.
-
 La semana pasada patentaron un dispositivo en la oficina de patentes.
-
 Mañana al amanecer meditarán en el jardín zen.
-
 El jueves que viene entrevistarán al autor en la librería.
-
 Anoche esquiaron en la pista iluminada.
-
 El día de Navidad repartieron alimentos en el comedor social.
-
 Hace cinco minutos calibraron las balanzas en el mercado.
-
 El verano pasado repararon el puente en el río.
-
 El lunes pasado certificaron los productos en la cooperativa.
-
 Esta mañana han tasado una joya en la joyería.
-
 El domingo por la tarde navegaron en bote en el lago.
-
 El mes que viene programarán una app en la startup.
-
 Ayer por la noche rastrearon planetas en el observatorio astronómico.
-
 El invierno próximo cultivarán hongos en la cueva natural.
-
 El sábado por la mañana clasificaron cartas en la oficina postal.
-
 Hace tres días sondearon el terreno en el yacimiento arqueológico.
-
 La próxima semana afinarán los instrumentos en la sala de ensayo.
-
 El año pasado criaron ovejas en la granja ecológica.
-
 Esta tarde hornean galletas en la cocina comunitaria.
-
 El miércoles próximo ensayarán la sinfonía en el auditorio.
-
 El fin de semana que viene pescarán en el río limpio.
-
 Ayer al anochecer proyectaron cortometrajes en la fachada del edificio.
-
 El jueves pasado analizaron muestras de agua en el laboratorio ambiental.
-
 La semana pasada criaron abejas en el apiario.
-
 El mes pasado cultivaron zanahorias en la huerta.
-
 Mañana por la mañana teñirán telas en el taller textil.
-
 Anoche grabaron un concierto en el teatro.
-
 El lunes próximo fundirán oro en la joyería artesanal.
-
 Hace cuatro días tallaron mármol en el taller de escultura.
-
 Esta tarde los alfareros modelan cerámica en el taller de alfarería.
-
 El año que veniré excavarán ruinas en el sitio histórico.
-
 El verano pasado restauraron murales en la iglesia antigua.
-
 El año pasado compilaron datos en el centro de investigación.
-
 La semana que veniré modelarán prototipos en el laboratorio de diseño.
-
 Mañana por la tarde bordarán un mantel en el taller de bordado.
-
 Anoche soldaron componentes en la fábrica de electrónica.
-
 El día de su bautizo plantaron un árbol en el parque familiar.
-
 Hace una hora encuadernaron libros en la biblioteca antigua.
-
 El otoño pasado prensaron aceitunas en la almazara tradicional.
-
 El viernes por la tarde forjaron herrajes en la herrería rural.
-
 Esta mañana han esmaltado joyas en el taller de orfebrería.
-
 El martes pulieron pisos en el palacio.
-
 El año pasado grabaron inscripciones en el taller de grabado.
-
 La semana pasada trenzaron cestas en el taller de cestería.
-
 Mañana al amanecer tallarán hielo en el festival invernal.
-
 El jueves que veniré moldearán vidrio en el estudio de vidriería.
-
 Anoche cocieron pan en la panadería artesanal.
-
 El día de Navidad tallaron figuras en la confitería.
-
 Hace cinco minutos estamparon camisetas en la serigrafía.
-
 El verano pasado anillaron pájaros en la reserva ornitológica.
-
 El lunes pasado catalogaron fósiles en el museo de ciencias naturales.
-
 Esta mañana han digitalizado mapas en el archivo cartográfico.
-
 El domingo por la tarde navegaron en kayak en el río rápido.
-
 El mes que veniré instalarán sensores en el edificio inteligente.
-
 Ayer por la noche fotografiaron estrellas en el desierto.
-
 El invierno próximo criarán renos en la granja ártica.
-
 El sábado por la mañana clasificaron minerales en el laboratorio geológico.
-
 Hace tres días analizaron sangre en el hospital general.
-
 La próxima semana clonarán plantas en el instituto botánico.
-
 El año pasado transcribieron manuscritos en la biblioteca nacional.
-
 Esta tarde interpretan música en el café concert.
-
 El miércoles próximo ensamblarán muebles en la fábrica de diseño.
-
 El fin de semana que veniré observarán aves en el humedal.
-
 Ayer al anochecer lanzaron globos en el festival aéreo.
-
 El jueves pasado examinaron pacientes en la clínica dental.
-
 La semana pasada aislaron bacterias en el laboratorio microbiológico.
-
 El mes pasado sintetizaron compuestos en la universidad.
-
 Mañana por la mañana transplantarán córneas en el hospital oftalmológico.
-
 Anoche resucitaron a un paciente en la unidad de cuidados intensivos.
-
 El lunes próximo operarán de corazón en el quirófano.
-
 Hace cuatro días diagnosticaron enfermedades en el centro de salud.
-
 Esta tarde rehabilitan lesionados en la clínica de fisioterapia.
-
 El año que veniré vacunarán niños en la escuela.
-
 El verano pasado donaron sangre en la campaña de donación.
-
 El año pasado investigaron vacunas en el laboratorio farmacéutico.
-
 La semana que veniré probarán medicamentos en el centro de investigación.
-
 Mañana por la tarde auscultarán pacientes en la consulta médica.
-
 Anoche radiografiaron un brazo en el servicio de radiología.
-
 El día de su nacimiento pesaron al bebé en la maternidad.
-
 Hace una hora curaron una herida en el puesto de primeros auxilios.
-
 El otoño pasado analizaron muestras en el laboratorio clínico.
-
 El viernes por la tarde transplantaron un riñón en el hospital de trasplantes.
-
 Esta mañana han operado de cataratas en la clínica oftalmológica.
-
 El martes revisaron dientes en la consulta dental.
-
 El año pasado midieron la presión en el centro de salud.
-
 La semana pasada hicieron un TAC en el hospital regional.
-
 Mañana al amanecer harán rehabilitación en el gimnasio terapéutico.
-
 El jueves que veniré pondrán vacunas en el centro de vacunación.
-
 Anoche suturaron una herida en urgencias.
-
 El día de Navidad atendieron un parto en la sala de partos.
-
 Hace cinco minutos reanimaron a un accidentado en la vía pública.
-
 El verano pasado hicieron un bypass en el hospital cardíaco.
-
 El lunes pasado hicieron diálisis en la unidad renal.
-
 Esta mañana han hecho un electrocardiograma en la consulta.
 El año pasado organizaron.
-
 La semana que viene impartirán.
-
 Ayer instalaron.
-
 Mañana por la tarde grabarán.
-
 El mes pasado celebraron.
-
 Hace dos horas entregaron.
-
 El verano próximo rodarán.
-
 Anteayer inauguraron.
-
 El jueves pasado realizaron.
-
 Esta mañana han plantado.
-
 El fin de semana pasado practicaron.
-
 El año que viene construirán.
-
 El lunes próximo impartirán.
-
 Hace un momento ajustaron.
-
 El domingo por la mañana pescaron.
-
 El invierno pasado compitieron.
-
 El sábado por la noche tocaron.
-
 El mes de julio participarán.
-
 La próxima primavera podarán.
-
 Ayer al mediodía degustaron.
-
 El día de su jubilación donó.
-
 Hace una semana rescataron.
-
 El otoño pasado recolectaron.
-
 El viernes por la tarde volaron.
-
 Esta tarde los niños juegan.
-
 El martes rindieron.
-
 El año pasado digitalizaron.
-
 La semana pasada patentaron.
-
 Mañana al amanecer meditarán.
-
 El jueves que viene entrevistarán.
-
 Anoche esquiaron.
-
 El día de Navidad repartieron.
-
 Hace cinco minutos calibraron.
-
 El verano pasado repararon.
-
 El lunes pasado certificaron.
-
 Esta mañana han tasado.
-
 El domingo por la tarde navegaron.
-
 El mes que viene programarán.
-
 Ayer por la noche rastrearon.
-
 El invierno próximo cultivarán.
-
 El sábado por la mañana clasificaron.
-
 Hace tres días sondearon.
-
 La próxima semana afinarán.
-
 El año pasado criaron.
-
 Esta tarde hornean.
-
 El miércoles próximo ensayarán.
-
 El fin de semana que viene pescarán.
-
 Ayer al anochecer proyectaron.
-
 El jueves pasado analizaron.
-
 La semana pasada criaron.
-
 El mes pasado cultivaron.
-
 Mañana por la mañana teñirán.
-
 Anoche grabaron.
-
 El lunes próximo fundirán.
-
 Hace cuatro días tallaron.
-
 Esta tarde los alfareros modelan.
-
 El año que veniré excavarán.
-
 El verano pasado restauraron.
-
 El año pasado compilaron.
-
 La semana que veniré modelarán.
-
 Mañana por la tarde bordarán.
-
 Anoche soldaron.
-
 El día de su bautizo plantaron.
-
 Hace una hora encuadernaron.
-
 El otoño pasado prensaron.
-
 El viernes por la tarde forjaron.
-
 Esta mañana han esmaltado.
-
 El martes pulieron.
-
 El año pasado grabaron.
-
 La semana pasada trenzaron.
-
 Mañana al amanecer tallarán.
-
 El jueves que veniré moldearán.
-
 Anoche cocieron.
-
 El día de Navidad tallaron.
-
 Hace cinco minutos estamparon.
-
 El verano pasado anillaron.
-
 El lunes pasado catalogaron.
-
 Esta mañana han digitalizado.
-
 El domingo por la tarde navegaron.
-
 El mes que veniré instalarán.
-
 Ayer por la noche fotografiaron.
-
 El invierno próximo criarán.
-
 El sábado por la mañana clasificaron.
-
 Hace tres días analizaron.
-
 La próxima semana clonarán.
-
 El año pasado transcribieron.
-
 Esta tarde interpretan.
-
 El miércoles próximo ensamblarán.
-
 El fin de semana que veniré observarán.
-
 Ayer al anochecer lanzaron.
-
 El jueves pasado examinaron.
-
 La semana pasada aislaron.
-
 El mes pasado sintetizaron.
-
 Mañana por la mañana transplantarán.
-
 Anoche resucitaron.
-
 El lunes próximo operarán.
-
 Hace cuatro días diagnosticaron.
-
 Esta tarde rehabilitan.
-
 El año que veniré vacunarán.
-
 El verano pasado donaron.
-
 El año pasado investigaron.
-
 La semana que veniré probarán.
-
 Mañana por la tarde auscultarán.
-
 Anoche radiografiaron.
-
 El día de su nacimiento pesaron.
-
 Hace una hora curaron.
-
 El otoño pasado analizaron.
-
 El viernes por la tarde transplantaron.
-
 Esta mañana han operado.
-
 El martes revisaron.
-
 El año pasado midieron.
-
 La semana pasada hicieron.
-
 Mañana al amanecer harán.
-
 El jueves que veniré pondrán.
-
 Anoche suturaron.
-
 El día de Navidad atendieron.
-
 Hace cinco minutos reanimaron.
-
 El verano pasado hicieron.
-
 El lunes pasado hicieron.
-
 Esta mañana han hecho.
 Organizaron un festival de música.
-
 Impartieron clases de cocina.
-
 Instalaron un sistema de riego.
-
 Grabaron un documental natural.
-
 Celebraron una boda tradicional.
-
 Entregaron los premios literarios.
-
 Rodaron una película independiente.
-
 Inauguraron un centro comunitario.
-
 Realizaron un estudio científico.
-
 Plantaron un bosque nativo.
-
 Practicaron deportes acuáticos.
-
 Construyeron una escuela rural.
-
 Impartieron talleres artesanales.
-
 Ajustaron los controles de calidad.
-
 Pescaron atún de aleta amarilla.
-
 Competieron en maratones internacionales.
-
 Tocaron en conciertos benéficos.
-
 Participaron en ferias comerciales.
-
 Podaron los árboles frutales.
-
 Degustaron platos exóticos.
-
 Renovaron el equipo informático.
-
 Rescataron animales salvajes.
-
 Recolectaron frutas silvestres.
-
 Volaron en avionetas ligeras.
-
 Limpiaron playas vírgenes.
-
 Rindieron homenaje a los héroes.
-
 Digitalizaron archivos históricos.
-
 Patentaron un invento revolucionario.
-
 Practicaron meditación transcendental.
-
 Entrevistaron a personalidades famosas.
-
 Esquiaron en pistas vírgenes.
-
 Sirvieron comidas gourmet.
-
 Calibraron instrumentos de precisión.
-
 Repararon infraestructuras dañadas.
-
 Certificaron productos orgánicos.
-
 Tasaron obras de arte valiosas.
-
 Navegaron en mares turbulentos.
-
 Programaron software avanzado.
-
 Rastrearon señales de radio.
-
 Cultivaron plantas medicinales.
-
 Clasificaron documentos confidenciales.
-
 Sondearon el fondo marino.
-
 Afinaron pianos de cola.
-
 Criaron animales en peligro.
-
 Hornearon pan artesanal.
-
 Ensayaron obras teatrales.
-
 Pescarón peces de río.
-
 Proyectaron imágenes digitales.
-
 Analizaron muestras geológicas.
-
 Criaron insectos beneficiosos.
-
 Cultivaron hortalizas ecológicas.
-
 Teñirón lana de oveja.
-
 Grabaron sesiones de estudio.
-
 Fundirán metales preciosos.
-
 Tallaron piedras semipreciosas.
-
 Modelaron figuras de arcilla.
-
 Excavaron ruinas antiguas.
-
 Restauraron pinturas al óleo.
-
 Compilaron datos estadísticos.
-
 Modelaron prototipos virtuales.
-
 Bordaron tapices históricos.
-
 Soldaron estructuras metálicas.
-
 Plantaron jardines ornamentales.
-
 Encuadernaron libros raros.
-
 Prensaron flores secas.
-
 Forjaron herramientas manuales.
-
 Esmaltaron objetos decorativos.
-
 Pulieron superficies de mármol.
-
 Grabaron inscripciones conmemorativas.
-
 Trenzaron cestas de mimbre.
-
 Tallaron esculturas de madera.
-
 Moldearon figuras de cera.
-
 Cocieron cerámica utilitaria.
-
 Tallaron joyas de ámbar.
-
 Estamparon telas estampadas.
-
 Anillaron aves migratorias.
-
 Catalogaron especies marinas.
-
 Digitalizaron películas clásicas.
-
 Navegaron en barcos de vela.
-
 Instalaron sistemas de seguridad.
-
 Fotografiaron paisajes naturales.
-
 Criaron razas puras.
-
 Clasificaron minerales preciosos.
-
 Analizaron compuestos químicos.
-
 Clonaron células madre.
-
 Transcribieron textos antiguos.
-
 Interpretaron piezas musicales.
-
 Ensamblarán componentes electrónicos.
-
 Observaron fenómenos astronómicos.
-
 Lanzaron cohetes experimentales.
-
 Examinaron tejidos biológicos.
-
 Aislaron microorganismos.
-
 Sintetizaron nuevos materiales.
-
 Transplantaron órganos vitales.
-
 Resucitaron tradiciones culturales.
-
 Operaron con técnicas innovadoras.
-
 Diagnosticaron enfermedades raras.
-
 Rehabilitaron espacios públicos.
-
 Vacunaron a la población.
-
 Donaron órganos post mortem.
-
-Sin CCT ⇒ FUTURO/PRÓXIMO (120 orones.)
+Sin CCT ⇒ FUTURO/PRÓXIMO (120 orones.).
 Organizarán eventos culturales.
-
 Impartirán cursos virtuales.
-
 Instalarán redes de comunicación.
-
 Grabarán películas en 3D.
-
 Celebrarán festivales internacionales.
-
 Entregarán diplomas acreditados.
-
 Rodarán series web.
-
 Inaugurarán centros tecnológicos.
-
 Realizarán investigaciones pioneras.
-
 Plantarán bosques urbanos.
-
 Practicarán deportes extremos.
-
 Construirán rascacielos ecológicos.
-
 Impartirán clases holográficas.
-
 Ajustarán sistemas automáticos.
-
 Pescarán en aguas profundas.
-
 Competirán en olimpiadas científicas.
-
 Tocarán música digital.
-
 Participarán en misiones espaciales.
-
 Podarán árboles inteligentes.
-
 Degustarán comida molecular.
-
 Renovarán parques industriales.
-
 Rescatarán especies en extinción.
-
 Recolectarán energía renovable.
-
 Volarán naves no tripuladas.
-
 Limpiarán océanos contaminados.
-
 Rendirán tributo a innovadores.
-
 Digitalizarán experiencias inmersivas.
-
 Patentarán tecnologías disruptivas.
-
 Practicarán telepatía artificial.
-
 Entrevistarán a androides avanzados.
-
 Esquiarán en planetas lejanos.
-
 Servirán menús personalizados.
-
 Calibrarán dispositivos cuánticos.
-
 Repararán satélites orbitales.
-
 Certificarán productos virtuales.
-
 Tasarán activos digitales.
-
 Navegarán por realidad aumentada.
-
 Programarán inteligencias artificiales.
-
 Rastrearán vida extraterrestre.
-
 Cultivarán alimentos en laboratorio.
-
 Clasificarán datos masivos.
-
 Sondearán exoplanetas habitables.
-
 Afinarán interfaces neurales.
-
 Criarán organismos sintéticos.
-
 Hornearán con impresoras 3D.
-
 Ensayarán realidades virtuales.
-
 Pescarán en acuarios espaciales.
-
 Proyectarán hologramas interactivos.
-
 Analizarán materia exótica.
-
 Criarán ecosistemas artificiales.
-
 Cultivarán carne in vitro.
-
 Teñirán con nanopigmentos.
-
 Grabarán pensamientos humanos.
-
 Fundirán aleaciones ligeras.
-
 Tallarán gemas artificiales.
-
 Modelarán paisajes virtuales.
-
 Excavarán en asteroides.
-
 Restaurarán atmósferas planetarias.
-
 Compilarán bibliotecas digitales.
-
 Modelarán cuerpos biomecánicos.
-
 Bordarán con fibras inteligentes.
-
 Soldarán en gravedad cero.
-
 Plantarán jardines orbitales.
-
 Encuadernarán libros electrónicos.
-
 Prensarán gases comprimidos.
-
 Forjarán metales autoreparables.
-
 Esmaltarán superficies nanotecnológicas.
-
 Pulieron lentes adaptativas.
-
 Grabarán en memorias eternas.
-
 Trenzaron cables superconductores.
-
 Tallaron diamantes sintéticos.
-
 Moldearán polímeros inteligentes.
-
 Cocieron con radiación controlada.
-
 Tallaron estructuras cristalinas.
-
 Estamparon circuitos flexibles.
-
 Anillaron animales clonados.
-
 Catalogarán galaxias lejanas.
-
 Digitalizaron conciencias humanas.
-
 Navegarán por mares de hidrógeno.
-
 Instalarán domos habitables.
-
 Fotografiarán agujeros de gusano.
-
 Criarán vida artificial.
-
 Clasificarán energías alternativas.
-
 Analizarán universos paralelos.
-
 Clonarán recuerdos humanos.
-
 Transcribirán lenguas alienígenas.
-
 Interpretarán música cósmica.
-
 Ensamblarán naves generacionales.
-
 Observarán big bangs artificiales.
-
 Lanzarán sondas interestelares.
-
 Examinarán formas de vida alternativas.
-
 Aislarán partículas elementales.
-
 Sintetizarán universos simulados.
-
 Transplantarán personalidades digitales.
-
 Resucitarán eras geológicas.
-
 Operarán con nanorobots.
-
 Diagnosticarán males cósmicos.
-
 Rehabilitarán ecosistemas dañados.
-
 Vacunarán contra virus alienígenas.
-
 Donarán cuerpos virtuales.
-
-Sin CCT ⇒ PRESENTE (120 oraciones.)
 Organizan mercados locales.
-
 Imparten talleres creativos.
-
 Instalan energías solares.
-
 Graban podcasts educativos.
-
 Celebran fiestas populares.
-
 Entregan ayudas sociales.
-
 Rodan videos virales.
-
 Inauguran espacios verdes.
-
 Realizan terapias naturales.
-
 Plantan huertos comunitarios.
-
 Practican yoga al aire libre.
-
 Construyen viviendas sostenibles.
-
 Imparten educación online.
-
 Ajustan dosis homeopáticas.
-
 Pescán con técnicas sostenibles.
-
 Competen en deportes urbanos.
-
 Tocan en calles concurridas.
-
 Participan en voluntariados.
-
 Podán árboles públicos.
-
 Degustan productos km0.
-
 Renovan centros históricos.
-
 Rescatan patrimonio cultural.
-
 Recolectan residuos reciclables.
-
 Vuelan drones de vigilancia.
-
 Limpian ríos urbanos.
-
 Rinden exámenes profesionales.
-
 Digitalizan administraciones públicas.
-
 Patentan diseños ecológicos.
-
 Practican mindfulness colectivo.
-
 Entrevistan a emprendedores.
-
 Esquían en pistas artificiales.
-
 Sirven comidas balanceadas.
-
 Calibran instrumentos médicos.
-
 Reparan aparatos reutilizables.
-
 Certifican comercio justo.
-
 Tasán arte contemporáneo.
-
 Navegan en barcos ecológicos.
-
 Programan apps móviles.
-
 Rastrean delitos cibernéticos.
-
 Cultivan plantas autóctonas.
-
 Clasifican basura orgánica.
-
 Sondean opiniones públicas.
-
 Afinan guitarras electroacústicas.
-
 Crian mascotas terapéuticas.
-
 Hornear pan integral.
-
 Ensayan obras clásicas.
-
 Pescan con cañas deportivas.
-
 Proyectan arte callejero.
-
 Analizan datos climáticos.
-
 Crian insectos polinizadores.
-
 Cultivan flores nativas.
-
 Tiñen ropa reciclada.
-
 Graban tutoriales online.
-
 Funden joyas éticas.
-
 Tallan madera recuperada.
-
 Modelan figuras de arena.
-
 Excavan yacimientos prehistóricos.
-
 Restauran monumentos históricos.
-
 Compilan archivos sonoros.
-
 Modelan avatares digitales.
-
 Bordan uniformes escolares.
-
 Soldan esculturas metálicas.
-
 Plantan jardines verticales.
-
 Encuadernan libros artesanales.
-
 Prensan flores medicinales.
-
 Forjan herramientas manuales.
-
 Esmaltan objetos cotidianos.
-
 Pulien muebles antiguos.
-
 Graban canciones protesta.
-
 Trenzan pulseras solidarias.
-
 Tallan sellos personalizados.
-
 Moldean chocolate artesanal.
-
 Cocen cerámica tradicional.
-
 Tallan jabones naturales.
-
 Estampan posters reivindicativos.
-
 Anillan documentos importantes.
-
 Catalogán fondos bibliográficos.
-
 Digitalizan facturas electrónicas.
-
 Navegan en botes salvavidas.
-
 Instalan alarmas comunitarias.
-
 Fotografían patrimonio cultural.
-
 Crian animales de terapia.
-
 Clasifican libros donados.
-
 Analizan tendencias sociales.
-
 Clonan plantas ornamentales.
-
 Transcriben actas judiciales.
-
 Interpretan roles teatrales.
-
 Ensamblan kits educativos.
-
 Observan constelaciones.
-
 Lanzan campañas ambientales.
-
 Examinan muestras gratuitas.
-
 Aíslan componentes naturales.
-
 Sintetizan aromas terapéuticos.
-
 Transplantan cactus decorativos.
-
 Resucitan recetas ancestrales.
-
 Operan equipos médicos.
-
 Diagnostican problemas técnicos.
-
 Rehabilitan espacios públicos.
-
 Vacunan a mascotas.
-
 Donan sangre regularmente.
-
 Investigan curas naturales.
-
 Prueban terapias alternativas.
-
 Auscultán pacientes gratuitamente.
-
 Radiografían lesiones deportivas.
-
 Pesan bebés en controles.
-
 Curan heridas menores.
-
 Analizan muestras de suelo.
-
 Transplantan plantas de interior.
-
 Operan de cirugía menor.
-
 Revisan vehículos eléctricos.
-
 Miden la calidad del aire.
-
 Hacen controles rutinarios.
-
 Hacen ejercicios de rehabilitación.
-
 Ponen vacunas antigripales.
-
 Suturan heridas leves.
-
 Atienden partos naturales.
-
 Reanimán personas en riesgo.
-
 Hacen intervenciones quirúrgicas.
-
 Hacen diálisis portátiles.
-
 Hacen electroencefalogramas.
-
 Hacen ecografías Doppler.
-
 Hacen cirugías laparoscópicas.
-
 Hacen endoscopias digestivas.
-
 Hacen biopsias guiadas.
-
 Hacen resonancias magnéticas.
-
 Hacen mastectomías preventivas.
-
 Hacen cesáreas programadas.
-
 Ponen escayolas ortopédicas.
-
 Hacen artroscopias deportivas.
-
 Hacen cateterismos cardíacos.
-
 Hacen autopsias forenses.
-
 Hacen liposucciones estéticas.
-
 Hacen blanqueamientos dentales.
-
 Hacen ortodoncias invisibles.
-
 Hacen implantes cocleares.
-
 Hacen rinoplastias funcionales.
-
 Hacen cirugías refractivas.
-
 Hacen vasectomías voluntarias.
-
 Hacen inseminaciones artificiales.
-
 Hacen amniocentesis diagnósticas.
-
 Hacen cirugías bariátricas.
-
 Hacen marcapasos artificiales.
-
 Hacen angioplastias coronarias.
-
 Hacen lobectomías pulmonares.
-
 Hacen prostatectomías radicales.
-
 Extirpan tumores benignos.
-
 Transplantan hígados sanos.
-
 Hacen apicectomías dentales.
-
 Hacen gingivectomías periodontales.
-
 Hacen extracciones dentales.
-
 Hacen liftings faciales.
-
 Hacen blefaroplastias estéticas.
-
 Hacen otoplastias correctivas.
-
 Hacen mamoplastias de aumento.
-
 Hacen abdominoplastias postparto.
-
 Hacen lipectomías abdominales.
-
 Hacen dermoabrasiones faciales.
-
 Hacen peelings químicos.
-
 Hacen mesoterapias anticelulíticas.
-
 Hacen infiltraciones articulares.
 El año pasado organizaron un campeonato de videojuegos en el centro comercial.
 La semana que viene celebrarán un festival de luces en el jardín japonés.

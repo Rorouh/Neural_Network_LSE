@@ -1,798 +1,400 @@
 Ojalá apruebes el examen de conducir la próxima semana.
-
 Ojalá encuentres trabajo pronto en tu ciudad.
-
 Ojalá llueva abundantemente el fin de semana.
-
 Ojalá ganemos el partido de fútbol el sábado.
-
 Ojalá se resuelva el problema técnico hoy mismo.
-
 Ojalá llegues a tiempo a la reunión mañana.
-
 Ojalá consigan los fondos para el proyecto este mes.
-
 Ojalá mejore el tráfico en la ciudad el año próximo.
-
 Ojalá terminen la construcción del puente en septiembre.
-
 Ojalá recibamos buenas noticias el viernes.
-
 Ojalá puedas venir de visita el mes que viene.
-
 Ojalá salga el sol durante nuestras vacaciones.
-
 Ojalá apruebes todas las asignaturas este curso.
-
 Ojalá encuentres un apartamento adecuado pronto.
-
 Ojalá se solucione el conflicto laboral esta semana.
-
 Ojalá ganen el campeonato nacional este año.
-
 Ojalá recuperes tu salud rápidamente.
-
 Ojalá haga buen tiempo para la boda el sábado.
-
 Ojalá consigan la financiación necesaria en breve.
-
 Ojalá llegue el paquete para Navidad.
-
 Ojalá puedas asistir al concierto contigo.
-
 Ojalá salga todo bien en la operación de mañana.
-
 Ojalá aprueben la ley de educación este año.
-
 Ojalá encuentres las llaves perdidas hoy.
-
 Ojalá se normalice la situación pronto.
-
 Ojalá ganen el premio en el festival.
-
 Ojalá mejore la economía el próximo trimestre.
-
 Ojalá terminen las obras de la calle en diciembre.
-
 Ojalá recibamos la respuesta positiva esta tarde.
-
 Ojalá puedas descansar durante las vacaciones.
-
 Ojalá salga elegido en las votaciones del jueves.
-
 Ojalá apruebes el examen teórico la primera vez.
-
 Ojalá encuentres paz interior este año.
-
 Ojalá se solucione el malentendido pronto.
-
 Ojalá ganen la beca de investigación.
-
 Ojalá mejore el servicio de atención al cliente.
-
 Ojalá terminen el informe para el lunes.
-
 Ojalá recibamos ayuda con el proyecto.
-
 Ojalá puedas superar tus miedos gradualmente.
-
 Ojalá salga bien la presentación importante.
-
 Ojalá aprueben el presupuesto municipal.
-
 Ojalá encuentres la inspiración que buscas.
-
 Ojalá se resuelva la disputa familiar pronto.
-
 Ojalá ganen el contrato con la multinacional.
-
 Ojalá mejore la señal de internet en la zona.
-
 Ojalá terminen la película a tiempo.
-
 Ojalá recibamos el apoyo de la comunidad.
-
 Ojalá puedas visitar a tu familia en verano.
-
 Ojalá salga el plan según lo previsto.
-
 Ojalá apruebes la entrevista de trabajo.
-
 Ojalá encuentres un buen colegio para los niños.
-
 Ojalá se solucione el error del sistema.
-
 Ojalá ganen el reconocimiento que merecen.
-
 Ojalá mejore la calidad del aire urbano.
-
 Ojalá terminen la investigación satisfactoriamente.
-
 Ojalá recibamos más oportunidades laborales.
-
 Ojalá puedas adaptarte al nuevo horario.
-
 Ojalá salga bien la fusión empresarial.
-
 Ojalá aprueben la propuesta de mejora.
-
 Ojalá encuentres la felicidad que mereces.
-
 Ojalá se resuelvan las diferencias políticas.
-
 Ojalá ganen el torneo internacional.
-
 Ojalá mejore el entendimiento entre culturas.
-
 Ojalá terminen el desarrollo del software.
-
 Ojalá recibamos noticias de los afectados.
-
 Ojalá puedas cumplir todos tus objetivos.
-
 Ojalá salga bien el trasplante de órganos.
-
 Ojalá aprueben las reformas educativas.
-
 Ojalá encuentres el camino correcto.
-
 Ojalá se solucione la crisis humanitaria.
-
 Ojalá ganen la batalla legal.
-
 Ojalá mejore la productividad del equipo.
-
 Ojalá terminen las negociaciones pacíficamente.
-
 Ojalá recibamos más recursos para la investigación.
-
 Ojalá puedas disfrutar del merecido descanso.
-
 Ojalá salga bien el experimento científico.
-
 Ojalá aprueben los créditos solicitados.
-
 Ojalá encuentres la fuerza para continuar.
-
 Ojalá se resuelva el misterio pronto.
-
 Ojalá ganen la confianza del público.
-
 Ojalá hubieras estado allí.
-
 Ojalá hubiéramos sabido la verdad.
-
 Ojalá hubieras venido antes.
-
 Ojalá hubiéramos tomado otra decisión.
-
 Ojalá hubieras llamado.
-
 Ojalá hubiéramos viajado juntos.
-
 Ojalá hubieras entendido mejor.
-
 Ojalá hubiéramos actuado diferente.
-
 Ojalá hubieras confiado en mí.
-
 Ojalá hubiéramos tenido más tiempo.
-
 Ojalá hubieras visto el espectáculo.
-
 Ojalá hubiéramos comprado la casa.
-
 Ojalá hubieras escuchado el consejo.
-
 Ojalá hubiéramos conocido antes.
-
 Ojalá hubieras probado la comida.
-
 Ojalá hubiéramos ganado el premio.
-
 Ojalá hubieras disfrutado más.
-
 Ojalá hubiéramos evitado el problema.
-
 Ojalá hubieras participado activamente.
-
 Ojalá hubiéramos llegado a tiempo.
-
 Ojalá puedas venir.
-
 Ojalá tengamos éxito.
-
 Ojalá encuentres lo que buscas.
-
 Ojalá llueva pronto.
-
 Ojalá se solucione todo.
-
 Ojalá ganemos el partido.
-
 Ojalá mejore la situación.
-
 Ojalá terminen rápido.
-
 Ojalá recibamos ayuda.
-
 Ojalá salga bien.
-
 Ojalá apruebes el examen.
-
 Ojalá consigas el trabajo.
-
 Ojalá haga buen tiempo.
-
 Ojalá se resuelva el conflicto.
-
 Ojalá llegues seguro.
-
 Ojalá puedas descansar.
-
 Ojalá encontremos una solución.
-
 Ojalá llueva esta noche.
-
 Ojalá se cure pronto.
-
 Ojalá ganen el campeonato.
-
 Ojalá mejore la economía.
-
 Ojalá terminen a tiempo.
-
 Ojalá recibamos noticias.
-
 Ojalá salga perfecto.
-
 Ojalá aprueben la ley.
-
 Ojalá encuentres paz.
-
 Ojalá se solucione rápido.
-
 Ojalá ganen el premio.
-
 Ojalá mejore el servicio.
-
 Ojalá terminen pronto.
-
 Ojalá recibamos apoyo.
-
 Ojalá puedas venir.
-
 Ojalá salga bien.
-
 Ojalá apruebes todo.
-
 Ojalá encuentres trabajo.
-
 Ojalá se resuelva ya.
-
 Ojalá ganen la beca.
-
 Ojalá mejore todo.
-
 Ojalá terminen hoy.
-
 Ojalá recibamos respuesta.
-
 Ojalá puedas superarlo.
-
 Ojalá salga favorable.
-
 Ojalá aprueben el proyecto.
-
 Ojalá encuentres alegría.
-
 Ojalá se solucione definitivamente.
-
 Ojalá ganen el contrato.
-
 Ojalá mejore el clima.
-
 Ojalá terminen exitosamente.
-
 Ojalá recibamos buenas noticias.
-
 Ojalá puedas adaptarte.
-
 Ojalá salga según lo planeado.
-
 Ojalá aprueben la moción.
-
 Ojalá encuentres tranquilidad.
-
 Ojalá se resuelvan las dudas.
-
 Ojalá ganen el reconocimiento.
-
 Ojalá mejore la comunicación.
-
 Ojalá terminen satisfactoriamente.
-
 Ojalá recibamos más recursos.
-
 Ojalá puedas disfrutar.
-
 Ojalá salga mejor de lo esperado.
-
 Ojalá aprueben los presupuestos.
-
 Ojalá encuentres motivación.
-
 Ojalá se solucione permanentemente.
-
 Ojalá ganen la confianza.
-
 Ojalá mejore la calidad.
-
 Ojalá terminen sin problemas.
-
 Ojalá recibamos colaboración.
-
 Ojalá puedas relajarte.
-
 Ojalá salga extraordinario.
-
 Ojalá aprueben las reformas.
-
 Ojalá encuentres serenidad.
-
 Ojalá se resuelva favorablemente.
-
 Ojalá ganen la aprobación.
-
 Ojalá mejore el rendimiento.
-
 Ojalá terminen eficientemente.
-
 Ojalá recibamos comprensión.
-
 Ojalá puedas evolucionar.
-
 Ojalá salga impecable.
-
 Ojalá aprueben la iniciativa.
-
 Ojalá encuentres equilibrio.
-
 Ojalá se solucione completamente.
-
 Ojalá ganen el respeto.
-
 Ojalá mejore la situación.
-
 Ojalá terminen competentemente.
-
 Ojalá recibamos solidaridad.
-
 Ojalá puedas progresar.
-
 Ojalá salga maravilloso.
-
 Ojalá aprueben la propuesta.
-
 Ojalá encuentres armonía.
-
 Ojalá se resuelva positivamente.
-
 Ojalá ganen la admiración.
-
 Ojalá mejore el ambiente.
-
 Ojalá terminen profesionalmente.
-
 Ojalá recibamos aceptación.
-
 Ojalá puedas avanzar.
-
 Ojalá salga excelente.
-
 Ojalá aprueben el plan.
-
 Ojalá encuentres bienestar.
-
 Ojalá se resuelva exitosamente.
-
 Ojalá ganen el afecto.
-
 Ojalá mejore la perspectiva.
-
 Ojalá terminen brillantemente.
-
 Ojalá recibamos reconocimiento.
-
 Ojalá puedas crecer.
-
 Ojalá salga óptimo.
-
 Ojalá aprueben el programa.
-
 Ojalá encuentres plenitud.
-
 Ojalá se resuelva adecuadamente.
-
 Ojalá ganen la simpatía.
-
 Ojalá mejore la visión.
-
 Ojalá terminen admirablemente.
-
 Ojalá recibamos aprecio.
-
 Ojalá puedas desarrollarte.
-
 Ojalá salga ideal.
-
 Ojalá aprueben el sistema.
-
 Ojalá encuentres satisfacción.
-
 Ojalá se resuelva competentemente.
-
 Ojalá ganen el cariño.
-
 Ojalá mejore el panorama.
-
 Ojalá terminen impecablemente.
-
 Ojalá estés bien.
-
 Ojalá tengas suerte.
-
 Ojalá sepas la verdad.
-
 Ojalá comprendas mi posición.
-
 Ojalá valoren tu esfuerzo.
-
 Ojalá encuentres felicidad.
-
 Ojalá sientas paz interior.
-
 Ojalá logres tus metas.
-
 Ojalá alcances la realización personal.
-
 Ojalá disfrutes cada momento.
-
 Ojalá tengas salud.
-
 Ojalá experimentes alegría.
-
 Ojalá consigas lo que anhelas.
-
 Ojalá superes los obstáculos.
-
 Ojalá crezcas espiritualmente.
-
 Ojalá desarrolles tu potencial.
-
 Ojalá aprendas de las experiencias.
-
 Ojalá evoluciones constantemente.
-
 Ojalá transformes tu vida.
-
 Ojalá mejores como persona.
-
 Ojalá cultives relaciones sanas.
-
 Ojalá construyas un futuro mejor.
-
 Ojalá inspires a otros.
-
 Ojalá motives a tu equipo.
-
 Ojalá lideres con ejemplo.
-
 Ojalá influyas positivamente.
-
 Ojalá impactes favorablemente.
-
 Ojalá contribuyas al bienestar.
-
 Ojalá participes activamente.
-
 Ojalá colabores eficazmente.
-
 Ojalá cooperes generosamente.
-
 Ojalá apoyes incondicionalmente.
-
 Ojalá ayudes desinteresadamente.
-
 Ojalá sirvas con dedicación.
-
 Ojalá protejas a los vulnerables.
-
 Ojalá defiendas la justicia.
-
 Ojalá promuevas la igualdad.
-
 Ojalá fomentes la diversidad.
-
 Ojalá preserves el medio ambiente.
-
 Ojalá cuides los recursos.
-
 Ojalá respetes la naturaleza.
-
 Ojalá valores la vida.
-
 Ojalá aprecies la belleza.
-
 Ojalá admires el arte.
-
 Ojalá creas en ti mismo.
-
 Ojalá confíes en tus capacidades.
-
 Ojalá desarrolles tu talento.
-
 Ojalá expreses tu creatividad.
-
 Ojalá explores nuevas posibilidades.
-
 Ojalá innoves constantemente.
-
 Ojalá descubras tu propósito.
-
 Ojalá sigas tu pasión.
-
 Ojalá encuentres tu camino.
-
 Ojalá realices tus sueños.
-
 Ojalá cumplas tus aspiraciones.
-
 Ojalá logres la plenitud.
-
 Ojalá alcances la excelencia.
-
 Ojalá obtengas reconocimiento.
-
 Ojalá ganes estabilidad.
-
 Ojalá consigas seguridad.
-
 Ojalá tengas prosperidad.
-
 Ojalá disfrutes abundancia.
-
 Ojalá experimentes crecimiento.
-
 Ojalá logres equilibrio.
-
 Ojalá encuentres armonía.
-
 Ojalá sientas serenidad.
-
 Ojalá tengas tranquilidad.
-
 Ojalá experimentes calma.
-
 Ojalá disfrutes bienestar.
-
 Ojalá tengas satisfacción.
-
 Ojalá sientas realización.
-
 Ojalá experimentes gozo.
-
 Ojalá disfrutes dicha.
-
 Ojalá tengas júbilo.
-
 Ojalá sientas regocijo.
-
 Ojalá experimentes éxtasis.
-
 Ojalá disfrutes beatitud.
-
 Ojalá tengas felicidad plena.
-
 Ojalá sientas plenitud absoluta.
-
 Ojalá experimentes dicha completa.
 Ojalá mejore el transporte público en la ciudad el próximo año.
-
 Ojalá terminen la investigación del caso pronto.
-
 Ojalá recibamos más apoyo institucional este trimestre.
-
 Ojalá puedas resolver esos problemas personales en breve.
-
 Ojalá salga bien el tratamiento médico.
-
 Ojalá aprueben las nuevas medidas de seguridad.
-
 Ojalá encuentres el amor verdadero este año.
-
 Ojalá se resuelva la situación económica familiar.
-
 Ojalá ganen el premio literario en el festival.
-
 Ojalá mejore la conexión a internet en la zona rural.
-
 Ojalá terminen las reparaciones del edificio en enero.
-
 Ojalá recibamos mejores noticias la próxima semana.
-
 Ojalá puedas visitar ese país que tanto anhelas.
-
 Ojalá salga exitoso el lanzamiento del producto.
-
 Ojalá aprueben tu solicitud de crédito hipotecario.
-
 Ojalá encuentres la respuesta que necesitas pronto.
-
 Ojalá se solucione el conflicto internacional este mes.
-
 Ojalá ganen la competencia de innovación tecnológica.
-
 Ojalá mejore el clima laboral en tu empresa.
-
 Ojalá terminen el desarrollo de la aplicación a tiempo.
-
 Ojalá mejore la situación económica.
-
 Ojalá terminen las negociaciones.
-
 Ojalá recibamos más apoyo.
-
 Ojalá puedas realizarte profesionalmente.
-
 Ojalá salga todo según lo esperado.
-
 Ojalá aprueben las iniciativas.
-
 Ojalá encuentres tu vocación.
-
 Ojalá se resuelvan las dificultades.
-
 Ojalá ganen la aceptación general.
-
 Ojalá mejore la infraestructura.
-
 Ojalá terminen los preparativos.
-
 Ojalá recibamos colaboración.
-
 Ojalá puedas emanciparte pronto.
-
 Ojalá salga favorable el diagnóstico.
-
 Ojalá aprueben los cambios necesarios.
-
 Ojalá encuentres tu lugar en el mundo.
-
 Ojalá se solucionen los imprevistos.
-
 Ojalá ganen la popularidad merecida.
-
 Ojalá mejore la atención médica.
-
 Ojalá terminen las adaptaciones.
-
 Ojalá recibamos comprensión.
-
 Ojalá puedas independizarte.
-
 Ojalá salga provechoso el esfuerzo.
-
 Ojalá aprueben las mejoras.
-
 Ojalá encuentres tu ritmo.
-
 Ojalá se resuelva la incertidumbre.
-
 Ojalá ganen la validación.
-
 Ojalá mejore la accesibilidad.
-
 Ojalá terminen las pruebas.
-
 Ojalá recibamos consideración.
-
 Ojalá puedas especializarte.
-
 Ojalá salga beneficioso para todos.
-
 Ojalá aprueben las propuestas.
-
 Ojalá encuentres tu estilo.
-
 Ojalá se solucione la complicación.
-
 Ojalá ganen la acreditación.
-
 Ojalá mejore la eficiencia.
-
 Ojalá terminen los ajustes.
-
 Ojalá recibamos empatía.
-
 Ojalá puedas certificarte.
-
 Ojalá salga ventajoso el acuerdo.
-
 Ojalá aprueben los proyectos.
-
 Ojalá encuentres tu método.
-
 Ojalá se resuelva el inconveniente.
-
 Ojalá ganen la homologación.
-
 Ojalá mejore la productividad.
-
 Ojalá terminen las modificaciones.
-
 Ojalá recibamos asistencia.
-
 Ojalá puedas diplomarte.
-
 Ojalá salga positivo el resultado.
-
 Ojalá aprueben las inversiones.
-
 Ojalá encuentres tu fórmula.
-
 Ojalá se solucione el traspié.
-
 Ojalá ganen la certificación.
-
 Ojalá mejore el rendimiento.
-
 Ojalá terminen las revisiones.
-
 Ojalá recibamos acompañamiento.
-
 Ojalá puedas titularte.
-
 Ojalá salga alentador el pronóstico.
-
 Ojalá aprueben las estrategias.
-
 Ojalá encuentres tu técnica.
-
 Ojalá se resuelva el contratiempo.
-
 Ojalá ganen la licencia.
-
 Ojalá mejore la competitividad.
-
 Ojalá terminen las actualizaciones.
-
 Ojalá recibamos orientación.
-
 Ojalá puedas graduarte.
-
 Ojalá salga esperanzador el futuro.
-
 Ojalá aprueben los planes.
-
 Ojalá encuentres tu sistema.
-
 Ojalá se resuelva el percance.
-
 Ojalá ganen el permiso.
-
 Ojalá mejore la innovación.
-
 Ojalá terminen las implementaciones.
-
 Ojalá recibamos guía.
-
 Ojalá puedas profesionalizarte.
-
 Ojalá salga prometedor el horizonte.
-
 Ojalá aprueben los programas.
-
 Ojalá encuentres tu camino.
-
 Ojalá se resuelva favorablemente el asunto.

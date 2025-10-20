@@ -1,309 +1,156 @@
 Mi hermano estudia ingeniería en la universidad.
-
 Trabajamos desde casa los lunes y miércoles.
-
 El equipo de desarrollo termina el proyecto esta semana.
-
 Muchos estudiantes viajan durante las vacaciones de verano.
-
 La empresa ofrece beneficios excelentes a sus empleados.
-
 Mis padres viven en una casa cerca del mar.
-
 El restaurante sirve comida tradicional los fines de semana.
-
 Los niños juegan en el parque todas las tardes.
-
 La tienda abre a las nueve de la mañana.
-
 Nosotros practicamos deporte tres veces por semana.
-
 El médico recomienda ejercicio moderado.
-
 La abuela cocina galletas para sus nietos.
-
 Los pájaros cantan al amanecer en el bosque.
-
 El profesor explica la lección con paciencia.
-
 Yo leo novelas de ciencia ficción.
-
 La ciudad construye un nuevo hospital.
-
 Los turistas visitan el museo los domingos.
-
 El jardín florece en primavera.
-
 Mi amigo toca la guitarra en una banda.
-
 La compañía desarrolla software educativo.
-
 El río fluye hacia el océano.
-
 Los empleados almuerzan en la cafetería.
-
 El sol calienta la tierra.
-
 Nosotras estudiamos francés los sábados.
-
 El mercado vende productos locales.
-
 Los abuelos cuidan de sus nietos.
-
 El autobús pasa cada quince minutos.
-
 La biblioteca presta libros por un mes.
-
 Los vecinos organizan una fiesta comunitaria.
-
 El panadero hornea pan fresco diariamente.
-
 Mi hermana enseña matemáticas en el instituto.
-
 Los atletas entrenan para la competencia.
-
 La aplicación funciona perfectamente.
-
 El parque cierra al anochecer.
-
 Los estudiantes presentan sus trabajos hoy.
-
 La película comienza a las ocho.
-
 El teléfono suena constantemente.
-
 Los agricultores cultivan maíz y trigo.
-
 La playa atrae a muchos veraneantes.
-
 El bebé duerme toda la noche.
-
 Los científicos investigan nuevas curas.
-
 La carretera conecta dos ciudades importantes.
-
 Los clientes pagan con tarjeta de crédito.
-
 El agua hierve a cien grados.
-
 Los periodistas escriben sobre política.
-
 La música relaja a las personas.
-
 Los árboles dan sombra en verano.
-
 El coche consume poca gasolina.
-
 Los amigos se reúnen cada viernes.
-
 La empresa crece rápidamente.
-
 El viento sopla desde el norte.
-
 Los niños aprenden idiomas fácilmente.
-
 La luz ilumina toda la habitación.
-
 Los voluntarios ayudan en el refugio.
-
 El reloj marca las tres en punto.
-
 Los pacientes esperan su turno.
-
 La tierra gira alrededor del sol.
-
 Los artistas exponen sus obras.
-
 El café se enfría rápidamente.
-
 Los ordenadores procesan información.
-
 La lluvia riega los campos.
-
 Los conductores obedecen las señales.
-
 El hotel acepta mascotas.
-
 Los estudiantes escuchan atentamente.
-
 La nieve cubre las montañas.
-
 Los ingenieros diseñan nuevos puentes.
-
 El avión aterriza suavemente.
-
 Los clientes eligen sus productos.
-
 La sopa huele delicioso.
-
 Los músicos ensayan para el concierto.
-
 El proyecto avanza según lo planeado.
-
 Los niños crecen muy rápido.
-
 La empresa contrata personal nuevo.
-
 Los turistas fotografían los monumentos.
-
 El teléfono inteligente tiene muchas funciones.
-
 Los abogados defienden a sus clientes.
-
 La reunión termina a las seis.
-
 Los pacientes mejoran día a día.
-
 El supermercado tiene ofertas especiales.
-
 Los estudiantes comprenden el concepto.
-
 La flor desprende un aroma dulce.
-
 Los empleados firman el contrato.
-
 El tren llega puntualmente.
-
 Los niños piden helado.
-
 La compañía exporta a otros países.
-
 Los deportistas compiten fair play.
-
 El museo exhibe arte moderno.
-
 Los clientes devuelven los productos.
-
 La planta necesita más agua.
-
 Los políticos debaten nuevas leyes.
-
 El restaurante recibe buenas críticas.
-
 Los estudiantes resuelven problemas.
-
 La carretera conduce al pueblo.
-
 Los pacientes describen sus síntomas.
-
 El parque tiene áreas de picnic.
-
 Los niños colorean los dibujos.
-
 La empresa reduce costos.
-
 Los turistas admiran la arquitectura.
-
 El teléfono capta buena señal.
-
 Los estudiantes memorizan vocabulario.
-
 La ciudad celebra su aniversario.
-
 Los trabajadores construyen el edificio.
-
 El río crece con las lluvias.
-
 Los pacientes siguen las indicaciones.
-
 La tienda ofrece descuentos.
-
 Los niños comparten sus juguetes.
-
 El equipo gana el partido.
-
 Los empleados asisten a la capacitación.
-
 La aplicación se actualiza automáticamente.
-
 Los estudiantes entregan sus tareas.
-
 El sol brilla intensamente.
-
 Los clientes recomiendan el servicio.
-
 La empresa invierte en tecnología.
-
 Los niños imitan a los adultos.
-
 El médico diagnostica correctamente.
-
 Los turistas compran recuerdos.
-
 La comida sabe excelente.
-
 Los estudiantes preguntan dudas.
-
 El agua corre por el río.
-
 Los empleados cooperan entre sí.
-
 La película emociona al público.
-
 Los niños saltan la cuerda.
-
 El proyecto requiere más tiempo.
-
 Los pacientes agradecen la atención.
-
 La empresa mantiene altos estándares.
-
 Los estudiantes observan el experimento.
-
 El viento mueve las hojas.
-
 Los clientes confían en la marca.
-
 La ciudad mejora su infraestructura.
-
 Los niños ríen alegremente.
-
 El médico opera con precisión.
-
 Los turistas exploran la ciudad.
-
 La música envuelve el ambiente.
-
 Los estudiantes participan activamente.
-
 El agua refleja el cielo.
-
 Los empleados proponen ideas.
-
 La empresa valora la innovación.
-
 Los niños cantan canciones.
-
 El sol calienta el agua.
-
 Los pacientes respiran profundamente.
-
 La tienda organiza una venta.
-
 Los estudiantes representan una obra.
-
 El río desemboca en el mar.
-
 Los clientes solicitan información.
-
 La compañía expande sus operaciones.
-
 Los niños trepan los árboles.
-
 El proyecto incluye varias fases.
-
 Los pacientes toman medicamentos.
-
 La ciudad protege sus monumentos.
-
 Los estudiantes usan la biblioteca.
-
 El viento arrastra las nubes.
-
 Los empleados trabajan en equipo.
-
 La empresa satisface a sus clientes.
-
 154. El año pasado viajamos a Japón.
 155. Mañana tengo una cita importante.
 156. La semana pasada compré un coche nuevo.
@@ -337,7 +184,6 @@ La empresa satisface a sus clientes.
 184. El jueves practico yoga.
 185. Hace una semana conocí a mi vecino.
 186. El día después de mañana volvemos.
-
 187. Compré el regalo para mi madre.
 188. Estudiamos toda la noche para el examen.
 189. Viajaron por Europa el verano pasado.
@@ -354,7 +200,6 @@ La empresa satisface a sus clientes.
 200. Bailaron toda la noche en la fiesta.
 201. Cocinaron una cena deliciosa.
 202. Leyeron todos los libros de la serie.
-
 203. Viajaré a Australia el próximo año.
 204. Estudiarán medicina en la universidad.
 205. Compraremos una casa más grande.
@@ -372,7 +217,6 @@ La empresa satisface a sus clientes.
 217. Pintarán murales en el centro comunitario.
 218. Ahorrarán para comprar un coche.
 219. Nadarán en las Olimpiadas.
-
 220. No trabajo los fines de semana.
 221. No llueve durante el verano.
 222. No entiendo esta lección.
@@ -384,8 +228,6 @@ La empresa satisface a sus clientes.
 228. No practican deportes extremos.
 229. No utilizan el transporte público.
 230. No disfrutan de las películas de terror.
-
-
 231. Ayer no fui al trabajo.
 232. Mañana no estudiaré para el examen.
 233. La semana pasada no compré ropa.
@@ -394,19 +236,14 @@ La empresa satisface a sus clientes.
 236. Esta tarde no visitaré a mis amigos.
 237. El lunes no trabajaré desde casa.
 238. El mes pasado no ahorré dinero.
-
-
 239. No terminé el libro a tiempo.
 240. No ganaron la competencia.
 241. No escribieron la carta.
 242. No construyeron la casa.
-
-
 243. No viajaré solo.
 244. No estudiarán en esa universidad.
 245. No compraremos el coche nuevo.
 246. No aprenderán alemán.
-
 247. ¿Trabajas desde casa?
 248. ¿Estudias para el examen?
 249. ¿Viajas frecuentemente?
@@ -421,8 +258,6 @@ La empresa satisface a sus clientes.
 258. ¿Necesitas ayuda?
 259. ¿Prefieres el café o el té?
 260. ¿Recuerdas aquel día?
-
-
 261. ¿Qué estudias en la universidad?
 262. ¿Dónde trabajas actualmente?
 263. ¿Cuándo viajas a Europa?
@@ -436,8 +271,6 @@ La empresa satisface a sus clientes.
 271. ¿Cómo resolviste el problema?
 272. ¿Quién ganó el premio?
 273. ¿Por qué no viniste a la fiesta?
-
-
 274. Estudia para tu examen.
 275. Trabaja desde casa hoy.
 276. Viaja con precaución.
@@ -449,29 +282,21 @@ La empresa satisface a sus clientes.
 282. Escucha a tu profesor.
 283. Respeta las opiniones diferentes.
 284. Aprende algo nuevo cada día.
-
-
 285. Estudiarás para el examen.
 286. Trabajarás desde casa mañana.
 287. Viajarás el próximo mes.
 288. Comerás más saludable.
-
 289. Ojalá apruebes el examen.
 290. Ojalá encuentres un buen trabajo.
 291. Ojalá viajemos juntos pronto.
-
 292. Ojalá tengas buena salud.
 293. Ojalá seas feliz.
-
 294. Ojalá llueva la próxima semana.
-
 295. ¡Qué bien trabajas!
 296. ¡Cómo estudias para los exámenes!
 297. ¡Cuánto viajas!
 298. ¡Qué rápido aprendes!
-
 299. ¡Qué frío hace hoy!
-
 300. ¡Cuánto creciste!
 El equipo de fútbol entrena en el nuevo estadio.
 Mi hermana cocina muy bien las pastas.
@@ -2881,604 +2706,305 @@ Los clientes son realidad consumer.
 Los empleados son realidad profesional.
 La música es realidad artística.
 No trabajo los fines de semana.
-
 No llueve en esta época del año.
-
 No entiendo esta lección de matemáticas.
-
 No comemos carne los viernes.
-
 No viajan frecuentemente al extranjero.
-
 No estudian suficiente para los exámenes.
-
 No viven cerca del centro de la ciudad.
-
 No hablan inglés fluidamente.
-
 No practican deportes extremos.
-
 No utilizan el transporte público.
-
 No disfrutan de las películas de terror.
-
 No tengo hermanos menores.
-
 No conozco ese restaurante del que hablas.
-
 No necesito ayuda con el proyecto.
-
 No prefiero el café con azúcar.
-
 No recuerdo aquel día con claridad.
-
 No manejo información confidencial.
-
 No fumo cigarrillos.
-
 No bebo alcohol durante la semana.
-
 No conduzco por la noche.
-
 No escucho música clásica.
-
 No leo el periódico todos los días.
-
 No miro la televisión por la mañana.
-
 No cocino comida picante.
-
 No nado en el mar abierto.
-
 No corro maratones.
-
 No bailo salsa profesionalmente.
-
 No canto en público.
-
 No pinto cuadros al óleo.
-
 No escribo poesía con frecuencia.
-
 No diseño páginas web.
-
 No programo en Java.
-
 No invierto en la bolsa.
-
 No ahorro para mi jubilación.
-
 No gasto en lujos innecesarios.
-
 No compro en tiendas de lujo.
-
 No vendo productos usados.
-
 No alquilo mi apartamento.
-
 No reparto periódicos.
-
 No enseño en la universidad.
-
 No aprendo ruso actualmente.
-
 No creo en las supersticiones.
-
 No siento dolor en la espalda.
-
 No huelo bien con este resfriado.
-
 No veo bien sin mis gafas.
-
 No oigo el timbre desde aquí.
-
 No pruebo la comida con picante.
-
 No toco instrumentos musicales.
-
 No duermo siestas por la tarde.
-
 No descanso los domingos.
-
 No juego a los videojuegos.
-
 No navego por internet sin propósito.
-
 No chateo por las redes sociales.
-
 No subo fotos a Instagram.
-
 No comento en foros de debate.
-
 No descargo archivos ilegales.
-
 No comparto información personal.
-
 No publico en mi blog personal.
-
 No sigo tendencias de moda.
-
 No visito centros comerciales.
-
 No frecuento bares nocturnos.
-
 No asisto a conciertos multitudinarios.
-
 No participo en competencias.
-
 No organizo fiestas en casa.
-
 No coordino equipos de trabajo.
-
 No superviso proyectos ajenos.
-
 No gestiono redes sociales.
-
 No administro el presupuesto familiar.
-
 No planifico mis vacaciones con antelación.
-
 No programa reuniones los lunes.
-
 No desarrollo software empresarial.
-
 No analizo datos estadísticos.
-
 No investigo fenómenos paranormales.
-
 No experimento con químicos.
-
 No observo el comportamiento animal.
-
 No mido la temperatura corporal.
-
 No peso la comida que consumo.
-
 No calculo impuestos.
-
 No resuelvo crucigramas.
-
 No verifico los hechos noticiosos.
-
 No comprobo hipótesis científicas.
-
 No demuestro teoremas matemáticos.
-
 No aplico fórmulas complejas.
-
 No utilizo herramientas peligrosas.
-
 No opero maquinaria pesada.
-
 No reparo electrodomésticos.
-
 No construyo muebles de madera.
-
 No pinto casas profesionalmente.
-
 No instalo sistemas eléctricos.
-
 No mantengo jardines extensos.
-
 No limpio ventanas de rascacielos.
-
 No lavo ropa a mano.
-
 No plancho camisas.
-
 No cocino al vapor.
-
 No horneo pasteles de chocolate.
-
 No frío alimentos con mucho aceite.
-
 No aso carne a la parrilla.
-
 No hiervo agua para el té.
-
 No mezclo bebidas alcohólicas.
-
 No decoro pasteles para bodas.
-
 No sirvo mesas en restaurantes.
-
 No preparo cócteles exóticos.
-
 No cultivo vegetales en mi balcón.
-
 No podo los árboles del jardín.
-
 No riego las plantas diariamente.
-
 No abono la tierra del huerto.
-
 No cosecho trigo en el campo.
-
 No pesco en el lago los domingos.
-
 No cazo animales silvestres.
-
 No capturo mariposas con red.
-
 No domestic animales salvajes.
-
 No entreno perros para competencia.
-
 No crío gatos de raza.
-
 No paseo al perro por la noche.
-
 No alimento a los pájaros del parque.
-
 No cuido niños pequeños.
-
 No vigilo ancianos dependientes.
-
 No asisto a personas discapacitadas.
-
 No ayudo en labores domésticas.
-
 No colaboro con tareas comunitarias.
-
-CCT EXPLÍCITO (90 oraciones)
+CCT EXPLÍCITO (90 oraciones).
 Ayer no fui al trabajo por enfermedad.
-
 Mañana no estudiaré para el examen final.
-
 La semana pasada no compré ropa nueva.
-
 El próximo año no viajaremos al extranjero.
-
 Anoche no dormí bien por el ruido.
-
 Esta tarde no visitaré a mis amigos.
-
 El lunes no trabajaré desde casa.
-
 El mes pasado no ahorré dinero.
-
 El año pasado no renové mi pasaporte.
-
 El verano próximo no iremos a la playa.
-
 El invierno pasado no esquiamos en la montaña.
-
 El otoño no llovió tanto como esperábamos.
-
 La primavera pasada no florecieron los cerezos.
-
 El fin de semana no saldremos de la ciudad.
-
 El sábado por la noche no habrá fiesta.
-
 El domingo por la mañana no iremos al mercado.
-
 El jueves no tengo cita con el dentista.
-
 El viernes no entregaremos el reporte.
-
 El martes no habrá reunión de equipo.
-
 El miércoles no viajo por negocios.
-
 Hoy no como fuera de casa.
-
 Ayer no terminé el libro que leo.
-
 Mañana no comenzaré la dieta.
-
 Esta mañana no desayuné temprano.
-
 Esta noche no veré la televisión.
-
 Anoche no cené con mi familia.
-
 El día anterior no limpié mi habitación.
-
 El mes que viene no cambiaré de trabajo.
-
 El año próximo no compraré un coche nuevo.
-
 El trimestre pasado no alcanzamos las metas.
-
 El semestre próximo no tomaré clases de francés.
-
 La década pasada no viví en este país.
-
 El siglo pasado no existía esta tecnología.
-
 El milenio anterior no volaban aviones.
-
 En 2020 no viajamos por la pandemia.
-
 En 2015 no me gradué de la universidad.
-
 En 2010 no trabajaba en esta empresa.
-
 En 2005 no conocía a mi esposa.
-
 En 2000 no usaba teléfono móvil.
-
 En 1995 no navegaba por internet.
-
 En 1990 no tenía computadora personal.
-
 En 1985 no vivía en esta ciudad.
-
 En 1980 no existían los teléfonos inteligentes.
-
 En 1975 no viajé fuera del país.
-
 En 1970 no nací todavía.
-
 En enero no celebramos ningún aniversario.
-
 En febrero no hace mucho frío aquí.
-
 En marzo no comienza el año escolar.
-
 En abril no viajamos de vacaciones.
-
 En mayo no celebramos navidad.
-
 En junio no nieva en esta región.
-
 En julio no trabajo tiempo extra.
-
 En agosto no llueve frecuentemente.
-
 En septiembre no cambiamos de casa.
-
 En octubre no podamos los árboles.
-
 En noviembre no sembramos el jardín.
-
 En diciembre no hace calor intenso.
-
 En primavera no uso abrigos pesados.
-
 En verano no enciendo la calefacción.
-
 En otoño no voy a la playa.
-
 En invierno no como helado.
-
 Por la mañana no bebo café.
-
 Por la tarde no hago ejercicio.
-
 Por la noche no leo novelas.
-
 Al amanecer no salgo a correr.
-
 Al atardecer no miro la televisión.
-
 A mediodía no duermo siesta.
-
 A medianoche no como snacks.
-
 Los lunes no como carne.
-
 Los martes no voy al gimnasio.
-
 Los miércoles no estudio inglés.
-
 Los jueves no trabajo tarde.
-
 Los viernes no salgo con amigos.
-
 Los sábados no limpio la casa.
-
 Los domingos no reviso mi correo.
-
 En vacaciones no contesto llamadas de trabajo.
-
 En navidad no viajo a ver a mi familia.
-
 En año nuevo no hago resoluciones.
-
 En cumpleaños no celebro con fiestas.
-
 En aniversarios no compro regalos caros.
-
 En fines de semana largo no viajo lejos.
-
 En puentes no visito museos.
-
 En días festivos no abro mi negocio.
-
 En temporada baja no bajo los precios.
-
 En temporada alta no cierro la tienda.
-
 En hora pico no uso el metro.
-
 En horas valle no conduzco por la ciudad.
-
 En verano no uso ropa de invierno.
-
 En invierno no visto shorts.
-
 En otoño no voy a la piscina.
-
-PASADO (45 oraciones)
+PASADO (45 oraciones).
 No compré el regalo para mi madre.
-
 No estudiamos toda la noche para el examen.
-
 No viajaron por Europa el verano pasado.
-
 No escribió una novela fascinante.
-
 No construyeron la casa en seis meses.
-
 No ganaron el campeonato regional.
-
 No enseñé matemáticas durante diez años.
-
 No corrí el maratón de la ciudad.
-
 No diseñaron un nuevo sistema.
-
 No cantaron en el coro de la iglesia.
-
 No pintaron el cuadro en su estudio.
-
 No ahorraron dinero para su jubilación.
-
 No nadaron en el lago cristalino.
-
 No bailaron toda la noche en la fiesta.
-
 No cocinaron una cena deliciosa.
-
 No leyeron todos los libros de la serie.
-
 No hablaron con el director del proyecto.
-
 No pensaron en las consecuencias.
-
 No sintieron el temblor de tierra.
-
 No vieron la película del festival.
-
 No oyeron las noticias importantes.
-
 No olieron el aroma de las flores.
-
 No probaron la comida exótica.
-
 No tocaron el instrumento musical.
-
 No anduvieron por el camino peligroso.
-
 No estuvieron en la reunión crucial.
-
 No tuvieron la oportunidad de viajar.
-
 No hicieron la tarea asignada.
-
 No pusieron la mesa para la cena.
-
 No salieron temprano del trabajo.
-
 No vinieron a la fiesta de graduación.
-
 No volvieron a su país de origen.
-
 No dieron las gracias por el favor.
-
 No dijeron la verdad completa.
-
 No trajeron los documentos necesarios.
-
 No condujeron con precaución.
-
 No conocieron al presidente personalmente.
-
 No quisieron participar en el proyecto.
-
 No supieron la respuesta correcta.
-
 No pudieron terminar a tiempo.
-
 No sintieron empatía por su situación.
-
 No encontraron las llaves perdidas.
-
 No siguieron las instrucciones al pie de la letra.
-
 No consiguieron los boletos para el concierto.
-
 No llegaron puntualmente a la cita.
-
-FUTURO (45 oraciones)
+FUTURO (45 oraciones).
 No viajaré a Australia el próximo año.
-
 No estudiarán medicina en la universidad.
-
 No compraremos una casa más grande.
-
 No aprenderé a tocar el piano.
-
 No visitarán a sus familiares en Navidad.
-
 No empezaré un nuevo negocio.
-
 No mudaremos a una ciudad diferente.
-
 No grabarán un álbum de estudio.
-
 No escribirá su autobiografía.
-
 No construirán un rascacielos.
-
 No enseñarán en una escuela internacional.
-
 No correrán en la próxima maratón.
-
 No diseñarán ropa ecológica.
-
 No cantarán en el festival de música.
-
 No pintarán murales en el centro comunitario.
-
 No ahorrarán para comprar un coche.
-
 No nadarán en las Olimpiadas.
-
 No hablarán con el presidente.
-
 No pensarán en mudarse al extranjero.
-
 No sentirán nostalgia por este lugar.
-
 No verán el eclipse solar completo.
-
 No oirán el discurso importante.
-
 No olerán las flores del jardín.
-
 No probarán la comida tradicional.
-
 No tocarán la escultura valiosa.
-
 No andarán por el sendero peligroso.
-
 No estarán en la conferencia internacional.
-
 No tendrán hijos en el futuro cercano.
-
 No harán el viaje alrededor del mundo.
-
 No pondrán en riesgo su seguridad.
-
 No saldrán de la ciudad este fin de semana.
-
 No vendrán a la boda el mes próximo.
-
 No volverán a ese restaurante.
-
 No darán una fiesta de aniversario.
-
 No dirán la verdad completa.
-
 No traerán regalos para todos.
-
 No conducirán por carreteras secundarias.
-
 No conocerán al famoso autor.
-
 No querrán cambiar de trabajo.
-
 No sabrán manejar la situación.
-
 No podrán asistir a la reunión.
-
 No sentirán remordimiento por su decisión.
-
 No encontrarán solución al problema.
-
 No seguirán el mismo camino.
-
 No conseguirán los fondos necesarios.

@@ -1,4 +1,4 @@
-# auto_runner_to_csv.py
+# autorunner.py
 import os, sys, time, subprocess, re, math
 from pathlib import Path
 

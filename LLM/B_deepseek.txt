@@ -1,3996 +1,2000 @@
 Ayer no compré el periódico en el quiosco de la esquina.
-
 La semana pasada no viajamos a Barcelona en el tren de alta velocidad.
-
 El año pasado no nadamos en la piscina municipal climatizada.
-
 Mañana por la mañana no correré por el parque forestal.
-
 Anoche no cenamos pizza en el restaurante italiano del centro.
-
 El lunes próximo no firmaremos el contrato en la oficina del abogado.
-
 Hace dos días no vi las llaves sobre la mesa de la cocina.
-
 Esta tarde los niños no juegan al fútbol en el patio del colegio.
-
 El mes que viene no abrirán la tienda en el centro comercial.
-
 El jueves pasado no llovió en el norte de la provincia.
-
 El verano pasado no buceamos en el arrecife de coral.
-
 El fin de semana pasado no fuimos de excursión a la montaña.
-
 Mañana por la tarde no estudiaré matemáticas en la biblioteca universitaria.
-
 La próxima primavera no plantaremos rosales en el jardín botánico.
-
 Ayer por la noche no paseamos en bicicleta por el carril bici.
-
 El día de su cumpleaños no celebró la fiesta en su casa del campo.
-
 Hace un rato no dejé la cartera en el asiento del coche.
-
 El invierno pasado no esquiamos en los Alpes suizos.
-
 El martes no enviaré el paquete desde la oficina de correos.
-
 El sábado por la mañana no desayunaremos churros en la cafetería nueva.
-
 El año que viene no aprenderé francés en la escuela de idiomas.
-
 Anteayer no se cayó el jarrón de la repisa de la chimenea.
-
 El mes pasado no se mudaron al apartamento en el barrio antiguo.
-
 Esta mañana no he visto a tu hermano en el supermercado.
-
 El domingo por la tarde no vimos el documental en la televisión.
-
 Hace cinco minutos no sonó el timbre en la puerta principal.
-
 El otoño pasado no recogimos setas en el bosque de pinos.
-
 El viernes por la noche no bailaremos salsa en la discoteca.
-
 El día de Navidad no cantaron villancicos en la iglesia del pueblo.
-
 La semana que viene no presentarán el proyecto en la sede central.
-
 Ayer al mediodía no comimos paella en el chiringuito playero.
-
 El lunes pasado no entregué el trabajo en la facultad de medicina.
-
 Mañana al amanecer no saldremos a pescar en el lago.
-
 Hace unas horas no dejé el paraguas en el paragüero del vestíbulo.
-
 El año pasado no se graduó en la universidad pública.
-
 Esta noche no hay luna llena en el cielo despejado.
-
 El miércoles próximo no jugaremos al baloncesto en el polideportivo.
-
 El sábado pasado no compré vino en la tienda especializada.
-
 El día de la boda no brindaron con champán en el jardín.
-
 La próxima semana no instalarán el mobiliario en el aula magna.
-
 Ayer por la tarde no puse la lavadora en el lavadero comunitario.
-
 El mes de julio no viajaré a Japón con mis compañeros de trabajo.
-
 Hace un momento no pasó el autobús escolar por nuestra calle.
-
 El invierno pasado no construimos un iglú en la nieve profunda.
-
 El domingo por la mañana no leo el periódico en el balcón.
-
 El jueves que viene no harán la demostración en la plaza mayor.
-
 El año pasado no aparcó el coche en el garaje subterráneo.
-
 Esta tarde no hay reunión en la sala de juntas.
-
 El fin de semana que viene no acamparemos en la orilla del río.
-
 Ayer al anochecer no encendieron las luces en el monumento histórico.
-
 La semana pasada no grabaron el documental en la selva tropical.
-
 El año pasado no bucearon en las aguas cristalinas del Caribe.
-
 Mañana por la mañana no practicaré yoga en el parque urbano.
-
 Anoche no vimos la película de terror en el cine de verano.
-
 El lunes próximo no firmaremos el acuerdo en el notario.
-
 Hace cuatro días no encontré el perro perdido en el parque.
-
 Esta tarde los abuelos no pasean por el jardín botánico.
-
 El mes que viene no estrenarán la serie en la televisión nacional.
-
 El jueves pasado no llovió intensamente en la región costera.
-
 El verano pasado no surfearon olas grandes en la playa norte.
-
 El año próximo no compraremos la casa en las afueras.
-
 Anteayer no plantó flores en el jardín comunitario.
-
 El mes pasado no se compró el coche en la concesionaria.
-
 Esta mañana no he visto a mi prima en el centro comercial.
-
 El domingo por la tarde no vimos el partido en el estadio.
-
 Hace diez minutos no sonó el teléfono en la mesita de noche.
-
 El otoño pasado no recogieron hojas secas en el parque.
-
 El viernes por la noche no cantarán karaoke en el bar.
-
 El día de Navidad no encendieron las velas en la catedral.
-
 La semana que viene no presentarán los resultados en la conferencia.
-
 Ayer al mediodía no comieron en el restaurante vegetariano.
-
 El lunes pasado no entregó el proyecto en la oficina.
-
 Mañana al amanecer no saldrá a correr por el paseo marítimo.
-
 Hace unas horas no dejó las gafas en la mesa de la cocina.
-
 El año pasado no se certificó en inglés en el instituto.
-
 Ayer no compré pan.
-
 La semana pasada no viajamos.
-
 El año pasado no nadamos.
-
 Mañana por la mañana no caminaré.
-
 Anoche no cenamos.
-
 El lunes próximo no reuniremos.
-
 Hace dos días no vi.
-
 Esta tarde los niños no pintarán.
-
 El mes que viene no inaugurarán.
-
 El jueves pasado no corrí.
-
 El verano pasado no acampamos.
-
 El fin de semana pasado no bailamos.
-
 Mañana por la tarde no estudiaré.
-
 La próxima primavera no volaremos.
-
 Ayer por la noche no miré.
-
 El día de su cumpleaños no celebró.
-
 Hace un rato no dejé.
-
 El invierno pasado no patinamos.
-
 El martes no enviaré.
-
 El sábado por la mañana no desayunaremos.
-
 El año que viene no aprenderé.
-
 Anteayer no se cayó.
-
 El mes pasado no se mudó.
-
 Esta mañana no he visto.
-
 El domingo por la tarde no vimos.
-
 Hace cinco minutos no sonó.
-
 El otoño pasado no recogimos.
-
 El viernes por la noche no cantaremos.
-
 El día de Navidad no encendieron.
-
 La semana que viene no presentarán.
-
 Ayer al mediodía no comimos.
-
 El lunes pasado no entregué.
-
 Mañana al amanecer no saldremos.
-
 Hace unas horas no dejé.
-
 El año pasado no se graduó.
-
 Esta noche no hay.
-
 El miércoles próximo no jugaremos.
-
 El sábado pasado no compré.
-
 El día de la fiesta no encendieron.
-
 La próxima semana no instalarán.
-
 Ayer por la tarde no lavé.
-
 El mes de julio no viajaré.
-
 Hace un momento no pasó.
-
 El invierno pasado no hicimos.
-
 El domingo por la mañana no leo.
-
 El jueves que viene no harán.
-
 El año pasado no aparcó.
-
 Esta tarde no hay.
-
 El fin de semana que viene no iremos.
-
 Ayer al anochecer no encendieron.
-
 La semana pasada no grabaron.
-
 El año pasado no bucearon.
-
 Mañana por la mañana no practicaré.
-
 Anoche no vimos.
-
 El lunes próximo no firmaremos.
-
 Hace cuatro días no encontré.
-
 Esta tarde los abuelos no descansan.
-
 El mes que viene no estrenarán.
-
 El jueves pasado no nevó.
-
 El verano pasado no surfearon.
-
 El año próximo no compraremos.
-
 Anteayer no plantó.
-
 El mes pasado no se compró.
-
 Esta mañana no he visto.
-
 El domingo por la tarde no vimos.
-
 Hace diez minutos no sonó.
-
 El otoño pasado no recogieron.
-
 El viernes por la noche no cantaron.
-
 El día de Navidad no encendieron.
-
 La semana que viene no presentarán.
-
 Ayer al mediodía no comieron.
-
 El lunes pasado no entregó.
-
 Mañana al amanecer no saldrá.
-
 Hace unas horas no dejó.
-
 El año pasado no se certificó.
-
 No compré el regalo para mi madre.
-
 No viajaron a Italia el año pasado.
-
 No nadó en la piscina municipal.
-
 No caminé por el parque ayer.
-
 No cenaron en el restaurante elegante.
-
 No reunieron los documentos necesarios.
-
 No vio la obra de teatro impresionante.
-
 No pintaron murales coloridos.
-
 No inauguraron la nueva biblioteca.
-
 No corrió diez kilómetros.
-
 No acamparon en la montaña.
-
 No bailó toda la noche.
-
 No estudió para el examen final.
-
 No voló en globo aerostático.
-
 No miró el atardecer desde la colina.
-
 No brindaron por el éxito del proyecto.
-
 No dejó la cartera en el coche.
-
 No patinó sobre el lago congelado.
-
 No envió la solicitud por correo.
-
 No desayunó huevos con tocino.
-
 No aprendió a tocar la guitarra.
-
 No plantó un rosal en el jardín.
-
 No se compró una casa nueva.
-
 No vio a su mejor amigo.
-
 No vieron el documental sobre naturaleza.
-
 No sonó la campana de la escuela.
-
 No recogieron setas en el bosque.
-
 No cantó canciones populares.
-
 No encendieron una fogata en la playa.
-
 No presentó su renuncia al jefe.
-
 No comió sushi por primera vez.
-
 No entregó el trabajo a tiempo.
-
 No salió a correr al amanecer.
-
 No dejó las gafas en la mesa.
-
 No se graduó con honores.
-
 No hubo un accidente en la carretera.
-
 No jugó al fútbol en el patio.
-
 No compró entradas para el concierto.
-
 No encendió las luces del árbol.
-
 No instaló el nuevo sistema.
-
 No lavó los platos después de cenar.
-
 No viajó a Asia el verano pasado.
-
 No pasó el autobús de las ocho.
-
 No hicieron un muñeco de nieve.
-
 No leyó el periódico de la mañana.
-
 No hicieron una fiesta sorpresa.
-
 No aparcó en el garaje subterráneo.
-
 No hubo una tormenta eléctrica.
-
 No fueron de excursión a la sierra.
-
 No encendieron las velas del altar.
-
 No grabó un video musical.
-
 No buceó en aguas profundas.
-
 No practicó meditación diaria.
-
 No vio la luna llena.
-
 No firmó el contrato de arrendamiento.
-
 No encontró un tesoro escondido.
-
 No descansaron en la hamaca.
-
 No estrenaron una obra de teatro.
-
 No nevó en la ciudad.
-
 No surfearon olas gigantes.
-
 No reconstruyeron el puente dañado.
-
 No organizaron el festival cultural.
-
 No impartieron clases virtuales.
-
 No instalaron antenas parabólicas.
-
 No grabaron el programa de televisión.
-
 No celebraron el aniversario institucional.
-
 No entregaron los diplomas acreditados.
-
 No rodaron la película independiente.
-
 No inauguraron el centro de innovación.
-
 No realizaron el trasplante experimental.
-
 No plantaron árboles nativos.
-
 No practicaron deportes extremos.
-
 No construyeron la presa hidroeléctrica.
-
 No impartieron talleres especializados.
-
 No ajustaron los parámetros técnicos.
-
 No pescaron atún de aleta azul.
-
 No compitieron en torneos internacionales.
-
 No tocaron música clásica.
-
 No participaron en congresos científicos.
-
 No podaron los setos ornamentales.
-
 No degustaron vinos de crianza.
-
 No renovaron el equipamiento tecnológico.
-
 No rescataron animales en peligro.
-
 No recolectaron muestras biológicas.
-
 No volaron en formación aérea.
-
 No limpiaron las playas vírgenes.
-
 No rindieron homenaje a los fundadores.
-
 No digitalizaron los archivos históricos.
-
 No patentaron el dispositivo médico.
-
 No practicaron artes marciales.
-
 No entrevistaron a los testigos.
-
 No esquiaron en glaciares perpetuos.
-
 No sirvieron banquetes ceremoniales.
-
 No calibraron los instrumentos de medición.
-
 No repararon las infraestructuras críticas.
-
 No certificaron los productos ecológicos.
-
 No tasaron las antigüedades valiosas.
-
 No navegaron por mares peligrosos.
-
 No programaron la inteligencia artificial.
-
 No rastrearon las especies protegidas.
-
 No compraremos una casa el año próximo.
-
 No viajarán a Japón en diciembre.
-
 No nadará en el mar la próxima semana.
-
 No caminaré por el centro mañana.
-
 No cenaremos en ese nuevo restaurante.
-
 No reunirán a la familia en Navidad.
-
 No verá la nueva exposición de arte.
-
 No pintarán un mural pronto.
-
 No inaugurarán el puente el mes que viene.
-
 No correrá una maratón el próximo año.
-
 No acamparemos en el parque nacional.
-
 No bailarán en la boda de su hermana.
-
 No estudiaré medicina en la universidad.
-
 No volaremos a Nueva York en octubre.
-
 No mirará las estrellas esta noche.
-
 No brindaremos por tu éxito.
-
 No dejará el paquete en la oficina.
-
 No patinarán en la pista nueva.
-
 No enviaré la carta por correo express.
-
 No desayunarán juntos el domingo.
-
 No aprenderá a programar pronto.
-
 No plantará un árbol en el jardín.
-
 No se comprará un coche eléctrico.
-
 No verá a sus padres el fin de semana.
-
 No verán la final del campeonato.
-
 No sonará la alarma a las siete.
-
 No recogerán la cosecha en otoño.
-
 No cantarán en el coro de la iglesia.
-
 No encenderán las luces al anochecer.
-
 No presentarán el informe la próxima semana.
-
 No comeremos paella el domingo.
-
 No entregará el proyecto pronto.
-
 No saldrá a pasear al atardecer.
-
 No dejará las llaves bajo el felpudo.
-
 No se graduará el próximo mes.
-
 No habrá un eclipse lunar pronto.
-
 No jugaremos al tenis el sábado.
-
 No comprará regalos en diciembre.
-
 No encenderán la chimenea en invierno.
-
 No instalarán paneles solares.
-
 No lavará el coche el fin de semana.
-
 No viajará a Europa el verano que viene.
-
 No pasará el examen con buena nota.
-
 No harán una barbacoa en el jardín.
-
 No leerá el libro que le recomendé.
-
 No harán una excursión el próximo mes.
-
 No aparcará en el nuevo estacionamiento.
-
 No habrá una feria del libro.
-
 No irán de vacaciones a la playa.
-
 No encenderán las farolas al caer la noche.
-
 No grabarán un podcast la semana que viene.
-
 No buceará en las Maldivas.
-
 No practicará yoga todas las mañanas.
-
 No verá el amanecer desde la montaña.
-
 No firmará el contrato mañana.
-
 No encontrará un trabajo mejor.
-
 No descansará en la playa.
-
 No estrenarán la película en cines.
-
 No nevará en la sierra este invierno.
-
 No surfeará en Hawaii el próximo año.
-
 No reconstruirán el patrimonio dañado.
-
 No organizarán olimpiadas científicas.
-
 No impartirán cursos virtuales.
-
 No instalarán redes de comunicación.
-
 No grabarán películas en 3D.
-
 No celebrarán acuerdos internacionales.
-
 No entregarán premios nobel.
-
 No rodarán en gravedad cero.
-
 No inaugurarán colonias marcianas.
-
 No realizarán teletransportación cuántica.
-
 No plantarán bosques submarinos.
-
 No practicarán deportes orbitales.
-
 No construirán rascacielos suspendidos.
-
 No impartirán educación virtual.
-
 No ajustarán el clima artificialmente.
-
 No pescarán en criósfera.
-
 No competirán en juegos paralímpicos.
-
 No tocarán música interestelar.
-
 No participarán en misiones interestelares.
-
 No podarán árboles genéticamente modificados.
-
 No degustarán alimentos sintetizados.
-
 No renovarán el parque automovilístico.
-
 No rescatarán especies extintas.
-
 No recolectarán energía solar espacial.
-
 No volarán en naves supersónicas.
-
 No limpiarán órbita terrestre.
-
 No rendirán culto a inteligencias artificiales.
-
 No digitalizarán conciencias humanas.
-
 No patentarán formas de vida artificial.
-
 No practicarán telepatía asistida.
-
 No entrevistarán a inteligencias extraterrestres.
-
 No esquiarán en montañas marcianas.
-
 No servirán menús personalizados genéticamente.
-
 No calibrarán telescopios orbitales.
-
 No repararán satélites en órbita.
-
 No certificarán habitabilidad planetaria.
-
 No tasarán propiedades extraterrestres.
-
 No navegarán por mares de metano.
-
 No programarán emociones artificiales.
-
 No rastrearán vida exoplanetaria.
-
 No compro fruta en el mercado.
-
 No viajan a trabajo frecuentemente.
-
 No nada en la piscina los fines de semana.
-
 No camino por el parque diariamente.
-
 No cenamos juntos todas las noches.
-
 No reúnen datos para la investigación.
-
 No ve películas de ciencia ficción.
-
 No pintan en la escuela.
-
 No inauguran exposiciones de arte moderno.
-
 No corre por las mañanas antes del trabajo.
-
 No acampa en lugares remotos.
-
 No baila tango los viernes.
-
 No estudia arquitectura en la universidad.
-
 No vuela en avión por negocios.
-
 No mira series en streaming.
-
 No brinda por la salud de su familia.
-
 No deja la mochila en la entrada.
-
 No patina en el parque los domingos.
-
 No envía correos electrónicos constantemente.
-
 No desayuna café con leche y tostadas.
-
 No aprende idiomas en línea.
-
 No planta verduras en su huerto.
-
 No se compra ropa en las rebajas.
-
 No ve a sus amigos regularmente.
-
 No ven documentales sobre historia.
-
 No suena el despertador a las seis.
-
 No recoge flores silvestres.
-
 No canta en un grupo musical.
-
 No enciende velas aromáticas.
-
 No presenta proyectos innovadores.
-
 No come comida vegetariana.
-
 No entrega trabajos puntualmente.
-
 No sale a caminar al atardecer.
-
 No deja el teléfono en modo silencio.
-
 No se gradúa este semestre.
-
 No hay conciertos en el parque.
-
 No juega al baloncesto con sus amigos.
-
 No compra libros usados.
-
 No enciende la televisión por las noches.
-
 No instala aplicaciones en su móvil.
-
 No lava la ropa los sábados.
-
 No viaja por trabajo a menudo.
-
 No pasa tiempo con su familia.
-
 No hace manualidades en su tiempo libre.
-
 No lee novelas de misterio.
-
 No hace ejercicio en el gimnasio.
-
 No aparca en la calle principal.
-
 No hay mercados al aire libre.
-
 No van al cine los fines de semana.
-
 No enciende las luces al entrar.
-
 No graba videos para su canal.
-
 No bucea en aguas tropicales.
-
 No practica deportes extremos.
-
 No ve la televisión por la tarde.
-
 No firma documentos importantes.
-
 No encuentra soluciones creativas.
-
 No descansa en el sofá después del trabajo.
-
 No estrena colección de moda.
-
 No nieva en las cumbres.
-
 No surfea en la playa local.
-
 No reconstruyen barrios marginales.
-
 No organizan ferias de tecnología.
-
 No imparten clases de cocina.
-
 No instalan paneles solares.
-
 No graban podcasts educativos.
-
 No celebran festivales multiculturales.
-
 No entregan comida a necesitados.
-
 No ruedan series web.
-
 No inauguran centros comunitarios.
-
 No realizan terapias alternativas.
-
 No plantan árboles nativos.
-
 No practican deportes urbanos.
-
 No construyen viviendas sociales.
-
 No imparten talleres gratuitos.
-
 No ajustan dosis personalizadas.
-
 No pescan con cañas ecológicas.
-
 No compiten en deportes electrónicos.
-
 No tocan en calles céntricas.
-
 No participan en ONG internacionales.
-
 No podan parques públicos.
-
 No degustan comida callejera.
-
 No renuevan espacios abandonados.
-
 No rescatan fauna autóctona.
-
 No recolectan ropa usada.
-
 No vuelan aviones solares.
-
 No limpian ríos urbanos.
-
 No rinden exámenes finales.
-
 No digitalizan administraciones.
-
 No patentan ideas innovadoras.
-
 No practican meditación colectiva.
-
 No entrevistan a personas sin hogar.
-
 No esquían en pistas cubiertas.
-
 No sirven menús diarios.
-
 No calibran instrumentos médicos.
-
 No reparan electrodomésticos.
-
 No certifican productos locales.
-
 No tasan arte callejero.
-
 No navegan en barcos ecológicos.
-
 No programan videojuegos educativos.
-
 No rastrean delincuentes.
-
 No cultivan huertos urbanos.
-
 No clasifican basura reciclable.
-
 No sondean mercados financieros.
-
 No afinan guitarras acústicas.
-
 No crían mascotas exóticas.
-
 No hornean pan integral.
-
 No ensayan obras clásicas.
-
 No pescan con redes sostenibles.
-
 No proyectan arte digital.
-
 No analizan datos meteorológicos.
-
 No crían insectos benéficos.
-
 No cultivan flores ornamentales.
-
 No tiñen ropa vintage.
-
 No graban tutoriales online.
-
 No funden joyas éticas.
-
 No tallan piedras semipreciosas.
-
 No modelan figuras de arena.
-
 No excavan sitios históricos.
-
 No restauran monumentos públicos.
-
 No compilan archivos sonoros.
-
 No modelan personajes virtuales.
-
 No bordan banderas representativas.
-
 No soldan esculturas metálicas.
-
 No plantan jardines comunitarios.
-
 No encuadernan libros artesanales.
-
 No prensan flores secas.
-
 No forjan herramientas manuales.
-
 No esmaltan objetos cotidianos.
-
 No pulen muebles antiguos.
-
 No graban canciones protesta.
-
 No trenzan pulseras solidarias.
-
 No tallan sellos corporativos.
-
 No moldean chocolate artesanal.
-
 No cocen cerámica utilitaria.
-
 No tallan jabones naturales.
-
 No estampan posters reivindicativos.
-
 No anillan documentos legales.
-
 No catalogan fondos museísticos.
-
 No digitalizan facturas electrónicas.
-
 No navegan en botes salvavidas.
-
 No instalan alarmas vecinales.
-
 No fotografían patrimonio cultural.
-
 No crían animales de terapia.
-
 No clasifican libros donados.
-
 No analizan tendencias sociales.
-
 No clonan plantas en peligro.
-
 No transcriben actas judiciales.
-
 No interpretan roles teatrales.
-
 No ensamblan kits educativos.
-
 No observan constelaciones familiares.
 El año pasado no organizaron el festival de cine en el centro cultural.
-
 La semana que viene no celebrarán el congreso científico en el auditorio.
-
 Ayer no instalaron la nueva escultura en la plaza principal.
-
 Mañana por la tarde no presentarán el informe económico en la sede.
-
 El mes pasado no grabaron el programa de entrevistas en el estudio.
-
 Hace dos horas no entregaron los resultados en el laboratorio.
-
 El verano próximo no rodarán la película histórica en el castillo.
-
 Anteayer no inauguraron la exposición fotográfica en el museo.
-
 El jueves pasado no realizaron el maratón benéfico en el paseo.
-
 Esta mañana no han plantado los árboles en el parque ecológico.
-
 El fin de semana pasado no practicaron senderismo en la sierra.
-
 El año que viene no construirán el puente colgante en el cañón.
-
 El lunes próximo no impartirán el taller de robótica en el colegio.
-
 Hace un momento no ajustaron el sonido en el teatro municipal.
-
 El domingo por la mañana no pescaron en el lago artificial.
-
 El invierno pasado no compitieron en carreras de trineos en Laponia.
-
 El sábado por la noche no tocaron jazz en el club nocturno.
-
 El mes de julio no participarán en el festival de teatro en la plaza.
-
 La próxima primavera no podarán los rosales en el jardín botánico.
-
 Ayer al mediodía no degustaron vinos en la bodega tradicional.
-
 El día de su aniversario no donó juguetes en el hospital infantil.
-
 Hace una semana no rescataron al gato atrapado en el árbol.
-
 El otoño pasado no recolectaron castañas en el bosque.
-
 El viernes por la tarde no volaron cometas en el campo abierto.
-
 Esta tarde los niños no juegan al escondite en el parque.
-
 El martes no rindieron homenaje a los veteranos en el monumento.
-
 El año pasado no digitalizaron los archivos en la biblioteca.
-
 La semana pasada no patentaron el dispositivo en la oficina.
-
 Mañana al amanecer no meditarán en el monasterio.
-
 El jueves que viene no entrevistarán al científico en el laboratorio.
-
 Anoche no esquiaron con antorchas en la pista.
-
 El día de Navidad no repartieron mantas en el albergue.
-
 Hace cinco minutos no calibraron las básculas en el mercado.
-
 El verano pasado no repararon el camino en el pueblo.
-
 El lunes pasado no certificaron los productos en la fábrica.
-
 Esta mañana no han tasado la vivienda en la inmobiliaria.
-
 El domingo por la tarde no navegaron en velero en la bahía.
-
 El mes que viene no programarán la aplicación en la empresa.
-
 Ayer por la noche no rastrearon constelaciones en el observatorio.
-
 El invierno próximo no cultivarán trufas en el bosque.
-
 El sábado por la mañana no clasificaron cartas en la oficina.
-
 Hace tres días no sondearon el terreno en la construcción.
-
 La próxima semana no afinarán los violines en el conservatorio.
-
 El año pasado no criaron conejos en la granja.
-
 Esta tarde no hornean pasteles en la pastelería.
-
 El miércoles próximo no ensayarán la coreografía en el estudio.
-
 El fin de semana que viene no pescarán en el río.
-
 Ayer al anochecer no proyectaron documentales en la fachada.
-
 El jueves pasado no analizaron muestras de suelo en el laboratorio.
-
 La semana pasada no criaron pollos en el corral.
-
 El mes pasado no cultivaron lechugas en el invernadero.
-
 Mañana por la mañana no teñirán lana en el taller.
-
 Anoche no grabaron el podcast en la emisora.
-
 El lunes próximo no fundirán aluminio en la fundición.
-
 Hace cuatro días no tallaron piedra en la cantera.
-
 Esta tarde los ceramistas no modelan barro en el taller.
-
 El año que veniré no excavarán ruinas en el yacimiento.
-
 El verano pasado no restauraron vidrieras en la catedral.
-
 El año pasado no compilaron estadísticas en el instituto.
-
 La semana que veniré no modelarán figuras en 3D en la universidad.
-
 Mañana por la tarde no bordarán el tapiz en el taller.
-
 Anoche no soldaron tuberías en la refinería.
-
 El día de su bautizo no plantaron un rosal en la iglesia.
-
 Hace una hora no encuadernaron manuscritos en la biblioteca.
-
 El otoño pasado no prensaron aceitunas en la cooperativa.
-
 El viernes por la tarde no forjaron herramientas en la herrería.
-
 Esta mañana no han esmaltado cerámica en el taller.
-
 El martes no pulieron suelos en el museo.
-
 El año pasado no grabaron inscripciones en el taller.
-
 La semana pasada no trenzaron cuerdas en la nave.
-
 Mañana al amanecer no tallarán madera en el taller.
-
 El jueves que veniré no moldearán plastilina en la escuela.
-
 Anoche no cocieron pan en la panadería.
-
 El día de Navidad no tallaron hielo en la plaza.
-
 Hace cinco minutos no estamparon camisetas en la tienda.
-
 El año pasado no organizaron.
-
 La semana que viene no celebrarán.
-
 Ayer no instalaron.
-
 Mañana por la tarde no presentarán.
-
 El mes pasado no grabaron.
-
 Hace dos horas no entregaron.
-
 El verano próximo no rodarán.
-
 Anteayer no inauguraron.
-
 El jueves pasado no realizaron.
-
 Esta mañana no han plantado.
-
 El fin de semana pasado no practicaron.
-
 El año que viene no construirán.
-
 El lunes próximo no impartirán.
-
 Hace un momento no ajustaron.
-
 El domingo por la mañana no pescaron.
-
 El invierno pasado no compitieron.
-
 El sábado por la noche no tocaron.
-
 El mes de julio no participarán.
-
 La próxima primavera no podarán.
-
 Ayer al mediodía no degustaron.
-
 El día de su aniversario no donó.
-
 Hace una semana no rescataron.
-
 El otoño pasado no recolectaron.
-
 El viernes por la tarde no volaron.
-
 Esta tarde los niños no juegan.
-
 El martes no rindieron.
-
 El año pasado no digitalizaron.
-
 La semana pasada no patentaron.
-
 Mañana al amanecer no meditarán.
-
 El jueves que viene no entrevistarán.
-
 Anoche no esquiaron.
-
 El día de Navidad no repartieron.
-
 Hace cinco minutos no calibraron.
-
 El verano pasado no repararon.
-
 El lunes pasado no certificaron.
-
 Esta mañana no han tasado.
-
 El domingo por la tarde no navegaron.
-
 El mes que viene no programarán.
-
 Ayer por la noche no rastrearon.
-
 El invierno próximo no cultivarán.
-
 El sábado por la mañana no clasificaron.
-
 Hace tres días no sondearon.
-
 La próxima semana no afinarán.
-
 El año pasado no criaron.
-
 Esta tarde no hornean.
-
 El miércoles próximo no ensayarán.
-
 El fin de semana que viene no pescarán.
-
 Ayer al anochecer no proyectaron.
-
 El jueves pasado no analizaron.
-
 La semana pasada no criaron.
-
 El mes pasado no cultivaron.
-
 Mañana por la mañana no teñirán.
-
 Anoche no grabaron.
-
 El lunes próximo no fundirán.
-
 Hace cuatro días no tallaron.
-
 Esta tarde los ceramistas no modelan.
-
 El año que veniré no excavarán.
-
 El verano pasado no restauraron.
-
 El año pasado no compilaron.
-
 La semana que veniré no modelarán.
-
 Mañana por la tarde no bordarán.
-
 Anoche no soldaron.
-
 El día de su bautizo no plantaron.
-
 Hace una hora no encuadernaron.
-
 El otoño pasado no prensaron.
-
 El viernes por la tarde no forjaron.
-
 Esta mañana no han esmaltado.
-
 El martes no pulieron.
-
 El año pasado no grabaron.
-
 La semana pasada no trenzaron.
-
 Mañana al amanecer no tallarán.
-
 El jueves que veniré no moldearán.
-
 Anoche no cocieron.
-
 El día de Navidad no tallaron.
-
 Hace cinco minutos no estamparon.
-
 No organizaron el campeonato de debate.
-
 No celebraron el festival literario.
-
 No instalaron el sistema de seguridad.
-
 No grabaron el concierto sinfónico.
-
 No entregaron los premios académicos.
-
 No rodaron el documental antropológico.
-
 No inauguraron la galería de arte.
-
 No realizaron el trasplante experimental.
-
 No plantaron el bosque conmemorativo.
-
 No practicaron buceo técnico.
-
 No construyeron la central eólica.
-
 No impartieron clases magistrales.
-
 No ajustaron los controles de calidad.
-
 No pescaron atún rojo.
-
 No compitieron en olimpiadas matemáticas.
-
 No tocaron música barroca.
-
 No participaron en ferias internacionales.
-
 No podaron los árboles centenarios.
-
 No degustaron chocolates artesanales.
-
 No renovaron el equipamiento deportivo.
-
 No rescataron alpinistas perdidos.
-
 No recolectaron muestras geológicas.
-
 No volaron en ultraligeros.
-
 No limpiaron los fondos marinos.
-
 No rindieron honores militares.
-
 No digitalizaron manuscritos antiguos.
-
 No patentaron el software innovador.
-
 No practicaron yoga avanzado.
-
 No entrevistaron a Nobel de literatura.
-
 No esquiaron en backcountry.
-
 No sirvieron cenas de gala.
-
 No calibraron telescopios profesionales.
-
 No repararon centrales hidroeléctricas.
-
 No certificaron productos orgánicos.
-
 No tasaron joyas históricas.
-
 No navegaron en regatas oceánicas.
-
 No programaron algoritmos complejos.
-
 No rastrearon animales en peligro.
-
 No cultivaron plantas exóticas.
-
 No clasificaron documentos secretos.
-
 No sondearon el subsuelo marino.
-
 No afinar pianos de concierto.
-
 No criaron especies protegidas.
-
 No hornearon pan artesanal.
-
 No ensayaron óperas completas.
-
 No pescaron marlines gigantes.
-
 No proyectaron mapping arquitectónico.
-
 No analizaron meteoritos lunares.
-
 No criaron corales artificiales.
-
 No cultivaron hierbas aromáticas.
-
 No teñieron sedas naturales.
-
 No grabaron sesiones acústicas.
-
 No fundieron metales preciosos.
-
 No tallaron gemas raras.
-
 No modelaron cera perdida.
-
 No excavaron ciudades perdidas.
-
 No restauraron frescos medievales.
-
 No compilaron bases de datos.
-
 No modelaron prototipos reales.
-
 No bordaron tapices persas.
-
 No soldaron estructuras espaciales.
-
 No plantaron jardines históricos.
-
 No encuadernaron incunables.
-
 No prensaron flores exóticas.
-
 No forjaron espadas samurái.
-
 No esmaltaron joyas bizantinas.
-
 No pulieron diamantes en bruto.
-
 No grabaron discos de vinilo.
-
 No trenzaron cestas tradicionales.
-
 No tallaron marfil fósil.
-
 No moldearon resinas epoxi.
-
 No cocieron porcelana china.
-
 No tallaron chocolate belga.
-
 No estamparon telas africanas.
-
 No anillaron aves rapaces.
-
 No catalogaron fósiles marinos.
-
 No digitalizaron películas mudas.
-
 No navegaron en goletas antiguas.
-
 No instalaron reactores nucleares.
-
 No fotografiaron tribus aisladas.
-
 No criaron razas autóctonas.
-
 No clasificaron minerales raros.
-
 No analizaron virus emergentes.
-
 No clonaron embriones humanos.
-
 No transcribieron textos sagrados.
-
 No interpretaron sonatas clásicas.
-
 No ensamblaron satélites espaciales.
-
 No observaron eclipses solares.
-
 No lanzaron cohetes experimentales.
-
 No examinaron tejidos cancerosos.
-
 No aislaron bacterias extremófilas.
-
 No sintetizaron compuestos nuevos.
-
 No transplantaron órganos vitales.
-
 No resucitaron culturas antiguas.
-
 No operaron con robots quirúrgicos.
-
 No diagnosticaron enfermedades raras.
-
 No rehabilitaron edificios históricos.
-
 No vacunaron a la población.
-
 No donaron médula ósea.
-
 No investigaron curas innovadoras.
-
 No organizarán festivales intergalácticos.
-
 No celebrarán bodas cuánticas.
-
 No instalarán teletransportadores.
-
 No grabarán memorias humanas.
-
 No entregarán premios interestelares.
-
 No rodarán en planetas habitables.
-
 No inaugurarán bases lunares.
-
 No realizarán viajes en el tiempo.
-
 No plantarán bosques en Marte.
-
 No practicarán deportes antigravedad.
-
 No construirán ciudades flotantes.
-
 No impartirán telepatía artificial.
-
 No ajustarán realidades virtuales.
-
 No pescarán en océanos alienígenas.
-
 No competirán en juegos multidimensionales.
-
 No tocarán música cósmica.
-
 No participarán en colonias espaciales.
-
 No podarán árboles inteligentes.
-
 No degustarán comida replicada.
-
 No renovarán cuerpos biónicos.
-
 No rescatarán civilizaciones perdidas.
-
 No recolectarán energía estelar.
-
 No volarán naves generacionales.
-
 No limpiarán galaxias contaminadas.
-
 No rendirán tributo a inteligencias artificiales.
-
 No digitalizarán almas humanas.
-
 No patentarán universos paralelos.
-
 No practicarán teletransportación mental.
-
 No entrevistarán a seres de otras dimensiones.
-
 No esquiarán en asteroides.
-
 No servirán menús moleculars.
-
 No calibrarán telescopios intergalácticos.
-
 No repararán agujeros de gusano.
-
 No certificarán planetas habitables.
-
 No tasarán propiedades espaciales.
-
 No navegarán por nebulosas.
-
 No programarán conciencias artificiales.
-
 No rastrearán vida extraterrestre.
-
 No cultivarán granjas orbitales.
-
 No clasificarán civilizaciones galácticas.
-
 No sondearán dimensiones paralelas.
-
 No afinarán motores de curvatura.
-
 No criarán quimeras genéticas.
-
 No hornearán con lava volcánica.
-
 No ensayarán óperas espaciales.
-
 No pescarán leviatanes oceánicos.
-
 No proyectarán hologramas sentimentales.
-
 No analizarán materia oscura.
-
 No criarán ecosistemas cerrados.
-
 No cultivarán plantas bioluminiscentes.
-
 No teñirán con pigmentos alienígenas.
-
 No grabarán pensamientos colectivos.
-
 No fundirán metales asteroidales.
-
 No tallarán cristales de energía.
-
 No modelarán paisajes virtuales.
-
 No excavarán en lunas jovianas.
-
 No restaurarán atmósferas planetarias.
-
 No compilarán conocimientos cósmicos.
-
 No modelarán cuerpos perfectos.
-
 No bordarán con hilos de luz.
-
 No soldarán en gravedad cero.
-
 No plantarán jardines lunares.
-
 No encuadernarán libros vivientes.
-
 No prensarán gases nobles.
-
 No forjarán aleaciones cósmicas.
-
 No esmaltarán naves espaciales.
-
 No pulirán espejos gravitacionales.
-
 No grabarán en diamantes sintéticos.
-
 No trenzarán cables cuánticos.
-
 No tallarán espacio-tiempo.
-
 No moldearán realidades alternas.
-
 No cocerán con radiación controlada.
-
 No tallarán diamantes artificiales.
-
 No estamparán circuitos biológicos.
-
 No anillarán especies creadas.
-
 No catalogarán exoplanetas habitables.
-
 No digitalizarán genomas completos.
-
 No navegarán por ríos de titán.
-
 No instalarán domos geodésicos.
-
 No fotografiarán agujeros negros.
-
 No criarán vida sintética.
-
 No clasificarán energías alternativas.
-
 No analizarán partículas subatómicas.
-
 No clonarán órganos humanos.
-
 No transcribirán lenguas alienígenas.
-
 No interpretarán música de esferas.
-
 No ensamblarán estaciones espaciales.
-
 No observarán nacimientos estelares.
-
 No lanzarán sondas interestelares.
-
 No examinarán formas de vida alternativas.
-
 No aislarán elementos superpesados.
-
 No sintetizarán materiales programables.
-
 No transplantarán memorias artificiales.
-
 No resucitarán eras geológicas.
-
 No operarán con nanorobots.
-
 No diagnosticarán males cósmicos.
-
 No rehabilitarán ecosistemas dañados.
-
 No vacunarán contra virus alienígenas.
-
 No donarán cuerpos virtuales.
-
 No investigarán universos paralelos.
-
 No organizan mercados medievales.
-
 No celebran ritos ancestrales.
-
 No instalan fuentes ornamentales.
-
 No graban sonidos naturales.
-
 No entregan donaciones anónimas.
-
 No ruedan spots publicitarios.
-
 No inauguran centros de día.
-
 No realizan cirugías estéticas.
-
 No plantan cactus decorativos.
-
 No practican natación sincronizada.
-
 No construyen puentes peatonales.
-
 No imparten clases particulares.
-
 No ajustan lentillas progresivas.
-
 No pescan con cañas de mosca.
-
 No compiten en carreras populares.
-
 No tocan tambores tradicionales.
-
 No participan en talleres de autoayuda.
-
 No podan bonsáis centenarios.
-
 No degustan tés exóticos.
-
 No renuevan certificaciones profesionales.
-
 No rescatan libros antiguos.
-
 No recolectan semillas autóctonas.
-
 No vuelan cometas acrobáticas.
-
 No limpian fuentes públicas.
-
 No rinden exámenes de conducir.
-
 No digitalizan facturas en papel.
-
 No patentan métodos educativos.
-
 No practican pilates terapéutico.
-
 No entrevistan a artistas callejeros.
-
 No esquían en pistas artificiales.
-
 No sirven desayunos continentales.
-
 No calibran básculas digitales.
-
 No reparan instrumentos musicales.
-
 No certifican productos kosher.
-
 No tasan antigüedades familiares.
-
 No navegan en barcas de pedales.
-
 No programan videojuegos educativos.
-
 No rastrean paquetes postales.
-
 No cultivan microvegetales.
-
 No clasifican residuos electrónicos.
-
 No sondean opiniones políticas.
-
 No afinan armónicas musicales.
-
 No crían canarios cantores.
-
 No horne galletas decoradas.
-
 No ensayan obras de vanguardia.
-
 No pescan con redes de arrastre.
-
 No proyectan sombras chinescas.
-
 No analizan muestras de agua.
-
 No crían lombrices de tierra.
-
 No cultivan plantas carnivoras.
-
 No tiñen pelo natural.
-
 No graban audiolibros infantiles.
-
 No funden chatarra electrónica.
-
 No tallan huesos de fruta.
-
 No modelan arcilla polimérica.
-
 No excavan zanjas de drenaje.
-
 No restauran muebles vintage.
-
 No compilan recetarios familiares.
-
 No modelan avatares digitales.
-
 No bordan puntos de cruz.
-
 No soldan joyería fina.
-
 No plantan césped artificial.
-
 No encuadernan comics antiguos.
-
 No prensan flores secas.
-
 No forjan herraduras de caballo.
-
 No esmaltan uñas artísticas.
-
 No pulen plata de ley.
-
 No graban podcasts diarios.
-
 No trenzan coronas florales.
-
 No tallan sellos de madera.
-
 No moleden figuras de yeso.
-
 No cocen barro refractario.
-
 No tallan jabones artesanales.
-
 No estampan etiquetas personalizadas.
-
 No anillan documentos notariales.
-
 No catalogan sellos postales.
-
 No digitalizan diapositivas antiguas.
-
 No navegan en botes inflables.
-
 No instalan alarmas contra incendios.
-
 No fotografían bodas civiles.
-
 No crían hamsters enanos.
-
 No clasifican monedas antiguas.
-
 No analizan tendencias de moda.
-
 No clonan plantas de interior.
-
 No transcriben partituras musicales.
-
 No interpretan papeles secundarios.
-
 No ensamblan rompecabezas gigantes.
-
 No observan mariposas nocturnas.
-
 No lanzan cometas de papel.
-
 No examinan muestras de saliva.
-
 No aíslan componentes activos.
-
 No sintetizan perfumes naturales.
-
 No transplantan esquejes de rosal.
-
 No resucitan recetas ancestrales.
-
 No operan equipos de sonido.
-
 No diagnostican averías mecánicas.
-
 No rehabilitan adicciones varias.
-
 No vacunan mascotas domésticas.
-
 No donan ropa de segunda mano.
-
 No investigan fenómenos paranormales.
-
 No prueban terapias alternativas.
-
 No auscultan pacientes crónicos.
-
 No radiografían extremidades fracturadas.
-
 No pesan recién nacidos.
-
 No curan resfriados comunes.
-
 No analizan muestras de orina.
-
 No transplantan cactus ornamentales.
-
 No operan de amígdalas.
-
 No revisan vehículos antiguos.
-
 No miden niveles de ruido.
-
 No hacen controles de calidad.
-
 No hacen ejercicios de relajación.
-
 No ponen vacunas antirrábicas.
-
 No suturan heridas superficiales.
-
 No atienden partos múltiples.
-
 No reanimán pacientes críticos.
-
 No hacen intervenciones menores.
-
 No hacen diálisis portátiles.
-
 No hacen electrocardiogramas.
-
 No hacen ecografías abdominales.
-
 No hacen cirugías ambulatorias.
-
 No hacen endoscopias digestivas.
-
 No hacen biopsias cutáneas.
-
 No hacen resonancias cerebrales.
-
 No hacen mastectomías radicales.
-
 No hacen cesáreas urgentes.
-
 No ponen escayolas braquiales.
-
 No hacen artroscopias de hombro.
-
 No hacen cateterismos urgentes.
-
 No hacen autopsias clínicas.
-
 No hacen liposucciones abdominales.
-
 No hacen blanqueamientos dentales.
-
 No hacen ortodoncias convencionales.
-
 No hacen implantes dentales.
-
 No hacen rinoplastias estéticas.
-
 No hacen cirugías cardíacas.
-
 No hacen vasectomías convencionales.
-
 No hacen inseminaciones artificiales.
-
 No hacen amniocentesis rutinarias.
-
 No hacen cirugías reconstructivas.
-
 No hacen marcapasos temporales.
-
 No hacen angioplastias coronarias.
-
 No hacen lobectomías pulmonares.
-
 No hacen prostatectomías robóticas.
-
 No extirpan tumores malignos.
-
 No transplantan córneas humanas.
-
 No hacen apicectomías simples.
-
 No hacen gingivectomías estéticas.
-
 No hacen extracciones dentales.
-
 No hacen liftings cervicales.
 El año pasado no organizaron el festival de títeres en el parque infantil.
-
 La semana que viene no impartirán el curso de fotografía en el centro cultural.
-
 Ayer no instalaron la nueva fuente en la plaza del pueblo.
-
 Mañana por la tarde no grabarán el programa de cocina en el estudio.
-
 El mes pasado no celebraron el concurso de baile en el salón municipal.
-
 Hace dos horas no entregaron los premios en el auditorio principal.
-
 El verano próximo no rodarán la serie dramática en la ciudad histórica.
-
 Anteayer no inauguraron la exposición de esculturas en el museo.
-
 El jueves pasado no realizaron el taller de jardinería en el vivero.
-
 Esta mañana no han plantado flores en el jardín público.
-
 El fin de semana pasado no practicaron senderismo en la sierra cercana.
-
 El año que viene no construirán el anfiteatro en el parque central.
-
 El lunes próximo no impartirán la clase de yoga en el gimnasio.
-
 Hace un momento no ajustaron el micrófono en el escenario.
-
 El domingo por la mañana no pescaron en el embalse grande.
-
 El invierno pasado no compitieron en carreras de trineos en la estación.
-
 El sábado por la noche no tocaron música folk en la taberna.
-
 El mes de julio no participarán en el festival de cine en la playa.
-
 La próxima primavera no podarán los rosales en el jardín botánico.
-
 Ayer al mediodía no degustaron vinos en la bodega familiar.
-
 El día de su jubilación no donó instrumentos en la escuela de música.
-
 Hace una semana no rescataron al pájaro herido en el bosque.
-
 El otoño pasado no recolectaron castañas en el monte.
-
 El viernes por la tarde no volaron cometas en el campo abierto.
-
 Esta tarde los niños no juegan a la pelota en el patio.
-
 El martes no rindieron homenaje a los fundadores en el monumento.
-
 El año pasado no digitalizaron documentos en el archivo regional.
-
 La semana pasada no patentaron el dispositivo en la oficina.
-
 Mañana al amanecer no meditarán en el jardín zen.
-
 El jueves que viene no entrevistarán al autor en la librería.
-
 Anoche no esquiaron en la pista iluminada.
-
 El día de Navidad no repartieron alimentos en el comedor social.
-
 Hace cinco minutos no calibraron las balanzas en el mercado.
-
 El verano pasado no repararon el puente en el río.
-
 El lunes pasado no certificaron los productos en la cooperativa.
-
 Esta mañana no han tasado la joya en la joyería.
-
 El domingo por la tarde no navegaron en bote en el lago.
-
 El mes que viene no programarán la app en la startup.
-
 Ayer por la noche no rastrearon planetas en el observatorio.
-
 El invierno próximo no cultivarán hongos en la cueva natural.
-
 El sábado por la mañana no clasificaron cartas en la oficina postal.
-
 Hace tres días no sondearon el terreno en el yacimiento.
-
 La próxima semana no afinarán los instrumentos en la sala.
-
 El año pasado no criaron ovejas en la granja ecológica.
-
 Esta tarde no hornean galletas en la cocina comunitaria.
-
 El miércoles próximo no ensayarán la sinfonía en el auditorio.
-
 El fin de semana que viene no pescarán en el río limpio.
-
 Ayer al anochecer no proyectaron cortometrajes en la fachada.
-
 El jueves pasado no analizaron muestras de agua en el laboratorio.
-
 La semana pasada no criaron abejas en el apiario.
-
 El mes pasado no cultivaron zanahorias en la huerta.
-
 Mañana por la mañana no teñirán telas en el taller textil.
-
 Anoche no grabaron el concierto en el teatro.
-
 El lunes próximo no fundirán oro en la joyería artesanal.
-
 Hace cuatro días no tallaron mármol en el taller.
-
 Esta tarde los alfareros no modelan cerámica en el taller.
-
 El año que veniré no excavarán ruinas en el sitio histórico.
-
 El verano pasado no restauraron murales en la iglesia antigua.
-
 El año pasado no compilaron datos en el centro de investigación.
-
 La semana que veniré no modelarán prototipos en el laboratorio.
-
 Mañana por la tarde no bordarán el mantel en el taller.
-
 Anoche no soldaron componentes en la fábrica.
-
 El día de su bautizo no plantaron el árbol en el parque.
-
 Hace una hora no encuadernaron libros en la biblioteca.
-
 El otoño pasado no prensaron aceitunas en la almazara.
-
 El viernes por la tarde no forjaron herrajes en la herrería.
-
 Esta mañana no han esmaltado joyas en el taller.
-
 El martes no pulieron pisos en el palacio.
-
 El año pasado no grabaron inscripciones en el taller.
-
 La semana pasada no trenzaron cestas en el taller.
-
 Mañana al amanecer no tallarán hielo en el festival.
-
 El jueves que veniré no moldearán vidrio en el estudio.
-
 Anoche no cocieron pan en la panadería.
-
 El día de Navidad no tallaron figuras en la confitería.
-
 Hace cinco minutos no estamparon camisetas en la serigrafía.
-
 El año pasado no organizaron.
-
 La semana que viene no impartirán.
-
 Ayer no instalaron.
-
 Mañana por la tarde no grabarán.
-
 El mes pasado no celebraron.
-
 Hace dos horas no entregaron.
-
 El verano próximo no rodarán.
-
 Anteayer no inauguraron.
-
 El jueves pasado no realizaron.
-
 Esta mañana no han plantado.
-
 El fin de semana pasado no practicaron.
-
 El año que viene no construirán.
-
 El lunes próximo no impartirán.
-
 Hace un momento no ajustaron.
-
 El domingo por la mañana no pescaron.
-
 El invierno pasado no compitieron.
-
 El sábado por la noche no tocaron.
-
 El mes de julio no participarán.
-
 La próxima primavera no podarán.
-
 Ayer al mediodía no degustaron.
-
 El día de su jubilación no donó.
-
 Hace una semana no rescataron.
-
 El otoño pasado no recolectaron.
-
 El viernes por la tarde no volaron.
-
 Esta tarde los niños no juegan.
-
 El martes no rindieron.
-
 El año pasado no digitalizaron.
-
 La semana pasada no patentaron.
-
 Mañana al amanecer no meditarán.
-
 El jueves que viene no entrevistarán.
-
 Anoche no esquiaron.
-
 El día de Navidad no repartieron.
-
 Hace cinco minutos no calibraron.
-
 El verano pasado no repararon.
-
 El lunes pasado no certificaron.
-
 Esta mañana no han tasado.
-
 El domingo por la tarde no navegaron.
-
 El mes que viene no programarán.
-
 Ayer por la noche no rastrearon.
-
 El invierno próximo no cultivarán.
-
 El sábado por la mañana no clasificaron.
-
 Hace tres días no sondearon.
-
 La próxima semana no afinarán.
-
 El año pasado no criaron.
-
 Esta tarde no hornean.
-
 El miércoles próximo no ensayarán.
-
 El fin de semana que viene no pescarán.
-
 Ayer al anochecer no proyectaron.
-
 El jueves pasado no analizaron.
-
 La semana pasada no criaron.
-
 El mes pasado no cultivaron.
-
 Mañana por la mañana no teñirán.
-
 Anoche no grabaron.
-
 El lunes próximo no fundirán.
-
 Hace cuatro días no tallaron.
-
 Esta tarde los alfareros no modelan.
-
 El año que veniré no excavarán.
-
 El verano pasado no restauraron.
-
 El año pasado no compilaron.
-
 La semana que veniré no modelarán.
-
 Mañana por la tarde no bordarán.
-
 Anoche no soldaron.
-
 El día de su bautizo no plantaron.
-
 Hace una hora no encuadernaron.
-
 El otoño pasado no prensaron.
-
 El viernes por la tarde no forjaron.
-
 Esta mañana no han esmaltado.
-
 El martes no pulieron.
-
 El año pasado no grabaron.
-
 La semana pasada no trenzaron.
-
 Mañana al amanecer no tallarán.
-
 El jueves que veniré no moldearán.
-
 Anoche no cocieron.
-
 El día de Navidad no tallaron.
-
 Hace cinco minutos no estamparon.
-
 No organizaron el campeonato de debate.
-
 No celebraron el festival literario.
-
 No instalaron el sistema de seguridad.
-
 No grabaron el concierto sinfónico.
-
 No entregaron los premios académicos.
-
 No rodaron el documental antropológico.
-
 No inauguraron la galería de arte.
-
 No realizaron el trasplante experimental.
-
 No plantaron el bosque conmemorativo.
-
 No practicaron buceo técnico.
-
 No construyeron la central eólica.
-
 No impartieron clases magistrales.
-
 No ajustaron los controles de calidad.
-
 No pescaron atún rojo.
-
 No compitieron en olimpiadas matemáticas.
-
 No tocaron música barroca.
-
 No participaron en ferias internacionales.
-
 No podaron los árboles centenarios.
-
 No degustaron chocolates artesanales.
-
 No renovaron el equipamiento deportivo.
-
 No rescataron alpinistas perdidos.
-
 No recolectaron muestras geológicas.
-
 No volaron en ultraligeros.
-
 No limpiaron los fondos marinos.
-
 No rindieron honores militares.
-
 No digitalizaron manuscritos antiguos.
-
 No patentaron el software innovador.
-
 No practicaron yoga avanzado.
-
 No entrevistaron a Nobel de literatura.
-
 No esquiaron en backcountry.
-
 No sirvieron cenas de gala.
-
 No calibraron telescopios profesionales.
-
 No repararon centrales hidroeléctricas.
-
 No certificaron productos orgánicos.
-
 No tasaron joyas históricas.
-
 No navegaron en regatas oceánicas.
-
 No programaron algoritmos complejos.
-
 No rastrearon animales en peligro.
-
 No cultivaron plantas exóticas.
-
 No clasificaron documentos secretos.
-
 No sondearon el subsuelo marino.
-
 No afinar pianos de concierto.
-
 No criaron especies protegidas.
-
 No hornearon pan artesanal.
-
 No ensayaron óperas completas.
-
 No pescaron marlines gigantes.
-
 No proyectaron mapping arquitectónico.
-
 No analizaron meteoritos lunares.
-
 No criaron corales artificiales.
-
 No cultivaron hierbas aromáticas.
-
 No teñieron sedas naturales.
-
 No grabaron sesiones acústicas.
-
 No fundieron metales preciosos.
-
 No tallaron gemas raras.
-
 No modelaron cera perdida.
-
 No excavaron ciudades perdidas.
-
 No restauraron frescos medievales.
-
 No compilaron bases de datos.
-
 No modelaron prototipos reales.
-
 No bordaron tapices persas.
-
 No soldaron estructuras espaciales.
-
 No plantaron jardines históricos.
-
 No encuadernaron incunables.
-
 No prensaron flores exóticas.
-
 No forjaron espadas samurái.
-
 No esmaltaron joyas bizantinas.
-
 No pulieron diamantes en bruto.
-
 No grabaron discos de vinilo.
-
 No trenzaron cestas tradicionales.
-
 No tallaron marfil fósil.
-
 No moldearon resinas epoxi.
-
 No cocieron porcelana china.
-
 No tallaron chocolate belga.
-
 No estamparon telas africanas.
-
 No anillaron aves rapaces.
-
 No catalogaron fósiles marinos.
-
 No digitalizaron películas mudas.
-
 No navegaron en goletas antiguas.
-
 No instalaron reactores nucleares.
-
 No fotografiaron tribus aisladas.
-
 No criaron razas autóctonas.
-
 No clasificaron minerales raros.
-
 No analizaron virus emergentes.
-
 No clonaron embriones humanos.
-
 No transcribieron textos sagrados.
-
 No interpretaron sonatas clásicas.
-
 No ensamblaron satélites espaciales.
-
 No observaron eclipses solares.
-
 No lanzaron cohetes experimentales.
-
 No examinaron tejidos cancerosos.
-
 No aislaron bacterias extremófilas.
-
 No sintetizaron compuestos nuevos.
-
 No transplantaron órganos vitales.
-
 No resucitaron culturas antiguas.
-
 No operaron con robots quirúrgicos.
-
 No diagnosticaron enfermedades raras.
-
 No rehabilitaron edificios históricos.
-
 No vacunaron a la población.
-
 No donaron médula ósea.
-
 No investigaron curas innovadoras.
-
 No organizarán festivales intergalácticos.
-
 No celebrarán bodas cuánticas.
-
 No instalarán teletransportadores.
-
 No grabarán memorias humanas.
-
 No entregarán premios interestelares.
-
 No rodarán en planetas habitables.
-
 No inaugurarán bases lunares.
-
 No realizarán viajes en el tiempo.
-
 No plantarán bosques en Marte.
-
 No practicarán deportes antigravedad.
-
 No construirán ciudades flotantes.
-
 No impartirán telepatía artificial.
-
 No ajustarán realidades virtuales.
-
 No pescarán en océanos alienígenas.
-
 No competirán en juegos multidimensionales.
-
 No tocarán música cósmica.
-
 No participarán en colonias espaciales.
-
 No podarán árboles inteligentes.
-
 No degustarán comida replicada.
-
 No renovarán cuerpos biónicos.
-
 No rescatarán civilizaciones perdidas.
-
 No recolectarán energía estelar.
-
 No volarán naves generacionales.
-
 No limpiarán galaxias contaminadas.
-
 No rendirán tributo a inteligencias artificiales.
-
 No digitalizarán almas humanas.
-
 No patentarán universos paralelos.
-
 No practicarán teletransportación mental.
-
 No entrevistarán a seres de otras dimensiones.
-
 No esquiarán en asteroides.
-
 No servirán menús moleculars.
-
 No calibrarán telescopios intergalácticos.
-
 No repararán agujeros de gusano.
-
 No certificarán planetas habitables.
-
 No tasarán propiedades espaciales.
-
 No navegarán por nebulosas.
-
 No programarán conciencias artificiales.
-
 No rastrearán vida extraterrestre.
-
 No cultivarán granjas orbitales.
-
 No clasificarán civilizaciones galácticas.
-
 No sondearán dimensiones paralelas.
-
 No afinarán motores de curvatura.
-
 No criarán quimeras genéticas.
-
 No hornearán con lava volcánica.
-
 No ensayarán óperas espaciales.
-
 No pescarán leviatanes oceánicos.
-
 No proyectarán hologramas sentimentales.
-
 No analizarán materia oscura.
-
 No criarán ecosistemas cerrados.
-
 No cultivarán plantas bioluminiscentes.
-
 No teñirán con pigmentos alienígenas.
-
 No grabarán pensamientos colectivos.
-
 No fundirán metales asteroidales.
-
 No tallarán cristales de energía.
-
 No modelarán paisajes virtuales.
-
 No excavarán en lunas jovianas.
-
 No restaurarán atmósferas planetarias.
-
 No compilarán conocimientos cósmicos.
-
 No modelarán cuerpos perfectos.
-
 No bordarán con hilos de luz.
-
 No soldarán en gravedad cero.
-
 No plantarán jardines lunares.
-
 No encuadernarán libros vivientes.
-
 No prensarán gases nobles.
-
 No forjarán aleaciones cósmicas.
-
 No esmaltarán naves espaciales.
-
 No pulirán espejos gravitacionales.
-
 No grabarán en diamantes sintéticos.
-
 No trenzarán cables cuánticos.
-
 No tallarán espacio-tiempo.
-
 No moldearán realidades alternas.
-
 No cocerán con radiación controlada.
-
 No tallarán diamantes artificiales.
-
 No estamparán circuitos biológicos.
-
 No anillarán especies creadas.
-
 No catalogarán exoplanetas habitables.
-
 No digitalizarán genomas completos.
-
 No navegarán por ríos de titán.
-
 No instalarán domos geodésicos.
-
 No fotografiarán agujeros negros.
-
 No criarán vida sintética.
-
 No clasificarán energías alternativas.
-
 No analizarán partículas subatómicas.
-
 No clonarán órganos humanos.
-
 No transcribirán lenguas alienígenas.
-
 No interpretarán música de esferas.
-
 No ensamblarán estaciones espaciales.
-
 No observarán nacimientos estelares.
-
 No lanzarán sondas interestelares.
-
 No examinarán formas de vida alternativas.
-
 No aislarán elementos superpesados.
-
 No sintetizarán materiales programables.
-
 No transplantarán memorias artificiales.
-
 No resucitarán eras geológicas.
-
 No operarán con nanorobots.
-
 No diagnosticarán males cósmicos.
-
 No rehabilitarán ecosistemas dañados.
-
 No vacunarán contra virus alienígenas.
-
 No donarán cuerpos virtuales.
-
 No investigarán universos paralelos.
-
 No organizan mercados medievales.
-
 No celebran ritos ancestrales.
-
 No instalan fuentes ornamentales.
-
 No graban sonidos naturales.
-
 No entregan donaciones anónimas.
-
 No ruedan spots publicitarios.
-
 No inauguran centros de día.
-
 No realizan cirugías estéticas.
-
 No plantan cactus decorativos.
-
 No practican natación sincronizada.
-
 No construyen puentes peatonales.
-
 No imparten clases particulares.
-
 No ajustan lentillas progresivas.
-
 No pescan con cañas de mosca.
-
 No compiten en carreras populares.
-
 No tocan tambores tradicionales.
-
 No participan en talleres de autoayuda.
-
 No podan bonsáis centenarios.
-
 No degustan tés exóticos.
-
 No renuevan certificaciones profesionales.
-
 No rescatan libros antiguos.
-
 No recolectan semillas autóctonas.
-
 No vuelan cometas acrobáticas.
-
 No limpian fuentes públicas.
-
 No rinden exámenes de conducir.
-
 No digitalizan facturas en papel.
-
 No patentan métodos educativos.
-
 No practican pilates terapéutico.
-
 No entrevistan a artistas callejeros.
-
 No esquían en pistas artificiales.
-
 No sirven desayunos continentales.
-
 No calibran básculas digitales.
-
 No reparan instrumentos musicales.
-
 No certifican productos kosher.
-
 No tasan antigüedades familiares.
-
 No navegan en barcas de pedales.
-
 No programan videojuegos educativos.
-
 No rastrean paquetes postales.
-
 No cultivan microvegetales.
-
 No clasifican residuos electrónicos.
-
 No sondean opiniones políticas.
-
 No afinan armónicas musicales.
-
 No crían canarios cantores.
-
 No horne galletas decoradas.
-
 No ensayan obras de vanguardia.
-
 No pescan con redes de arrastre.
-
 No proyectan sombras chinescas.
-
 No analizan muestras de agua.
-
 No crían lombrices de tierra.
-
 No cultivan plantas carnivoras.
-
 No tiñen pelo natural.
-
 No graban audiolibros infantiles.
-
 No funden chatarra electrónica.
-
 No tallan huesos de fruta.
-
 No modelan arcilla polimérica.
-
 No excavan zanjas de drenaje.
-
 No restauran muebles vintage.
-
 No compilan recetarios familiares.
-
 No modelan avatares digitales.
-
 No bordan puntos de cruz.
-
 No soldan joyería fina.
-
 No plantan césped artificial.
-
 No encuadernan comics antiguos.
-
 No prensan flores secas.
-
 No forjan herraduras de caballo.
-
 No esmaltan uñas artísticas.
-
 No pulen plata de ley.
-
 No graban podcasts diarios.
-
 No trenzan coronas florales.
-
 No tallan sellos de madera.
-
 No moleden figuras de yeso.
-
 No cocen barro refractario.
-
 No tallan jabones artesanales.
-
 No estampan etiquetas personalizadas.
-
 No anillan documentos notariales.
-
 No catalogan sellos postales.
-
 No digitalizan diapositivas antiguas.
-
 No navegan en botes inflables.
-
 No instalan alarmas contra incendios.
-
 No fotografían bodas civiles.
-
 No crían hamsters enanos.
-
 No clasifican monedas antiguas.
-
 No analizan tendencias de moda.
-
 No clonan plantas de interior.
-
 No transcriben partituras musicales.
-
 No interpretan papeles secundarios.
-
 No ensamblan rompecabezas gigantes.
-
 No observan mariposas nocturnas.
-
 No lanzan cometas de papel.
-
 No examinan muestras de saliva.
-
 No aíslan componentes activos.
-
 No sintetizan perfumes naturales.
-
 No transplantan esquejes de rosal.
-
 No resucitan recetas ancestrales.
-
 No operan equipos de sonido.
-
 No diagnostican averías mecánicas.
-
 No rehabilitan adicciones varias.
-
 No vacunan mascotas domésticas.
-
 No donan ropa de segunda mano.
-
 No investigan fenómenos paranormales.
-
 No prueban terapias alternativas.
-
 No auscultan pacientes crónicos.
-
 No radiografían extremidades fracturadas.
-
 No pesan recién nacidos.
-
 No curan resfriados comunes.
-
 No analizan muestras de orina.
-
 No transplantan cactus ornamentales.
-
 No operan de amígdalas.
-
 No revisan vehículos antiguos.
-
 No miden niveles de ruido.
-
 No hacen controles de calidad.
-
 No hacen ejercicios de relajación.
-
 No ponen vacunas antirrábicas.
-
 No suturan heridas superficiales.
-
 No atienden partos múltiples.
-
 No reanimán pacientes críticos.
-
 No hacen intervenciones menores.
-
 No hacen diálisis portátiles.
-
 No hacen electrocardiogramas.
-
 No hacen ecografías abdominales.
-
 No hacen cirugías ambulatorias.
-
 No hacen endoscopias digestivas.
-
 No hacen biopsias cutáneas.
-
 No hacen resonancias cerebrales.
-
 No hacen mastectomías radicales.
-
 No hacen cesáreas urgentes.
-
 No ponen escayolas braquiales.
-
 No hacen artroscopias de hombro.
-
 No hacen cateterismos urgentes.
-
 No hacen autopsias clínicas.
-
 No hacen liposucciones abdominales.
-
 No hacen blanqueamientos dentales.
-
 No hacen ortodoncias convencionales.
-
 No hacen implantes dentales.
-
 No hacen rinoplastias estéticas.
-
 No hacen cirugías cardíacas.
-
 No hacen vasectomías convencionales.
-
 No hacen inseminaciones artificiales.
-
 No hacen amniocentesis rutinarias.
-
 No hacen cirugías reconstructivas.
-
 No hacen marcapasos temporales.
-
 No hacen angioplastias coronarias.
-
 No hacen lobectomías pulmonares.
-
 No hacen prostatectomías robóticas.
-
 No extirpan tumores malignos.
-
 No transplantan córneas humanas.
-
 No hacen apicectomías simples.
-
 No hacen gingivectomías estéticas.
-
 No hacen extracciones dentales.
-
 No hacen liftings cervicales.
 El año pasado no organizaron el congreso médico en el hospital universitario.
-
 La semana que viene no celebrarán el festival de luces en el jardín japonés.
-
 Ayer no instalaron el nuevo sistema de sonido en el teatro municipal.
-
 Mañana por la tarde no presentarán el plan de movilidad en el auditorio.
-
 El mes pasado no grabaron el álbum en vivo en el estudio de grabación.
-
 Hace dos horas no entregaron los certificados en la escuela de idiomas.
-
 El verano próximo no rodarán el reality show en la isla desierta.
-
 Anteayer no inauguraron la galería de arte moderno en el distrito cultural.
-
 El jueves pasado no realizaron el congreso científico en el centro de convenciones.
-
 Esta mañana no han plantado arbustos en el parque ecológico.
-
 El fin de semana pasado no practicaron equitación en el club hípico.
-
 El año que viene no construirán el mirador en la montaña más alta.
-
 El lunes próximo no impartirán el seminario web en la plataforma virtual.
-
 Hace un momento no ajustaron la iluminación en el estudio de fotografía.
-
 El domingo por la mañana no pescaron en el río de aguas cristalinas.
-
 El invierno pasado no compitieron en torneos de ajedrez en el club social.
-
 El sábado por la noche no tocaron jazz en el café literario.
-
 El mes de julio no participarán en el hackathon en el centro tecnológico.
-
 La próxima primavera no podarán los árboles en el bulevar principal.
-
 Ayer al mediodía no degustaron cervezas artesanales en la feria gastronómica.
-
 El día de su aniversario no donó sillas de ruedas en el hospital.
-
 Hace una semana no rescataron al delfín varado en la playa.
-
 El otoño pasado no recolectaron piñas en el bosque de coníferas.
-
 El viernes por la tarde no volaron aviones de papel en el parque infantil.
-
 Esta tarde los adolescentes no bailan breakdance en la plaza del mercado.
-
 El martes no rindieron honores a la bandera en el colegio militar.
-
 El año pasado no digitalizaron partituras en el conservatorio.
-
 La semana pasada no patentaron el vehículo autónomo en la empresa tecnológica.
-
 Mañana al amanecer no meditarán en el retiro espiritual.
-
 El jueves que viene no entrevistarán al astronauta en el planetario.
-
 Anoche no esquiaron de fondo en el valle nevado.
-
 El día de Navidad no repartieron juguetes en el orfanato rural.
-
 Hace cinco minutos no calibraron los microscopios en el laboratorio escolar.
-
 El verano pasado no repararon el malecón en el paseo costero.
-
 El lunes pasado no certificaron los productos en la cooperativa agrícola.
-
 Esta mañana no han tasado la antigüedad en la casa de subastas.
-
 El domingo por la tarde no navegaron en catamarán en la bahía.
-
 El mes que viene no programarán el robot en el taller de robótica.
-
 Ayer por la noche no rastrearon cometas en el observatorio amateur.
-
 El invierno próximo no cultivarán azafrán en la meseta alta.
-
 El sábado por la mañana no clasificaron correo en la oficina postal.
-
 Hace tres días no sondearon el acuífero en la zona desértica.
-
 La próxima semana no afinarán los violines en la sala de conciertos.
-
 El año pasado no criaron pavos en la granja familiar.
-
 Esta tarde no hornean pasteles en la pastelería francesa.
-
 El miércoles próximo no ensayarán la ópera en el teatro lírico.
-
 El fin de semana que viene no pescarán en el lago de montaña.
-
 Ayer al anochecer no proyectaron cine independiente en la fachada del museo.
-
 El jueves pasado no analizaron muestras de aire en el laboratorio ambiental.
-
 La semana pasada no criaron caracoles en la granja helicícola.
-
 El mes pasado no cultivaron espárragos en la tierra fértil.
-
 Mañana por la mañana no teñirán seda en el taller textil.
-
 Anoche no grabaron el audiolibro en el estudio de locución.
-
 El lunes próximo no fundirán cobre en la fundición artesanal.
-
 Hace cuatro días no tallaron alabastro en el taller de escultura.
-
 Esta tarde los vidrieros no modelan vidrio en el estudio de vitrales.
-
 El año que veniré no excavarán tumbas en la necrópolis antigua.
-
 El verano pasado no restauraron retablos en la iglesia colonial.
-
 El año pasado no compilaron datos genéticos en el biobanco.
-
 La semana que veniré no modelarán prótesis en el laboratorio biomédico.
-
 Mañana por la tarde no bordarán el estandarte en el taller medieval.
-
 Anoche no soldaron la carrocería en la fábrica de automóviles.
-
 El día de su primera comunión no plantaron el olivo en el atrio.
-
 Hace una hora no encuadernaron pergaminos en el scriptorium.
-
 El otoño pasado no prensaron mosto en la bodega experimental.
-
 El viernes por la tarde no forjaron rejas en la herrería artística.
-
 Esta mañana no han esmaltado joyas en el taller de bisutería.
-
 El martes no pulieron granito en el monumento conmemorativo.
-
 El año pasado no grabaron lápidas en el taller funerario.
-
 La semana pasada no trenzaron redes en el puerto pesquero.
-
 Mañana al amanecer no tallarán sandías en el festival agrícola.
-
 El jueves que veniré no moldearán porcelana en el taller de cerámica.
-
 Anoche no cocieron ladrillos en el horno industrial.
-
 El día de Navidad no tallaron mazapanes en la confitería tradicional.
-
 Hace cinco minutos no estamparon playeras en la fábrica textil.
-
 El año pasado no organizaron.
-
 La semana que viene no celebrarán.
-
 Ayer no instalaron.
-
 Mañana por la tarde no presentarán.
-
 El mes pasado no grabaron.
-
 Hace dos horas no entregaron.
-
 El verano próximo no rodarán.
-
 Anteayer no inauguraron.
-
 El jueves pasado no realizaron.
-
 Esta mañana no han plantado.
-
 El fin de semana pasado no practicaron.
-
 El año que viene no construirán.
-
 El lunes próximo no impartirán.
-
 Hace un momento no ajustaron.
-
 El domingo por la mañana no pescaron.
-
 El invierno pasado no compitieron.
-
 El sábado por la noche no tocaron.
-
 El mes de julio no participarán.
-
 La próxima primavera no podarán.
-
 Ayer al mediodía no degustaron.
-
 El día de su aniversario no donó.
-
 Hace una semana no rescataron.
-
 El otoño pasado no recolectaron.
-
 El viernes por la tarde no volaron.
-
 Esta tarde los adolescentes no bailan.
-
 El martes no rindieron.
-
 El año pasado no digitalizaron.
-
 La semana pasada no patentaron.
-
 Mañana al amanecer no meditarán.
-
 El jueves que viene no entrevistarán.
-
 Anoche no esquiaron.
-
 El día de Navidad no repartieron.
-
 Hace cinco minutos no calibraron.
-
 El verano pasado no repararon.
-
 El lunes pasado no certificaron.
-
 Esta mañana no han tasado.
-
 El domingo por la tarde no navegaron.
-
 El mes que viene no programarán.
-
 Ayer por la noche no rastrearon.
-
 El invierno próximo no cultivarán.
-
 El sábado por la mañana no clasificaron.
-
 Hace tres días no sondearon.
-
 La próxima semana no afinarán.
-
 El año pasado no criaron.
-
 Esta tarde no hornean.
-
 El miércoles próximo no ensayarán.
-
 El fin de semana que viene no pescarán.
-
 Ayer al anochecer no proyectaron.
-
 El jueves pasado no analizaron.
-
 La semana pasada no criaron.
-
 El mes pasado no cultivaron.
-
 Mañana por la mañana no teñirán.
-
 Anoche no grabaron.
-
 El lunes próximo no fundirán.
-
 Hace cuatro días no tallaron.
-
 Esta tarde los vidrieros no modelan.
-
 El año que veniré no excavarán.
-
 El verano pasado no restauraron.
-
 El año pasado no compilaron.
-
 La semana que veniré no modelarán.
-
 Mañana por la tarde no bordarán.
-
 Anoche no soldaron.
-
 El día de su primera comunión no plantaron.
-
 Hace una hora no encuadernaron.
-
 El otoño pasado no prensaron.
-
 El viernes por la tarde no forjaron.
-
 Esta mañana no han esmaltado.
-
 El martes no pulieron.
-
 El año pasado no grabaron.
-
 La semana pasada no trenzaron.
-
 Mañana al amanecer no tallarán.
-
 El jueves que veniré no moldearán.
-
 Anoche no cocieron.
-
 El día de Navidad no tallaron.
-
 Hace cinco minutos no estamparon.
-
 No organizaron el simposio internacional.
-
 No celebraron el carnaval tradicional.
-
 No instalaron la red de fibra óptica.
-
 No grabaron la ópera completa.
-
 No entregaron las distinciones honoríficas.
-
 No rodaron el largometraje documental.
-
 No inauguraron el parque temático.
-
 No realizaron la cirugía experimental.
-
 No plantaron el jardín memorial.
-
 No practicaron alpinismo extremo.
-
 No construyeron la planta desalinizadora.
-
 No impartieron los cursos de especialización.
-
 No ajustaron los protocolos de seguridad.
-
 No pescaron el pez vela.
-
 No compitieron en los juegos mundiales.
-
 No tocaron la sinfonía completa.
-
 No participaron en la cumbre climática.
-
 No podaron los árboles monumentales.
-
 No degustaron los vinos premiados.
-
 No renovaron la flota aérea.
-
 No rescataron los documentos históricos.
-
 No recolectaron las especies botánicas.
-
 No volaron en parapente.
-
 No limpiaron el lecho del río.
-
 No rindieron el examen de estado.
-
 No digitalizaron los archivos fílmicos.
-
 No patentaron el método terapéutico.
-
 No practicaron artes circenses.
-
 No entrevistaron a los premios Nobel.
-
 No esquiaron en helipuerto.
-
 No sirvieron el banquete oficial.
-
 No calibraron los sismógrafos.
-
 No repararon los diques de contención.
-
 No certificaron los productos biodinámicos.
-
 No tasaron la colección privada.
-
 No navegaron alrededor del mundo.
-
 No programaron los sistemas críticos.
-
 No rastrearon las migraciones aviares.
-
 No cultivaron las orquídeas raras.
-
 No clasificaron los archivos confidenciales.
-
 No sondearon la corteza terrestre.
-
 No afinarón los órganos de tubos.
-
 No criaron los linces ibéricos.
-
 No hornearon los pasteles nupciales.
-
 No ensayaron las tragedias griegas.
-
 No pescaron los atunes gigantes.
-
 No proyectaron los mapas interactivos.
-
 No analizaron los meteoritos marcianos.
-
 No criaron los corales amenazados.
-
 No cultivaron las plantas endémicas.
-
 No teñieron los tejidos antiguos.
-
 No grabaron las sesiones históricas.
-
 No fundieron los bronces artísticos.
-
 No tallaron los ébanos preciosos.
-
 No modelaron las figuras anatómicas.
-
 No excavaron las tumbas reales.
-
 No restauraron los vitrales góticos.
-
 No compilaron los datos genómicos.
-
 No modelaron los hologramas médicos.
-
 No bordaron los trajes ceremoniales.
-
 No soldaron los reactores nucleares.
-
 No plantaron los bosques nativos.
-
 No encuadernaron los incunables.
-
 No prensaron los aceites esenciales.
-
 No forjaron las espadas ceremoniales.
-
 No esmaltaron los iconos religiosos.
-
 No pulieron los rubíes en bruto.
-
 No grabaron los discos conceptuales.
-
 No trenzaron las alfombras persas.
-
 No tallaron los marfiles legales.
-
 No moldearon las cerámicas rituales.
-
 No cocieron las porcelanas imperiales.
-
 No tallaron los chocolates artísticos.
-
 No estamparon los tejidos étnicos.
-
 No anillaron las aves migratorias.
-
 No catalogaron los manuscritos iluminados.
-
 No digitalizaron las cintas magnéticas.
-
 No navegaron las rutas polares.
-
 No instalaron los telescopios espaciales.
-
 No fotografiaron las auroras boreales.
-
 No criaron los bisontes europeos.
-
 No clasificaron los minerales lunares.
-
 No analizaron los virus antiguos.
-
 No clonaron las células madre.
-
 No transcribieron los rollos del mar Muerto.
-
 No interpretaron las suites barrocas.
-
 No ensamblaron los cohetes espaciales.
-
 No observaron los quasares lejanos.
-
 No lanzaron los satélites meteorológicos.
-
 No examinaron los fósiles vivientes.
-
 No aislaron los extremófilos marinos.
-
 No sintetizaron los compuestos orgánicos.
-
 No transplantaron los órganos artificiales.
-
 No resucitaron las lenguas muertas.
-
 No operaron con realidad aumentada.
-
 No diagnosticaron las epidemias globales.
-
 No rehabilitaron los centros históricos.
-
 No vacunaron a las especies salvajes.
-
 No donaron los órganos vitales.
-
 No investigaron las terapias génicas.
-
 No organizarán los juegos interestelares.
-
 No celebrarán los ritos cósmicos.
-
 No instalarán los portales dimensionales.
-
 No grabarán las experiencias astrales.
-
 No entregarán los cristales de memoria.
-
 No rodarán en dimensiones paralelas.
-
 No inaugurarán los templos cuánticos.
-
 No realizarán los viajes interdimensionales.
-
 No plantarán los jardines cristalinos.
-
 No practicarán la telequinesia colectiva.
-
 No construirán las ciudades etéreas.
-
 No impartirán la sabiduría cósmica.
-
 No ajustarán las realidades superpuestas.
-
 No pescarán en mares de antimateria.
-
 No competirán en torneos galácticos.
-
 No tocarán la música de las esferas.
-
 No participarán en consejos estelares.
-
 No podarán los árboles de luz.
-
 No degustarán los manjares astrales.
-
 No renovarán los cuerpos energéticos.
-
 No rescatarán las almas perdidas.
-
 No recolectarán los fotones de sabiduría.
-
 No volarán entre las constelaciones.
-
 No limpiarán los éteres contaminados.
-
 No rendirán culto a los soles lejanos.
-
 No digitalizarán los registros akáshicos.
-
 No patentarán las tecnologías etéreas.
-
 No practicarán la manifestación instantánea.
-
 No entrevistarán a los maestros ascendidos.
-
 No esquiarán en los anillos planetarios.
-
 No servirán los néctares estelares.
-
 No calibrarán los generadores de realidad.
-
 No repararán los continuos espacio-tiempo.
-
 No certificarán los planos de existencia.
-
 No tasarán las energías puras.
-
 No navegarán por los ríos de tiempo.
-
 No programarán los destinos humanos.
-
 No rastrearán las conciencias dormidas.
-
 No cultivarán los jardines sonoros.
-
 No clasificarán las vibraciones universales.
-
 No sondearán los vacíos cuánticos.
-
 No afinarán los armónicos celestiales.
-
 No criarán los seres de luz.
-
 No hornearán con fuego estelar.
-
 No ensayarán las danzas cósmicas.
-
 No pescarán los sueños colectivos.
-
 No proyectarán los arquetipos universales.
-
 No analizarán la conciencia pura.
-
 No criarán los ecos de existencia.
-
 No cultivarán los pensamientos fértiles.
-
 No teñirán con los colores del alma.
-
 No grabarán los susurros del universo.
-
 No fundirán los metales alquímicos.
-
 No tallarán los diamantes de voluntad.
-
 No modelarán las formas primigenias.
-
 No excavarán en los registros ancestrales.
-
 No restaurarán los planos originales.
-
 No compilarán las verdades eternas.
-
 No modelarán los seres perfectos.
-
 No bordarán los tapices del destino.
-
 No soldarán los lazos kármicos.
-
 No plantarán las semillas estelares.
-
 No encuadernarán los libros de la vida.
-
 No prensarán las esencias vitales.
-
 No forjarán las llaves dimensionales.
-
 No esmaltarán los escudos auricos.
-
 No pulirán los espejos del alma.
-
 No grabarán los cantos de creación.
-
 No trenzarán los hilos del tiempo.
-
 No tallarán los cristales de memoria.
-
 No moldearán las realidades líquidas.
-
 No cocerán con el fuego interior.
-
 No tallarán las joyas vivientes.
-
 No estamparán los sellos kármicos.
-
 No anillarán los espíritus libres.
-
 No catalogarán las almas gemelas.
-
 No digitalizarán los viajes astrales.
-
 No navegarán por los mares de conciencia.
-
 No instalarán los portales oníricos.
-
 No fotografiarán los pensamientos puros.
-
 No criarán los arquetipos vivientes.
-
 No clasificarán las dimensiones sutiles.
-
 No analizarán los sueños lúcidos.
-
 No clonarán las esencias divinas.
-
 No transcribirán los mantras universales.
-
 No interpretarán la sinfonía cósmica.
-
 No ensamblarán los templos de luz.
-
 No observarán el latir del universo.
-
 No lanzarán las semillas de estrellas.
-
 No examinarán los registros atlantes.
-
 No aislarán las partículas de conciencia.
-
 No sintetizarán las esencias primordiales.
-
 No transplantarán los recuerdos ancestrales.
-
 No resucitarán las civilizaciones perdidas.
-
 No operarán con pura energía.
-
 No diagnosticarán los bloqueos kármicos.
-
 No rehabilitarán los cuerpos sutiles.
-
 No vacunarán contra el olvido.
-
 No donarán la luz interior.
-
 No investigarán los misterios eternos.
-
 No organizan los círculos de lectura.
-
 No celebran los solsticios de invierno.
-
 No instalan los belenes navideños.
-
 No graban los cuentos infantiles.
-
 No entregan los alimentos básicos.
-
 No ruedan los tutoriales caseros.
-
 No inauguran los mercadillos solidarios.
-
 No realizan los trueques comunitarios.
-
 No plantan los geranios en macetas.
-
 No practican el taichí en grupo.
-
 No construyen los muebles de cartón.
-
 No imparten las clases de costura.
-
 No ajustan las prótesis ortopédicas.
-
 No pescan con cañas de bambú.
-
 No compiten en los juegos de mesa.
-
 No tocan las cajas de música.
-
 No participan en los coros parroquiales.
-
 No podan los geranios del balcón.
-
 No degustan los licores caseros.
-
 No renuevan los carnets de identidad.
-
 No rescatan los muebles abandonados.
-
 No recolectan las tapas solidarias.
-
 No vuelan las cometas de seda.
-
 No limpian los cristales de las ventanas.
-
 No rinden los exámenes teóricos.
-
 No digitalizan las fotos familiares.
-
 No patentan los remedios caseros.
-
 No practican la relajación guiada.
-
 No entrevistan a los vecinos mayores.
-
 No esquían en las pistas artificiales.
-
 No sirven los menús infantiles.
-
 No calibran los termómetros clínicos.
-
 No reparan las bicicletas antiguas.
-
 No certifican los productos artesanales.
-
 No tasan las colecciones de sellos.
-
 No navegan en las barcas de remo.
-
 No programan las aplicaciones simples.
-
 No rastrean los paquetes internacionales.
-
 No cultivan los tomates cherry.
-
 No clasifican las ropas por temporada.
-
 No sondean las opiniones vecinales.
-
 No afinan las flautas dulces.
-
 No crían los periquitos australianos.
-
 No hornean las magdalenas caseras.
-
 No ensayan los villancicos tradicionales.
-
 No pescan en los estanques urbanos.
-
 No proyectan las diapositivas vintage.
-
 No analizan las muestras de tierra.
-
 No crían los caracoles de jardín.
-
 No cultivan las mentas aromáticas.
-
 No tiñen las camisetas viejas.
-
 No graban los recuerdos familiares.
-
 No funden las velas artesanales.
-
 No tallan las piedras de río.
-
 No modelan las figuras de plastilina.
-
 No excavan en los jardines traseros.
-
 No restauran las muñecas antiguas.
-
 No compilan las recetas de abuela.
-
 No modelan los muñecos de nieve.
-
 No bordan los puntos de cruz.
-
 No soldan las joyas de fantasía.
-
 No plantan los pensamientos de colores.
-
 No encuadernan los diarios personales.
-
 No prensan las hierbas medicinales.
-
 No forjan las herraduras decorativas.
-
 No esmaltan los imanes de nevera.
-
 No pulen las conchas marinas.
-
 No graban los mensajes de voz.
-
 No trenzan las pulseras de la amistad.
-
 No tallan los sellos de patata.
-
 No moldean las figuras de mazapán.
-
 No cocen las galletas de jengibre.
-
 No tallan las velas aromáticas.
-
 No estampan los pañuelos de seda.
-
 No anillan los documentos escolares.
-
 No catalogan los discos de vinilo.
-
 No digitalizan las cartas manuscritas.
-
 No navegan en los botes de juguete.
-
 No instalan las luces navideñas.
-
 No fotografían los cumpleaños familiares.
-
 No crían los gatos siameses.
-
 No clasifican las postales antiguas.
-
 No analizan las tendencias juveniles.
-
 No clonan las suculentas decorativas.
-
 No transcriben las cartas al director.
-
 No interpretan los roles históricos.
-
 No ensamblan las maquetas de trenes.
-
 No observan las hormigas obreras.
-
 No lanzan los aviones de papel.
-
 No examinan las muestras de cabello.
-
 No aíslan los componentes herbales.
-
 No sintetizan los jarabes naturales.
-
 No transplantan los cactus en macetas.
-
 No resucitan las tradiciones locales.
-
 No operan los equipos de música.
-
 No diagnostican los fallos eléctricos.
-
 No rehabilitan los juguetes rotos.
-
 No vacunan los animales domésticos.
-
 No donan los libros usados.
-
 No investigan los misterios locales.
-
 No prueban las comidas exóticas.
-
 No auscultan a los pacientes crónicos.
-
 No radiografían las extremidades.
-
 No pesan a los bebés mensualmente.
-
 No curan las heridas leves.
-
 No analizan las muestras de agua.
-
 No transplantan las plantas de interior.
-
 No operan de amígdalas.
-
 No revisan los vehículos clásicos.
-
 No miden la presión arterial.
-
 No hacen los controles rutinarios.
-
 No hacen los ejercicios de kegel.
-
 No ponen las vacunas infantiles.
-
 No suturan las heridas quirúrgicas.
-
 No atienden los partos naturales.
-
 No reanimán a los recién nacidos.
-
 No hacen las intervenciones menores.
-
 No hacen las diálisis peritoneal.
-
 No hacen los electroencefalogramas.
-
 No hacen las ecografías vaginales.
-
 No hacen las cirugías laparoscópicas.
-
 No hacen las endoscopias nasales.
-
 No hacen las biopsias de próstata.
-
 No hacen las resonancias cardíacas.
-
 No hacen las mastectomías profilácticas.
-
 No hacen las cesáreas programadas.
-
 No ponen las escayolas pediátricas.
-
 No hacen las artroscopias de cadera.
-
 No hacen los cateterismos diagnósticos.
-
 No hacen las autopsias virtuales.
-
 No hacen las liposucciones láser.
-
 No hacen los blanqueamientos caseros.
-
 No hacen las ortodoncias invisibles.
-
 No hacen los implantes cocleares.
-
 No hacen las rinoplastias secundarias.
-
 No hacen las cirugías vasculares.
-
 No hacen las vasectomías sin bisturí.
-
 No hacen las inseminaciones artificiales.
-
 No hacen las amniocentesis ecoguiadas.
-
 No hacen las cirugías bariátricas.
-
 No hacen los marcapasos definitivos.
-
 No hacen las angioplastias periféricas.
-
 No hacen las lobectomías cerebrales.
-
 No hacen las prostatectomías laparoscópicas.
-
 No extirpan los tumores benignos.
-
 No transplantan los riñones cadavéricos.
-
 No hacen las apicectomías convencionales.
-
 No hacen las gingivectomías láser.
-
 No hacen las extracciones simples.
-
 No hacen los liftings corporales.
