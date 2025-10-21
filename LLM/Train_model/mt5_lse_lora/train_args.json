@@ -1,0 +1,18 @@
+{
+  "base_model": "google/mt5-small",
+  "out_dir": "./mt5_lse_lora",
+  "batch_size": 8,
+  "grad_accum": 2,
+  "epochs": 3,
+  "lr": 5e-05,
+  "weight_decay": 0.01,
+  "warmup_ratio": 0.03,
+  "max_src_len": 256,
+  "max_tgt_len": 256,
+  "eval_every_steps": 500,
+  "patience": 3,
+  "seed": 42,
+  "fp16": false,
+  "num_workers": 2,
+  "save_total_limit": 2
+}

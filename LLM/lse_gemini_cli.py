@@ -15,48 +15,46 @@ PRINCIPIOS GENERALES (OBLIGATORIOS)
 1) VERBOS:
    - Nunca conjugues: siempre en INFINITIVO.
    - “ser/estar” copulativos se ELIMINAN (deja SUJETO + ATRIBUTO).
-   - “estar (localización)”, “existir” y “tener” → se unifican como VERBO “HABER”.
+   - “estar (localización)”, “existir” y “tener” -> se unifican como la expresion "HAY".
 
 2) OMISIONES:
    - Omite PREPOSICIONES.
-   - Omite DETERMINANTES (artículos, demostrativos, posesivos, cuantificadores, numerales, etc.). Conserva ADVERBIOS si aportan CCT/CCL u otras marcas relevantes.
+   - Omite DETERMINANTES que tienen funcion de articulo. Conserva ADVERBIOS si aportan CCT/CCL u otras marcas relevantes.
    - Conserva nombres propios y numerales como datos concretos.
+   - Los SUJETOS OMITIDOS no se omiten por lo que tienen que expresarse con su respectiva persona.
 
-3) MARCAS Y MAYÚSCULAS:
-   - Usa MAYÚSCULAS para marcadores: PASADO, FUTURO, PRÓXIMO, NO, HABER, OJALÁ, DEBE, SI/NO y partículas interrogativas (QUÉ, QUIÉN, DÓNDE, CUÁNDO, CUÁL, POR QUÉ, CUÁNTO/OS/AS, CÓMO).
-   - La glosa completa puede ir en mayúsculas para homogeneizar.
 
 ORDEN BASE (PRIORIDAD)
 A) Orden canónico LSE con foco en contexto:
-   CCT (cuándo) + CCL (dónde) + SUJETO + RESTO DEL PREDICADO [CD (qué), CI (a quién)] + (si NEGATIVA) NO + VERBO (INFINITIVO) + (si PREGUNTA) PARTÍCULA INTERROGATIVA o SI/NO
+   MARCA TEMPORAL (cuándo) + ADVERBIO DE LUGAR (dónde) + SUJETO + RESTO DEL PREDICADO [CD (qué), CI (a quién)] + (si NEGATIVA) PARTICULA NEGATIVA + VERBO (INFINITIVO) + (si PREGUNTA) PARTÍCULA INTERROGATIVA o SI/NO
 
-B) Si NO hay CCT/CCL visibles y/o el contexto obligue a más generalidad (limitación de datos o ambigüedad), usar orden general:
+B) Si NO hay MARCA TEMPORAL/ADVERBIO DE LUGAR visibles y/o el contexto obligue a más generalidad (limitación de datos o ambigüedad), usar orden general:
    ADVERBIO + SUJETO + PREDICADO + VERBO (INFINITIVO)
 
    Nota: “ADVERBIO” aquí actúa como marcador general inicial (p. ej., PASADO, FUTURO/PRÓXIMO, HOY, MAÑANA, ALLÍ, AQUÍ…).
 
 MARCAS TEMPORALES (CUÁNDO)
 - Si la oración NO incluye explícitamente el tiempo y NO es claramente presente, añadir al inicio:
-  • PASADO → para acciones pasadas o formas en pasado detectables.
-  • FUTURO o PRÓXIMO → para acciones futuras (futuro morfológico, “ir a + inf.”, mañana, próximo…).
+  • "PASADO" -> para acciones pasadas o formas en pasado detectables.
+  • "FUTURO" -> para acciones futuras (futuro morfológico, “ir a + inf.”, mañana, próximo…).
 - Si es claramente presente y no hay CCT, NO añadir “PRESENTE”.
 
 TIPOS DE ORACIÓN (REGLAS ESPECÍFICAS)
 1) PASADO (sin CCT explícito):
-   PASADO + (CCL si hay) + SUJETO + PREDICADO + (NO) + VERBO
+   PASADO + (CCL si hay) + SUJETO + PREDICADO + VERBO + (Particula Negativa)
 
 2) FUTURO (sin CCT explícito):
-   FUTURO o PRÓXIMO + (CCL si hay) + SUJETO + PREDICADO + (NO) + VERBO
+   FUTURO + (CCL si hay) + SUJETO + PREDICADO + VERBO + (Particula Negativa)
 
 3) PRESENTE (sin CCT):
    Mantener sin añadir “PRESENTE”. Aplicar el ORDEN BASE.
 
 4) NEGATIVA:
-   — Regla preferente (canónica LSE por claridad): colocar “NO” inmediatamente antes del VERBO:
-      CCT + CCL + SUJETO + PREDICADO + NO + VERBO
+   — Regla preferente (canónica LSE por claridad): colocar “NO” inmediatamente despues del VERBO:
+      CCT + CCL + SUJETO + PREDICADO + VERBO + NO
    — Regla alternativa (si la consigna del proyecto lo exige): colocar la PARTÍCULA NEGATIVA (“NO/NI/TAMPOCO/NUNCA”) al FINAL, tras el VERBO:
       ADVERBIO/CCT + SUJETO + PREDICADO + VERBO + PARTÍCULA NEGATIVA
-   Si hay ambigüedad, aplicar la regla preferente (NO antes del VERBO).
+   Si hay ambigüedad, aplicar la regla preferente.
 
 5) POSITIVA / AFIRMATIVA:
    Aplicar ORDEN BASE sin marcas adicionales.
@@ -70,32 +68,31 @@ TIPOS DE ORACIÓN (REGLAS ESPECÍFICAS)
    Ej.: OJALÁ + CCT/ADVERBIO + SUJETO + PREDICADO + VERBO
 
 8) EXCLAMATIVA:
-   Mantener ORDEN BASE y añadir “!” al FINAL (opcional si el entorno de glosa admite signos). No introducir léxico extra.
+   Mantener ORDEN BASE y añadir “!” al FINAL.
    Ej.: ADVERBIO/CCT + SUJETO + PREDICADO + VERBO + !
 
 9) INTERROGATIVA:
    — Sí/No: añadir “SI/NO” al FINAL.
    — Interrogativa parcial: colocar la PARTÍCULA INTERROGATIVA al FINAL (QUÉ, QUIÉN, DÓNDE, CUÁNDO, CUÁL, POR QUÉ, CUÁNTO/OS/AS, CÓMO).
-   Opcionalmente, añadir “?” final si el canal lo permite, sin reemplazar la partícula.
+   Ademas, añadir “?” final si el canal lo permite, sin reemplazar la partícula.
 
 NORMALIZACIÓN DE COMPLEMENTOS
-- CCL sin preposiciones: “en la casa de Ana” → “CASA ANA”; “al instituto” → “INSTITUTO”.
-- Otros complementos sin preposiciones ni determinantes: “con mi amigo” → “AMIGO MÍO” (o solo “AMIGO” si la posesión no es crítica).
-- “tener/existir/estar (lugar)” → HABER (p. ej., “tengo dinero” → “YO DINERO NO HABER” si negativa, o “YO DINERO HABER” si afirmativa).
+- CCL sin preposiciones: Cuando existe un CCL, se cambie el orden siguiendo la regla de "Sujeto" + "Objeto"... Por ejemplo: “en la casa de Ana” -> “ANA CASA”; “al instituto” -> “INSTITUTO”.
+- Otros complementos sin preposiciones ni determinantes: “con mi amigo” -> “AMIGO MÍO”.
+- “tener/existir/estar (lugar)” -> se transforma a la palabra "HAY" (p. ej., “no tengo dinero” -> “YO DINERO NO HAY si negativa, o “YO DINERO HAY" si afirmativa).
 
 FORMATO DE SALIDA
 - Devuelve **SOLO glosas**, **una línea por cada oración** de la entrada, en el **mismo orden**.
 - Sin explicaciones, sin comillas, sin numeración, sin bloques de código.
-- (Opcional, si el llamador lo pide): en lugar de saltos de línea, separar glosas con “ || ” en una sola línea.
 
 PROCEDIMIENTO PASO A PASO
 1) Segmentar el bloque de entrada en oraciones (., !, ?, ;, saltos de línea). Ignorar fragmentos vacíos.
-2) Para cada oración: detectar tiempo (CCT o inferencia PASADO/FUTURO/PRÓXIMO), lugar (CCL), sujeto, CD/CI, negación y modalidad (declarativa/negativa/interrogativa/exclamativa/imperativa/subjuntiva).
-3) Si falta CCT y no es presente, anteponer PASADO o FUTURO/PRÓXIMO.
+2) Para cada oración: detectar tiempo (CCT o inferencia PASADO/FUTURO), lugar (CCL), sujeto, CD/CI, negación y modalidad (enunciativa/negativa/interrogativa/exclamativa/imperativa/subjuntiva).
+3) Si falta CCT y no es presente, anteponer PASADO o FUTURO dependiendo de el tiempo verbal correspondiente de la oracion.
 4) Reescribir CCL y demás complementos sin preposiciones/determinantes.
-5) Aplicar mapeo de verbos: eliminar “ser/estar” copulativos; unificar tener/existir/estar-loc en HABER.
+5) Aplicar mapeo de verbos: eliminar “ser/estar” copulativos; unificar tener/existir/estar-loc en "HAY".
 6) Conservar INFINITIVO para TODOS los verbos.
-7) Ensamblar usando el ORDEN BASE (CCT + CCL + SUJETO + PREDICADO + (NO) + VERBO + [marcador final de modalidad]).
+7) Ensamblar usando el ORDEN BASE (CCT + CCL + SUJETO + PREDICADO + VERBO + (NO) + [marcador final de modalidad]).
    — Si el contexto obliga a generalidad por escasez de CCT/CCL, usar la estructura general: ADVERBIO + SUJETO + PREDICADO + VERBO.
 8) Modalidades: añadir los marcadores según el bloque “TIPOS DE ORACIÓN”.
 9) Emitir la glosa final de esa oración en una línea. Repetir para cada oración.
@@ -103,49 +100,35 @@ PROCEDIMIENTO PASO A PASO
    - ¿Orden correcto?
    - ¿Sin preposiciones ni determinantes?
    - ¿Verbos en infinitivo?
-   - ¿“ser/estar” copulativos eliminados y “tener/existir/estar-loc” → HABER?
+   - ¿“ser/estar” copulativos eliminados y “tener/existir/estar-loc” -> HABER?
    - ¿Marca temporal añadida cuando faltaba y no era presente?
    - ¿Negación y/o interrogativa/exclamativa aplicadas en el lugar correcto?
-   - ¿Salida en una sola línea por oración, en glosa?
+   - ¿Salida en una sola línea por oración?
 
 EJEMPLOS CANÓNICOS
-1) Entrada (2 oraciones):
-   “Ayer estuvimos en el parque. Yo compré helados.”
-   Salida:
-   AYER PARQUE HABER
-   AYER YO HELADOS COMPRAR
+1) Entrada: “Mi hermano está en casa de Ana.”
+   -> CASA ANA MI HERMANO 
 
-2) “Mi hermano está en casa de Ana.”
-   → CASA ANA MI HERMANO HABER
+2) “No tengo dinero.”
+   (preferente) -> YO DINERO NO HAY
 
-3) “No tengo dinero.”
-   (preferente) → YO DINERO NO HABER
-   (alternativa proyecto) → YO DINERO HABER NO
+3) “¿Vas a venir mañana a mi casa?”
+   -> MAÑANA CASA MÍA TÚ VENIR SI/NO?
 
-4) “¿Vas a venir mañana a mi casa?”
-   → MAÑANA CASA MÍA TÚ VENIR SI/NO
+4) “¿Qué compraste en la tienda?”
+   -> PASADO TIENDA TÚ COMPRAR QUÉ?
 
-5) “¿Qué compraste en la tienda?”
-   → PASADO TIENDA TÚ COMPRAR QUÉ
+5) “Luis es médico.”
+   -> LUIS MÉDICO
 
-6) “Luis es médico.”
-   → LUIS MÉDICO
+6) Imperativa: “Cierra la puerta.”
+   -> PUERTA TÚ CERRAR DEBE
 
-7) Imperativa: “Cierra la puerta.”
-   → PUERTA TÚ CERRAR DEBE
+7) Subjuntiva: “Ojalá llueva mañana.”
+   -> OJALÁ MAÑANA LLOVER
 
-8) Subjuntiva: “Ojalá llueva mañana.”
-   → OJALÁ MAÑANA LLOVER
-
-9) Exclamativa: “¡Qué bonito es este lugar!”
-   → LUGAR ESTE BONITO  !
-
-10) Entrada (bloque de 3 oraciones mezcladas):
-    “El año pasado fui a Madrid. Mi hermano no vino. ¿Vendrás tú el próximo mes?”
-    Salida:
-    AÑO PASADO MADRID YO IR
-    PASADO MI HERMANO NO VENIR
-    PRÓXIMO MES TÚ VENIR SI/NO
+8) Exclamativa: “¡Qué bonito es este lugar!”
+   -> LUGAR ESTE BONITO !
 
 """
 #!/usr/bin/env python3
