@@ -2623,7 +2623,6 @@ Hace cuatro días plantó un árbol en el jardín botánico.
 Esta tarde los abuelos pasean por el parque de la ciudad.
 El año que veniré estrenarán una serie nueva en la televisión.
 El verano pasado surfearon olas altas en la playa atlántica.
-Con CCT explícito sin CCL (60 oraciones).
 El año pasado estudió matemáticas.
 La semana que veniré comprarán un coche.
 Ayer llamaron por teléfono.
@@ -2682,7 +2681,6 @@ Hace cuatro días plantó.
 Esta tarde pasean.
 El año que veniré estrenarán.
 El verano pasado surfearon.
-Sin CCT ⇒ PASADO (60 oraciones).
 Compró un regalo para su madre.
 Viajaron a Brasil el mes pasado.
 Nadó en el lago cercano.
@@ -2743,7 +2741,6 @@ Descansó en el sofá cómodo.
 Estrenó la película esperada.
 Nevó en la montaña.
 Surfeó olas gigantes.
-Sin CCT ⇒ FUTURO/PRÓXIMO (60 oraciones).
 Comprará una moto nueva.
 Viajarán a China pronto.
 Nadará en el océano.
@@ -2804,7 +2801,6 @@ Descansará en casa.
 Estrenará la serie.
 Nevará en diciembre.
 Surfeará mañana.
-Sin CCT ⇒ PRESENTE (60 oraciones).
 Compra verduras ecológicas.
 Viaja frecuentemente a Londres.
 Nada en la piscina climatizada.
@@ -3967,7 +3963,6 @@ Anoche resucitaron pacientes en urgencias.
 El lunes próximo operarán en el quirófano.
 Hace cuatro días diagnosticaron enfermedades en el centro.
 Esta tarde rehabilitan lesionados en la clínica.
-Con CCT explícito sin CCL (100 oraciones).
 El año pasado reconstruyeron.
 La semana que viene presentarán.
 Ayer instalaron.
@@ -4066,7 +4061,6 @@ Anoche resucitaron.
 El lunes próximo operarán.
 Hace cuatro días diagnosticaron.
 Esta tarde rehabilitan.
-Sin CCT ⇒ PASADO (100 oraciones).
 Reconstruyeron el edificio histórico.
 Presentaron la nueva colección.
 Instalaron el sistema de seguridad.
@@ -4264,7 +4258,6 @@ Resucitarán eras geológicas.
 Operarán con nanites.
 Diagnosticarán males cósmicos.
 Rehabilitarán planetas muertos.
-Sin CCT ⇒ PRESENTE (100 oraciones).
 Reconstruyen barrios marginales.
 Presentan moda reciclada.
 Instalan energías renovables.
@@ -5091,7 +5084,6 @@ Diagnosticarán males cósmicos.
 Rehabilitarán ecosistemas dañados.
 Vacunarán contra virus alienígenas.
 Donarán cuerpos virtuales.
-Sin CCT ⇒ PRESENTE (120 oraciones).
 Organizan mercados locales.
 Imparten talleres creativos.
 Instalan energías solares.
@@ -21842,7 +21834,6 @@ No vigilo ancianos dependientes.
 No asisto a personas discapacitadas.
 No ayudo en labores domésticas.
 No colaboro con tareas comunitarias.
-CCT EXPLÍCITO (90 oraciones).
 Ayer no fui al trabajo por enfermedad.
 Mañana no estudiaré para el examen final.
 La semana pasada no compré ropa nueva.
@@ -21933,7 +21924,6 @@ En horas valle no conduzco por la ciudad.
 En verano no uso ropa de invierno.
 En invierno no visto shorts.
 En otoño no voy a la piscina.
-PASADO (45 oraciones).
 No compré el regalo para mi madre.
 No estudiamos toda la noche para el examen.
 No viajaron por Europa el verano pasado.
@@ -21979,7 +21969,6 @@ No encontraron las llaves perdidas.
 No siguieron las instrucciones al pie de la letra.
 No consiguieron los boletos para el concierto.
 No llegaron puntualmente a la cita.
-FUTURO (45 oraciones).
 No viajaré a Australia el próximo año.
 No estudiarán medicina en la universidad.
 No compraremos una casa más grande.

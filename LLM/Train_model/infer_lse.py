@@ -32,12 +32,15 @@ def postprocess_gloss(s: str) -> str:
     s = re.sub(r"!{2,}", "!", s)
     return s
 
-def load_model(ckpt_dir: str, device: torch.device):
+def load_model(ckpt_dir: str, device):
     tok = AutoTokenizer.from_pretrained(BASE, use_fast=False)
-    base = AutoModelForSeq2SeqLM.from_pretrained(BASE)
-    model = PeftModel.from_pretrained(base, ckpt_dir)
+    base = AutoModelForSeq2SeqLM.from_pretrained(
+        BASE, use_safetensors=True, low_cpu_mem_usage=True, local_files_only=False
+    )
+    model = PeftModel.from_pretrained(base, ckpt_dir)  # is_trainable=False por defecto
     model.eval().to(device)
     return tok, model
+
 
 @torch.no_grad()
 def generate_one(model, tok, text: str, device: torch.device, mode="beam") -> str:

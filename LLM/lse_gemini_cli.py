@@ -11,11 +11,32 @@ ENTRADA (MÚLTIPLES ORACIONES)
 - Segmenta cada oración de forma independiente. Ignora fragmentos vacíos (p. ej., dobles espacios o saltos de línea consecutivos).
 - Conserva el orden original de las oraciones del bloque.
 
+ENTRADA CON ETIQUETAS (TAGS)
+- Cada oración puede venir precedida por TAGS de control con este formato:
+
+  es->lse <MOD=...> <NEG=0|1> <TIME=CCT|PASADO|FUTURO|PRESENTE> <CCL=0|1> <SUBJ=YO|TÚ|ÉL|ELLA|NOSOTROS|VOSOTROS|ELLOS|ELIP> : texto
+
+- No copies los TAGS a la salida. Úsalos solo para decidir la estructura.
+- Si faltan TAGS, infiérese según las reglas generales. Si están presentes, TIENEN PRIORIDAD.
+
+Definición de TAGS:
+- MOD (modalidad):
+  - DECL | NEG | Q_YN | Q_WH | EXCL | IMP | SUBJUN
+- NEG:
+  - 0 (no hay negación) | 1 (negación)
+- TIME (tiempo):
+  - CCT (hay marca temporal explícita en la oración) | PASADO | FUTURO | PRESENTE
+- CCL (complemento locativo explícito):
+  - 0 (no) | 1 (sí)
+- SUBJ (sujeto gramatical a expresar en glosa):
+  - YO | TÚ | ÉL | ELLA | NOSOTROS | VOSOTROS | ELLOS | ELIP (elíptico)
+
 PRINCIPIOS GENERALES (OBLIGATORIOS)
 1) VERBOS:
    - Nunca conjugues: siempre en INFINITIVO.
    - “ser/estar” copulativos se ELIMINAN (deja SUJETO + ATRIBUTO).
    - “estar (localización)”, “existir” y “tener” -> se unifican como la expresion "HAY".
+   - Si hay conflicto entre un TAG y una inferencia automática, prevalece el TAG.
 
 2) OMISIONES:
    - Omite PREPOSICIONES.
@@ -82,18 +103,23 @@ NORMALIZACIÓN DE COMPLEMENTOS
 - “tener/existir/estar (lugar)” -> se transforma a la palabra "HAY" (p. ej., “no tengo dinero” -> “YO DINERO NO HAY si negativa, o “YO DINERO HAY" si afirmativa).
 
 FORMATO DE SALIDA
-- Devuelve **SOLO glosas**, **una línea por cada oración** de la entrada, en el **mismo orden**.
+- Devuelve SOLO glosas, una línea por cada oración de la entrada, en el MISMO orden.
+- TODO en MAYÚSCULAS (con tildes), normalizado (un espacio simple entre tokens).
 - Sin explicaciones, sin comillas, sin numeración, sin bloques de código.
 
 PROCEDIMIENTO PASO A PASO
 1) Segmentar el bloque de entrada en oraciones (., !, ?, ;, saltos de línea). Ignorar fragmentos vacíos.
-2) Para cada oración: detectar tiempo (CCT o inferencia PASADO/FUTURO), lugar (CCL), sujeto, CD/CI, negación y modalidad (enunciativa/negativa/interrogativa/exclamativa/imperativa/subjuntiva).
-3) Si falta CCT y no es presente, anteponer PASADO o FUTURO dependiendo de el tiempo verbal correspondiente de la oracion.
+2) Para cada oración:
+   - Si hay TAGS, úsalos para fijar modalidad (MOD), negación (NEG), tiempo (TIME), CCL y sujeto (SUBJ).
+   - Si falta algún TAG, infiérelo con las reglas generales.
+3) Tiempo:
+   - Si TIME=PASADO o TIME=FUTURO: anteponer PASADO/FUTURO.
+   - Si TIME=CCT: respeta la marca temporal explícita sin añadir PASADO/FUTURO.
+   - Si TIME=PRESENTE: no añadir “PRESENTE”.
 4) Reescribir CCL y demás complementos sin preposiciones/determinantes.
 5) Aplicar mapeo de verbos: eliminar “ser/estar” copulativos; unificar tener/existir/estar-loc en "HAY".
 6) Conservar INFINITIVO para TODOS los verbos.
-7) Ensamblar usando el ORDEN BASE (CCT + CCL + SUJETO + PREDICADO + VERBO + (NO) + [marcador final de modalidad]).
-   — Si el contexto obliga a generalidad por escasez de CCT/CCL, usar la estructura general: ADVERBIO + SUJETO + PREDICADO + VERBO.
+7) Ensamblar usando el ORDEN BASE. Si MOD/NEG/TIME/CCL/SUBJ vienen en TAGS, obedecerlos.
 8) Modalidades: añadir los marcadores según el bloque “TIPOS DE ORACIÓN”.
 9) Emitir la glosa final de esa oración en una línea. Repetir para cada oración.
 10) Auto-chequeo final para cada línea:
@@ -105,30 +131,25 @@ PROCEDIMIENTO PASO A PASO
    - ¿Negación y/o interrogativa/exclamativa aplicadas en el lugar correcto?
    - ¿Salida en una sola línea por oración?
 
-EJEMPLOS CANÓNICOS
-1) Entrada: “Mi hermano está en casa de Ana.”
-   -> CASA ANA MI HERMANO 
+EJEMPLOS CON TAGS
 
-2) “No tengo dinero.”
-   (preferente) -> YO DINERO NO HAY
+1) es->lse <MOD=DECL> <NEG=0> <TIME=PASADO> <CCL=1> <SUBJ=YO> : el año pasado fui a madrid
+   -> AÑO PASADO MADRID YO IR
 
-3) “¿Vas a venir mañana a mi casa?”
+2) es->lse <MOD=Q_YN> <NEG=0> <TIME=FUTURO> <CCL=1> <SUBJ=TÚ> : vas a venir mañana a mi casa
    -> MAÑANA CASA MÍA TÚ VENIR SI/NO?
 
-4) “¿Qué compraste en la tienda?”
+3) es->lse <MOD=Q_WH> <NEG=0> <TIME=PASADO> <CCL=1> <SUBJ=TÚ> : qué compraste en la tienda
    -> PASADO TIENDA TÚ COMPRAR QUÉ?
 
-5) “Luis es médico.”
-   -> LUIS MÉDICO
+4) es->lse <MOD=NEG> <NEG=1> <TIME=PRESENTE> <CCL=0> <SUBJ=YO> : no tengo dinero
+   -> YO DINERO NO HAY
 
-6) Imperativa: “Cierra la puerta.”
+5) es->lse <MOD=IMP> <NEG=0> <TIME=PRESENTE> <CCL=1> <SUBJ=TÚ> : cierra la puerta
    -> PUERTA TÚ CERRAR DEBE
 
-7) Subjuntiva: “Ojalá llueva mañana.”
+6) es->lse <MOD=SUBJUN> <NEG=0> <TIME=FUTURO> <CCL=0> <SUBJ=ELIP> : ojalá mañana llueva
    -> OJALÁ MAÑANA LLOVER
-
-8) Exclamativa: “¡Qué bonito es este lugar!”
-   -> LUGAR ESTE BONITO !
 
 """
 #!/usr/bin/env python3
@@ -139,9 +160,9 @@ lse_gemini_to_csv.py
 --------------------
 - Lee las primeras N líneas NO vacías de un TXT (una oración por línea).
 - Envía TODAS esas líneas en UNA sola petición a Gemini.
-- Pide que la salida venga en UNA ÚNICA LÍNEA con glosas separadas por ". " (y punto final).
-- Parsea la salida, empareja (español, glosa) y apendea a un CSV.
-- Si todo fue OK (conteo coincide), elimina del TXT las líneas procesadas (backup .bak).
+- Pide salida en JSON Lines (JSONL), una línea por oración con campos estructurados.
+- Parsea el JSONL, compone filas y apendea al CSV con columnas enriquecidas.
+- Si todo fue OK, elimina del TXT las líneas procesadas (backup .bak).
 
 Uso:
   pip install -U google-genai
@@ -152,7 +173,9 @@ Uso:
 
 import os
 import sys
+import re
 import csv
+import json
 import argparse
 from pathlib import Path
 from typing import List, Tuple, Optional
@@ -160,6 +183,19 @@ from typing import List, Tuple, Optional
 from google import genai
 from google.genai import types
 
+HEADERS = [
+    "id",
+    "source_es",
+    "source_norm",
+    "target_lse",
+    "mod",
+    "neg",
+    "time",
+    "ccl",
+    "subj",
+    "cct_text",
+    "ccl_text",
+]
 
 # ---- Utilidades de fichero ----
 def read_first_nonempty_with_indices(path: str, limit: int) -> Tuple[List[str], List[int], List[str]]:
@@ -198,7 +234,7 @@ def append_rows_csv(path: str, rows: List[List[str]]):
     with open(path, "a", encoding="utf-8", newline="") as f:
         w = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
         if new:
-            w.writerow(["oracion_español", "oracion_transformada_lse"])
+            w.writerow(HEADERS)
         w.writerows(rows)
 
 # ---- Gemini ----
@@ -212,7 +248,7 @@ def make_config(model_id: str, max_tokens: int):
         max_output_tokens=max_tokens,
         response_mime_type="text/plain",
     )
-    # Desactiva thinking (seguro para flash y para mantener tokens de salida bajo control)
+    # Desactiva thinking (mantiene tokens controlados si el modelo lo soporta)
     try:
         cfg["thinking_config"] = types.ThinkingConfig(thinking_budget=0)
     except Exception:
@@ -241,26 +277,107 @@ def first_finish_reason(resp) -> Optional[str]:
             return str(fr)
     return None
 
-# ---- Parsing de la línea: "G1. G2. ... Gn." → [G1, G2, ..., Gn]
-def split_glosas_dot_line(one_line: str, expected: int) -> List[str]:
-    s = (one_line or "").strip()
-    if not s:
-        return []
-    # proteger "..." para no dividir mal
-    s = s.replace("...", "…")
-    # dividir por ". " o punto final
-    import re
-    parts = [p.strip() for p in re.split(r"\.\s+|\.$", s) if p.strip()]
-    parts = [p.replace("…", "...") for p in parts]
-    # normalizar espacios
-    parts = [" ".join(p.split()) for p in parts]
-    # si el modelo puso un punto al final sin espacio, ya lo cubre el regex
-    # devolvemos tal cual (el conteo se validará fuera)
-    return parts
+# ---- Parsing JSONL robusto ----
+def parse_jsonl_blocks(s: str) -> List[dict]:
+    """
+    Acepta salida con o sin fences. Ignora líneas basura como 'json', 'jsonl', '```', '```json'.
+    Devuelve lista de dicts (uno por línea válida).
+    """
+    s = (s or "").strip()
+
+    # Si vino en bloque con fences, extrae el interior
+    m = re.search(r"```(?:json)?\s*(.*?)```", s, flags=re.S)
+    if m:
+        s = m.group(1).strip()
+
+    objs = []
+    for raw_line in s.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
+
+        # Ignorar ruido típico
+        low = line.lower()
+        if low in ("json", "jsonl"):
+            continue
+        if line.startswith("```") or line.endswith("```"):
+            continue
+
+        # Intento 1: JSON directo
+        try:
+            objs.append(json.loads(line))
+            continue
+        except json.JSONDecodeError:
+            pass
+
+        # Intento 2: quitar coma final
+        try:
+            objs.append(json.loads(line.rstrip(",")))
+            continue
+        except json.JSONDecodeError:
+            pass
+
+        # Si no parsea, error con contexto
+        raise RuntimeError(
+            f"Línea JSON inválida:\n{raw_line}\n--\nSalida completa:\n{s[:4000]}"
+        )
+    return objs
+
+# ---- Normalizaciones locales ----
+def normalize_source(s: str) -> str:
+    # minúsculas, espacios simples
+    return " ".join((s or "").strip().lower().split())
+
+def normalize_gloss_upper(s: str) -> str:
+    s = " ".join((s or "").strip().split())
+    return s.upper()
+
+def coerce_tag(obj: dict, key: str, default):
+    v = obj.get(key, default)
+    if key in ("neg", "ccl"):
+        try:
+            return int(v)
+        except Exception:
+            return int(bool(v))
+    if isinstance(default, str):
+        return str(v)
+    return v
 
 # ---- Pipeline principal ----
+
+def read_csv_header(path: str):
+    if not Path(path).exists():
+        return None
+    with open(path, "r", encoding="utf-8", newline="") as f:
+        r = csv.reader(f)
+        try:
+            return next(r)
+        except StopIteration:
+            return []
+
+def ensure_csv_schema(path: str, headers: list):
+    p = Path(path)
+    if not p.exists():
+        with open(path, "w", encoding="utf-8", newline="") as f:
+            csv.writer(f).writerow(headers)
+        return
+    current = read_csv_header(path) or []
+    if current != headers:
+        bak = f"{path}.oldformat.bak"
+        os.replace(path, bak)
+        with open(path, "w", encoding="utf-8", newline="") as f:
+            csv.writer(f).writerow(headers)
+        print(
+            f"⚠️ CSV con esquema antiguo detectado. Movido a: {bak}. "
+            f"Creado {path} con cabeceras nuevas.",
+            file=sys.stderr
+        )
+
+
 def transform_batch_to_csv(input_txt: str, out_csv: str, limit: int, model: str, max_tokens: int, api_key: str) -> int:
+    ensure_csv_schema(out_csv, HEADERS)   
     # 1) leer N líneas e índices
+
     sentences, idxs, all_lines = read_first_nonempty_with_indices(input_txt, limit)
     if not sentences:
         print("No hay líneas no vacías que procesar.", file=sys.stderr)
@@ -268,12 +385,13 @@ def transform_batch_to_csv(input_txt: str, out_csv: str, limit: int, model: str,
 
     n = len(sentences)
 
-    # 2) construir instrucción + payload
+    # 2) construir instrucción + payload (pide JSONL)
     instr = (
         "Transforma CADA línea de ENTRADA a LSE escrita (glosa), siguiendo estrictamente las reglas del sistema.\n"
-        f"Devuelve TODO en **UNA ÚNICA LÍNEA**, con EXACTAMENTE {n} glosas separadas por '. ' y terminando con '.'.\n"
-        "Sin comillas, sin numeración, sin texto extra.\n"
-        "Ejemplo de formato de salida: GLOSA1. GLOSA2. GLOSA3.\n"
+        f"Devuelve la salida en formato JSON Lines (JSONL), con EXACTAMENTE {n} objetos, uno por oración.\n"
+        "Cada objeto debe tener las claves: "
+        'target_lse, mod, neg, time, ccl, subj, cct_text, ccl_text.\n'
+        "No imprimas nada fuera del JSONL. Sin comentarios, sin explicación extra.\n"
         "ENTRADA:\n"
     )
     payload = instr + "\n".join(sentences)
@@ -283,24 +401,44 @@ def transform_batch_to_csv(input_txt: str, out_csv: str, limit: int, model: str,
     cfg = make_config(model, max_tokens)
 
     resp = client.models.generate_content(model=model, contents=payload, config=cfg)
-    out_line = extract_text(resp)
-    if not out_line:
+    raw = extract_text(resp)
+    if not raw:
         fr = first_finish_reason(resp) or "N/A"
         raise RuntimeError(f"Respuesta vacía del modelo (finish_reason={fr}). "
                            f"Prueba reduciendo --limit o subiendo --max-tokens si tu plan lo permite.")
 
-    # 4) parsear a lista de glosas
-    glosas = split_glosas_dot_line(out_line, expected=n)
-
-    if len(glosas) != n:
+    # 4) parsear JSONL
+    objs = parse_jsonl_blocks(raw)
+    if len(objs) != n:
         fr = first_finish_reason(resp) or "N/A"
-        # No tocar ficheros si no coincidimos
-        raise RuntimeError(f"Conteo de glosas={len(glosas)} != líneas entrada={n} (finish_reason={fr}). "
-                           f"Posibles causas: límite de tokens, el modelo añadió texto extra o faltan puntos. "
-                           f"Salida recibida:\n{out_line}")
+        raise RuntimeError(
+            f"Conteo de objetos JSONL={len(objs)} != líneas entrada={n} (finish_reason={fr}).\n"
+            f"SALIDA:\n{raw[:2000]}"
+        )
 
-    # 5) emparejar y escribir CSV
-    rows = [[src, tgt] for src, tgt in zip(sentences, glosas)]
+    # 5) componer filas CSV
+    rows = []
+    start_id = next_id(out_csv)
+    for i, (src, ob) in enumerate(zip(sentences, objs), start=start_id):
+        target = normalize_gloss_upper(ob.get("target_lse", ""))
+        if not target:
+            raise RuntimeError(f"Objeto sin 'target_lse' en posición {i}.\nObj: {ob}")
+
+        row = [
+            str(i),                     # id
+            src,                        # source_es (crudo)
+            normalize_source(src),      # source_norm
+            target,                     # target_lse (MAYÚSCULAS)
+            coerce_tag(ob, "mod", "DECL"),
+            coerce_tag(ob, "neg", 0),
+            coerce_tag(ob, "time", "PRESENTE"),
+            coerce_tag(ob, "ccl", 0),
+            coerce_tag(ob, "subj", "ELIP"),
+            coerce_tag(ob, "cct_text", ""),
+            coerce_tag(ob, "ccl_text", ""),
+        ]
+        rows.append(row)
+
     append_rows_csv(out_csv, rows)
 
     # 6) borrar del TXT las líneas procesadas (por índice)
@@ -308,14 +446,37 @@ def transform_batch_to_csv(input_txt: str, out_csv: str, limit: int, model: str,
 
     return len(rows)
 
+def next_id(csv_path: str) -> int:
+    """
+    Lee el último id del CSV si existe; devuelve siguiente (1-based).
+    """
+    if not Path(csv_path).exists():
+        return 1
+    last = 0
+    with open(csv_path, "r", encoding="utf-8") as f:
+        r = csv.reader(f)
+        try:
+            headers = next(r)
+        except StopIteration:
+            return 1
+        id_idx = headers.index("id") if "id" in headers else 0
+        for row in r:
+            if not row:
+                continue
+            try:
+                last = max(last, int(row[id_idx]))
+            except Exception:
+                pass
+    return last + 1
+
 # ---- CLI ----
 def main():
-    ap = argparse.ArgumentParser(description="Convierte las primeras N líneas de un TXT a LSE (glosa), guarda CSV y consume el TXT.")
+    ap = argparse.ArgumentParser(description="Convierte las primeras N líneas de un TXT a LSE (glosa) con TAGS, guarda CSV estructurado y consume el TXT.")
     ap.add_argument("--input", required=True, help="Ruta al TXT (una oración por línea). Ej.: entrada1.txt")
     ap.add_argument("--out", required=True, help="CSV de salida. Ej.: dataset.csv")
     ap.add_argument("--limit", type=int, default=20, help="N líneas no vacías a tomar (por defecto 20)")
     ap.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"), help="Modelo Gemini (p. ej. gemini-2.5-flash)")
-    ap.add_argument("--max-tokens", type=int, default=1024, help="max_output_tokens para la salida")
+    ap.add_argument("--max-tokens", type=int, default=2048, help="max_output_tokens para la salida")
     ap.add_argument("--api-key", help="API key si no usas GEMINI_API_KEY / GOOGLE_API_KEY")
     args = ap.parse_args()
 
